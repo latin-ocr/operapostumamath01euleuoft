@@ -1,0 +1,60 @@
+30 L. EULERI OPERA POSTHUMA. mmmm-ca.
+
+s101=s100÷s99—s96-—s9t-2-s89-1-s86-s79-s75
+4-[66-1-[61-ῙδΟ-[ῐιῖι-ι-[Ἡ-ι-[Ἃ-Ἇθ-[Ιε
+-1-217-1-156-252-11111-1-90-1-132-80-1211
+÷11÷t÷62—93—81÷÷32÷60—13—1
+
+ou, additionnant ces nombres deux ἐι deux
+s101= 373 - 396-1- 222 —2014 ÷206 — 177 -ι-92- 111,
+
+ce qui donne s101= 102, d’ou l'on conclurait que 101 est un nombre premier, si on 11016,
+
+savait d'ailleurs.
+
+11. Soit propose le nombre 301 dont on veuille savoir la somme des diviseurs, et l’on aura:
+
+s301=s300 -2—s299 —s296 —s29li —i-s289 -i-s286 —s279 —s275 -s-s266 —i-s261
+—s250 --s2lili -4—s231—1-s2211 -s209 —s201-i-s18li· —i-s175 —s156
+-sitic -1-J'125 ÷s1¹t÷ —s91—s79 -ι-]·5ιι -ι-χιιι -sit-so
+ou il est clair, comment par le moyen des differences, on peut aisement former cette suite pour
+chaque cas propose. Or, substituant les sommes des diviseurs, on trouvera: ’
+f301=÷ 868 - 570 -4-307- 1416-1-1480—1468-1-38'4—2404- 360-392-1-156- 112
+-i— 336 - 6814 -ι- 504 — 372 -ι- 390 - 11311 -ι- 504 — 272 -ι- 248 — 222 -ο- 240 — 80
+-ι- 120 — 24 ⁷
+-4- li2 —- 301
+ou s301= ÷ 1ι939 - 1ι587 = 352:
+d’ol‘l l’on reconnait que 301 n’est pas premier. Or, puisque 301 = 7 . 43, on aura
+s301=s7.st÷3 = 8.lili = 352,
+comme la regle vient de le montrer.
+
+§ 8. Ces exemples que je viens de developper, cteront sans doute tout scrupule qu'on aurait
+pu encore avoir sur la verite de ma formule. Or, on sera d'autant plus surpris de cette belle pro-
+priete‚ qu'on ne voit aucune liaison entre la composition de ma 'formale et la nature des-diviseurs‚
+sur la somme desquels roule la proposition. La progression des nombres 1, 2, 5, 7, 12, etc. parait
+non seulement n'avoir aucun rapport au sujet dont il sagit, mais, comme la loi de ces nombres est
+interrompue et qu'ils sont meles de deux progressioris regulieres differentes, c'est-z'i-dire
+
+de 1, 5, 12, 22, 35, 51, etc. et de 22, 7, 15, 26, 40, 57, etc„
+il semble presque qu’une telle irregularite ne saurait trouver lieu dans l'analyse. De plus, le desaut
+d'une demonstration n'en doit pas peu augmenter l’interet; vu qu’il serait presque moralement
+impossible de parvenit· ἐι la decouverte d'une telle propriete, sans y avoir ete conduit par nne methodo
+certaine‚ qui pourrait tenir lieu d’une parfaite demonstration. J'avoue aussi quece n'a pas ete par un
+simple hasard, que je suis tombe sur cette decouverte: mais une autre proposition d'une pareille
+
+nature qui doit etre jugee vraie, quoique je n'en puisse donner aucune demonstration, m'a ouvertwle
+
+chemin pour parvenir a cette belle propriete. Et bien que cette recherche ne roule que sur lfi‘i
+
+nature des nombres ε’] laquelle l’analyse des inlinis ne parait gnere etre aplicablc, c'est pourtant par
+
+le moyen de differentiatious et de plusieurs autres detours que j’ai ete conduit a cette conclusion.
+
+ἒ
+²2
+ἶ
+l
+
+i
+Ξ
+

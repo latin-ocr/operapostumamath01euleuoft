@@ -1,0 +1,101 @@
+62 L. EULERI OPERA POSTHUMA.
+
+Arithmetica.
+
+1189. Si post unitatem a sit minimus numerusscujus potestas am, per mn—1-1 div‘isa, unitatem
+
+relinquat, cujusmodi numerus semper datur et quidem unicus; tum si potestas {1¹¹¹ relinquat α,
+
+οιιιιιίιιιιι horum numerorum b, ab, a²b, «1³0. . ,am-¹1), quorum multitudo est =m‚ potestates expo-
+
+nentis m idem residuum α relinquent.
+
+1190. Si m=2, minima potestas αἳ, quae per numerum primum 2n÷1 divisa, relinquit '
+
+unitatem, est ut sequitur
+
+2η -1- 1 n
+3 1 2²
+5 2 115
+7 3 6²
+11 5 10²
+
+et ita porro; hoc ergo casu semper est a=2n.
+
+1191. Si m= 3, potestates α5, quae per 3n-1-1 divisae, unitatem relinquunt, sunt
+
+3n -1- 1 n potestates · 3n -1- 1 η
+
+7 2 1³, 2³, 4⁸ 61 2ο
+13 a ιῆ 3ἢ 9³ 67) 22
+19 6 ιῆ 7ἢ 11· 73 21
+31 10 . 1& 5& 25³ 79 26
+37 12 ιξ ιοῆ 26ὅ 97 32
+13 th 12 6ἢ 36· 103 31
+
+1192. Sit m= 11 et potestates α’, quae per tna-1 (11νί636, relinquunt unitatem, sunt
+
+'ma—1 n potestates tna—1 n
+5 1 1⁴, 2⁴, 115, 35 53 13
+13 3 ’ 15, 5⁴, 12⁴, 8⁴ 61 15
+17 t 1⁴, 4⁴, 16·, 13· 73 18
+29 7 1⁴, 12⁴, 28⁴, 17⁴ 89 22
+37 9 15, 6⁴, 36⁴, 31⁴ 97 211·
+Μ , 10 15, 9⁴, 1⁸0⁴, 32⁴ 101 25
+
+1193. Si m==5‚ potestates α’, quae per 5n÷t divisae, relinquunt 1, sunt, ut ante jam vidimus,
+
+5n÷1 n „ potestates
+1 1 2 15, 3³, 95, 5⁵, 10⁸
+31 , · 6 ᾖ 15, 25, 115, 85, 165
+111 8 15, 105, 185, 165, 3⁷⁸
+61 12 15, 95, 205, 585, 3115
+’11 sse 15, 5⁵, 255, 5115, 575
+
+1³,
+
+potestates
+
+13³, 1175
+
+ιῆ 29ἢ v37⁸
+
+8³, 6115
+
+1⁸, 23³, 55δ
+1⁸, 35⁸, 61⁸
+1³, 16³, 56⁸.
+
+1⁴,
+¹4
+μζ
+ικ
+1η
+12 102 1002 91·
+
+101 20 12 362 812 952 87&
+
+potestates
+23⁴, 52⁴, 30⁴
+
+112 6⁰2 59· ’
+
+1
+
+ἑ
+
+.¹
+
+J.
+
+·
+
+27·,4 72⁴, 16·
+31ξ 882 53·
+22η 96ξ 73·
+
+1
+ι
+
+ 
+
