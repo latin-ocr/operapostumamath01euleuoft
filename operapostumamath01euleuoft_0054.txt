@@ -1,0 +1,61 @@
+36 L. E U L E Rl OPERA POSTHUMA. Arz'tlemeteea.
+
+289. Cum igitur omnia residua, ex divisione quadratorum 1, li, 9.. .p² per numerum primum
+
+d=2p÷1 orta, sint inaequalia, ea ita repraesentemus:
+
+radices 1 2 3 l* 5 6 ...... ρ
+quadrata 1 [ι 9 16 25 36 ...... 1³²
+residua l α β γ δ ε ...... π
+
+et multitudo horum residuorum erit = p.
+
+290. Cum jam multitudo omnium numerorum ipso divisore 2p÷1 minorum, qui simul ad
+eum sunt primi, sit :2p, patet horum numerorum semissem ex ordine residuorum excludi, quos ideo
+
+non-residua appellemus. Erit ergo multitudo non-residuorum pariter ΞΡ, quae litteris germanicis-
+
+Ἡ, 523, G, SD, etc.v indicemus.
+
+291. Si ergo pro quovis divisore primo 2p÷1 haec non-residua invenerimus, affirmare
+poterimus, nullum dari numerum quadratum σθω, ita ut oeoe— 2( esset per 2p÷1 divisibile, deno· ι
+tante 2s non-residuum quodcunque. Ac tales formulae msc—2( per 2ρ-ι-1 individuae tot semper
+
+exhiberi possunt, quot p continet unitates.
+
+292. Pro quovis ergo divisore primo 2ρ-ι-1 numeri ipso minores distinguuntur in duas classes,
+quarum altera residua, altera vero non-residua complectitur, et utraque totidem continet numeros,
+ita ut quasi cuivis residuo suum respondeat non-residuum. Indolem ergo harum duarum classium ,
+
+accuratius scrutari conveniet.
+
+293. Si in ordine residuorum occurrant duo numeri m et n, in eodem quoque occurret eorum .
+productum mn, seu residuum ei aequivalens. Oriatnr enim residuum m ex quadrato α’ et' n ex (τ’,
+
+atque ex producto a2b2, quod pariter est quadratum, orietur residuumrmn.
+
+2914. Si ergo inter residua sit numerus quicunque m, ibidem quoque reperientur omnes ejus
+potestates m2, ηαδ, m‘, etc.‚ vel residua iis aequivalentia. Tum vero si praeterea adsit‘numerus n, '
+
+in eodem residuorum ordine quoque aderunt numeri mn, m2n, mn² et in genere m“n²'.
+
+295. Ordo ergo residuorum 1, a, β, γ. . . .π, pro quovis divisore primo 2p÷ 1, hanc in-
+signem habet proprietatem, ut in eodem quoque producta ex binis pluribusve terminis quibuscunque
+
+occurrant, siquidem secundum indolem residuorum ad minimos valores‘revocentur.
+
+296. Hoc eo magis est notatu dignum, quod ordo residuorum determinato terminorum numero
+constat, quorum scilicet numerus tantum sit =p‚ exclusis totidem numeris non-residuis. Hoc tamen'
+non obstante, quomodocunque residua per multiplicationem inter se combinentur, tamen perpetuo
+
+numeri in eodem ordine jam contenti occurrunt.
+
+297. Sit m numerus quicunque in ordine residuorum occurrens, divisore primo existente 21)-1-1,
+ac supra‘ vidimus, si termini progressionis geometricae 1, m, m²‚ m⁸, ηιξ etc. per 2p÷1 dividantur,
+inter residua quoque omnia producta ex binis contineri3 sicque in residuis harum potestatum nulli
+
+occurrent numeri, qui non simul in residuis quadratorum reperiantur.
+
+298. Cum igitur multitudo residuorum, ex potestatibus oriundorum, superare nequeat multitudinem
+ex quadratis ortorum, quae est ε ρ, manifestum est vel potestatem mp, vel adhuc inferiorem residuum
+

@@ -1,0 +1,68 @@
+310 L. EULERI OPERA POSTHUMA. , Αηαιψιῑς.
+
+Conclus'mn. , ,
+Ainsi on peut conclure que, si le nombre des billets est n, dont on tire deux, ἐι chaque re·-
+
+prise‚ le nombre des tirages etantp-u- 1, on aura:
+
+ 
+
+ 
+
+ 
+
+pour le nombre des billets non-sortants la probabilite
+, '² - ² · προιΔ- ιγ’
+'² ““ 3 :gg Ξ ῗζρ
+n-l* c(n-2)(n-3)
+ηΡ (n - 1)Ρ
+n—5 D(n—2)(n—3)(n—4)
+⁷ nP (n — 1)Ρ
+
+etc. etc.
+et les coefficients A, B, C, D, etc. seront donnes par l’equation .
+A—s- Bm÷Cm (m—1)—{—Dm(m-1)m-2)-÷-...m(m·-1)(m—2)...(m—2p-1) = (m²÷3m÷2)‘' ¹
+qui est independante de m =n— 2.
+Ainsi en tirant quatre fois par deux, on trouve
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pour le nombre des billets non-sortants , la probabilite > 3
+η - 2 ‘ n³<n8— υἷ’
+n-³ 3232’252
+n—lv emm—enula) ἐξ
+η3 (η - 1)³ , ς
+n - 5 576 (32- Ξ) (η -1333 (n - 4) j
+η n -·
+ἰ’-ὃ 188(η-2)(η(-3)(η-4)(η-5) i
+²2³ (n — 1)³ 1
+n—7 24(ri-2)(n—3)(n-4)(n-5)(n-6)
+⁷0³ (n —- 1)⁸ ·
+n.- s Q
+πθ (η - 1)3
+Si on a n hinem, dont on tire trois ἐι chaque reprise ‚ en tirant deux fois de suite , on aura
+pour le nombre des billets non-sonants la probabilite
+1 .2.3
+ἰ’-3 n(n-—1)(n-2)
+n—14 2.3.3.(n-3)
+n (n — 1) (n — 2)
+'²- 5 ⁹ ·.f'<'„‘..³}>⁰<‘„‘-⁴{›
+n — 6 Q
+
+n (n - 1) (n— 2)
+En considerant les numen-neum, leur somme 6 -ι- 18m -ιο 9m (m — 1) -ι- m (m — ἰ) (m — 2) se Ρῐό·
+sentera sous la forme (m -ι- 1) (m ἐι- 2) (m —-t- 3) ,‡ ici m == n — 3 et par consequent, l'equation iden-
+
+tique, qui sert ia determiner les coesficients 6, 18 et 9 sera
+A-s-Bm-s- Cm (m— ¹) ÷m(m— 1)(m—2)= (m-s- 1) (m—1-2) (ma-3).
+

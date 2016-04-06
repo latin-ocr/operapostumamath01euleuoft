@@ -1,0 +1,84 @@
+354 L. EULERI OPERA ΡοεΤ-ΗΠΜΑ. myses.
+
+ 
+
+ 
+
+AT=⁹d⁵³Jyoed⁹2 erit Αδεναωα-τωαυεγ-ῗ. ¹
+Vel ducta ΜΩ axi ΑΡ parallela, ob AQ=PM=J‚ erit (25:3⁹. Hinc invento puncto S, linea
+
+recta per ambo puncta M et S ducta curvam in M tanget.
+
+10. Cognita tangente ad curvam, facile linea reeta duci poterit⁷ quae cum curva angulum
+quemcunque constituam quaevis enim reeta ad lineam curvam in dato puncto aeque ‘inclinata cene*
+setur, atque ad tangentem in eo puncto. Sic si per punctum M linea recta duci debeat, quae sit
+ad curvam normalis, totum negotium absolvetur, si ad tangentem MT in puncto M normalis
+educatur MN. Hujusmodi recta MN, quae in geometria sublimiori frequentissime occurrit, normalis
+
+appellari solet, et portio axis ΡΝ, inter applicatam et occursum normalis cum axe intercepta, „sub- ι
+
+normalis vocatur. Cum jam triangula an, MNP sint pariter similia, erit
+
+dcc: dy· = PM: ΡΝ ideoque ΡΝΞΫΞΞ·
+
+Facile ergo per differentiationem invenitur subnormalis ΡΝ, hincque recta per puncta M et N ducta
+erit normalis ad curvam in puncto M, quoniam ad tangentem estperpendicularis.
+
+11. Ponamus ad curvam in puncto M duci debere rectam Mo, quae cum curva angulum “
+
+quemcunque datum OM T constituat. Sit iste angulus TMO= φ, et ponatur angulus ΤΜΡ-εω,
+
+flag-dy& et ⁶⁰⁸oe=vffaeffiyssst
+
+erit in triangulo PM Ο angulus PM O φ - ω, atque cos (φ - ω) εγ = si'n (φ -— co) : Po, unde fit
+
+ita ut sit sin ω =
+
+ 
+
+υηϋεεφ- tangm)
+1—i-tangcp. tango
+
+ΡΟΞ ytang (φ - ⁶0)=
+dx
+
+At est tang ω-- - (ἦ,
+
+ 
+
+y(dytang‹p- dx), Seu PO=9 y(i11dys φ- ἀωοοεφ)
+
+ergo Po: dy-i-daetangq) ἀῃοοεφ-ι-ἀωείηφ
+
+Hinc sequitur si angulus 0MT=q> debeat esse rectuS, ob sin90=1 et cos90= --,Ο fore P0= ΡΝ :ss
+1
+
+Sin autem angulus φ debeat esse nullus, seu Mo in ipsam tangentem incidere, oh sinq>=0 et cos90=
+-ydx
+
+erit ΡΟ == — -ἀῐ =.—- — PT, uti pro tangente invenimus.
+
+12. Hoc modo non solum tangentes et aliae lineae rectae ad curvam utcunque inclinatae duci
+
+possunt, si applicata suerit functio uniformis ipsius abscissae, sed etiam quotcunque curvae puncta
+
+eidem abscissae puncto P respondeant, ad quodvis punctum duci poterit tangens. Si enim applicata
+
+a* y· tres habeat valores, puta PM, PM' et — ΡΜ '' (Fig. 5), ex aequationis resolutione non ,solum
+
+singuli cognoscentur, sed etiam cujusque dIfferentiale dy. Habebuntur ergo tam pro γ quam pro
+yaoe
+
+dy tres valor,es qui in formula -ὰῖ substituti dabunt subtangentem pro quovis puncto. Vel si sit
+
+dy=pdae‚ existente p functione rationali ipsarum ω et γ, formula⁹ ἶ, si ponatur y=PM, dabit
+
+subtangentem pro puncto Μ· sin autem pro y· substituatur vel valor PM' vel ΡΜ” ‚prodibit sub-
+tangens vel pro puncto M, vel pro puncto M‘'.
+
+13. Regulam pro inveniendis tangentibus, si natura curvae exprimatur aequatione inter coordi-
+natas orthogonales, aliquot exemplis illustrasse juvabit: ⁸
+a, Exemplum 1. Sic zjqae‘tur curva AM (Fig. 6) parabola Appolloniana, cujus natm inter
+
+coordinatus AP = x et PM = y hac aequatione yy = 2ax exprnnitur.
+

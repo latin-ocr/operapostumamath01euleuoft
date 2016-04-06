@@ -1,0 +1,81 @@
+ 
+
+Problema Dszhanteum. 1 13
+
+Seconde me'ehode.
+
+23. La solution de notre probleme 3 ete reduite 3 cette equation carree
+Fff÷ 699 -ι- 2er = 0, ou
+C = — (be -ι- ad) (ac — 21)(1),
+F = (bb — aa) cc -t- (aa — libb) dd — 2abcd,
+G = (aa - abb) cc -ι- (abb — hoa) dd -ι- habe-d,
+
+ 
+
+et enfin ἐι 13 formule ξ = —CssVffiC-FG), dans laquelle CC——- FG doit etre un carre. Suppo-
+sons donc CC —FG= W, de sorte que ξ = ’‘2ss V· Substituant dans l'expression CC —FG
+
+ 
+
+les valeurs de C, F et G, nous auroris
+V V = (aa — 2bb)²c⁴-÷- &aa -21210 abc⁸d — 1( (αα - 2bb)² cedd — 16 (αα -— 2bb) abcd‘
+-ι- 1( (αα - 2bb)²d·,
+expression qui, etant divisee par (aa — 2bb)² et abregee par la substitution de m au lieu de
+
+ab
+ana—2⁶⁶
+
+ 
+
+ι deviendra assez simple, savoir:
+
+W
+
+(muz-mm)² Ξ ⁰⁴ 4- 8m⁶⁸d — licead -- lssmcd³÷ lvd&
+
+ 
+
+24. Maintenant, eomme 'cette formule doit etre un carre, supposons sa racine egale ἐι
+
+ 
+
+ 
+
+ 
+
+‹za—Vm = ee — hmcd -ι- edd,
+et de 15, en les comparant, on trouvera 'l’egalite suivante: 2mc—d-—2mmd=0 et, par consequent,
+÷=2mgn÷¹· Ainsi, soit e= 2mm÷1 et a: 2m, notre formule deviendra
+‹za-{⁷2⁶⁶ =(2mm-i-1)²— 8mm (2mm÷ 1) -i-8mm = lvmm-i- 1 - ¹2m⁴.
+
+25. A present il ne s'agira plus que de prendre pour a et b des nombres ἐι volente, et
+
+l'on aura m :ms-⁶2&
+
+aura -s- = ’σέγε On voit par 13 que les lettres Γ et 9 peuvent etre determinees de deux
+
+F
+maniel'es dans ehaque eas. Or, ayant trouve ees lettres, on pourra determinet aisement tant les
+
+ 
+
+3 si l'on substitue les valeurs de'jii trouvees dans celles de C, F, V, on
+
+ 
+
+valeurs de ω, γ, z, que celles de p, q, r. Le cas le plus simple se prevoit, et se rapporte ἐι la
+supposition'de τιεί et b=13 alors m=—1, e=3, elz—2 et F=0; mais ee cas est
+precisement celui de 13 premiere methode. Volci d'autres exemples:
+
+’· Exemplo 1. Soit a=2 et b=1, alors m= 1, v‹2:3, ‹1:2, 1⁰:28, 9:51 et enfin
+
+ωε Ῐι82, p= 382,
+y'=-538‚ ’ q= 178,
+z = 298, τιή-658.
+EaeemPle 2. Soit a=3 et b=2, alors m=6‚ c=73, 01:12, f=—7, 9:17 et enfin
+ae=5309, p=1871,
+y=3769, ’ q=5609,
+z=t18¹, νειθθι. ζ
+
+ι. tui-21 op. mum τ. ι. 15
+

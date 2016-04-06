@@ -1,0 +1,60 @@
+582 L. EULERI OPERA POSTHUMA. Varia.
+
+Dans le tome XV⁰ de nos commentaires, nouvellement imprime, se trouve. parmi d'autres pieces (13
+
+M. Euler 13 solution qu’il, a (10333 (13 33 probleme curieux: trouver deux nombres ω 31 y tels que
+· ως] ss (oe-1-y)== [1 et ,τῃ ss ((13-ως·- m il a aussi insere dans 13 meme tome une dissertation que j'avais
+donnee sur les caracteres d'integrabilite, dont le principa} objet est (13 demontrer 13 beau 1113013313 (13 Mr.
+
+Euler. Quoique la demonstration que sen ai (103333, 1113 sembloit fort exacte, lorsque j’etais occupe 3 ecrire
+
+cette 111333, j'ai pourtant reconnu qu’elle n'est pas tout 3 fait concluante3 c’est pourquoi je lui en ai substitue
+
+une autre, dans un memoire qui sera imprime comme une suite du precedent dans 13 tome XVI. Ayant appris
+
+que Mr. de Condorcet a dcja trane 13 meme sujet, je dois craindre que mespetites recherches n'en
+
+⁸ deviennent tout 3 fait superfluos. Je seraisfort curieux de savoir, de quelle 13331313 Μ. (13 Condorcet 3
+demontre ce 1113013313, 3’11 3 employe les principes du calcul des variationis, comme l’avait fait Μ. Euler, ou
+
+s'il 3 (13(1311 les demonstratione des principes du 331331 differentiel. ⁴
+
+Jc souhaiterais aussi d'apprendre s'il a considere les caracteres d'integrabilite pour-les formules integrales
+doubles ou triples telles que ffldae dg] ou ffidoedy dz. Si vous vouliez bien, Monsieur„ me faire 13 grace (13
+m’ en instruire‚ comme aussi de me faire connaitre votre sentiment sur les petites productions dont je viena
+de parler, je 13 regarderai comme un honneur des plus singuliers qui me soient arrives de 1113 vie.
+
+Quoique 13 sante (13 Mr. Euler se retablisse (13 jour en jour, 11 3’3 pas encore pu avoir 1110333111· 30
+vous ecrire3 il m’a 1330133133ᾶρ seulement de vous temoigner qu 'il est 3311331331331 sensible aux sentimens
+(13311113 31 (Γ affection que vous venez‚ Monsieur, de lui temoigner dans votre (1311113ῐῖ3 lettre.
+
+Je finis en ,vous assurant des sentimens de respect et d'attachement‚ avec lesquelsj'ai· l’houneur d’etreffiw
+
+Monsieur
+, votre tres humble et tres 0113133331 servitem·
+
+(St. Pctersbourg, ce 5 mars 1772. Ἴ ³· Ι Α. J. Lexell.
+P. s · . „ ’ . - ’
+Voici encore un probleme analytique‚ fort curieux‚ de Μ.Ε11131·,(1311 a trouve en traitant' (133 corps
+solides dont les surfaces peuvent 3113 deploycs sur des 111333.Δ ’
+
+«Trouver six quantites- l, m, n, λ, μ, ν 131133 que les formules ‚ , ἰ , Δ , ,. »- ii
+
+ldoe÷my‚ (ηάω-ι-μᾱῃ, ndoe—i-vdy ⁴ ι “ 32 ³ γ. :mmai
+
+“soient integrables et qu'on ait Η
+'› &2¹21st ’ἷῖ
+
+11-1-333-1-3321,,λ.λ-ι-μμ-(-ννε1,Ιλ--ι-(ψη-33330.»Δ ,. ι, .
+
+J'en 31 trouve cette solution sur une surface spherique, soitydecritetFig. 814) une, ligne courbe quelconque
+ΜΟ, 3011 POQ un grand cerole qui touche MO-en Ο, saisons ΡΟ = Mo etPO ss Q0‘= 90⁰. Soient de plus .-
+trois points A, Β, C, tellement 3111133 que les are· AB, AC, BC soient· egaux chacun 3 90ος joignona
+ΑΡ, ΒΡ, CP; AQ, BQ, CQ. A present nommant ω 1”31·3 Ma soit ε 'une quantit& variable independante de ὼ,
+11 faudra faire
+
+m=³5om -1- s. 313ω 'et y Ζιφὰ) -ι- s cosm
+
+φω et ψω sont des fonctions quelconques de Ὶω, 31 les quantites λ, μ, ν seront egalcs aux cosinus des arcc-
+, ΑΡ, ΒΡ, GP. de meme que l, m, n le seront aux cosinus des arcs AQ, BQ, GQ.
+

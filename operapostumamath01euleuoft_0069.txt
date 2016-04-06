@@ -1,0 +1,52 @@
+Tractatus de numerorum doctrina Cap. 11. 51
+
+1105. Quaeri ergo debent numerorum σεδ-,ὲ ay⁸ divisores primi, et pro nostro quidem instituto
+ii tantum, qui simul sunt formae· 611-1-1. Hoc *modo posito a=2‚ binarius inter residua repe-
+rietur, ‘quoties divisor formae 6q÷1 fuerit numerus hujus seriei:
+31, 13, 109, 127, 157, 223, 229277, 263, 307, 397, 433, 439, 457, 499, 601, 643, 691, 727,
+733, 739, 811, 919, 997, 1021, 1051, 1069, 1093, etc.
+
+1106. 81 ergo sit 6n÷1 talis numerus, tam 2 quam 2² erit residuum3 tum 2²⁸—1 per eum
+erit divisibilis, ideoque vel 2”-’1, 761 2”-1- 1. At si 6n÷1 fuerit vel formae 8m-1-1, 761
+8111-1-7, hoc est vel n=lmz, vel n=4m-÷¹‚ tum etiam 2⁸⁰—1 per 6η-1-1 631 111713111116ς
+1111116 patet his casibus, quibus n vel lim, vel lom—i- 1, fore 2⁰—1 per 6n÷1 divisibile3 casibus
+autem, quibus n est 761 amq-2, vel imm—3, non 2¹²-— 1, sed 2”·-1-1 1161 6η-1-1 divisibile erit.
+
+. 1107. 'lta superiores numeros huc transferendo
+
+per divisibile est per divisibile est·
+31 2¹⁰ —1 et 25 - 1 499 » 2¹⁶⁶-1 et 3⁸³ ÷1
+113 214 —- 1 « 2’1 -1-1 601 2²⁰⁰—- 1 (1 2¹⁰⁰—1
+109 . 2³⁶ - 1 « 218-1-1, 6113 2²¹⁴—1 « 2¹⁰⁷-1- 1
+127 2⁴² —— 1 α 2²¹— 1 691 2²⁸⁰—1 11 2¹¹⁵-r- 1
+157 2⁵² —· l α 2²⁶÷ 1 727 2²⁴²—- 1 « 2¹²¹— 1
+223 2τι -1 « 2³⁷—1 733 22⁴⁴—1 « 2¹2²—1
+229 2⁷⁶ — 1 (1 258-1- 1 739 2²⁴⁶- 1 « 2¹²³÷ 1
+277 2⁹² - 1 ι 2*6-ι-1 811 . 2²⁷⁰— 1 « 2¹³⁵÷1
+263 2Μ -1 « 2“-ι-1 919 . 2³⁰⁶-1 « 2¹⁵³—l
+307 2¹⁰²-— 1 α 251-1- 1 997 2⁸³²-— 1 « 2¹⁶⁶—1— 1
+397 2¹⁸²— 1 11 266-1- 1 1021 ’ 2540- 1 (1 2¹⁷⁰÷1
+133 2¹⁴⁴-1 « 2⁷²- 1 1051 2³⁵⁶—1 α 2²⁷⁵÷1
+439, 2¹⁴⁶—1 « 2⁷³—1 Α 1069 ¹ 2⁸⁵⁶-1 « 2¹⁷⁸÷1
+1157 2¹⁵²- 1 (1 2⁷⁶— 1 1093 2³⁶⁴—1 (1 2¹⁸²÷1
+
+1108. Si hos divisores, quibus binarius pro residuo convenit, attentius perpendamus, observa-
+bimus eos omnes resultare ex hac forma 27pp—1-qq, quoties ea fuerit numerus primus3 verum hanc
+
+observationem demonstratione confirmare nondum licet.
+1109. Si eos divisores primos formae 6q÷1 quaeramuS, quibus inter residua 3 conveniat,
+eos reperiemus:
+61, 67, 73, 103, 193, 307, 367, 1139, 577, 1021,· etc.
+qui, si conjecturae locum relinquamus, in forma 3pp—1-‹1q continentur, si fuerit vel 11:912, vel
+p ’ΔΞ q ε 91ι.·
+
+1110. 11 autem divisores primi formae 611-1- 1, qui in residuis cuborum habent 5, reperiuntur
+ex forma :13³ss 53⁸⁸, cujus divisores esse debent 13, 67, 127, 181, 199, 2111, 1187, 739, etc., quos
+in forma 3pp÷qq sub his conditionibus contineri observamus: 1) 31 Ρ--15η, 2) 31 p:- 3m 61
+
+’ν .·q=5n, 3) si pssq=15n et 11) si pss2q==1571=
+
+ 
+
+ἰ
+

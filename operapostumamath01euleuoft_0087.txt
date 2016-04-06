@@ -1,0 +1,55 @@
+ 
+
+Tractatus de numerorum doc-traha Cap. 15. 69
+
+De divisore 3 (2ρ -1-1)=d.
+
+533. Multitudo numerorum hoc divisore minorum et ad eum primorum est = 2.2p= sip,
+inter quos duo ad minimum sunt, quorum quadrata idem residuum relinquunt, scilicet α2 et (d—a)²,
+unde numerus diversorum residuorum major. quam 2p esse nequit.
+
+5314. Praeterea vero cum a per 3 non sit divisibile, vel 2ρ-ι-1-2α, vel 2 (2ρ-ι- 1) -2α
+per 3 erit divisibile, sit quotus -- m, et quadratum numeri 3m÷a idem relinquet residuum, ergo
+vel 2ρ-ι- 1 -α, vel 2 (2ρ-ι- 1) -α, indeque praeterea vel 2 (2p—4- 1) -ι-α, vel 21» -1-1-1- a
+idem quoque residuum relinquet.
+
+535. Hoc modo cum semper quaterna quadrata idem dent residuum, numerus residuorum di-
+versorum erit tantum ΞΡ, ideoque idem ac pro divisore 2ρ-ι- 1. ln residuis autem nequit esse
+ullus numerus formae 3η- 1, cum nullum quadratum, tali numero minutum, per 3, neque ergo
+per 3(2p÷ 1) dividi queat.
+
+. 536. Omnia ergo residua divisoris 3 (2ρ-ι- 1) erunt numeri formae 3n—i- 1, et si residua
+divisoris ²P*.¹‘¹ sint 1, α, β, γ, etc. quodlibet vel ipsum, vel numero 2ρ-ι- 1, vel 2<2ρ-ι- 1)
+auctum, quo prodeat numerus formae 3η-ι- 1, erit residuum divisoris 3 (211 -4- 1).
+
+Pro divisore (2ρ-ι- 1) (211 -1-1) = d.
+
+537. Sint pro divisore 2Ρ-ι-1 residua 1, α, β, γ, ὃ, etc. numero =p, et pro divisore
+2q÷1 residua 1, π, ρ, σ, τ, etc. numero =q‚ ac numeri utrique ordini communes erunt residua
+divisoris d=(2p-·- 1) (eq-ei). ’
+
+538. 'At ad priorem ordinem pertinere censendus est numerus m(2p -ι-- 1) -ι-α, ubi m ita
+potest definiri, ut flat aequalis vel n(2q-1-1)—1-1‚ vel η(2ι]-ι-1)-ι-π, οἱα, sicque ex quovis
+residuo divisoris 21) -ι-1 producuntur q residua divisoris 2q-ff- 1, sicque omnino pq residua diversa
+pro divisore (2ρ -ι- 1) (211 -÷- 1) obtinentur.
+
+539. Sit hujusmodi divisor compositus 5.7=35, et cum sint residua pro divisore 5 haec
+duo 1, li, et pro 7 haec tria 1, 2, ¹¹¹3 ergo pro divisore 35 residua erunt 7η-ι- 1, 7η-ι-2,
+7η-1- lv, quae scilicet vel in forma 5m-i— 1, vel 5m-s-1t continentur. Erunt ergo haec residua
+numero sex: 1, 293 9, 16; lv, 11. · ’
+
+5110. Cum pro divisore (2p-1—1)(12q⁴—=-1) tantum dentur pq residua diversa, quaterna quadrata
+idem praebebunt residuum, quorum unum si sit =aa, reliquorum trium radices erunt:
+
+(2p-4-1)(2q—1-1)—a‚ ηι(2ρ-ι-1)--α, η(2ρ-ι-1)-ι-α,
+sumendis numeris m et n ita, ut m(2p'-1-1)— 2α et n (2ρ-ι- 1) -ι-2α dividi queant per 2q÷ 1,
+quod ob 2p÷1 et 2q÷1 primos inter se, semper fieri potest, ut m et η sint minores quam 211-1-1.
+
+ 
+
+Caput XV.
+De divisoribus numerorum formae oeoe÷yy.
+5141. Hinc primo excludo casus, quibus numeri ω et y· habent communem divisorem3 si enim
+maximus communis divisor esset -τφ et aezpm et γεᾳφ, ut p et q forent primi inter se,
+haberetur oeae-i-yy: (pp-i-qq) φφ, et inventio divisorum reduceretur ad formam pp—i-qq.
+

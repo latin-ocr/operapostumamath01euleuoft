@@ -1,0 +1,62 @@
+ 
+
+ 
+
+Tracmtus de numerorum doctrina Cap. ΙΟ. 35
+
+281. Si enim aae'''— bym sit divisibile per mn÷1‚ tum etiam anoemn—bny'm' erit divisibile.
+At semper divisibilis est haec forma oe'‘''²--y''·¹'‘, ideoque etiam ista anoe''¹'¹-⁴-a'¹y-''¹'¹, quamobrem
+etiam differentia any-''m— bflymn, ac proinde an— bn per numerum primum mn÷1 divisibile erit.
+
+282. Si ergo pro α et b ejusmodi numeri assumantur, ut an-—bn non sit divisibilis per nume-
+rum quempiam primum mn—i-l, tum nulli numeri pro ω et γ assignari poterunt, ut amm—bym
+per eundem numerum primum mn÷1 divisionem admittat, nisi quidem uterque numerus τι· et γ sit
+ejusdem multiplum, statuuntur autem ω et y primi inter se.
+
+283. Sic cum 2²—1 tantum per 3 sit divisibile, fueritque 2m÷1 numerus primus, tum nisi
+
+sit m= 1, nullus numerus in hac forma contentus 2oem— ym per illum numerum primum 2ηι-ι-1
+dividi poterit:
+
+ 
+
+ita posito nullus numerus divisibilis erit per
+m == 2 233² — y² 5
+m = 3 2ae⁸ --· γ’ 7
+m -’-· 5 2:13⁵ -- γ’ 11
+m Ξ 6 2ω6 —- γε 13
+etc. ’
+Caput Χ.
+
+De residuis ex divisione quadratorum per numeros primos ortis.
+
+2811. Quod residuum relinquitur, si quadratum α2 per numerum quemvis cl dividatur, idem
+quoque relinquitur, si haec infinita quadrata (ηάΞ--α)2 per eundem numerum d dividantur.
+
+285. Quare si residua examinare velimus, quae divisione numerorum quadratorum per datum
+numerum d relinquuntur, sufficiet quadrata considerasse, quorum radices sint ipso hoc divisore d
+minores, ‘ideoque haee
+
+’ 1, ιι, 9, 16 ..... (ιι-ιη’, (ιι-ψ, (d- 2)², (d— η’,
+quorum numerus est d -1.
+
+286. At quadrata extrema 1 et (d—1)², et quaevis bina, :ib-extremis aeque remota, paria dant
+
+residua3 unde si d—1 sit numerus par, plura residua diversa resultare nequeunt, quam ξω -1),
+et si ‹1—1 est numerus impar, ob unum in medio positum, quam ἑά.
+
+287. Sit jam d numerus primus, et quia binarii judicium in promtu est, ponatur d==2p÷1,
+
+cum nunc omnia residua ex his quadratis resultent 1, lu», 9,.. .(p—2)², (p—1)², ρ’,
+
+eorum
+numerus major esse nequit quam p, unde manifestum est non omnes numeros ipso d =2p ÷1
+minores, quorum multitudo est 2ρ, inter residua occurrere, sed ad minimum eorum semissem excludi.
+
+288. Primum autem'dico, omnia residua ex bis quadratis 1, lv, 9. . .p² oriunda inter se esse
+inaequalia; si enim duo quadrata ipso ρ’ non majora, puta m² et η’, idem darent residuum, eorum
+differentia m²- 12², ideoque vel m—n‚ vel m÷n per divisorem primum⁴ d=02p÷ 1 esset divisi-
+hilis, quod, cum, ob m <-ἐά et n< ἑ-ά, sit m-4-1z minus quam d, fieri nequit.
+
+ὓ
+

@@ -1,0 +1,44 @@
+282 - L. EULERI orERA POSTHUMA. Analysis.
+
+XII.
+
+1 Problema algebraieum (le inveniendis quatuor numeris, ex «latis
+totidem productis uniuscujusque hortun numerorum in sum-
+
+«mas trium reliquorum.
+
+Si quatuor numeri inveniendi ponantur ο, ω, γ, z, habebuntur sequentes quatuor aequationes:
+v (ω -ι- γ -ι- z) = a
+ω (v -ι- y· -ι- z) = b
+J· (o -i- oe -ι- z) = c ν
+z (v -ι- ar: -ι- y) = d
+Ex his aequationihus per regulas vulgares successive tres incognitae eliminari, et quarta adj resolu-
+tionem aequationis perduci poterit. Verum cum nulla sit ratio, cur unam¹ potius quam aliam quamvis,
+eligamus, quae ultimo determinetur, nuliam earum per aequationem finalem determinari convenit,
+sed ejusmodi introducenda est nova incognita, quae ad singulas aequaliter pertineat, et ex qua in-
+cognitae definiri queant. Sumamus ergo summam numerorum inveniendorum in huuc finem
+
+ο-ἢ-ω-ι-,γ-ι-ζεὲι,
+
+atque hinc aequationes superiores abibunt in has:
+
+o(2t—v)=a=2tv—v², inde v=t—V(tt—a)
+
+ae(2t-oe)=b=2toe-a2² oe=t-V(tt-b)
+y(2t—y)=c=2ty-y2 r=t-V(t²-0)‘
+z(2t—z)=d=2tz—-z² z=t—V(tt-d).
+
+Eousque igitur solutionem jam produximus, ut ex unica quantitate t omnes quatuor numeros quae-
+sitos expedite determinare valeamus, quare tantum superest, ut hanc quantitatem t investigemus ,
+
+quod fiet ex aequatione
+ν -ι- oe -ι- γ -ι- z = 2t
+
+substituendo loco v, ω, γ, z valeres per t modo inventos:
+
+s [κέναι-α) —V(tt—b) -νᾳι-ιὴ-γᾳι-ᾷ) =2t
+
+unde oritur ista aequatio
+
+2t=V(tt—a)÷V(tt—b>÷V(tt—0) *ΥΦ-ἆ),
+

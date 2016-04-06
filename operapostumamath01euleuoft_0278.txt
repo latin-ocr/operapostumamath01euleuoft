@@ -1,0 +1,61 @@
+260 ’ L. EULERI OPERA POSTHUMA. An'thnwtaeba.
+
+ita tamen, ut p eundem valorem retineat. At vero hoc modo quaelibet solutio particularis satis difficilem
+postulat evolutionem; unde praecedens solutio ‘longissime praecellit, cum sumtis numeris c et d pro lubitu,
+
+valores jam evolutos pro litteris p, q, r suppeditet. Hic etiam notasse juvabit infinitis modis fieri posse
+aa'— 2ὁό = 2σο - dd.
+Cum enim fieri debeat αα-ι- dd :mmm-cc), hoc fiet sumendo a=b÷c et (ἰεῦ-ο. Erit ergo
+
+c=a-b et d=2b-a.
+A. m. T. 111. p. 178. 179.
+
+81.
+(meu.)
+
+PnonLEMA de inveniendis quotcunque numeris p, q, r, s, t, etc., quorum quilibet ductus in summam
+reliquorum faciat quadratum, facile tentandosine analysi resolvi potest. Sit enim S summa omnium, et cum
+p (S - p) debeat esse quadratum, ideoque pS=pp—{'—t]‚ evidens est tam p quam S, esse debere summam duo-
+rum quadratorum, ideoque pro S sumi conveniet talem numerum, qui pluribus modis in bina quadrata se
+resolvi patiatur, cujusmodi est 8:130‚· qui in binas partes secari debet, quarum productum sit> quadratum,
+
+quandoquidem si una pars sit p, altera erit S-p, tales resolutiones hoc modo exhibemus:
+
+p 2, 5, 13, 26, 32, 40, 49, 65-
+
+82130, S—l, 128‚125‚ 117‚10h., 98, 90, 81, 65
+
+ubi notandum, valores ipsius p ex utraque columna sumi posse, ex his igitur excerpi oportebit vel ternos nu—
+meros, vel quaternos, vel quinos, vel senes etc., quorum summa faciat 130, ut sequitur: ternio 32, 49, 49.
+
+Sicque quinque habemus numeros 2, 5, 26, 32, 65, quorum quilibet in summam reliquorum ductus, producit
+
+quadratum. Alii quini: 2, 13, 26, 40, 49. Alii numeri idonei pro S assumendi, qui plurimas resolutiones .
+
+admittunt, sunt 2210
+
+p 1,'' 5, 13-..
+
+⁵²²2¹⁰’ s-p 2209, 2205, 2197 . ..
+
+A.m.'1'. 1. ρ.112.(”
+
+ 
+
+CONsmERA'rlo CIRCA QUADRATA MAGmA.
+s
+
+1. Quadrata magica facile eo reduci possunt, ut summae per columnas tam borizontales quam verticales
+evanescant, quod fit admittendo etiam numeros negativos; scilicet si quadratum suerit impar, numeri inscribendi
+erunt 0, ss 1, ss2, ss3, sslv, etc„ sin autem quadratum fuerit par‚=numeri inscribendi erunt ssl, ‡3‚ ἐῢ,
+-4-7, etc. Quodsi enim ad singulos addatur numerus quidam impar, et summae per 2 dividantur, orientur numeri
+
+naturales; ita si ad singulos illos numeros addatur 9, semisses dabunt hos numeros ordine 4, 5, 3,”ῧ,’2,’7, v8, 1.
+
+ll. In omni quadrato magico quaterna loca conneoea voco, quando duo pro lubitu in columna quadam ho-
+rizontali accipiuntur, quorum illud primum, alterum secundum voco, duo reliqua vero in alia columna horizon-
+tali ita accipiuntur, utv primum et tertium, itemque secundum et quartum in ea columna verticuli existant, sive
+ut lineae 1. ..2 et 3 .. . ,4 sint horizontales, rectae vero 1. ...3 et 2... ,4 verticales. Jam sumtis hujusmodi
+
+quaternis locis, si primo inscribatur numerus quicunque -i—a, secundo -a, tertio -α et quarto -ο-α, bo'c
+

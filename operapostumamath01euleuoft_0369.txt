@@ -1,0 +1,49 @@
+Institutionum Calculi? <infirmtiate 'Sestio ΙΙΙ(> Cap. 2. 331
+
+met γρ, Quodsi ergo valeres ipsius y'suerint p, η, r, s, etca„ si in functione Ζ pro γ, ponatur
+*valor p, prodibit incrementum applicatae'm ,similique modo si ‘pro γ successive-ponantur valore's
+⁸ η’, ⁴r, s, etc. quantitas Zdoe³ harum applicatarum differentialia exhibebit. Hinc ergo magis confirmantur
+tat-'illustrantem quae in librosuperiori de emerentianam functionum multiformium sunt tradita.
+
+3¹4. Quoniam ergo pro differentiali ἀγ totidem valeres nanciscimur, quot ipsa applicata ,γ
+diversos sortitur valores, totidem inde quoque resultabunt expressiones pro differentialibus singulo·
+rum curvae· ramorum. Scilicet cum ante invenerimus elementum seu differentiale lineae curvae per
+V(dae'-⁴-dy²) exprimi, si pro dy· substituatur valor mn, tum νωθῆ-ἄγ’) praebebit elementum Mm,
+quod est differentiale arcus EM3 sin autem pro 'dy- substituatur -m‘n', eadem expressio dabit
+'differentiale arcus ΒΨ ; ac si fiat dy=—m''n''‚ tum νωθῆ-ἄγ’) exhibebit· differentiale arcus ΕΜ”.
+Simili ergo modo quotcunque linea curva habuerit ramos, eidem abscissae respondentes, hinc singulos
+istos ramos seorsim dimetiri licebit3 ¹quod argumentum fusius pertractabitur, ubi de dimensione
+linearum curvarum sermo instituetur⁶ ’ ·
+
+· ’35. Quae haetenus explicavimus ad eos tantum casus, quibus natura curvae aequatione inter
+binas coordinatas orthogonales exprimitur, pertinent. Interim tamen ex his quoque facile perspicitur,
+quemadmodum, si coordinatae non fuerint normales inter se, sed ad datum quemvis angulum incli-
+- natae, differentialia ad figuras transferri debeant. Quin etiam, si natura curvae alio quocunque
+modo exprimatur, applicatio calculi ad figuram nullam fere habebit difficultatem3 atque> si ulla
+supersit, ea in sequenti tractatione prorsus tolletur. Ceterum in hujusmodi investigationibus omnis
+vis ineo est posita, quod differentiale ipsius lineae curvae tanquam lineola recta spectari possit}
+idem· enim modus, 'quo boe pro coordinatis orthogonalibus est ostensum, aeque ad omnes alios modos
+naturam curvarum exprimendi patet. · Ι
+
+σο-
+
+Caput 11.
+
+De tangentibus linearum curvarum.
+
+1. ln capite praecedente vidimus particulas infinite parvas cujusvis lineae curvae tanquam
+lineolas rectas spectari posse. Hancobrem omnis linea curva instar figurae rectilineae, cujus latera
+sint infinite parva, *considerari poterin definitio autem . nostra infinite parvorum, qua ea prorsus
+evanescentia nihiloque aequalia statuimus, omnae difficultateS, quae vulgo contra hanc propositionem
+allegari solent, penitus tollit. Quando enim dicimus lineam curvam per multisectionem in infinitum
+repetitam in particulas rectas secari, nibil aliud affirmamus, nisi hoc sectionis modo nunquam prorsus
+
+-’ ad particulas, quae sint lineolae rectae, perveniri; sicque ab iis non dissentimus, qui negant ullas
+
+&aarum curvarum particulas, quantumvis sint exiguae, unquam recte pro lineolis rectis haberi.
+Quamprimum autem particulae infinite parvae considerantur, eae a particulis infinite parvis lineae
+rectae omnino discrepare non possunt.
+
+- 2. Quo haec clarius intelligantur, primo quidem nullum est dubium, quin omnes- partes lineae
+rectae, ,quantumvis sint parvae, “ sint pariter lineolae rectae. Quocirca quando dicimus particulas
+

@@ -1,0 +1,56 @@
+572 L. EULERI OPERA POSTHUMA. ‚ Varia.
+
+J'ai aussi fort admire votre methode d'employer les nombres irrationnels et meme les imaginaires dans
+cette espece d'Analyse attacbee uniquement aux nombres rationnels. ll y a deja quelques annees que j'ai eu
+des {dees semblable& mais je u'ai encore rien donne lai-densus ni dans nos Commentaires‚ ni dans les Memoires
+de Berlin; cependant J’ai publie ici une algebre complete en langue russe, j'y ai developpe cette matiere fort
+
+au long et j’ai fait voir que pour resoudre l’equation L
+0000 -ι- ”vy = (pp -ι- nqffl,
+
+on n'a qu'a resoudre celle-ci
+
+oe÷yV—n = (p—1—*qV-nfl,
+
+Cet ouvrage s'imprime actuellement aussi en allemand, en deus volumes in 8⁰, et quand je vous expe-
+dierai le 111 volume du calcu! integral j'y ajouterai un exemplaire de cette algebre‚ soit en Busae, soit-*en
+Allemand. st
+
+Mais je n y ai pas pousse mes recherches au dela des racines quarrees et l'application aux racines cubiques
+
+et ulterieures vous a ete reservee uniquement. C est de la que jai tire cette formula tres remarquable
+:15³ -ι- ny³ -ι- nnz³ - 3noeyz
+
+dont les trois facteurs sont
+x-ff-ylssln-fl-'zf'lnffi
+
+d’ou l'on voit qu'on peut toujours aisement determinet* les lettres ω. y. z. pour que cette ¹formule devienne ιιιι
+quar-re, ou un cube‚ ou un quarte-quarre‚ au quelque puissance plus haute. Au reste pour juger si* l'dquffliqq
+A= —pp ss qu est possible ou non, J’ai trouve cette regle pour les cas ou A est un nombre premier.
+
+Otez du nombre A un multiple quelconque de 4Β. et tontes les fois que le reste est un nombre premier
+«ια, l’equation proposee sera possible si celle· -ci a— — -pp ss qu l'est3 de plus, si le reste A — tnB devient ιιιιΙ
+-nombre abb tel, que a soit ιιιι nombre premier, ou meme Punite, alors la possibilite ou limpossibilite de
+ul'equation a z pp — qu declare la nature de l'equation proposeea· ’
+
+Ainsi ayant jl'equation 109¹: pp -- 7.qq, puisque 109 ——- 4.7 = 81 οιὶ ιιι- 1 b πθ, je l'ormeuoette·
+equation 1— - pp — 7. qq, qui etant possible, prouve 'la possibilite de la·⁴ proposee 3. et dans l'gexomple rapport&
+ci- —‚dessus 101 -- -pp -— 1399, puisque 101 - 4.13--- 49 et partant a = 1, le jugement se reduit a ceste equae·
+tion 1=pp - 1399, qui est possible sans doute; mais Je dois avouer‚ ὲ ma confusion, que je- ne aem-ais
+demontrer cette regle; et quand meme on en trouverait une demonstration, cela ne servirait en rien A 18- solu
+tion actuelle de 1 equation A- — pp — qu.
+
+J’ attend avec la plus grande impatience le IVe volume des Memoires de Turin, que vous aurez la boote,
+Monsieur‚ de menvoyer‚ ne pouvant douter quil ne soit rempli de vos tres excellentes recherches; je vous en
+presente d'avance mes remereiments les plus empresses ayant lhonneur d'etre avec la plus parfaite oonsi-
+deration‚
+
+Monsieun'
+Votre tres humble servitani* ¹
+
+ὲ St. Petersbourg, ce 16 (27) janvier 17⁷0. L Emer·
+
+1
+Voici‚ Monsieur‚ et tres bonore Confrere, un theoreme de la plus grande importance et un probleme tren 1
+difficile ὲ resoudre. ⁶ 1
+

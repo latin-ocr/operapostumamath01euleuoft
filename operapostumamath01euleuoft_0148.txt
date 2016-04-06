@@ -1,0 +1,54 @@
+130 L. EULERI OPERA POSTHUMA. Amthnaetzba.
+
+Α capi summam duorum quadratorum, ac tum semper pro q infinitos valores assignare licebit, ut
+qq÷1 divisionem per A admittat, veluti ex sequentihus exemplis patebit:
+
+1) Sit A=1 et q: ιι, erunt tres numeri quaesiti A: 1, B=ua÷2a÷2 ‘et C= ιιιι-ι-ί.
+’ 2) Sit A = 2, sumique oportet q = 2u —— 1, unde prodeunt numeri quaesiti:
+A=2, B—-2aa-1-2a-1-1‚ 0--2ιιιι-2α-ι-1.
+3) Sit A = 5, sumique oportet q = Sa ὲ.- 2, unde duae resultant solutiones
+A: 5‚³ B= 5aa-1-1Jm-n- ¹0, C= 5au÷hu÷1
+A=5, B=5uu÷ 6a÷ 2, ⁴C= 5ua—1m-1-13
+sicque binis A et C duplex valor ipsius B respondet, scilicet
+’ A=5, C=5aa÷ta÷1, B=5aa÷11m÷10
+r vel B=5uu- Ga—i- 2.
+
+lv) Sit A = ff—i—yy et k minimus numerus, cujus quadratum unitate auctum per A sit divisibile,
+
+ut sit ffi-zh, Jam ponatur q== (θ’-4- 99) ιι-ι- k, eruntque tres numeri quaesiti
+
+A=ff—i-99, C= (ΙῙ-ι-99)ιιιι-ι-21ειι-ι-Ῑι et B=(ff-⁴499)ua÷2(ff÷99÷lc)a÷ff÷99÷2k÷h,
+
+ubi observo, si ambo numeri k et u capianturnegative, ut valor ipsius C maneat idem, tum pro B
+alium insuper prodire valorem
+
+B=(ff-i—99) ua—2(ff-=—99—k)a÷ff÷99—2k÷lz.
+
+9. Alio autem modo prorsus singulari solutiones in integris facile inveniri possunt, qui
+
+ita procedit: Capiantur binae fractiones ξ et ἑ tam parum a se invicem discrepantes, ut sit
+ad—bczss 13 inde formetur tertia ἓξὲξ quae ad utramque priorum simili modo erit comparata.
+
+Quo facto tres numeri quaesiti ita se habebunt:
+A=aa-i-bb, ΒΞοο-ι-άά, C='(c‡a)²÷ (dssb)²‚
+namque ob ad —5- bc ..τ ss 1, erit AB = (ac -i-bd)²÷ 1,
+AC=(acssaa÷bdssbb)²—⁴—l,
+BC == (cc 2⁴: ac -i- dol-J: bd)²—=- 1.
+
+10. Hinc simpliciores solutiones obtinentur sequentes:
+
+ 
+
+    
+
+[ξ’ -Σ-’ ἶῖἶῖι
+
+{2² ΞΓ, ’,ἐ-ἶ ΙῙ-ι- 21”-ι- 2
+ξ’ [3³⁹ J-{T 2ff—1- 21⁶4· 1
+ξ’ ξῙ-ΓΪΓ ῖζ-Ξζ 5ΙῙ-ι- (if-i- 2
+{a ῇῘ-ϋ ᾆξ’-Ξ), 51Ῑ-11ιΐ-4-10
+'fif' ‘3741 ἷξὲἑ loff-ff-ttf-n— 5
+{⁹ ᾔΐῆ ᾗζὲἑ lOff— 2610-1-17
+
+unde 'patet has solutiones convenire cum praecedentibus ’
+

@@ -1,0 +1,66 @@
+190 L. EULERJ OPERA ἱ PosTflnMA.. Amamagca.
+
+11. Si p, q, r, s, ete. fuerint primi inter se diversi, fueritque a=b⁹·-² etit (aP—a)::pq. Porro ai
+assh⁴⁹··¹‘(r-¹) erit (aP—a)==pqr et ita porro. .
+
+ΠΙ. - Si fuerit tam (xm-ym):=P‘quam (oe'‘-—y'⁸)::P‚ sitque .m>n' erit quoque (ff¹“”—ym‘⁰){:P‚ ubi
+quidem x et y sint numeri inter se primi. V ² ·
+
+Damasum-10. Posterior formula ducta in {cm-'¹ a priore subtrahamur, erit residuum
+
+ὁ ωη-Ὓ-ψι-ψωωη-ψ-Ἵ, -
+
+quod ergo etiam est divisibile per P, et quia yn non est divisibile, necesse est ut (ffl-”—ffl““)::1³.
+
+IV. Si ut ante tam (mm—ym)::P quam (ff-y”)::P atque inter numeros-m et n maximus eommunis di-
+' visor fuerit Δ. tum etiam (ωΔ-ὲῃᾼμΡ. ’
+
+Damnum-rm. Ponatur ΜΞμΔ et n=vA‚ et quia Δ est maximus eommunis divisor, erunt μ et ν primi
+inter se. Dari igitur poterunt numeri α et β, ut sit αμ-ῥ-βν-Ξ1, Hinc igitur qnoque erit (x‘m— 9²¹⁰):2P
+similique modo (oessn-yssn)„p‚ unde per praecedens theorema erit (mam-pn-yam-ssnwp‘ Est vero exponens⁸
+
+am - βπ ὲ..- αμΔ- βνΔ = Δ , consequenter erit (ωΔ- 94) :e P. · ,
+„ - , Α. m. T. 111>p.¹⁷⁴. 1⁷5.> .
+
+ 
+
+Β. Par-titio numerorum in summas polygonalium.
+
+32.
+(Leonard Ender.)
+
+Caractere qene'ral pour juqer‚ si un nombre entier quelconque N est somme de trois τνίαηῃῑοε, tous *les nombre·
+
+Ι
+
+plus petits e'tant tels.
+
+Soit N-A un nombre moincire &quelconque qui soit egal ὲ ces trois triangles: Δρ-ι-Δᾳ-ι-Δνς ensdite', pre— Ι ³
+
+- nant pour a et b des nombres quelconques et posant Azab‚ s’il arx-ive que 12-q‚ ou p-r‚ ou q—r soit egel
+ὲ α-ῠ, alors le nombre propose N sera somme de trois triangles‚ et un seul cas de a et b suffit pour cela.
+
+ 
+
+(Leoeeu.)
+ΒιῑΜοΝεϊιιΑἰἰοΝ.μ Ayant pose N„-ab=Ap÷Aq-÷-Ar‚ soit p —qza—b‚ etpour cet effet mettons p=oe÷a
+et q=oe÷b, de sorte que ξ N—ab=A(oe÷a)—=-A(oe÷b)-=-Ar.
+Alors je dis qu'on aura · N=A(oe-·-a÷b)÷Aoe-='-Ar;
+car puisqne Δ (ω -ι- α-Ι- 1))ΞἎῖΞ-(ΕΞῠ-ἷῖῒ-ψμ-ῡὶῐΡ-ΫΞΒ,
+on aura Ν = ἐ (aeoe÷2(a÷b)oe÷(a÷b)²÷oe÷a÷b) -1- Μζω -1- Ar.
+Mais la premiere formale donne ,
+Ν- ab Ξ ae² ÷2aoe÷a²÷x÷a -4— ae²÷2bx÷b²÷ae÷b —f- Ar
+
+2 2
+ce qni etant dte de celle-131 donne ab=ab‚ ce qu’il fallait demontrer.
+Conon„ 1. Puisque p—q=a—b et p=oe÷a et q=oe÷b, on aura
+, xzp-a='q—b‚ donc oe÷a÷b=p÷b=qssa3
+par consequent, des qu’on aura . .
+N—ab2Ap4Asp-a÷b)4tsr‚ il s'en suit N=A(p-·-b)÷A(p-a)÷ar.
+Conon„ 2. Qu'on prenne b=a‚ et des lors il aurive, que N—'aazap-n—-qu-ba 0'est εὶ dire que side-1
+de ees triangles sont eggux entre eux, on en deduira
+N=A(p-i—a) -1-Δ(ρ-α)--ι-ὡ·.
+Exnmnss. Prenons Ν = 17 et successivement asst, 2, 3, b, etc. nous aurona
+
+ 
+

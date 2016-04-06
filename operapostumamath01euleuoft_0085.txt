@@ -1,0 +1,68 @@
+’ non-residua 2, 6, 7, 8, 10
+
+Tractatus de numerorum doctm'na Cap. 14. 67
+
+divisor 11 1111
+
+residua 1, 3, 9, 5, 11 1, 9, 25, 5, 37
+3, 27, 31, 15, 23
+
+ζ 7, 19, 113, 35, 39
+13, 29, 17, 21, 11
+
+divisor 13 52
+
+neudua 1, 3, 1, 9, 10, 12 1, 9, 25, 19, 29, 17
+3, 27, 23, 113, 35, 51
+
+non-residua 2, 5, 6, 7, 8, 11 { 5, 115, 21, 37, 111, 33
+
+7, 11, 19, 31, 17, 15.
+
+517. 81111 1110 divisore 211 -1-1 residua 1, α, β, y, δ, etc. et pro divisore 11(2ρ-1- 1) residua
+1, A, Β, C, D, etc. multitudine aequalia; ac primo patet ex his residuis illa reperiri, scilicet ex
+serie 1, A, Β, C, D, etc„ quae sunt minora quam 211-1-1, ipsa in serie 1, α, β, y, δ, etc.
+continentum quae vero sunt majora, minui debent numero 211-1-1, vel ejus duplo, vel ejus triplo.
+
+518. Deinde observo inter residua 1, A, Β, C, D, ete. nullum numerum hujus formae leq—¹
+
+contineri. Cum 9111111 quadratum αα, demto numero 1111- 1 , nequeat esse divisibile per 11, 11911 11011
+
+, potest, ut sit aa—(liq—l) multiplum ipsius 11(2ρ-1-1), 1111119 1111111911 3, 7, 11, 15, 19, 23
+
+semper sunt inter non-residua.
+
+519. Si in serie 1, α, β, γ, δ, 919. occurrat numerus impar formae 1111-1-1, 1119111 1111011119 111
+
+’ serie‘ 1, A, Β, C, D, etc. occurret; nam si aa— (111]-1- 1) sit divisibile ,per 211-1- 1, 1111011119 divi-
+
+sibile erit (21)-1- 1 ssa)²— (111]-1- 1); 91 111119 1111111910111111 a 91 211-1- 1 ssa alter certe est par,
+91191 11111191, sumatur α impar, et αα-(1111-1-1) per 11 9111 divisibile, unde etiam per 11(211-1-1),
+119 111 1110 'hoc divisore 111]ψὶ futurum sit residuum.
+
+520. At si numerus impar 1111-1 sit residuum divisoris 211-1-1, 11011 9111 residuum divisoris
+
+11(211-1- 1), 1111 jam vidimus; tum vero 2 (211-1- 1)-1-111] - 1, quia redit ad formam 111-1- 1, certe
+
+111191 residua divisoris 11 (211 -1- 1) continebitur. ’
+521. 81 numerus par 2q sit residuum divisoris 211-1- 1, 111111 vel
+
+21]-1-211-1-1, vel 21]-1-3(2ρ-1-1)
+
+, erit residuum divisoris 11(211-1-1), 1110111 vel hic, vel ille numerus suerit formae 111-1-1, alter enim
+
+formae ror-1 semper excluditur.
+
+522. Scilicet si sit p=2m, et 111η-1-1 numerus primus, si 1111 sit residuum divisoris 11111-1-1,
+111111 1111-1-11η1-1-1 9111 residuum divisoris 11 (111η-1-1); 91 si rupi-2 residuum divisoris 11111-1- 1,
+111111 1111-1-2-1-3 (11111-1- 1) erit residuum divisoris 11(11η1-1-1).
+
+523. 811 ρ--ε2ηι-1 91 lim—1 numerus primus: Si 111] sit residuum divisoris lmae— 1,
+
+, 111111 1111-1-3(Ι1η1- 1) 9111 residuum divisoris 11(11111-1). Α1 si toq÷2 sit residuum divisoris
+
+ 
+
+11111- 1, 111111 1111-1- 2-1- lim — 1 = 1111 -1- 11111-1- 1 9111 residuum divisoris 11 (lim -1). ’
+ἢ
+

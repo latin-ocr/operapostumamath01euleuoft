@@ -1,0 +1,60 @@
+Tractatus de numerorum doctrina Cap. 14. 65
+ca put XIV.
+
+De residuis, ex divisione quadratorum per numeros compositos ortis.
+
+502. Sint 1, α, β, y, δ, etc. residua, quae ex divisione quadratorum per numerum primum
+2⁴1> -÷-1 oriuntur, quorum numerus est =p; ac videamus primo, quaenam residua oriantur, si divisio
+
+¹ fiat per duplum 2 (2p-i- 1), atque hic quidem excludamus quadrata paria'3 tantum enim ea quadrata,
+
+quae ad divisorem sunt prima, consideremus.
+
+503. Multitudo autem quadratorum, quorum radices sunt divisore minores, est = 2ρ, et
+quoniam quadrata aa et (tp-f-2—a)² idem relinquunt residuum, multitudo residuorum diversorum
+major esse nequit quam 1²³ erit ergo vel περ’, vel minor quam p.
+
+5010. Minor scilicet esset, si darentur duo quadrata aa et bb, ut non esset b= 11ρ-1-2- α,
+quae idem relinquerent residuum. Foret autem tum. bb-—aa=(b—a)(b—i-a) divisibile per 2(2ρ-1-1),
+et alter factor per 2, alter per 2ρ -1- 1 divisibilis esse deberet. At uno existente pari, alter quoque
+
+’ erit par, ideoque per totum divisorem divisibilis, unde foret b =2 (2ρ -1-1)-α.
+
+ 
+
+505. Multitudo ergo residuorum diversorum, quae quidem ex quadratis ad divisorem primis
+oriuntur, erit ΞΡ, totidem numero, quot ex divisore primo 2ρ-ι- 1 nascuntur. Ac si residua, ex
+divisore 2(2Ρ-1- 1) orta, sint 1, A, B, C, D, etc., eorum numerus est ΞΡ, et ibidem occurrent
+ἱ producta ex binis.
+
+506. Dantur autem 21> numeri ad hunc divisorem primi eoque minores, unde cum eorum
+¹ tantum semissis residua constituat, alter semissis dabit ordinem non-residuorum, quae si sint 21, Q,
+Ε, m, etc., eorum numerus erit =p, et producta ex horum binis iterum fient residua.
+
+507. Contemplemur quaedam exempla, in iisque tam residua, quae ex divisore primo 2ρ-1- 1,
+
+- quam ex‘ejus duplo 2 (2Ρ-1- 1) nascuntur, simulque apponamus non-residua ad divisorem prima:
+
+divisor 3 6 5 - 10 , 7 lli
+residua 1 1 1, ι, 1, 9 1, 2, ιι 1, 9, 11
+non-residua 2 5 2, 3, ’ 3, 7 3, 5, 6 3, 5, 13
+divisor 11 22
+
+“ residua 1, 3, 9, 5, ιι 1, 9, 3, 5, 15
+non-residua ν 2, 6, 7, 8, 10 7, 13, 17, 19, 21
+divisor V ’ 13 26
+residua 1, 3, ιι, 9, 10, 12 1, 3, 9, 17, 23, 25
+non-residua 2, 5, 6, 7, 8, 11 ’ 5, 7, 11, 15, 19, 21
+divisor 17 311
+ηεῑᾱιιω 1, 2, t, s, 9, 13, 15, 16 1, 9, 13, 15, 19, 21, 25, 33
+non-residua 3, 5, e, 7, 10, 11, 12, 11 3, 5, 7, 11, 23, 27, 29, 31
+
+508. Repraesentemus rem in genere:
+
+divisor ’ 2ρ-1-1 2(2Ρ-1-1)
+residua 1, α, β, γ, δ, etc. 1, A, B, C, D, etc.
+
+⁴ non-residua α, b, c, δ, e, etc. 21, ⁵25, G, Φ, Ε, etc.
+
+1.. tutori ΟΓ. poothum. Τ. 1. 9
+

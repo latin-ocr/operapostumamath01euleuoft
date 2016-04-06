@@ -1,0 +1,60 @@
+320 ·L.' EULERI 'OPERA POSTHUMA. ’ Analysis.
+
+1. Ou on choisit 3 volonte un nombre qui ne surpasse point 90, 31 011 paie aussi une somme
+d'argent qu'on jugera a propos. Alors quand ce nombre se rencontre parmi les cinq qui seront
+
+· tires‚ on retirera un prix qui sera un certain multiple de 13 mise.
+
+ll. Ou on choisit deux nombres 3 13 fois, auxquels on attache 11113 certaine mise, et en cas
+. que tous les deux se trouvent ensuite parmi les cinq tires, on recevra un prix assez considerable 3
+proportion de la mise. Or si l'un d'eux seulement se trouve parmi les cinq, on rec-oit aussi un
+prix moindre.
+
+111, Ou on choisit trois nombres 3 13 fois auxquels on attache 3 volonte une certaine⁴ mise,
+31 1’011’113111 s'attendre ἐι 1111 prix quelques mille fois plus grand que 13 mise, en cas que tous les
+trois nombres se trouvent parmi les cinq tires; mais les prix seront moindres, lorsque deux des
+nombres choisis, ou un seul s’y trouve. .
+
+Je ne me souviens plus de la grandeur des prix en detail qu’on paie en chaque cas, ce qui
+n’importe rien aux recherches que je me propose de faire3 mais on comprend aisement qu'ils penvent
+
+etre tres considerables pour le cas ou trois nombres qu'on aura choisis, se rencontrent parmi les Ι
+
+cinq tires. Et si l'on voulait admettre des quaternaires, le prix fixe pour le cas 01¹1 tous les quatre
+nombres se trouveraient (13115 135 cinq billets sortis, pourrait 311 dela de 100000 fois surpasser 13
+quantite de la mise. , Ἴ
+
+11 351 evident que ni le nombre 90 des billets, ni celui des 5 qu'on tire, n’est essentiel 3 13
+nature (13 33113 loterie, et qu'il est absolument libre d'etablir un nombre de billets quelconque, et
+d'en tirer enfin plus ou moins que cinq, ce qui me mene 3 (135 recherches plus generales qui peu-
+vent servir ou ἐι former d'autres plans de telles loteries, ou 3 examiner' ceux qui pourront etre pro-
+poses par d'autres.
+
+Posons done n pour le nombre de tous les billets marques des nombres 1 , 2, 3, . . . . n, et
+qu'on en tire 311 hasard t, et tout revient 3 determiner la probabilite que d'un certain nombre (13
+numeros qu'on aura choisis‚' il se trouve ou >un seul, ou deux, ou trois, ou enfin tous dans les t
+billets qu'on va tirer. Or, selon le nombre des numeros, 13 determination de 13 probabilite qu'on⁸
+cherche, se reduit aux problemes suivants: ι
+
+1. Probleme 1. Le nombre de tous les billets etant = n, dont on doit tirer 311 hasard t
+billets, trouver la probabilite qu'un nombre choisi a volonte s'y trouvera. ἵ
+
+solution. 11 351 evident, par les premieres regles de 13 probabilite, que pour que le nombre
+
+choisi se trouve parmi les t billets qu'on va tirer, le nombre de tous les billets etant =n, 13 pro-k
+
+babilite est = {a et pour qu'il ne s'y trouve pas, la probabilite est ΞΨ- VDonc 13 solution
+
+fouruit: que le nombre choisi
+
+se trouve parmi les billets tires, la 'probabilite est {-
+
+n—t
+
+qu'il ne s'y trouve pas α α Τ·
+
+2. corollaire 1.‘ Dono, si le nombre de tous les billets est 90, et qu’on en tire 5, comme
+dans 13 335 propose 311 commencement,
+
+ 
+

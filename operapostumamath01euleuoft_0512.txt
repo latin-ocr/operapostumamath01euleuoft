@@ -1,0 +1,56 @@
+ἰς
+
+494 L. EU-LERI OPERA POSTHUMA. Geometria,
+
+ΙΙ. Geometria.·
+’ 97.
+(Golovin.) ’
+
+Ριιοιιιιιιιι. Invenire duas superficies, ,quarum alteram in alteram transformare liceat, ita ut in utraque
+singula puncta homologa easdem inter se teneant distantias.
+Somno. Pro priori superficie sit (Fig. 61.) Ζ punctum ejus quodcunque determinatum per tres coordinatus
+
+A1=t TU=u‚ UZ=v.
+
+,ln altera vero superficie idem punctum Z determinatum sit per ternas coordinatas er-ae, XV=y‚ V2=z.
+Et quia per naturam superficierum quaelibet coordinata debet esse functio binarum variabilium, sint r ,ει a hae ¹ Ῑ
+duae variabiles a se invicem non pendentes, harumque functiones sint nostrae coordinatae. Nunc considerentur ι ¹
+
+in utraque ‘superficie duo puncta r, s, ipsi Z proxima, quorum illud r prodeat ex variatione solius r, alterum
+vero s oriatur ex variatione sola ipsius s, ac per conditionem problematis terna intervalla infinite parva'Z'n Zsjr's
+
+utrinque debent esse aequalia. Pro puncto autem r in prima figura ternae coordinatae erunt
+t-ae-drOE} ‚ α-ι-ᾱν(Ξ- J), v-v-drffi .
+Simili modo pro puncto s in prima figura ternae coordinatae erunt
+
+t-ff-dsGlDa u-t-ds ἑ), v÷ds(}⁹ss
+
+Hinc quadrata memoratorum intervallorum colliguntur
+ΖνΞΞάν2((Ξ-;)2 -)-Ι-ἦ)>
+
+01³² (< (ἓὲ) «ἢ ’
+—(d²·e-r>-d2<‘;1>) 4<4ν(Ξ-ἴ)-44<ἒ- 2⁴²» ÷<ff<22>÷d2<->)
+
+quod postremum quadratum reducitur ad hanc formam
+
+1432- - Zr² -ι- Zs2 -2drds', (() (ἐξ) (3494( (ὦΙ εἰ’.ΝΞ-’3 -ι- (ji-D( (ἔῃ)
+
+Quodsi jam loco t, u, ν scribentur litterae .‚oe y, z, habebuntur eadem intoevalla pro altera figura, quae cun
+utrinque inter se debeant esse aequalia, habebimus has tres aequationes
+
+¹·(01i-2 *(Ξῖῖ *(ῖιῖῖΞα-Δνῧκ -u-Zff)÷}
+1¹· (Ξῖ) -·-2{(-÷² ···3-L'-)²( --(-> 4- (Ξῖ) 4- (ἔ)
+(ἐξ (ἐξ Η) <><=<2÷ <a ⁴41<50²3>÷<÷D<352
+
+in quibus tribus aequationibus continetur solutio nostri problematis. Quemadmodum autem per methodos cogni·
+tas iis satisfieri oporteat, neutiquam patet, opusque maxime arduum videtur, ὁ
+
+Huc autem superior analysis sequenti modo traduci poterit: Sint litterae J , G, H, item L, M, Ν functiones
+prioris tantum variabilis r, et statuantur nostrae coordinatae
+
+priores t = s Jdr-1- Js posteriores oe=sLdr÷ Ls
+u=sGdr÷Gs y=sMdr÷Ms
+v=sHdr÷Hs z=sNdr÷Ns
+
+ 
+

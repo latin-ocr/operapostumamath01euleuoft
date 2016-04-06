@@ -1,0 +1,59 @@
+564 L. EULE Rl OPERA POSTHUMA. Varia.
+
+S.
+Monsieur‚
+
+Je dois etre infiniment flatte de la distinction toute particuliere dont la nouvelle Academia royale des
+
+sciences vient de m‘honorer, en accordant une place dans ses memoires a mes faibles recherches sur la pro-
+
+pagation du son que j'avais pris la liberte de vous envoyer. Je connois tout le prix de cette distinction et j'en .
+
+suis plus vivement touche, ce que je vous supplic, Monsieur, de temoigner a l'illustre Academie‚ et de lui pre-
+
+sentet mes tres humbles remerciments en l’assurant de ma plus haute veneration et de mon attachement le ·
+
+plus inviolable. Mais J‘e ne sens aussi que trop que c’est uniquement 'a vous que je suis redevable de cette
+glorieuse distinction; je vous en suis infiniment oblige de meme qne des deux exemplaires du premier recueil
+academique que vous aurez bien voulu m'envoyer. Vous ne douterez pas que je ne l'aie parcouru avec la
+plus grande avidite et je fus tout a fait surpris de l'excellence et de la richesse des memoires que ce recueil
+renferme. Vous en particulier, Monsieur‚ vous y avez veritablement prodigue vos profondes decouvertes3 tout
+autre en aurait en abondamment de quoi fournir a plusieurs Academicis et a plusieurs volumes‚ pendant que
+vous y avez ramasse en quelques moneaux des sciences entieres et accomplies, dont la moindre particule (ιω-811
+route a d'autres les plus penibles recherches. Vous ne craignez pas de vous epuiser pour les volumes suivans
+puisque vos ressources sont inepuisables3 Je suis tout stupefait quand je pense seulement que· les volumes sui·
+vans ne brilleront pas moins de nouvelles decouvertes quoique je ne puisse pas encore comprendre sur quelles
+matieres elles rouleront. Mais je vous avoue franchement que J‘e ne suis quasi qu'ebloui de l'abondance et de
+la profondeur de vos recherches et bien d’autr'es soubaiteront avec moi que vous preniez la peine de truiter
+successivement plus en detail tous les sujets particuliers que vous n’avez fait jusqu’iciv qu'envelopper· dans la
+plus grande generalite.
+
+Quelle satisfaction n’aurait pas M. de Maupertius s'il etait encore en vie, de voir son principe de la
+moindre action, porte au plus haut degre de dignite‚ dont il est susceptible! -
+
+Dans vos autres recherches, il s'agit principalement‘dune brancbe tout a fait nouvelle de l'analyse qui m&-
+riterait bien d'etre developpee xavec tous les soins possibles. C’est la resolution de cette espece (1· equations
+
+‹1²2- d²r dr
+
+dont l'integrale complete renferme par sa propre nature des ‘fonctions indetermines‚ et meme discnnfinues,
+contre les pretentions de M. d'Alembert‚ qui cependant sera bien embarrasse des reponses solides que vous
+lui avez faites quoique je doute fort qu’il s'y rende. Avant toute chose ilv faudrait bien chercher des methodos
+plus propres ὲ resoudre ces equations. 11 paroit que des transformations convenables peuvent beaucoup y con*
+tribuet. En voici un exemple que j'applique au cas le plus simple.
+
+{liz-ad&
+
+ἀεὶ ἀπὶ ‘
+
+Au lieu des variables t et x j'introduirai ces deux autres p et q telles que p=aoe÷sst et qssyoe-i-dt. Pour
+cet efflat, considerant une fonction quelconque ν de t et de ω, puisque
+
+dv :g dt -t- (ἐξ dx
+et par les nouvelles variables
+ἄν = dp ΞΕ -i- dq ἔ,
+
+je substitue pour dp et dq leurs valeurs et j'aurai:
+
+ 
+

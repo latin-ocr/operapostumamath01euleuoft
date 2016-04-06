@@ -1,0 +1,67 @@
+66 - L. EULERI OPERA POSTHUMA. Arathnaetica.
+
+et primo observamus omnia residua divisoris 2(21)-ι-1), vel ipsa, vel numero 2124- 1 minuta
+
+constituere residua divisoris 2124- 1.
+
+509. Scilicet vel A, vel A—(2p÷1) in residuis 1, α, β, γ, etc. occurrit. Cum enim detur
+
+quadratum impar αα, ut sit αα-Α per 2(2p÷÷-1)l divisibile, erit quoque per 21)-ι-1 divisibile, unde ·
+
+A etiam inter residua divisoris 2p÷1 reperiatur necesse est, vel A-(2p—1-1), si fuerit A> 21)-ι- 1.
+
+510. Numeri porro impares seriei 1, oc, β, y, etc. in serie 1, Α , Β, C, D, etc. occurrunt,
+
+pares autem ihi non reperiuntur, at vero iidem aucti numero 2p—‘i- 1. Sit enim α numerus' impar, ’
+
+et cum ,αα-α sit divisibile per 2p-n-1‚ *erit aa—azn(2p÷1). Jam a vel est par, vel
+impar. Si impar, erit αα-α par, ac propterea etiam 'n par, sicque αα-α divisibile erit
+¹per 2(21)-ι-1).
+
+511. At si a sit par, erit 21)-ι- 1 -α impar, atque etiam (2p—1-1 —a)²—a=n(2p÷l),
+
+ubi η fiet par, ita ut'haec formula quoque per 2(2p-=— 1) sit divisibilis3 unde si α sit numerus .
+
+impar, certe inter residua 1, Α, Β, C, etc. continebitur.
+
+512. At si α sit numerus par, ejus loco inter residua divisoris 21)-ι-1 considerari potest ,j
+
+a÷2p÷ 1, qui cum sit impar, ob rationes allatas etiam inter residua divisoris 2(21)-ι-1) re·
+
+periri debet.
+
+513. Datis ergo residuis 1, ᾳ, β, γ, etc„ ex divisore primo 21)-ι-1 ortis, ex iis statim
+concinnari potest series residuorum 1, A, B, C, etc. ex duplo divisore ortorum 2(2p—=- 1), illorum
+
+scilicet, quae sunt imparia, ipsa ponendo, paria autem numero 21)-ι-1 augendo.
+
+· 5112· Simili modo ex serie non-residuorum α, b, c, b, etc. divisori 2p÷1 respondentium ’
+
+formabitur series non-residuorum divisori 2(21)-ι- 1) respondentium, dum imparia ipsa sumuntur,
+
+paria vero numero 2p÷1 aug-entur.
+
+‘De divisore li (21) -ι- 1) zd.
+
+515. Multitudo numerorum hoc divisore minorum ad eumque primorum est 2.1.2p= tp, et ·
+non solum quadrata αα et (ἀ--α)2 idem relinquunt residuum, sed dantur praeterea duo alia bb et ἦ
+(d — b)². Fieri enim potest bb — aa = (b — a) (b -ι- α) z lin (21) -ι- 1), sumendo b — a = 2η et
+
+b -ι- α z: 2 (21) -ι- 1) , unde fit b Ξ 2 (21) -ι- 1) - α, sicque quaternorum quadratorum, idem residuum
+
+relinquentium, radices sunt: a, 2 (21) -ι- 1) - α, 2 (21) -ι- 1) -ι- α, [ι (21) -ι- 1) - α.
+
+516. Plura autem quam quatuor dari non possunt, unde hoc casu numerus residuorum tantum Ξ
+
+cst 1), uti pro divisore primo 2ρ-ι-1ς at numerus non-residuorum est 31), ut ex subjunctis exemplis ⁵·
+
+videre licet:
+
+divisor 3 12 5 20 7 28
+
+residua 1- 1 1, l* 1, 9 1, 2, li· 1, 9, 25
+5 3, 7 > 3, 27, 19
+
+non-residua 2 τ 2, 3 {11, ιε) 3,-5, 6 {a 17, ω’
+ιι ι3, 17 ιι 15, ‘232
+

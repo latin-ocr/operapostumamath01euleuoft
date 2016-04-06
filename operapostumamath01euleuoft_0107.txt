@@ -1,0 +1,61 @@
+De numeris amicabilibus. 89
+
+atque methodus, qua est usus, ita est comparata, ut vix plures numeri satisfacientes ejus ope inveniri
+queant. Assumsit enim pro numeris amicabilibus has formulas generales 2¹²ae ct 2¹¹yz, in quibus
+
+numeros ω, γ et z ponit primos, sumtisque successive pro n numeris determinatis, tentando investigat
+casus, quibus numeri primi pro ω, γ, z substituti quaesito satisfaciant. Nemo autem putabit, omnes
+numeros amicabiles in his formulis contineri, quippe quod non solum a Schotenio non est de-
+monstratum, sed etiam sequentes numeri amicabileS, quos equidem inveni, abunde declarant. Namque
+praeter tria illa paria modo mox explicando, sequentes adeptus sum numeros amicabiles: ’
+
+ιι.5.ι3ι et ι.17.ἰι3
+
+,ιι.5.25ι et ιι.ι3.ιοτ·
+16.17.5119 et 16.239.383
+t.11.·17.*2ss³3 et 1».11.1»3.107
+32.37.12671 et 32.227.2111 .
+
+thaasar et ι.23.5.ι37
+
+quin etiam numeri exhiberi possunt impareS, quod quidem multo magis mirum videri queat, qui
+praescripta proprietate sint praediti, cujusmodi sunt:
+
+322'7‘.13.5.17 et 3².7.13.10⁷,
+3². 7² .13. 5. ιι et 3². 72.. ..13 251,
+
+· ' ex quibus satis liquet numeros amicabiles multo esse copiosioreS, quam numeros perfectos, qui in
+ἶ· serie numerorum rarissime occurrunt.
+
+§ 10. Hi autem numeri aliique satisfacientes non difficulter ope 'modi signandi ante expositi
+eliciuntur. Sint enim a et b'bini numeri amicabiles- quicunque, quoniam eorum summae divisorum
+3 sunt A et B, summaequeproinde partium aliquotarum A ——a et B—b3 conditio horum numerorum
+ὲ praebet has aequationes: A —a = b et B— b == a, unde fit A ²? B Ξ ‘¹4⁶‘ Amb⁰ ‘³¹3⁰ numeri
+ἶ - amicabiles eandem habent divisorum summam, quae simul summae amborum numerorum est aequalis.
+
+Quo autem ad aequationes idoneas solutio perducatur, ponamus numeros amicabiles esse poe.et qy,
+‚3 · existentibus ω, et ,Υ- numerisprimiS, ita ut sit a==poe et hzvqy, eritque .
+ι A=P(oe-÷-1)·et B—-de-ss: unde fit P(ae-i-1)=Q(r-i--1)==poe÷qy.
+ῗ Ponatur P (ω-ι- 1) :Q (γ-ι- 1) ε-Ρρζς erit ae-i- 1 --† Qz et*y·-.i-1=Pz, seu ωτ- Qz-1 et
+ᾗ· γ-τ-Ρι- 1. Cum vero esse debeat ΡΩζι--Ρω-ι-(Ῑγ, erit valoribus his pro ω et y substitutis:
+
+ 
+
+ 
+
+ 
+
+’Ἴ , PQz- - sz -Ρ -ι- qu — q, ideoque 7.- - §pKZ-⁹* PQ‘
+Quare ut formulae assumtae pcc et qy· praebeant numeros amicabiles, esse oportet.
+ᾗ , ω’-ι- 1- - szgg-qu et γ -i- 1-- -. ΩΡ-ἰ-(ἷῖᾳέρ.
+
+   
+
+ξ Sit n maximus communis divisor numerorum pm et qr, ponaturque P= ”a ⁹¹² ‘1:⁷²⁶’ ¹¹² ⁸3²
+P=NA et Q=NB3 et pre numeris amicabilibus has habebimus formulas
+. naoe et uby,
+
+'o
+ἰ. ἰιι quibus ω et γ esse debent numeri primi, qui ex his aquationibus definiantur.
+ᾗ. 1.. ru ιο ῑομροιωηω τ..ι 12
+

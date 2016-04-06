@@ -1,0 +1,62 @@
+Sur les quarithmes des nombres ne'qatz'ss ee imaqz‘nat’res. 271
+
+§ 6. Mais on m'objectera peut-etre que c'est pourtant le plus sur moyen que de juger de la
+figure d'une ligne courbe et du 'nombre de ses brancbes par son equation, et que c'est par ce prin-
+cipe que les Geometres determinent les formes de tontes les courbes algehriques. A quoi je reponds
+que cette methode n'a lieu que lorsque l'equation pour la courbe est algebrique, ou du moins concue
+en termes finis, et que jamais une equation differentielle n'est propre 3 ce dessein. Car on sait
+qu'une equation differentielle est toujours-indeterminee, a cause d'une quantite constante arbitraire
+qu’elle renferme et qu’on doit introduire dans l'integration: de sorte qu'une telle equation embrasse
+toujours une infinite de courbes a la fois. On n’a qu'a regarder l'equation differentielle pour la
+parabole 2ydy=adoe‚ et l'on verra qu'elle contient non seulement cette equation finie y²=aoe, mais
+aussi celle-ci y²=aoessab, quelque valeur qu'on donne 3 13 quantite b. Par consequent, en ne
+considerant que l'equation differentielle 2ydy· =adx‚ on devrait conclure qu’e la meme abscisse εει·
+repond non seulement l'ordonnee y=Vaae, mais encore sz(aae‡a²)‚ et en general γ--Ὑωῑ-Ι-αό).
+Cette reflexion est suffisante pour faire voir, qu'on ne peut guere juger de la forme d'une ligne
+, courbe, en ne regardant que son equation differentielle. ’
+
+§ 7. Or M. Bernoulli aussi bien, 'que plusieurs mathematiciens qui soutiennent encore le meme
+sentiment, tache de prouver encore par d’autres arguments que l’asymptote de la lnogarithmique est -
+en meme temps son diametre. Ces arguments sont sondes ou sur la construction de cette courbe,
+
+ou sur l’analogie. On se sert de l’analogie, en considerant, au lieu de l'e‘quation pour la logarith-
+mique ἀω-τ-ῗ, celle—ci qui est plus grande (133εὲῑῖ et dont l'integrale est ω --- C— (n-1)1y'·—1²
+
+on y remarque que tontes les fois que n estun nombre impair, la courbe ’3 sans contredit un dia—
+mette, ou deux branches egales et semblables. Cela remarque, dit-on, qu’on suppose n= 1, et
+
+ 
+
+puisque 1 est un nombre impair, la logarithmique doit avoir 13 meme propriete. C’est, ἐς mon avis,
+le plus fort argument qu'on ait apporte jusqu’ici pour prouver que 13 logarithmique a un diametre3
+
+or, je ferai voir neanmoins que cette conclusion qu’on ern veut tirer, n’est pas assez sure.
+
+§ 8. Quand il s'agit, dans l'analyse, des cas d'integrabilite, ou dans la geometrie‚ de certaines
+
+proprietes des lignes courbes, on trouve rarement des propositions assez generales, et il y faut
+
+presque toujours excepter un·ou plusieurs cas, auxquels on ne peut pas faire l'application. On peut
+bien> dire que cette formule oendae'est generalement integrable‚ quelque nombre qu'on mette pour n,
+
+pouryu qu'on en excepte le cas n=— 1. Et il en est de meme de plusieurs autres formules gene-
+
+rales dont on ‘ne peut presque jamais affirmer, qu'elles soientlintegrables dans tous les cas sans ex-
+
+ception. Ainsi, quand on dirait que l'equation dae-——d-—y represente toujours une courbe algebrique, quel-
+
+’ que nombre ,rationnel qu’on mette pour n, cette ffiroposition ne ” souffrirait qu’une seule exception,
+
+celle du cas n=1. Donc, puisque ce cas est si particulierement distingue de tous les autres, qui
+sera garant qu’il ne faut pas aussi faire une exception 3 13 regle mentionnee a l'egard d'un diametre
+qu'on voudrait attribuer 313 courbe comprise sous l'equation ‹1ae = ⁰33¹? Car, dans tous les autres cas
+
+οὐ n est egal 3 un nombre impair, nous reconnaissons avec evidenceyla necessite d'un diametre, puis-
+
+’ ’ que dans ce's cas, l'equation est integrable: mais dans le cas n=1 cette evidence cesse entierement, 3
+
+ 
+
+cause· de l’impossibilite de l'integration. Par consequent, on est au moins oblige d'avouer que la con-
+· clusion qu'on veut tirer de cet argument n'est pas assez sure.
+

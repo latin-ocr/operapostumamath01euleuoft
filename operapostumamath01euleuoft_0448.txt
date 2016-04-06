@@ -1,0 +1,68 @@
+' puisqu'il y a en general
+
+430 L. EULERI OPERA POSTHUMA. ’ ⁴ Analysis.
+
+ῐι1. Αρνὸε ces integrations des formules, qui 'sont toutes comprises dens cette for-mule generale
+
+soe''¹'‘¹doe (1--ει3”)]ε et qu'on peut nommer algebriques, puisque da: y est multiplic par une
+
+fonction algebrique de ω, je passe, comme je me suistpropose', a considerer encore quelquesformules
+
+integrales ou le differentiel doe est multiplic par une fonction transcendante de ch, et dont l'inte-
+grale‚ dans un certain* cas, se peut exprimer algebriquement, ou par la quadrature du cerole. Ces Ξ
+cas sont d'autant plus remarquables, qu'il nous manque encore des methodos pour les traiter, et ἶ
+partant les ohservations suivantes serviront peut etre ἐι decouvrir de telles maethodes. 1
+· ὲ
+
+112. Je ne m’arreterai pas ici ὲ cetteformule integrale assez connue sdoe'(l{)'', dont on sait'
+que la valeur, au cas qu'on met apres l’integration aess 1, devient=1.2.3 ..ης de sorte que ¹
+cette valeur peut etro assignee, toutes les fois que 'l'exposant n est un nombre entier. Mais quand
+
+n est nne fraction, la valeur est beaucoup plus difficile* ἐι assigner. Ainsi, si n=-{-2 j’ai demontre “
+
+que la valeur de l'integrale s donst} au cas oe=1⁴, est εέγπ. De ¹⁵²¹? on tire alsement ces
+
+integrations qui en dependent:
+sdae(z{){-=' {m
+
+-- sdae(l¹—) ἕΞ-ἱῧ-Ξνπ,
+
+ 
+
+sdae(z¹ >³²2 ξζγπ, ⁴
+’[ἀάἀὲ νπὲῑῇὲξένά
+
+ 
+
+1 sola-<lam=oe<t÷.>‘”÷msaae<c÷>m-¹;
+
+donc posant apres l'integration ωε· 1, ἐι causer de ζεῖ-Ξ Ο, on aura:
+
+sdoe(l{)m,=msdoe(l})m‘¹· ,
+
+δ 1ι3. Cette integration du cas n=-} se peut exprimet· de cette maniere:
+
+sdoe (l— -)Ξ -V— 9. Vua-{xm posant oe=1,
+
+et pour les autres fractions mises pour n, jai trouve les reductione suivantes:
+
+sdoe (ῑ-1)ἂΞΥὲ siqlss‘jj'aem· ᾗ,
+
+sdaea} ἀ--Ξῖκ3β-Ξ-· s2³³⁰³⁶‚
+
+1³!ss —x⁹) 1³!ss -ωδ
+
+saae<z÷>2= Lf ἀπ f——s2000'2
+
+⁴ {su-2⁴? να- 00⁴>³ {su-mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

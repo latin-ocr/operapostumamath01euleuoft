@@ -1,0 +1,69 @@
+ 
+
+Fraqmenca eoe Adversariis depromta. 197
+
+Aa fuerit summa quatuor quadratorum, etiam hoc minus productum Aa' erit talis summa, hocque modo con-
+tinuo ad minora hujusmodi producta Ad'jAaN' etc. progredi licet, sicque tandem necessario pervenietur ad pro-
+ductum AJ, ideoque A summa quatuor quadratorum. Quae est demonstratio insignis illius et demonstratu ‹lif-
+ficillimi theorematis, quod si quispiam numerus A fuerit divisor summae quatuor quadratorum, quae quidem
+inter se factorem non habeant communem, tum ipsum numerum Α sore quoquc summam quatuor quadratorum.
+seu, quod eodem redit, summam quatuor quadratorum alios non admittere divisores nisi qui ipsi sint summae
+quatuor quadratorum.
+
+(Kraffl.)
+Ejusdem theorematis demonstratio mea (scil. Eule ri).
+
+Leuni l. Si N et n fuerint numeri inter se primi, tum quicunque numerus A ita potest repraesentari,
+
+ut sit A=Nx÷ny, et quia hoc infinitis modis fieri potest, dabitur casus, quo oe<=—;-n. Sit enim
+
+A = Ns-i-nq, erit etiam A = N(f— λη) -i-n (qq-AN),
+
+unde, quantumvis magnus fuerit numerus f, ita accipere licebit λ, ut fiat Ῑ-λη<η; tum vero si f etiamnunc
+
+fuerit >yffi tum f-'⁸ certe minus erit, quam -12-n: ,hic enim ipsi numeri spectantur, et perinde est, sive
+
+sint positivi, sive negativi.
+
+me 11. Productum ex binis numeris, quorum uterque est summa quatuor quadratorum, iu quatuor
+quadrata resolvere.
+
+Sit hujusmodi productum (α’-ι’- b²4 &²4 d2) (αἳ-ξ βΞ-ι- 7²54- 6²),
+ac sumatur Ι Α 4- -ι-αα-ι-ὀβ-ι-ογ-ι-ἀδ, Β = -ι-αβ - ba — οδ-ι-άγ
+ΟΞ-ι-αγ-ι-ὂδ-ι-α-ἀβ, ΒΞ-ι-αδ-ῠγ-ι-σβ-ᾱα,
+
+quorum quadrata si invicem addantur, omnia duplicia producta ex binis se mutuo tollent, et quodvis quadratum
+
+latinarum literarum multiplicatur per omnia quadrat'a litterarum graecarum, atque hinc manifesto fiet
+, (αἳ-ι- b2—i—c2 411²) (a2—i- ss²÷y² -ι- 62)- - A²÷ B2-i-C2—i—D2.
+Tannum. Si numerus primus N fuerit divisor summae quatuor quadratorum P2—i- Q²÷ R²÷S², mm
+
+ille ipse numerus N erit summa quatuo'r quadratorum.
+
+Dauomsmno. Quantumvis magni fuerint numeri P, Q, R, S, eos¹ semper deprimere licebit infra {A}
+
+nam si loco P scribatur Ρ-λΝ, summa illa etiamnunc erit per N divisibilis3 quod etiam de reliquis Q, R et S
+valet, sicque singulae radices infra N ¹deprimentur, ac si P adhuc majus fuerit quam -Ν, ejus loco scribatur
+N—P, quod certo erit minus quam —N. Sit ergo p² —i-q ²—i-r2—1- s² ista quatuor quadratorum summa per N
+
+2
+
+divisibilis, ita, ut singulae radices minores sint quam ἶΝ, ac denotet n quotum resultantem, ut sit
+
+Nn =p²÷ q2-i- r2-i- ³²
+et vhaec summa minor erit quam N2, sicque certo erit η < Ν. Jam sequenti modo istae quatuor radices ex-
+hibeantur secundum lemma 1:
+
+p=Na÷na, ᾳΞΝὺ-ι-ηβ, Δν.---Νιι-ι,-ηγ, εε-Νᾱ-ι-πδ,
+1
+
+· ubi litteras a, b, c, ιἀ ita assumere licebit, ut sint minores quam -η, sive hoc fiat negative, sive positive. His
+
+jam' valorihus substitutis habebimus 2
+
+Nn = Ν2 (αἳ-ι- b2-i- 0²—i- α’) -ι- 2Νη (αα-ι- ὸβ -i- cy -ι- ᾱδ) ·-i- η2 (αἳ-4·- ,6²4 7²⁴- δ’),
+ubi notetur esse, per lemma 11, αα-ι-ὺβ-ι-ογ-ι-άδεΑ. Duo posteriora membra sponte sunt divisibilia per n;
+ergo necesse est, ut etiam primum per n sit divisibile. At Ν2 dividi nequit per ia, ergo necesse est, ut
+
+a2-i- b2—i-c2-1-d2 sit per n divisibile. Ponatur ergo
+

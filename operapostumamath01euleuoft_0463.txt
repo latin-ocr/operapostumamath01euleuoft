@@ -1,0 +1,90 @@
+De curvis, quarum reott‘ficaltb per quadraturas mensuratur. 445
+unde patet, si integratio succedat casu quocunque n = λ, eam quoque succedere casibus
+ηελ-ι-Ξ, ηελ-ι-Ιιι, η--λ-ι-θ, 3ι3.,
+
+sicque infinitas curvas algebraicas ex unica impetrari. Patet autem si sit n= 3, fore
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+αθ 303θ εἰιιΞθ desino cos2o .
+s cos⁸0 =2oos²—0 et ’ἷζε 3ῙΞ-930320, Slva
+αθ cos θ sin θ , αθ sin θ 1
+,[-ἶοι-ιὶηἷεοοσθ .et soosssf=÷2oos²ffl
+quo casu prodit
+ἡ oe=asin0 et r: a ' ergo ff=asin²0‚
+cos θ 2 cos² θ 2 a 2 00⁸² θ
+hincque y- — 3: ⁰ ‚quae est aequatio pro ipsa parabola.
+
+16. Verum etiamsi hic unum casum integrabilitatis‚ quo q>= θ 333 n=1 habeamus cogni-
+tum, tamen singulari fato ex eo nulli alii casus elici possunt. Si enim statuamus n= 3, ob deno-
+minatorem η- 3 evanescentem, integralia inde pro casu φιτ. 3θ minime reperiuntur. Casu autem
+
+n=—-1 formulae praecedentes redeunt, ita ut propter hoc incommodum nullus aditus ad curvas ’
+
+magis compositas pateat. Videri ergo posset parabola pari conditione praedita ac circuluS, ut
+praeter se ipsam nullas alias agnoscat curvas algebraicas secum commensurabiles. Ex ipsa verum
+
+angulorum compositione manifestum est, quicunque numerus integer excepta unitate pro n statuatur,
+
+formulam sdo cos ηθ
+
+ 
+
+00⁸„ θ nunquam integrabilem evadere, sed semper per integrationem ipsum angulum θ
+induci. Interim tamen alla methodo quaesito satisfieri potest, unde non difficulter talis curva
+
+eruitur · s
+
+oe=7;-zV(li-i-zz) et J=V(!i-i-zz), seu y⁴=lv(aeae—i-yy), pro qua est V(dae²÷dy²)=sz(t÷zz).
+
+De munst.
+
+17. Progredior ergo* ad curvas-*algebraicas indagandas, quarum arcus' cum arcubus ellipseos
+
+ι 3ἰιιι commensurabiles. Quaestio igitur huc redit, ut curvarum inveniendarum *arcus exprimantur
+mmlx
+
+per hauc formulam ssz(1 -ι-
+
+ 
+
+1-ΜΩ, quae est formula pro arcu elliptico abscissae z respondente,
+
+dum applicata est = mV (1—zz) Pro curvis> ergo, quas quaerimuS, statuamus coordinatas
+
+mmlx
+
+ae=sdicos90V(¹-·-,- ) et y=-sdzs÷n901s(1÷
+
+ 
+
+ 
+
+mmlx )'
+1—11
+
+. 'e't &ideamus quomodo angulus φ capi debeat, ut ambae istae formulae fiant integrabiles. ronamus
+’.τε sin θ, et hae formulae erunt
+
+ae‘ss [αθ 303 φ Υ(303’”θ Ι-ι- mm sin² θ) et γ = sdO sin ‘P V(cos² 04 mm sin² θ) .
+
+ubi manifestum est, quaecunque multipla *anguli θ pro φ statuantur, has expressiones nullo modo
+ad integrationem perduci posse. Aliis ergo artificiis erit utendum, siquidem certum est dari curvas
+algebraicas quaesito satisfacientes, ’
+

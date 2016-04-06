@@ -1,0 +1,67 @@
+88 L. EULERI OPERA POSTHUMA. ⁵ An'thnaetz'ca.
+
+habet utilitatis. Quo igitur facilius summae divisorum quorumvis numerorum inveniri atque ipsi per
+factores exprimi queant, in tabula annexa non solum omnium numerorum primorum millenarIo
+minorum, sed etiam eorum potestatum, quarum quidem usus occurrit, quantumque calculi molestia
+id permisit, summae divisorum exhibentur in factores resolutae: ita ut ope hujus tabulae omnium
+numerorum compositorum, nisi fuerint nimis magni, divisorum summae facile excerpi queant. lta si
+propositus sit numerus a= 756οε hic numerus primo per factores primos exprimatur hoc modo
+a: 2³.3⁸.5.7. Deinde horum factorum singulorum summae divisorum in tabula quaerantur, qui· “
+erunt: 3. 53 2³. 5, 2. 3 et 2³: hisque invicem multiplicatis prodibit summa divisorum numeri pro-
+positi a= 7560, quaesita A :2ss 32. 5²= 28800. Ex quo exemplo usus istius tabulae in summis
+
+divisorum quorumvis numerorum inveniendis abunde perspicitur.
+
+§ 8. Hinc inventio numerorum perfectorum nulla laborat difficultate: cum enim numerus
+perfectus vocetur, qui aequalis summae suarum partium aliquotarum, si numerus perfectus ponatur
+za, oportebit esse a=A -α, ideoque A=0a. Jam numerus perfectus a vel est par, vel
+impar; priori casu ergo factorem habebit 2, ejusque quampiam dignitatem. Sit igitur a= 2⁰12, erit
+
+ 
+
+Α = (2⁰÷¹— 1) B, ideoque (2”’“““- 1) Β --- 2,”““”*ὀ, unde fit }='2„2÷n†-1 1⁰ Cum igitur fractio
+ῥῆξ’-Ξ ad minores numeros reduci nequeat, necesse est ut sit vel b=2⁶÷¹—1‚ vel b=(2'÷⁴·¹— 1)c.
+
+Prius autem fieri nequit, nisi sit 2'¹···¹-1 numerus primus, quia summa divisorum esse debet
+
+Ξ 2”““”, ideoque summa partium aliquotarum = 1: quoties vero est 2”“’“1-· 1 numerus primuS,
+
+toties posito b=2'²’'‘¹—- 1, erit B=2¹²÷¹3 hincque numerus perfectus erit a =2'¹(2'²··-¹- 1).
+Sin autem pro b sumeretur multiplum ipsius 2¹¹÷¹— 1, puta (2”“““*- 1) c, ejus partes aliquotae
+
+forent 2”·Η-1 et c; unde omnium divisorum summa B certe non minor esset quam 2⁰÷¹÷c÷b3 ⁴
+
+talis enim soret, si tam c quam 2””’“1-1 essent numeri primi. Fractio ergo 3}- non minor esset
+
+ΨΗ-ιῖ-Η-ὁο hoc est quam ῗζῖι(ἶ-Ἲ)οΞ, 01) b: (2'²÷¹— 1)c At fractio &Ello-'KZ
+27141
+
+necessario major est quam 2n÷1-·¹ unde pro numero b multiplum ipsius 2”““’“-1 accipi nequit.
+
+ 
+
+ 
+
+ 
+
+futura quam
+
+ 
+
+Quamobrem alii numeri perfecti pares reperiri non possunt, nisi qui contineantur in formula prius
+inventa α = 2” (2'²÷¹— 1), existente 2'⁴†¹— 1 numero primo; haecque est ipsa regula ab Euclide
+praescripta. Utrum autem praeter hos dentur numeri perfecti impares nec ne, difficillima est quaestio:
+neque *quisquam adhuc talem numerum invenit, neque nullum omnino dari demonstravit. Sin autem*
+
+hujusmodi numeri perfecti dar-gitur, ii necessario in hac formula: (ῖιηι-ι- 1)⁴'¹·'·¹oeoe continerentur,
+ubi amq-1 denotat numerum primum et ω numerum imparem.
+
+§ 9. Longe difficilius autem reputatur problema de numeris amicabilibus inveniendis, >in quo
+requiruntur bini numeri, quorum alter aequalis sit summae partium aliquotarum alterius, In hoc
+problemate solvendo etsi Schotenius summo studio est versatus, tamen plura quam tria hujusmodi
+numerorum paria non invenit, quae sunt:
+
+220 et 284
+17296 et 18416
+9363584 et 9t3705ss
+

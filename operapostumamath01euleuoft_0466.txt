@@ -1,0 +1,78 @@
+aas L. EULERI OPERA PosTHnMA. · Anam...
+
+Omnes enim hae quatuor curvae tantum ad ordinem linearum quartum referuntur. Ei quibus per-
+
+spicuum est, quomodo ex quavis hypothesi quaternae curvae ,elici queant, ad eundem ordinem
+
+referendae, nisi quatenus forte casu ordo deprimi possit. Haec ergo infinita linearum algebraicarum¹
+
+multitudo, quarum arcus omnes per arcus ellipticos absolute mensurantur, omnino est notatu digna,
+idque eo magis, quod pro omnibus coordinatae w et y· binis tantum terminis exprimuntur3 'unde
+earnm constructio haud parum concinna adornari potest, etiamsi plerumque curvae ad altiores
+
+linearum ordines referantur.
+
+23. De his autem omnibus lineis imprimis est notandum, eas ad classem Epicycldidum‘ et
+Hypocycloidum pertinere ac per motum volutorium circuli super peripheria alterius circuli, swe-
+extus sive intus describi posse. Hoc autem hae curvae a vulgaribus epicycloidibus et hypocycloidibus
+
+dIfferunt, quod in circulo mobili punctum describens non in ejus peripheria, sed sive extra sive ⁴
+
+intra eam assumi debet. Si enim in peripheria caperetur, quo casu epicycloides et hypocycloides
+vulgares prodirent, curvae· descriptae absolute essent rectificabiles, neque idcirco ad nostrum>⁷'i1rsff-·-··
+tutum essent accommodatae: sin autem punctum describens in ipso centro circuleobilis assumeress
+tur, curva descripta perpetuo foret circulus. Verum sive punctum describens capiatur extra, ‚ejvffi
+intra peripheriam circuli mobilis, hoc modo semper curvae describuntur, quarum rectificatio-per,
+arcus ellipticos absolute confici potest. Nostrae ergo curvae prodibunt, si distantia puncti ¹-clescrifq
+
+bentis a centro circuli mobilis sive major suerit sive minor quam ejus semidiameter. ,‚,;.fl
+
+24. Natura autem hujusmodi linearum accuratius perpensa, curvae, quarum arcus per ardus
+datae ellipsis mensurantur, ita describi posse deprehendentur. Sit in ellipsi proposita ratio amborum
+
+axium principalium =1: m, ac posito radio circuli mobilis =r, capiatur distantia puncti deseri· ’
+
+m÷1 rit—1
+
+bentis ab ejus centro sivezffir‚ sive ÷ffir Tum si iste circulus super quocunque alio
+
+circulo sive extus sive intus provolvatur, ab utroque puncto describente semper ejusmodi curvffi
+describetur, cujus rectificatio cum rectificatione ellipsis propositae conveniet. Quo autem curvae hoc
+modo descriptae fiant algebraicae, necesse est, ut radius circuli mobilis ad radium circuli immoti
+rationem teneat rationalem, quae quo fuerit simplicior, eo minus curvae descriptae erunt compositae·'
+ac constituto quidem circulo immoto, sive mobilis extra eum, sive intra, volvatur, tum.Ve¹'9 ¹sivo
+punctum describens extra sive intra circulum mobilem accipitur, quaternae> illae curvae describentur,
+
+quas conjunctas inveneramus. ’ . il.
+
+25. Operae pretium sore videtur harum linearum epi· et hypocycloidalium proprietates prima· ·
+
+rias, quatenus huc pertinent, ac praecipue earum rectificationem attentius contemplari. Sit igitur Ἴ
+
+*(Fig. 50, 51 item 52, 53) C centrum circuli immoti AQ, ejusque radius CA: CQ—-a, super cnjus ⁵
+
+peripheria volvatur circulus OLRQV, cujus radius,oQ=0R=1-; sitque punctum describens M ¹
+
+τινι-1 . m-1
+
+ 
+
+in radio ΟΒ, ac vocetur OM=per, ita ut sit sive ,u=m--1 m÷1
+
+Μ descripta sit curva DM, cujus initium D ei respondeat circuli mobilis situi, quo =punctum 'R ἐ
+
+tangebat circulum immotum in Α. Hinc ergo ex natura motus volutorii erit arcus ΩΒ aequalis 3
+
+2 sive ,απ-ο Ηοο modo a stilo <23
+
+arcui QA. Quare si dicamus angulum ACQ=‹p, ob arcum AQ=QR=a90, erit angulus 3
+
+a
+
+ΩΟΒ--ῘΞ-φ. Vocemus autem brevitatis gratia hunc> angulum QOR‘=.- αφ, ut sit απτ· Tum l
+
+3
+
+ι’
+,ξι
+

@@ -1,0 +1,65 @@
+24 L. EULERI OPERA POSTHUMA. ..mmm-ca.
+
+cujus termini, si per numerum quemcunque d dividantur, ejusmodi dabunt residua, quae facile ex
+residuis hujus progressionis 1, b, 11², 12⁸, etc. colligi possunt, his scilicet per a multiplicandis.
+
+193. Haec ergo de residuis quaestio ad meras potestates revocatur, ita ut residuum definiendum
+sit, quod potestas quaecunque bn per datum numerum d divisa relinquit. Ubi quidem casus distingui
+convenit, quibus numeri b et d sunt vel primi inter se, vel compositi.
+
+n—1
+
+194. Si sit b=pcp et dzqu, quaeratur residuum ex pngo ortum, si per q dividatur;
+illudque per φ multiplicatum dabit residuum ortum ex divisione numeri pnqst per qqo, hocque modo
+deducimur ad divisionem ejusmodi potestatis bn per d, uhi b et d sint numeri inter se primi.
+195. Sint ergo b et d numeri inter se primi, et residua ex divisione potestatum ipsius b
+oriunda ita indicentur:
+Potestates l, b, 12², 12³, (β, b‘, ὃὸ, b⁷, etc.
+Residua 1, α, β, γ, δ, ε, ζ, η, etc.
+
+quae omnia ad divisorem d quoque erunt prima, quia d ad omnes potestates ipsius b est primus.
+196. Quia haec residua 1, α, β, γ, δ, etc. omnia sunt minora quam d, ea omnia a se invi-
+cem diversa esse non possunt. Quin si multitudo numerorum, ad d primorum eoque simul minorum,
+sit μ, plura residua diversa resultare nequeunt, quam μ continet unitates..
+197. Cum ergo innumerabiles potestates paria praebeant residua, si ponamus bm et ‘'m-..n
+idem dare residuum, harum potestatum differentia bm÷”—b”¹=bm (bn—1) per d erit divisibilis.
+Quia igitur b¹¹¹ ad d est primuS, sequitur δ”-1 per d esse divisibile, seu potestatem bn dare
+
+residuum z 1.
+
+198. Quia plura quam μ residua diversa *occurrere nequeunt, si'progressio ad terminum ὀμ,
+
+continuetur, ob terminorum numerum :pm-1, unum saltem residuum his occurret, sicque casus
+
+ante positus contingat, antequam m—i-n superet μ,’ unde potestas bn residuum =1 reproducens
+
+dabitur, ita ut n non superet μ.
+
+’ 199. Ponamus post unitatem bn infimam esse potestatem, quae per d divisa unitatem relinquat, ³⁵
+
+atque sequentes potestates b'¹4¹, bna-2, b”''”³, etc. eadem praebebunt residua, quae potestates 'initiales
+
+b, (1², ὃὸ, etc. donec perveniatur ad potestatem b²'², quae iterum unitatem pro residuo relinquet.
+200. Cum igitur 'a potestate bn progrediendo eadem residua' recurrant, atque ab initio, non
+solum omnes potestates b⁰‚ bn, ὄπ, b³'¹, 6⁹², etc. idem relinquent residuum 1, sed etiam hae b1,
+b'¹‘*'¹, b²'²’*‘¹, b³⁰÷¹, b⁴⁰*¹, etc. idem habebunt residuum, quin etiam istae (1¹¹¹, ὀ”“’“”’, b²”*''¹,
+b³⁰*'''‚ etc. per d divisae aequalia residua relinquent.
+201. Posita ergo bn infima potestate unitatem pro residuo relinquente, ita ut n non excedat
+
+Ξ
+i
+
+μ, multitudinem numerorum ipso d minorum ad eumque primorum, omnes antecedentes potestates ἲ
+
+1, b, b²‚ b³,. . . ,Μ’-1 disparia praebebunt residua, quae deinceps eodem ordine recurrent. Si enim 'f
+
+duo eorum essent paria, minor valor pro n haberetur, contra hypothesin.
+
+202. Quodsi ergo in residuis omnes numeri ad divisorem d primi eoque minores occurrant,
+quorum multitudo est Ξ μ, erit ηε μ, atque lay—1 per cl erit divisibile. Sin autem non omnes ,
+
+illi numeri ad d primi inter residua occurrant, necesse est, ut sit n < μ. Ostendemus autem his
+casibus n esse partem aliquotam ipsius μ.
+
+ 
+

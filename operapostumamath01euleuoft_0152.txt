@@ -1,0 +1,84 @@
+134 L. EULERI OPERA POSTHUMA. Amihnwtaeba.
+
+Cum autem hae solutiones omnes in numeris fractis consistant praeter simplicissimam, quae est
+A=1, B=2, C=5, D=l,
+
+quaestio oritur satis curiosa, num praeterea non aliae solutiones in numeris integris reperiri queant?
+
+18. Problema 3. Invenire quatuor· numeros, αι binorum productum dato numero n auctum
+
+sit numerus quadratas.
+
+Sint A, Β, C, D quatuor numeri quaesiti, et cum AB÷n esse debeat quadratum, ponatur
+
+A :naa—bb et B==ncc—dd‚ ut fiat AB=(nac—bd)²—n(acl—bc)², quare dum sit ad—bc=‡l,
+
+haec conditio adimpletur. Quare ejusmodi fractiones {- et {f investigare oportet, ut sit ad-bc=-.·:1,
+
+αψθ a-G
+
+quod cum facile praestetur, idem eveniet in fractionibus -—— et
+
+b÷d b-dn cum utraque illarum con.
+
+ 
+
+junctis. Statuamus ergo
+
+A=naa—bb‚ B=ncc—dd‚
+C=n(a—i-o)²—(b—⁴-d)²‚ D=n(a——c)²--(b-d)²‚
+
+nihilque aliud superest nisi ut CD-i-rz reddatur quadratum, hoc est
+
+ 
+
+nn (aa — cc)²— 2η (ab — cd)²—i- (bb — ἀεὶ)2
+- 2η (ad— ὸσ)2 = [1 ,
+-ι- n ’
+seu oh (ad - bc)²= 1,
+nn (aa -- cc)²—·- 2η (αό -- cd)²—i- (bb - dd)² } — [I
+..- η '
+
+quae autem aequatio tantum solutionem particularem continet.
+
+19. Solutionem autem generalem, ut supra impetrabimus ponendo AB = pp—-n, tum quia Α
+
+pro C esse debet tam Ac-s-n: [l quam Bc-i-n: [1, ponatur productum
+
+’ nn-n-n(A-=-B)C÷ABCC=nn÷2nCae÷CCaeae,
+
+ 
+
+ 
+
+ 
+
+fiet C=”(A'⁴‘B—²⁵⁶) et AC÷n=”(A—³⁶)²‚
+xx - AB xx — AB
+unde patet Μ-ΔΒ quadratum esse debere. Statuatur ergo
+
+n
+ωω--ΑΒε--ωω-Ρρ-ι-ηε-ηγγ, seu aeae—nyy=pp—n.
+
+Simili modo ponamus vo — nzz = pp — n, ut obtineamus
+
+ 
+
+ 
+
+C=A-i-B—2x et D: A-i-B—2v
+
+w ΞΖ '
+
+ac superest, ut reddatur quadratum
+
+(A -ι- B)²- 2 (ω -ι- ο) (A -ι- Β) -1- nyyzz -t— ῑιων.
+
+At ob B=PP:'⁸ et A4B=M÷zp-n’ habebitur
+
+ 
+
+ 
+
+Α —ss-—m—.. .- .·. ....Α---.. .“ .-- Α....Α. .;-.. .-. . ⁴, ... ..
+

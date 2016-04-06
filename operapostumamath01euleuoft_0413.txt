@@ -1,0 +1,58 @@
+ 
+
+.. · κε’-,-ᾸᾹπετ-»ἐ»·.ι’·ν«.ι.,>, νῆὶ „ -. . , ‘ .' ‘ , s
+Ι
+
+Institutionum Calculi differentiales Sec-tio ΙΙΙ. Cap. 4. χ 395
+
+pro parabola, unde concluditur curvam habere pro abscissa oe=00 ramos in infinitum extensos
+parabolicoS, qui iu infinito· cum parabola hac aequatione 2ay=aeae contenta confundantur, ita ut
+abscissae ae=00 respondeat applicata ,γ’-τοο, (11130 03110111 abscissae oe=—00 conveniat. Hi igitur
+rami asymtotis rectis destituuntur. Ι
+
+u.. Situs 1111, qui ad‘horizontalem angulo semitecto est inclinatus, praebet terminos 111676 et
+εὖγ’, unde oritur aequatio oe⁸y⁴—oe⁶y⁶=0 sen ’ωω-γγεο quae resolvitur in 1135 (11135
+10-1- y=0 et ae—y·=0, utramque pro linea recta ad axem angulo semirecto inclinata, altera
+quidem inclinata, altera reclinata. Utraque igitur ostendit asymtotam rectam, ita ut haec curva
+duas habeat asymtotas, quae vel in ipsas ill'as rectas aequationibus oe÷y-·¹--0 et 111-γε 0
+expressas, incidant, vel ipsis erunt parallelae. Quanto autem intervallo ab iis distent, binc definiri
+nequit, quoniam ad hoc reliquorum terminorum aequationis ratio est habenda. Inclinatio ergo tan-
+gentium ad axem ,tantum 1110 indicatum puncta vero, ubi axem secent, hinc non cognoscuntur.
+Ceterum hinc apparet tam abscissae ωε--ι-οο quam ω--ι--οο geminas convenire applicatas
+y=÷00 et γε - 00, atque has duas asymtotas 50 invicem ad angulos rectos intersecare, cum
+utraque ad axem angulo semitecto inclinetur.
+
+111. 811115 horizontalis Ji 1101· tres terminos 10874, 10373 01 oe⁸y² transit, indeque emergit haec
+aequatio ae⁸y⁴÷2aae⁸y⁸-1÷aaae⁸y²=0 seu y²÷2uy⁸— baa=0,›ex (1113 resultant duo ipsius γ
+valores constantes: yz—--a-—i—qV5 et γε -— a—aV5, qui indicant duas rectas axi parallelas ab
+eoque 1115 intervallis distantes, quae simul ipsae eruut curvae 3571111013ος nam cum abscissae axz-00,
+vel etiam τε —00 valores finiti ipsius applicatae γ respondeant, manifestum est hos valores lineas
+rectas formare, quae-adeo ipsae futurae sint curvae asymtotae. Hoc ergo casu non solum inclinatio
+linearum, quae curvam in infinito tangunt, innotescit, > sed etiam ipsa harum linearum positio
+designatur. ,
+
+lV. Situs regulae -Kk transit per terminos 1118γῖ 01 <12⁷ γ, ex quo formabitur aequatio
+—fia²ae⁸y²÷a⁴oe⁷y·'=0 seu a²=boey⁴, 1111110 colligitur posito oe-——ssoo fore y=0. 81111113
+ergo abscissa ω infinite magna, ramus curvae in ipsum axem incidit, eritque ideo ipse axis asymtotos,
+perinde atque in hyper-bola aequatione aa = lioey· contenta.
+
+„ . Y. Situs· denique regulae Ll terminos dat ae⁷Y etoe5, unde obtinetur aequatio
+
+0111177- 3a⁷ae⁵=0 seu cc²y=3a³, quae dat 2¹:33⁰}-
+Fit igitur-pariter 7·πο ⁴posito oe=‡00, sicque hinc ipse axis denuo erit asymtota‘ lineae curvae
+propositae. Sed bicnrvae rami, qui ad axem convergunt, diversi sunt ab iis, quos situs >praecedens
+regulae, suppeditavit, quoniam horum indoles ad hyperbolem cubicam aequatione aeoey=3a³ accedit,
+
+, eun illorum natura per hyperbolam conicam indicetur.
+
+38, Ex hoc exemplo intelligitur, quomodo in genere ex ratione situs regulae de natura ramorum
+ininfinitum porrectorum sit judicandum. Scilicet si situs regulae a dextra ad sinistram progrediendo
+
+³* examini subjiciamus, primo occurruntii, qui deorsum vergunt ut Gy, 1111, tum' horizonmlis, si quis
+. ’ 311051,111 Ji, denique sursum vergentes ut Kk et Ll. Ac primo quidem si regulae situs est bori-
+
+zontalis, qui est quasi medium inter descendentes et· ascendentes, ex 00 proveniunt valeres finiti
+
+applicatae γ, qui, abscissae infinitae ω respondeant, hocque 03511 inveniuntur asymtotae curvae, quae
+G
+

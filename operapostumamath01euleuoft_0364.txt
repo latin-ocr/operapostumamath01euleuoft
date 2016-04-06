@@ -1,0 +1,58 @@
+346 ³ ¹· 1..÷¹13U'LERI> OPERA POSTHUMA. · Analyeis.
+
+¹6. Praeterea hic quoque diligenter observandum est, in calculo omnia diffirentiaiia perpetuo
+tanquam 'affirmativa spectari. Scilicet quantitas variabilis quaecunque z in statu ’ sequenti proximo
+semper in z-i-‘dz abire assumitur, sive ea crescat sive decrescat3 et cum differentiale sit differentia,
+quae remanet, si quantitas variabilis Ζ a suo valore sequente z—÷- ἀι subtrahatur, erit -i-dz semper
+eju‘s' differentiale. Nihilo tamen minus hoc modo omnium quantitatum, sive sint crescentes sive
+
+decrescentes, differentialia distincte exhibentur3 si enim z crescat, ejus differentiale dz affirmativum,
+-maae’ unde
+
+manifestum est quantitatem z decrescere, dum x crescit. Hac autem hypothesi innititur constantia
+
+ 
+
+sin decrescat, negativum valorem habere invenitur. Sic si sit Ζ-ε-Ξ- erit ÷dz=
+
+regularum analysis infinitorum, unde summus usus in calculum redundat. '⁴ ’
+
+17. Quodsi autem figurae veritati conformiter delineentur‚ atque in iis differentialia modo ante
+exposito repraesententur, saepenumero ea a calculo discrepare videbuntur3 neque tamen hinc ulla
+confusio, si ad principia sedulo attendamus, oriri poterit, quin potius, si ab hac lege recederemus,
+maximis difficultatibus implicaremur, unde nos extricare non possemus, nisi novis calculi differentialis
+regulis stabiliendis. Sic si quantitas variabilis ω (Fig. 3) linea recta ΑΡ repraesentetur, eaque in situ
+proximo abeat in Ap, haec linea Ap per ae÷doe designari debebit, eritque propterea Pp=Ap —AP=—doe.
+
+Si quis autem hoc decrementum Pp per ἀπ’ exprimere velit, atque ideo Apzae— dm statuere, is ¹
+
+contra principia calculi differentialis stabilita peccaret, vel aliis regulis ad calculum prosequendum
+uti deberet. Praeter necessitatem autem has regulas multiplicare ridiculum foret.
+
+18. Omnis autem ambiguitas evitabitur, si, postquam singulas quantitates in calculum ingre-
+dientes suis litteris denominaverimus, easdem quantitates in situm proximum translatas iisdem litteris
+suis differentialibus auctis designemus. In figura autem, si lineis principalibus litteras majusculas
+adscripserimus, iisdem in statum proximum translatis, easdem litteras minusculas adscribamus. Sic si
+> (Fig a) in curva BM ad axem ΑΡ relata vocetur abscissa AP=ae‚ et applicata PM=y‚ in situ ‘proximo¹
+erit abcissa Ap=ae4dae, et applicata pm=y÷dy. Unde manif« stum estsere Pp: Ap-AP= dcc,
+et ducta mn axi parallela, erit particula Mn==Pm-pm=-dy. Imprimis igitur attendendum estad
+quantitatem variabilem primariam, cujus reliquae tanquam functiones spectantur, qua cautela adhibita
+
+omnes difficultates, quae alias subnasci possent, sponte evanescent.
+
+19. Neque etiam opus est, ut omnes quantitates variabiles ab eodem axis puncto initium trahant, .
+
+a quo abscissae computantur; sed nihil impedit, quominus reliquae quantitates variabiles ad aliud
+principium referantur. Sic etiamsi abscissarum ΑΡ (Fig. 2) initium in axis puncto A collocetur,
+sieri potest ut, exempli gratia, area curvae BPM ab alio puncto fixo B aestimetur. Positis-enim
+coordinatis AP=oe‚ PM = γ, si vocetur area BPM-20, erit puncto P in situm proximum, μ pro·
+moto, Ap=ae÷doe‚ pm :Y-i-dy, et area Bpn1=v÷dv‚ unde cum sit dv=PMmp, erit ul'.¹
+ante dv=ydoe. Simili modo, si (Fig. lv) sumtis abscissa APss-—Q PM εγ, area CDMP a puncto,
+fixo C computetur et ponatur = v, flet omnibus in situm proximum translatis, area CDmp: ο-ι-ἀν,
+
+eritque ergo dv = — PMmp = - ydoe. Atque si arcus DM positus suerit πε, erit· Dm:- s—i-gds, .
+et ds = — Mm = -- V(dcc²-i- (13⁶²). Hacque, animadversiones sufficiunt ad · calculum ·οοοω figura
+conjungendum.
+
+ 
+

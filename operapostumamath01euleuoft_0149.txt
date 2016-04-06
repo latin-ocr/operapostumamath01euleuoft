@@ -1,0 +1,72 @@
+Problema Dabplmueeum. 131
+
+11 . Datis autem duobus numeris A et B, ut sit AB—1 = [1 =pp, tertius C infinitis modis
+inveniri potest sequenti modo: Cum tam Act—1 quam Bel—1 quadratum esse debeat, statuatur
+primo productum ABCC— (A -ι- B) C÷ 1 = (mC —i- 1)², unde reperitur
+
+0:322& uudeflt Ac-1=j;‘1'‚‘·„’„², et BC-¹={¹Z‘[”„⁸.'.‚'.· ἶ
+
+ 
+
+ 
+
+ 
+
+Tantum ergo superest ut ΑΒ —mm = pp -ι- 1 -mm reddatur quadratum puta π nn, seu ut sit
+mm÷nn=pp÷ 1. Hunc in finem sumantur duae fractiones a et α, ut sit aa-i-aa: 1, fiatque
+
+ηιτ-ιιΡ-ι-α et n=oep—a, ex quo habebitur
+
+C: Δ-ι-Βὲὲᾲιρᾜ)
+(αφ-ω’
+
+ 
+
+ubi sumtis pro lubitu duobus numeris f* et 9, capi oportet
+
+12. Hinc adeo plures valores pro C in integris inveniri possunt3 sumto euim f: 1 et 9 = (l,
+prodit C = A -ι- B ss ΞΡ. Deinde 'posito f: 21) et 9 = 1, prodit
+C= (A -ι- Β) (ῑιρρ -ι- 1)²‡ 21) (bpp -ι- 1) (Ιιρρ -i- 3).
+Tum vero etiam sumendo f: lipp -ι- 1 et 9 = 21», fit
+C= (Α -ι- Β) (16p⁴-=-12pp —1-z›1)²‡ 21> (16p4-i- fflpp -1-1) (16p⁴-÷- 20pp -ι- 5).
+
+Porro, positio f= 8p⁸÷ lvp et 9 = lrpp -ι- 1 dat quoque duos novos valores integros, Ex quo intel-
+ligere licet‚ in genere formam tertii numeri C fore
+
+⁷ C=(A-·-B) M²ssepMN, ,
+ubi quantitates M et N has series recurrentes constituunt:
+M=÷1, lvpp-i— 1, 16p⁴÷12pp÷ 1, ssbp⁶÷ 80p⁴÷2tvpp÷ 1, etc.,
+N=÷ 1, lippa-3, 16p⁴÷20pp÷5‚ 64p⁶÷112p⁴÷56pp÷z etc.,
+quarum utriusque scala relationis est lvpp -⁴- 2, - 1, ita ut in genere sit ’
+
+M = (lsss -1-ΡΡ)-*-Ρ)2λ2“;ι(1-Ι- (ης *Dm -· &²34¹ et Ν = (Vss -ff-pp)-÷--p)²‘³·’·¹2- (VH -f-pp) - ,ἠύ-Η .
+’ῧ-ΡΡ P .
+
+Vel posito 2p = q, et denotante n numerum parem quemcunque erit
+
+’ (η-ί) η-ι (n—2)(n—3) n-4 3)('·-⁴)('¹-5) n—e
+
+ 
+
+ 
+
+M= q”÷ ¹ q -ι- 1.2 q -ι-(”” 1.2.3 q -i—etc.
+N=11'¹-·—‘'‘T¹'11¹¹·'·²··-‘“⁴‘¹1'‚‘{‘²'11'¹“⁴-⁴-‘”⁴‘¹)(s‚{f{3'(”‘⁴'‹1“‘⁶-=-·0t0·
+
+ 
+
+ 
+
+13. Ptoblema 2. Invenire quatuor numeros, ut binorum productum una cum summa eorun-
+dem binorum faciat quadratum,- seu, quod eodem redit, Invenire quatuor numeros Ἀ. B,
+C, D, ut binorum producta, unitate minuta, εἰπε quadrata, sicque hae sea: fbrmulae
+ΑΒ-Ι, AC—l, AD—l, Bc—l, BD—l, (ID—l
+Ιίωιι quadrata.
+
+Pro solutione huJus problematis spectemus duos numeros A et B tanquam datos, ut sit
+,AB—¹:121», seu AB=pp÷1‚
+
+Ο
+
+ 
+

@@ -1,0 +1,62 @@
+198 L. EULERI OPERA POSTHUMA. Amthnwtz'ca.
+
+a2-t-b2-1- c²÷d²=rm', et quia α<ιὲ n, ὁ<ὲ n, c<{5n, d < ἑ-η,
+erit summa αἳ-ι- 12²4- c²÷ d²< η’, ‘ideoque nn'<n², ergo n'<n, ’
+nisi sorte sit n: 1. Divisa ergo per π illa aequatione, prodit
+N: Νἳαί-ι- 2NA -ι- n (a2—-l— fi²÷ 7²4- 6²),
+quae per η’ multiplicetur, ut habeamus
+Nn'= N²n'²÷ 2ΝηἈ -ι- nn'(a²—i— ss²÷ 7⁶²4- 6²);
+quia autem ἰη’-τ ‹1²4— 11²4— c²-{- d²‚ ultimum illud membrum abit ,in
+(12²4- b²÷ c²÷ d²) (a²—÷- ss²÷ y²÷ 6²) = A²÷ B²÷ C²÷ 12²
+per lemma-113 consequenter
+Nax: N2n'²÷ 2Nn'A -ι- Αὶ-ι- Βὶ-ι- c²-÷- D²= (Nn'-÷- A)²-÷- 32-1- C²÷ οἳ.
+
+Sicque formula Nn' etiam erit summa quatuor quadratorum, existente η’ <η. Eodem modo pervenire licebit
+ad formas ulteriores Nun, Num etc. ita, ut sit nn< η’, n'‘'< nn etc. sicque tandem perveniri necesse est ad
+sormam N.1, quae ergo etiam est summa quatuor quadratorum. Q. E. D.
+
+Hinc etiam sequens Tnnonmu facilius demonstrari potest, quam hactenus est factum:
+
+Summa duorum quadratorum inter se primorum alios non admittit divisores, nisi ‚qui ipsi sint summae
+duorum quadratorum. ι
+
+Lamus. Productum ex duabus summis duorum quadratorum ipsum in duo quadrata resolvere.
+
+Sit productum (a²-÷- 12²) (a²—†- W), et sumtis A=aa÷ 1>ss et B=ass-ba'‚ erit
+
+<a²÷ (²²) (αἳ--ι-4 (2⁶²) == A²÷ B2.
+
+Si nunc N suerit divisor formae p2—1-q2, posito quoto =n‚ habetur Nn=p²÷ q2. Nunc igitur p et q ita ex-
+hibeantur, ut sit p=Na÷noe et ᾳΞΝὸ-ι-ηβ, ita, ut α et b sint minores quam ἐφη hincque a²÷b²<{- n²‚
+
+quo substituto fit
+Nn = N²(a²-{- b2) -1- 2Νπ (αα 4- ῠβ) —t- n² (0⁶²4- β’) ,
+
+quae cum per η divisibilis esse debeat, statuatur a²÷b²= κη’, et diviso per n erit
+
+ΝΞ N2n'—=- 2ΝΑ -ι- n (αἳ-ι·- (3²).
+Multi plicetur per η’, erit
+Nn'= N²n'²·-{— 2Nn'A -1- nn' (αξ-1- ,62)
+at ἰη’ (02²4- ¹6²) = 24²4- B²‚ ergo
+
+Nm: N2n'2-1- 2ΝηἈ -ι- Αε-ι- B²= (Nazi- A)²÷ 13²,
+sicque Nn' est etiam summa duorum quadratorum, ubi η’<-ἑ-η. Hocque modo ulterius progrediendo mox φα·
+
+venietur ad N .1. Consequenter N certo erit summa duorum quadratorum.
+
+Atia demonstratio simplicior ejusdem theorematis„-
+
+Si numerus quicunque N fuerit divisor summae quatuor quadratorum P²÷ Q2-t- R2—t-82, quae s'ingula
+
+seorsim per eum non sint divisibilia, ille ipse numerus quoque erit summa quatuor quadratorum.
+
+Dimons'rns'rio. 1. llla quadrata semper ad alia reduci possunt minora quam ÷N². Ponatur enim
+
+P-—szssp‚ Q=Q3Nssq‚ R=(5‚N‡r, sszss-s,
+ubi literae 21, ᾖ, (ἱ, D ita assumi possunt, ut numeri p, q, r, s infra semissem numeri N deprimantur, quibus
+substitutis evidens est, formulam p2—1-q2-1- r²÷s²‚ quae utique minor erit quam N²‚ divisibilem rore per N
+et quotum fore minorem quamwN.
+11. Sit ergo iste quotus =n‚ ut sit Nn=p²÷q²÷r²÷ ⁸², et ratione hujus numeri n radices istorum
+quadratorum ita exhiberi poterunt Ἴ - .
+pz-a-t-an, q=b÷ssn, ν--σ-ι-γη et szd-ff-on,
+

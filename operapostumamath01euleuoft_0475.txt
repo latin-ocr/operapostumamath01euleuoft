@@ -1,0 +1,64 @@
+De comparaubne arcuum 'curvarum thecuficabtltiem. 457
+1.·'³.··XV11.
+
+Hinc ergo infinitae formulae- integrales exhiberi'='possunt'‚ (11130 etsi ipsae non 'sint‘integrabiles,
+
+‘ earum tamen differentia vel sit constans, vel geometrice seu algebraice assignari queat. Quae com· ,
+
+paratio cum in analysi insignem habeat usum, tum imprimis in arcubuscurvarum irrecu‘flcabilium
+inter se comparandis summam affert utilitatem, quam in >,aliquot esemplis ostendisse juvabit.
+
+Do comparatione arcuum Cin-culi.
+
+1. Sit radius circuli =1, in eoque abscissa a centro sumta =z3 erit arcus ei respondens
+= sd* (1-21) 2 cujus propterea sinus est =z. Ut igitur nostrae formulae hujusmodi arcus circuli ⁵
+
+exprimant, poni debet A=l‚ B=0, C=—1, quo facto habebimus
+’ ββ-αντ- -Ρ, B(3-7)=0 et 33-77=— . -Ρὲ
+
+has enim determinationes ab ipsa origine peti oportet, quia ob B= 0, valores inventi flunt incongrui.
+
+Jam ex formula secunda sequitur vel ‹5—y=0', vel β- 0, quorum ille valor 3=Y formulae
+
+7
+
+tertiae adversatur. Erit ergo 18: 0, δ- -- ΞΥ(γγ- p) et '02:23ae Ambae ergo quantitates con·
+
+stantes γ et p arbitrio uostro’ relinquuntur.
+2. Quo formulae nostrae fiant simpliciores, 'ponamus γ- set 11- — (Ξο, eritque ⁴
+oe=÷÷cc‚ β 0, y=1 et 6=—V(1—cc), Ι
+30 nostra aequatio canonica, relationem variabilium ω et γ determinans, fiet
+0;--00-1-εὶ,·ειέ’-1-’;γ·’;γ’--2.·1,·;ΥΥ(1--00),Ι ”
+ex qua colligitur > y: aeV(1 —cc) Ξ οΥ(1 —oeoe). Ι
+
+3. Quodsi ergo iste valor ipsi y· tribuatur, erit
+
+dv
+
+siloa—xxx) ““ <1 —mo Ξ ⁰⁰⁶S‘·
+
+ 
+
+Deuotemus brevitatis gratia haec integralia ita
+
+‚Ama-³35) ΞΠ. m et synd-³5⁹⁹) =1Ly ’
+utque Π. ω et Π. y· indicabunt arcus circuli, abscissis seu sinibus ω et γ respondentes. Quocirca erit
+
+Π. ω -Π, (ωΥ(1-00) -1- cV(1—ccoe)) = Const.
+
+ 
+
+ 
+
+¹». Ad constantem determinandam ponatur‘a:=0, et ob 11 ,ΟΞ-0, fiet Const.= -Π.0 sicque erit
+- Π. 0-1- Π. oe= II. (oeV(1—co) -1- οΥ(1 —aeae));
+
+ι
+“ unde arcus assignari poterit aequalis summae duorum arcuum quorumcunque. - Ac si a: capiatur
+
+negativum ob 11. (— oe)= -Π. ae, erit .
+.,,« , , 1, , Π. 0-Π. ωεΠ. (οΥ(1.-,-ωω)--ωΥ(1--00),)
+
+qua arcus, differentiae duorum arcuum aequalis, definitur.
+, 1..1·ἰιοεῑορ.μοα1ηωτ.1. “ 58
+
