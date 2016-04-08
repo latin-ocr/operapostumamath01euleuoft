@@ -1,0 +1,59 @@
+ 
+
+Tractatus de numerorum doctrina Cap. 10. 41
+
+’ 333. Si ergo sit p= 211, numerusque primus divisor propositus = ltvq-i- 1, tum inter residua
+quadratorum, etiam singulorum complementa deprehendentur, hoc est, si residua fuerint 1, οι, ,8, y, etc.
+etiam residua erunt — 1, -α, -β, -γ, etc.
+
+3:35. Pro quovis ergo quadratorum, ex hac progressione 1, b, 9, 16. . ,ἵκῃ assumto, dabitur
+aliud, quod ad illud additum producit summam per leq—el divisibilem, sen cum multitudo horum
+
+quadratorum sit =2q, et quodlibet habet quasi suum conjugatum, dabuntur q paria duorum qua-
+dratorum diversa, quorum summa sit per lupi-1 divisibilis. (*)
+
+335. Et quia singula quadrata non superant liqq, binorum summa certe minor est quam 8qq,
+unde si talis summa per loq—fi dividatur, quotus certe erit minor quam 211· Hic autem quotus
+nisi sit =2‚ etiam erit vel numerus primus formae Ῑιιι-ι- 1, vel talium aliquod productum (316).
+
+336. Quoties ergo divisor primus est formae tq—i-l, toties inter residua quadratorum occurrit
+tq, ideoque etiam q, ‘tanquam complementum unitatis, cui aequivalet - l: parique modo ibidem
+etiam occurrunt omnia reliqua -quadrata negativa -ῖι, -9, -16, etc„ ita ut residua constituantur
+complexa, tam quadratorum ipsorum, quam eorundem negative sumtorum, una cum productis ex
+binis quibusque, quorum tamen omnium numerorum, si per divisorem uqa—1 ad minimam formam
+
+perducantur, multitudo erit -- 2q, ita ut totidem excludantur.
+
+337. Contra autem, si divisor primus sit formae [ιιι-1, tum —1 et omnia quadrata negativa
+inter non residua reseruntur (³³⁴⁶). Si enim - 1 esset residuum, soret (—1)²‘7’‘¹—l divisibile per
+riq-1, quod autem <fieri nequit. Praecedente autem casu, si — 1 esset non-residuum, divisore
+
+existente liq-i- 1, tum (— 1)²‘l....1 non esset divisibile per ltq -1-1, quod perinde est falsum.
+
+338. Sola autem quadrata semper in ordine residuorum reperiuntur, reliqui vero numeri, pro
+ratione divisoris, mox inter residua, mox inter non-residua cadunt, quemadmodum modo vidimus
+
+-1 esse residuum, sidivisor sit liq—ff- 1; at -1 esse non-residuum, si divisor sit ltq—i.
+
+339. Pro ceteris numeris non-quadratis simile discrimen observatur: Scilicet numerus 42
+inter residua reperitur, quoties divisor primus est vel hujus 8q-i- 1, vel hujus formae 8q— 1, seu
+8q÷7. Reliquis casibus, quibus divisor est vel 8q—i-3, vel 8q÷ 5,. numerus ÷2 inter non-
+residua locum occupat. (*³'‘*)
+
+340. At numerus —2 inter residua occurrit casibus, quibus divisor primus est vel 8q÷ 1,
+·vel 8q-i-3; idem vero numerus —2 inter non-residua cadit casibus, quibus divisor primus est
+vel 811-2-5, vel 8q-i-7.
+
+341. Numerus porro ÷3 est residuum, si divisor primus sit vel 12q-i- 1, vel 12q÷11; at
+idem erit non-residuum, si divisor sit vel 12q—1-5, vel 12q-uss 7. Verum numerus —3 est residuum,
+si divisor primus sit vel ’12ᾳ-ι-1, vel 1211-1-7: at -— 3 erit non-residuum, si divisor sit 12q÷5‚
+vel 12q÷ 11.
+
+Scripturae ad maryinem:
+(·) Semper duo exhiberi possunt quadrata, quorum summa divisibilis sit per numerum primum tq÷ 1,
+et quidem alterum quadratum ad lubitum assumi potest.
+(⁰¹) Non ergo datur summa duorum quadratorum per talem numerum primum loq- 1 divisibilia.
+(''“) Hoc autem non, ut praecedens, demonstratione muniri potest.
+
+L. E u le ri Op. posthum. Τ. 1. G
+

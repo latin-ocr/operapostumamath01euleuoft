@@ -1,0 +1,81 @@
+ 
+
+Problema Diophanteum. ¹29
+
+Invenire tres numeros v, x, y, quorum binorum produt-uam, summa eorundem auctum,
+producat numerum quadratum, ita ut hae tres formulae vx-i-v-i—x, vy—i-v-i-y, ηψπ-μ]
+quadrata reddi debeant.
+
+Deinde vero eandem quaestionem ad quatuor hujusmodi numeros extendam, quandoquidem tum
+maximae difficultates occurrunt, dum haec quaestio, uti est proposita, generaliter resolvi potest, ac
+solutio tantum in numeris integris certa artificia postulat.
+
+5. Ad hoc problema resolvendum, ponamus ν-ι-1.-Α, aeq-1:13 et yur-1:03 ut
+sequentes tres formulae ΑΒ- 1, Ac-1 et BC—1 quadrata fieri debeant. Statuamus igitur
+primo AB =pp -ι- 1, AC= qq-i— 1 et BC: rr—i- 1, eritque ABG: V(pp-i—i)(qq-f-l)(rr-i-1).
+Quo jam haec formula facilius rationalis efficiatur, litteras p et q ut datas spectemus, ponamusque
+(pp÷1)(qq-÷—1)=mm-i-nn‚ ut sit m=pq‡1, et n=p‡q, fietque
+
+ABG = V(mm -ι- nn) (rr -ι- 1) = V((mr -ι- n)²-i— (nr — m)²) ,
+
+ 
+
+quae radix statuatur = mr -ι- n -ι- t (nr — m), ut prodeat nr — m = 2mrt -ι- 2ηε -ι- nrtt — mu,
+hincque r· = ζεῖ ΒΞΞΖ.
+
+(mm-i-nn)(n-÷-1)² (mm-*-⁷⁸⁷⁸)(²²-·-1)
+(ηατ- 1)-ι-Ξηιε)2 et ABG Ξ n(tt— 1)-·-2mt
+
+ 
+
+ 
+
+6. Erit ergo rr÷1= ν unde ob BC=rr÷1,
+
+ 
+
+ 
+
+reperitur .
+A=”(“}.¹g‘1''2m‘‚ et ob mm÷nn=(pp-i-l)(qq-i-1),
+B = (pp-e-1)(tt—·-1) et
+τιμε- 1)-1-2ηιε
+
+C Ξ <erbum—fi) ’
+n(tt-1)-⁵-2mt
+
+ 
+
+existente m=pqss 1 et n=p‡q.
+
+7. En ergo solutionem maxime generalem nostri problematis, in qua adeo binos numeros p
+et q pro lubitu accipere licet, ita ut binae formulae AB— 1 et Ac —1 datis quadratis aequentur3
+et cum littera t etiamnunc arbitrio nostro permittatur, pro tertia formula BC — 1 infinita quadrata
+reperiri possunt, unde hoc problema sine ullo dubio ad primam partem, ubi solutiones generales
+exhibere licet, erit referendum. Verum cum hoc modo terni numeri quaesiti plerumque prodeant
+fracti, si solutiones in integris desiderentur, alia artificia in hunc finem adhiberi conveniet, quae
+
+hic exposuisse juvabit.
+solutio problematis per numeros integros.
+
+8. Quoniam numeros p et q ut datos spectamuS‚ solutio ita facilius obtinetur. Posito
+
+ 
+
+ 
+
+AB=pp÷1 et AC=qq÷1, ut sit ΒΞῙΨΪ1 et 0:3⁹3:ss
+> ο
+01·st statim ΒΟ- ¹ =spp÷1gjqq÷1)— ¹ :mm-t-Z—AA‚
+
+quae forma cum esse debeat quadratum, sumatur A == n = p —q, seu p = q —f- A, fletque
+
+ΒΞΛ-ῡ-ἓᾳ-ι-ἕ-Ί-ΔΪΞ ‘et (5:⁹⁹3-¹
+
+ 
+
+²
+
+unde numeros A et q ita accipi conveniet, ut A sit divisor ipsius <111⁴- 1. Quare necesse est pro
+ι.. turm op. posthuma. r. 1. 17
+

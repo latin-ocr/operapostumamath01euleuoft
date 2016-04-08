@@ -1,0 +1,65 @@
+ 
+
+Litterae ad cel. Laqranqe datae. 571
+
+’ 13.
+
+Monsieur ⁷ et tres-cher conitere,
+
+Je suis 'exn-ementem ravi, que vous avez reou avec tant de bonne mon ouvrage sur le calcul integral; j'ai
+tache d’y ramasser tout oe que j'ai observe de remarquable sur ce sujet. J'espere vous envoyer au plutot la
+111⁰ partie de cet ouer-agn elles vous appartient presqu'uniquement et je ne doute pas que vous ne la portiez
+hiemet 3 uu plus haut degre de perfectiori.
+
+M. Formey tn'a envoye les feuilles du dernier volume des Metuoires de Berlin, qui contiennent les excel-
+lentes pieces dont vous me parlez dans votre lettre. Comme je ne suis pas en etat de lire moi-meme, j'ai prie
+notre habile M. 'Lexell de m'en faire 13 lecture, que sai entendu avec 13 plus grande avidite. J‘ai admit-e non
+seulement 13 profondeur de vos recherches, meis aussi' et sui-'tout leur multiplicius, qni aurait foui-ni 3 tout
+autre dequoi remplir une douzaime d'excellens Memoires differente. Vous savez„ Mons-iem, que j'ai beaucoup
+travaillb sui* 'cette espeee d’Analyse, et que j’en connais parfaitement tontes les difficulties, et parcant sai νὺ
+avec la plus grande satisfactioni que vous en avez sut-monte quelques unes, tres heureusement. La methodo
+que vous employez pour resoudrev l'equation A z pp ss qu est d'autant plus ingenieuse qu'elles ne suppose
+rien qui ne soit fonde que sur l'induetion. J'ai ete curieux d'appliquer d’abord vos methodes 3 des exemples
+qui ont pour la, plupart tres bien reussi3 mais· l’exemple suivant m'a cause quelque embarras3 il s'agit de
+
+resouilre en nombres entiers cette equation
+
+, 101 πρὶν-1344.
+
+101
+
+Selon voire* methode ἰ1 faut done ο1ιει31ιει· ιιιι nomlwre α plus petit que —2-—‚ tel que αα - 13 soit divisible
+
+ι par 101, jai trouve a=35 et de la Αἐ12ερ’2- 134’2, pendant que A· =101 et B=13; d'ou lon
+tire p' = 5 et q'- = 1· lione selon votre methocle οιι trouverait:
+
+ 
+
+et pariunt ees nombres n'etant pas entiers- on devrait conclure que'oe eas n'est pas possible; cependant on
+nesbit za cette question en premnt p=123 et qz 34, ce qui me faisait croire que von-e methode eluit
+iustnffisnte. ’
+
+: Meis en eet-ivam oeci„ je vois que je n'ni pas aem bien observ& les preceptes que' vous donnez: ear
+
+pilisque A' = 12. est divisible par'le entre b, il faut posen· ξε 3 =u-—· iamt ee qui donne νει et u: 1,
+
+d'ou l'on tire p' =8 et ‹1'=2‚ et alors on aura
+
+’ 35. ssslee ματη 35. esss 35‡⁴‚
+¹³² 12. =†'⁰‘⁹=T=†’
+
+ 
+
+or ces formules ne sauraient non plus donner des nombres entiers. Cependant je vois bien qu'on parviendrait
+ὸ ma solution si on ιιι-33311 p' = 4⁷ et q' = 13 parsque 12 = 107² - 13.13² = 2209 -- 2197, car on
+ticeni& de 13 ε,
+
+- 35.⁴⁷‡.¹3.13. t 35. iassn
+P - 12. ‘³ ⁹— “· 12.
+
+ 
+
+ou les signes superieures donnent p=123 et q=3b. Mais quelle raison nous conduit 3 supposer
+
+p'zw et q'ssl3?
+

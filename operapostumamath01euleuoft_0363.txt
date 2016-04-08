@@ -1,0 +1,51 @@
+Insttlulz'omcm Calculi: dtffimtehlss. Sedt‘o 11Ῑέ Cap. 1. 315
+
+alinae curvaeBM, et hanc ob rem etsi ·ipsa..linea curva plerumque·.per quantitates ω et γ. exprimi
+nequit, tamen⁴ ejus differentiale *per ,quantitatum ω etzy· differentialia,*commodeexprimitun ,Quo
+commodo cum differentiae finitae careant, perspicuum est, quantam utilitatem analysis infinitorum
+sit allaturae .. . . -
+
+> 12. Cum y· sit functio ipsius m, ejus ’ἀίίῗετοιιῑίεὴ dy· hujusmodi sormam pdm habebit, ubi p
+erit functio ipsius ω per differentiationem cognoscenda. Quane ob dy=pdae, differentiale ipsius
+lineae.curvae V(da:² ÷dy²) induet hanc ‘formamdissae-n- pp). Quodsi ergo longitudinem curvae,
+abscissae AP=oe respondentem vocemus =s, etiamsi haec quantitas *s plerumque fmito modo per
+a: et J· exhiberi nequeat, tamen ejus differentiale facile assignatur, cum sit dsaedoeVss-f- pp) Hinc
+igitur vicissim via patet ad longitudinem lineae curvae s inveniendam3 id enim solum requiritur, ut
+quantitas investigetur, cujus differentiale sit -daeV(l—i- pp) haecque quantitas longitudinem lineae
+
+“ curvae s exprimet. Hoc autem opus ad calculum integralem pertinet.
+
+” j 13. Quoniam in infinite parvis triangulum Μηιιι fit rectilineum, ejus area Mnm assignari poterit,
+eritque =—'c1'aedy. Cum igitur totius areae, quae linea curva et coordinatis τις et y· includitur,
+
+differentiale seu incrementum infinite parvum sit trapezium PMmp, id quoque exhiberi poterit.
+Trapezium enim PMnip constat duabus partibus, rectangulo Pan, cujus area est= ydus, et triangulo
+
+Μηηι-τ-ἑάωᾷγ, unde area. trapezii, atque adeov differentiale areae erit :ydoe -ι--ἐ-ἀωάγ. Osteusum
+
+autem est supra terminum {dxcix prae altero yda: evanescere. Cum enim sit
+
+’ὲγάω-ι- daedy=(y·-i-—2— —i—dyssae et 5⁸43 ἱᾶγεγ, ob dy—-'O‚
+erit 'areae curvae differentiale -τ-γᾷως unde quantitas, cujus differentiale :ydor exhibebit aream
+inter lineam curva‘m' et 'coordinatas <fe et y· contentam. ’ ’ ” J
+”’ 11ι“.Ηίιι(3 etiam infinitarum aliarum quantitatum, quae ipsae *per ω et γ exprimi nequeunt,
+differentialia assignari poterunt. Concipiatur curva BM circa axem ΑΡ converti, ut generetur soli-
+dum rotundum, atque hac rotatione trapezium ΡΜηιρ generabit conum truncatum, cujus soliditas
+praebebit differentiale illius solidi rotundi3 superficies autem convexa istius coni truncati differentiale
+superficiei solidi rotundi. Ad haec differentialia exprimenda sit 1: π ratio diametri ad peripheriam,
+seu radii ad semicircumferentiam, erit circuli, radio PM=y¹⁴descripti, peripheria ==2ny, et area
+πγγς circuli autem radio ρηιί-γ-ι-ᾱγ descripti peripheria =⁴2n(y—r-dy·) et area‘2n(y÷dy)².
+jam pro differentiali superficiei erit semisumma circumferentiarum vutriusque basis coni truncati
+έπγ-ι- π(γ-ι-,(1γ)--2πγ, quae per latus coni Mm=V(dae²—r- ἄγ’) multiplicata dabit differentiale
+superficiei solidi rotundi = 2⁷tyV(doe²—÷- ἄγ’) = 2nydaeV(l-i- pp), posito dy: pdx.
+
+’ 15. Soliditas autem hujus coni truncati, quae dat differentiale soliditatis solidi rotundi, secun-
+dum regulas stereometriae reperietur, si ad summam basium πγγ-ι- n(y·—{—dy)² addatur media pro-
+portionalis -inter easdem 'ny(y÷dy), eritque aggregatum = 3nyy÷3nydy÷ndy²=3nyy, ob
+reliquos terminos prae :huy-y>evanescentes.¹ Deinde triens hujus summae πγγ multiplicari debet* per
+· altitudinem coni ‘scaleni Pp=doe, ¹'eritque productum πγγάω- soliditas coni truncati, simulque diffe-
+rentiale soliditatis 'solidi ‘rotundi3 unde ope calculi¹ integralis vicissim tam volumen istius soHdi rotundi
+quam ipsius superficiei inveniri poterit. ’
+
+ι.. :uteri ομ poam-2· τ, ι. kh·
+

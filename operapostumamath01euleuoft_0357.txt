@@ -1,0 +1,79 @@
+Analysefd‘un problbme du calcal des probabilius. · 339
+
+En rhsumant tous ces cas, nous obtenons 16 tableau suivant:
+
+'Nombre (168ν billets non-tirks probabilius
+¹* · ᾖ aeneas
+t‘ Α   (¹009)²
+⁵ ⁶·‘1331353
+6 emas
+(10.9)ι
+⁷⁷ 8 8.2.1.2
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+· (10.9)2
+1.2.1.2‚ ·
+
+ 
+
+<10.9)2
+
+Si' au lieu de ¹0 1)ἰ116ιε,Δ il y en a‘n, dont on tire deux, ὲ chaque remise, on aura:
+
+1.¹ Eu tigant deux fois.
+
+ 
+
+ 
+
+ 
+
+pour le nombre des hillets non—sortants la probabilit&
+n - 2 ’ 1.2
+n(n ·- 1)
+η n -- 3 2 . (ἡ “ Μ
+n (n — 1)
+f n—l.. (vt—2) (rc-3).
+n(n — 1)
+
+Considerons maintenant les numbrateurs (16 ces differents cas, et en posunt, *pour plus de simplicite,
+
+n—2=m, ils serunt 2, temet m (m — 1); leur somme nous donne la valeur m²÷3m÷2 et
+
+par consequent, l'e'equation A -s‘- Bm -ι- m (tn—1) = m2—ff- 3m -ι- 2, qui doit subsister pour toutes les
+
+=valeurs de m, nous fournit les valeursdes coefficients A et B.
+
+11. En tira'nt trois fois, on aura: - ,
+
+ 
+
+ 
+
+pour le nombre des billets non-sortants la probabilit& .. ,
+1.2.1.2
+''F—2 , ¹ ¹ ηιμ-ηπ,
+”-·3 , ’ ³ 8..(”„}({)‘-²‘,};². -
+² ’ ⁴ (n—2).2.(n-3).2-0-3.1.,2.(.,-2)(„..3
+n — t, ” ’ 8 ’Ἵᾙᾘ
+¹⁸·- 5 = Α 6 ,Μὲἒᾶ-ἕῦξξ-θ-ἳὶ
+ιι-ἐ Q
+η2(νι--1)2
+
+En posant de nouveau n -ῥ 2,-εής, . 163 ιιιιωόταῐωτε (16 ces differents cas seront
+ιι, 32m, 38m(m-÷-1), 12m(m2-1-)<n{-2). et m(m—1)(m-2) (mg-3)
+
+dont la somme nous donne la valeur (ιη’-ι- 3m2-1-2)² et, par οοιιεόφιοιιῐ, ·l'dquation pour determinet*
+
+Ἴ les coiifficients lv, 32, 38 et 12 sera
+
+A÷Bm÷cm(m-1)-÷-1Jm(m—1)(na-2)÷m(m-1)(m÷-2)(nss-a)=(m³4anss-÷ss2)¹.
+

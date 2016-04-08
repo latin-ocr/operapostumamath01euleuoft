@@ -1,0 +1,39 @@
+142 L. EULERI OPERA PosrnUMA. mmm-00,
+
+Nunc igitur a latinis a, b, c incipiamus, ac facile crit eas nostro quadrato, in 9 cellulas divim, ita
+inscribere, ut in singulis fasciis tam horizontalibus, quam verticalibus omnes hae tres litterae occurrant,
+
+veluti ex hoc schemate videre licet:
+
+ 
+
+ubi etiam in altera diagonali eaedem tres litterae a, b, c reperiuntur, in 'altera vel-0 cadem flagra
+c ter repetitum facile autem intelligitur fieri plane non posse, ut in ambabus diagonalihus simul
+omnes litterae fiant diversae3 haec autem circumstantia nihil turbat, dummodo summa istius diagonalis
+scilicet 3c aequalis sit summae reliquarum fasciarum a -fl— b—i- c, hoc est dummodo fuerit 2c=a÷b.
+Unde manifestum est pro c sumi debere 3, litteris vero a- et b assignari valores 0 et'ss, sic enimv
+fiet 2c=a÷b. Pro lubitu autem poni poterit sive a= 0, sive b: 03 hoc observato summa ex
+singulis fasciis resultans est a-i-b-i- c = 9. ’
+
+§ 8. Simili modo litteras graecas in tale quadratum distribuere licet; talem autem figuram
+ordine inverso repraesentemus: · · ·
+
+γβα
+ῖῖῖ
+βα γ
+
+ubi necesse est ut sit 2y=a÷ss, ideoque y: 2. Sic enim si singulas cellulas prioris figurae
+cum singulis hujus figurae ordine naturali combinemus, patebit, quamlibet litteram latinam cum
+singulis graecis combinatum iri, ita ut ex hac conjunctione omnes numeri ab 1 usque ad 9 rosal-³¹
+tent3 haec autem combinatio sequentem producet figuram:
+
+ 
+
+ubi notetur binas litteras junctas non productum, sed aggregatum designare.
+
+§ 9. Cum igitur in hac figura sumi debeat c= 3 'et γ.-.- 2, ita ut litteris α et b* valord‘s'
+Ο et 6, litteris autem α et β valores 1 et 3 tribui debeant, si sumamus a=0 et (μὲ-6, tum vero
+α = 1 et ,ΒΞ- 3, sequens orietur quadratum magicum: ’
+
+ 
+

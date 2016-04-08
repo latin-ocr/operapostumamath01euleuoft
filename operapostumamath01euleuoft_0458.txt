@@ -1,0 +1,82 @@
+ιιο L. EULERI OPERA PosTHUMA. ,mm
+
+Quaestio scilicet huc redit, ut ejusmodi binae functiones algebraicae ipsius z inveniantur, quae pro, ¹
+
+σαι
+
+coordinatis ω et γ substitutae praebeant V(dae²—i-dy²)=——·
+
+z Postquam equidem hoc problema
+
+multis modis tentavi, aliisque insignibus Geometris enodandum proposui, neque ego, neque quisquam
+alius solutionem assequi potuimus: cum tamen in genere si quaeratur curva algebraica, cujus recti-
+ficatio a logarithmis pendeat, problema'sit facillimum, atque adeo parabola conica ei satisfaciat.
+Unde concludendum est hoc problema vel omnino nullam solutionem admittere, vel methodum ad·
+huc plane nobis incognitam requirere.
+
+ῖι. Evenire quoque posse videtur, ut hujusmodi problemata unicam tantum solutionem admit-
+
+tant, neque plus una curva exhiberi queat, cujus arcus per datam formulam integralem epramantur.
+
+ 
+
+Equidem hoc sum expertus in formula siffaT-z-zz) qua arcus circuli exprimitur: nullam enim aliam
+lineam curvam algebraicam invenire potui, cujus arcus per eandem formulam exprimeretur. Sic nulla
+videtur extare curva algebraica, cujus arcui cuicunque aequalis arcus circularis exhiberi queat, etiamsi
+innumerabiles lineae algebraicae sint notae, quarum ,rectificatio a rectificatione circuli pendeat.
+Statim enim atque hae curvae a circulo sunt diversae, - earum arcus aequantur aggregato ex aron
+
+quodam circulari et linea geometrice assignabili, quae nonnisi. certis rcasibus in nihilum abire potem
+adz aadz
+
+ 
+
+Idem tenendum est de formulis sm et ‘a'a-i-zz aliisque, in quas ina formula¹ sWaZd-zssssjl
+
+per substitutiones transformari potest.
+5. Dantur tamen etiam ejusmodi formulae sZdz, pro quibus innumerabiles curvae algebrai'c'ae'
+exhiberi possunt, ita ut infinitae curvae algebraicae assignari queant, in quarum una si capiatur arcus?
+
+quicunque, in reliquis omnibus pares arcus abscindere liceat. Huc imprimis pertinet problema olim
+a Celebb. Bernoulliis tractatum, quo curva algebraica quaerebatur, cujus rectificatio cum rectificat-⁸¹
+
+tione curvae elasticae conveniret, seu per hanc formulam &gi—¹75) exprimeretur: invenerunt enim
+
+lineam quarti ordinis, ob figuram lemniscatam dictam, quae huic scopo satisfaceret. Ostendam autem
+praeter lemniscatam infinitas alias exhiberi posse curvas algebraicas, quarum arcus generatim per 5⁵
+
+eandem formulam exprimantur. Cum igitur lemniscata, docente Ill. F agnano, hanc habeat insignem
+
+ι
+proprietatem, ut in ea perinde atque in circulo, arcus quotcunque aequales abscindi queant, 'eadem ἦ
+
+aadz
+(τύ-’4)
+
+ 
+
+proprietas quoque in omnes curvas, quarum arcus per eandem formulam A] exprimfinfflf,z
+
+n--ae
+
+competet3 quae ergo merentur, ut‘ diligentius evolvantur.
+
+6. Methodus quidem, qua hanc investigationem suscipio, per se satis est plana, et ope calculi] f
+
+ 
+
+angulorum facile expediri potest. Si enim arcus cujuspiam curvae per hanc formulam sZdz debeat ’
+exprimi, vocatis coordinatis orthogonalibus ω et y, atque introducto angulo quocunque φ, statuatur* ’
+
+ 
+
+dx: Zdz eosq> et dy: Zdz sino>
+sic enim prodibit arcus elementum J
+l
+
+V(dae²-÷-dy²)= Zdz‚ ipseque arcus =sZdz. 21 J
+Unde quaestio huc redit, ut quemadmodum arcus φ ad variabilem z comparatus esse debeat, iti—v· ‘l
+vestigetur, ut ambae formulae Zdz eosq> et Zdz εἰιιφ evadant integrabiles: quippe quod conditio, ἔ
+
+l
+

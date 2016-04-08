@@ -1,0 +1,108 @@
+412 L. E'ULEm OPERA PosTflUMA. anama-2.
+
+ωοίιιφ
+
+cerole. Or, chacun de ceshercs etant compris dans cette ‘somme arc. tang on voit que,
+
+ 
+
+¹ — ω cos qo?
+posant ae=0 ces arcs s'evanouissent, comme la conffition de l'integration l’exige3 ensuite,¹ en augmen-
+
+1
+
+ 
+
+tant ω jusqu'& la valeur ωε , cet angle devient droit, et si l’ou augmeute ω δυ’ ᾱοὶἔ, ss faut
+
+cos φ
+
+,τοίηφ ὲπ-φ·;
+
+ 
+
+ 
+
+vqu'il devienne obtuS. Dono, posant oe=00, on aura arc. tang πειτα. tang
+
+1—xcosq> οωφ
+
+et pax-tant, tontes les parties qui renferment des arcs de cercle, prises enoemble, serent
+
+9 · mn · ert -. 5mn . 'Imm
+3n(s1n-;÷s1n-—n-÷s¹n—n—÷sm—n— eta),
+
+2n . mn . amre ‚nssmn γ . 'Ima
+*372(⁸¹¹¹T÷3⁸¹”T÷⁵⁸¹⁰T†7⁸m† eta).
+
+ll s’agit donc de trouver ‘la somme de ces deux progressionS.
+
+10. Soit premierement η un nombre pair'ou n=2lc et posaut ἶῘΞ-ἕπφ, la premiere progres-
+
+sion sera:
+sinqo÷sin390÷sin590 ..... ÷sin(2k—1)92=8„
+
+laquelle, etant multIpliee par sin φ, donne: ·
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 ᾳ 1 γ . ι . Α 1v
+3*3⁰⁰⁸²9⁰“’ -Ξ-οοεῖιφ-ῑ cos θφ. . . --2- cos 2kcp·
+4 1 1 = s sin φ
+-ι--ῖοοεΞφ-ι-ῖοοείιφ-ι-Ξοοεὸφῥ....., ........ ⁴ μ
+ἀόὺ l’on tire ² ’
+— ἱ —cos 21⁶⁹> — 1 —cosmn
+s -’ ξω, φ — 2 ἀπ’-ἓξ- ο
+Or, ayant trouve ci-dessus: ’· >
+cos φ -ι- cos 39⁰ -ff-cos 5‹p·÷- ..... -ι-ὀρε (219- 11)ᾳ> = ’ἔξιτ’ ...Α
+la differentiatIon donne: . . f - μ . . .- , , , Ἣ, q -. ,Μ
+εἰηφ-ι-Βείιι3φ-ι-5εἰιι5φ ..... -4-(2,1ε-1)εἰιι(21ε-1)φ-.-““9;Σ;’ἒ”φ-ι- ξῖἰίξζ. ἐξ
+Posons maintenant φ = ''a‘’ et ἐι cause de 2k = n, nos deux progressmns serent: L}
+{⁷1‚¹-⁰⁰⁸m⁷‘-—}E -ncosmrr—i- sinmn· γ ξ
+⁷ n 2 Ἠ πη( ΞείιιΉ ΞιίιιΖ-Ἐτ) ἳ-
+ss ss v , ss ,
+dont la reduction' donne: ι
+π ’ dunin n . .
+mae(¹ — · Νὺξ mu' a cause de smmn=0. ε ²³³
+πιίιιῖ- σιω-ῖ- . nain? , ⁴ -·: μ.. ‚³
+
+La meme valeur se trouve, quand n est. un nombre impetit.
+
+1¹. Voil& donc incotxt‹÷:⁴2tabl‹emen¹;¹ demontre que l'integoeule de *notre fol-mule differenfiqlle z
+
+aem-1doe n·
+’,ι-πη en posant oe=00 est
+
+ 
+
+ 
+
+§uin ἐξ ᾗ
+
+2 ainsi que nous l’avons deth conclu par ffidmflffllj La i}
+meme valent am donc aussi lieu aa· quelque} niuniel-e qu'on *temtor-ae la tumme ‘diffiteltjlffllqp
+
+A.
+
+ 
+
+§mzsffls-,zeszsszxfflz
+

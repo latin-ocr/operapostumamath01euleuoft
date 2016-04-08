@@ -1,0 +1,54 @@
+Tractalus de numerorum doctrina Cap. Ιι. 17
+
+si sit numerus multitudinem numerorum ipso a minorum
+propositus ad eumque primorum
+a=p Ρ -1
+α =1>² Ρ (Ρ - ¹)
+a=pq (ιν-1) <q-1)
+a=1²³ 1⁰²(12—1)
+a=p²q 1³(11-¹)(‹1—¹)
+a=1²r (12—1)(‹1-¹)('·-¹)
+a=1>⁴ 1²³(12 - ¹)
+a=1>³11 1³²(P- ¹) (q—1)
+a=P²q² P (P-1)‹1(q—1)
+a=1>²qr * P(P-¹)(‘1-1>(r-¹)
+‹1:12qu (ι’-1) (q—1) (r-1) (3-1)
+
+128. Quo autem haec conclusio firmius corroboretur neque inductioni nimium indulgeatur,
+consideremus hanc formam a= Mp, ubi M sit numerus quicunque, et Ρ primus in M non contentus.
+Ponamus autem ad 1 ab M multitudinem numerorum ad M primorum esse = μ, ideoque multitudinem
+
+numerorum ad M compositorum =M— μ.
+
+- 129. Cum ergo ab 1 ad M sint M- μ numeri compositi ad M, ab lad ΜΡ erunt Ρ(Μ-μ)
+numeri compositi ad M, qui ergo etiam erunt· compositi ad Mp, sed praeterea ad ΜΡ compositi sunt
+isti: Ρ, 2Ρ, 3Ρ. . .ΜΡ, multitudine M, unde autem expungendi sunt ii, qui jam ad M sunt compositi,
+quorum multitudo est M-‘-,u; sicque tantum relinquentur μ numeri, qui tantum ad ΜΡ, non vero
+ad M sunt compositi. Quare ab 1 ad Mp omnino ad ΜΡ compositi erunt tot: Ρ (M - μ)-ι-μ, et
+reliqui, quorum multitudo est ΜΡ- Ρ (M — μ) - μεμ (Ρ - 1), ad numerum Mp erunt primi.
+
+130. Simili modo ostenditur, si numerus propositus sit =Mp'², existente Ρ numero primo in
+M non contento, atque μ fuerit multitudo numerorum ad M primorum, qui quidem inter limites
+1 et M contineantur, tum multitudinem omnium numerorum infra Mpn, ad hunc ipsum numerum
+
+Mp'¹ primorum, fore :pn—¹ μ(Ρ —- 1).
+
+131. Quaeramus enim numeros compositos ad Mpss, qui vel ad M, vel ad p erunt compositi.
+At ab 1 ad ΜΡ” multitudo numerorum ad M compositorum est = Ρ”(Μ- a), qui vero ad Ρ sunt
+
+· compositi erunt: Ρ, 2Ρ, 3Ρ. . .ΜΡ”“Ῑ.Ρ, multitudine =Mp”-¹. Hinc autem excludi oportet eos,
+
+ 
+
+qui jam ad M sunt compositi, quorum multitudo est Ρ”“ι (M- μ); sicque multitudo eorum, qui
+ad ΜΡ”, non vero ad M sunt compositi, erit =Mp'²-¹ — Ρ”“1 (Μ -μ) :pn-ss, unde omnino
+ab 1 ad Mp'2 multitudo numerorum ad Mp'⁸ compositorum est =p''(M--,a)-i-p'²·‘¹,u. Quocirca
+reliqui, quorum multitudo· est Mpn -Ρ”(Μ- μ) -Ρ’·“*μ ;Ρ”·“*μ(Ρ- 1) erunt ad Mp'* primi.
+
+132. Cum ergo multitudo numerorum ad Ρ” primorum ipsoque minorum sit :pn-¹ (p - ¹),
+ex praecedente propositione summo rigore concludimus: Si numerus propositus sit = p²q¹‘r²'35 etc.
+fore multitudinem omnium numerorum ad eum primorum ipsoque minorum
+
+=p²-¹(p—i).q -¹(q—1).r⁷-¹(r—¹).s‘5-¹(s—1) etc.
+12.8u101501›.poumumn. ·r.1. 3
+

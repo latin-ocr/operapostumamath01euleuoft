@@ -1,0 +1,65 @@
+45 L. EULERI OPERA PosrflnMA. Anam-ca.
+
+370. Observari etiam meretur, ex formis trq÷1÷m÷t semissem excludi tam pro residuo
+—i—r, quam -ν, quorum divisores pro hac forma sunt communes, At exforma Ιινᾳ-ι-Ιιηι- 1
+semissis valet pro residuo -ι-ν, alter pro residuo -r, et qui divisores pro altero residuo valent,
+
+pro altero excluduntur.
+
+ 
+
+Caput xl.
+
+De residuis, ex divisione cuborum per numeros primos natis.
+
+371. Divisore primo existente ‹1:21›—1-1, quod residuum relinquit cubus αδ, idem relinquent
+etiam hi cubi (a÷d)³, (a-l-2d)³, etc. et generaliter (a—i-nd)³, ex quo sufficiet* eos tantum cubos
+considerasse, quorum radices sunt ipso d minores, qui sunt: ν
+
+1, 8, 27, '64,...(d-1»)³, (οι-ψ, (ιι-ΞΥ, (α- 1)³.
+
+372. Sit r residuum, quod horum cuborum quicunque, αὖ, relinquit, et manifestum est cubum
+(d—a)³ relicturum residuum - r, seu d —r. Quare si inter residua cuborum occurrat numerus
+quicunque r, ibidem quoque occurret ejus negativum — r, seu d—r, quod illius complementum
+vocatur.
+
+373. Sint· 1, α, β, γ, δ, etc. residua ex divisione cuborum per numerum primum ‹1:21›-42-1
+orta, quorum si omnia a se invicem suerint diversa, numerus erit =d— 1; ideoque omnes numeri
+ipso d minores ibi occurrent. Sin autem qui numeri bis vel pluries occurrant, inde quidem numeri
+excludentur inter non-residua referendi. (⁴¹⁶)
+
+374. Investigaturi, an fieri possit, ut idem numerus r inter residua his occurrat? ponamus ex
+cubis α3 et b⁸, quorum radices a et b sint ipso divisore d minores et inaequales, idem residuum r
+
+resultare, atque eorum differentia b3—a³= (b—a) (aa÷ab÷bb) per d erit divisibilis. Cum
+
+autem, ob d primum, ad eum factor b—a sit primus, necesse est alterum factorem aa-t-ab-n—bb ss
+
+esse divisibilem per d.
+
+375. At si cubus b³ idem praebeat residuum ac cubus αὖ, cuivis alii cubo c⁸ respondebit
+cubus εὖ, idem quoque atque ille residuum relinquens. Si enim cubi ιιὅ et b³ idem residuum prae-4
+beant, etiam hi a⁸oe⁸ et b³ae⁸ ad minimos valores reducendo, seu (aoe-md)³ et (bx — ηά)3 idem
+producent residuum. Quia vero a et d sunt numeri inter se primi, semper ω et m ita accipere
+licet, ut aaa—md dato numero c aequetur, hincque erit e=boe—nd‚ diversus ab c et ipso'd
+minor; si enim esset eze, soret aae-mdzboe— nd, hincque (a— b) a: divisibile per d, at nec
+
+a—b nec w est divisibile.
+
+376. Statim ergo atque unum residuum his occurrit, omnia his occurrent3 ideoque multitudo ,
+
+diversorum residuorum ad semissem deprimitur. Hoc autem evenire nequit, nisi divisor d sit divisor ,
+
+talis formae aa÷ab÷bb, existentibus a et b ipso d minoribuS. Sin autem non suerit divisor talis
+formae, omnia residua erunt diversa eorumque multitudo =d — 1 -τ- 21).
+377. Praebeant cubi αὖ et b³ idem residuum r, ita ut a2—i—ab—i-b2 sit divisibile per d, eritque
+
+etiam 3a3—i- 3a²b÷ 3ab² per d divisibile, auferatur a⁸— 12³, ut habeatur
+
+(*) In his residuis occurrunt omnes cubi ipso «1³ minores, ad minimos valores reducti, tum etiam producta
+ex binis, ternis, etc.
+
+l
+
+ 
+

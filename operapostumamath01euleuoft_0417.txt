@@ -1,0 +1,60 @@
+Institutionum Calculi differentialis Sectio ΙΙΙ. Cap. AE. 399
+
+I. AB perpendicularis ad sinistram ln Fig. te convenit Mm
+11. EJ plus semirecto ad horizontem inclinata α « — « Aa
+III. EF semirecto ad horizontem inclinata « « — « —
+
+¹ IV. ΕΚ minus semitecto ad horizontem inclinata « α - « Bb
+
+V. , BC horizontalis superior « « — « C c
+VI. JG minus semirecto ad horizontem inclinata « «· — « Da
+
+Vll. F G semitecto ad horizontem inclinata ε( « — « Ee
+VIII. KG plus semirecto ad horizontem inclinata «‘ « — « —
+IX. CD perpendicularis ad dextram « « — « Fr
+
+X. GL plus semitecto ad horizontem inclinata « « — « Gy
+
+XI. GH semirecto ad horizontem inclinata « « — « Hh
+XII. GM minus semi'recto ad horizontem inclinata ¹« , « -- « -
+XIII. DA horizontalis inferior α - c( Ji
+XIV. LE minus semirecto ad horizontem inclinata « « — « -
+XV. ΗΕ semirecto ad horizontem inclinata α α. - ι Kk
+
+XVI. ΜΕ plus semirecto ad horizontem inclinata · α « — « ”” Lt
+
+Nunc quasnam conclusiones singulae hae positiones pro natura curvae suppeditent, exponamus.
+
+148. Primus regulae situs A B *praebet pro applicata γε 0 omnes *valeres finitae magnitudinis
+„ abscissae cc, seu omnes abscissas finitas indicat, quibus, respondet applicata evanescens. Iudicat
+ἶ quidem etiam ¹abscissas evanescentes, si aequatio* fuerit p'er ω ejusve potestatem divisibilis; sed hi
+’ἶ ’ casus per sequentes regulae positiones clarius exhibentur. Tangens autem in his curvae locis non
+
+ξε· indicatur.-
+
+Secundus regulae situs Ε J ea¹ curvae puncta indicat, pro quibus est tam ae= Ο, quam γ-ε 0,
+
+3 simul autem ostendit tangentem iu ipsum axem incidere, seu in fhis⁶punctis curvam ab axe tangi, et
+
+natura curvae· accedit ad parabolam oe'''= Cyn existente m > n.
+Tertius regulae situs EF iterum' ea puncta curvae exhibet, pro quibus est tam ae= Ο quam
+
+ς γ--0, sed quorum'tangentes sunt ad axem obliquae, earumque simul obliquitas indicatur.
+
+Quartus regulae situs EK etiam nunc ea curvae puncta exhibet, pro quibus est tam oe=0 quam
+
+” γ = 0; hinc vero concluditur tangentes curvae in his punctis esse ad axem perpendiculares, et natura
+
+· curvae exprimitur parabola rm=Cae⁰ existente m‘> n.
+
+149. Quintus regulae situs BC pro abscissa oe=0 praebet omnes finitos valeres applicatae γ,
+Κ neque 'vero tangentes curvae in his punctis indicat.
+¹ Sextus regulae situs JG indicat posita abscissa oe--Q fieri applicatam γ infinitam, ita ut recta
+ad axem i'n principio abscissamm normalis sit curvae asymtota, ideoque ramus hic curvae hyperbo-
+neus,- cu'jus natura accedat ad hujusmodi hyperbolam affy-⁰: C, ubi sit n > m.
+
+Septimus regulae situs F G pariter indicat posito oe=0 fieri y=00, sicque ipsam hanc appli-
+catam Iore curvae asymtotam, ejusque ramum hyperbolicum ad naturam hyperbolae conicae oey' = C
+
+’ accedentem.
+

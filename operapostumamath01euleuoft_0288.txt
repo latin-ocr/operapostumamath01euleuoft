@@ -1,0 +1,60 @@
+Ξ 70 L. E U L E Rl OPERA POSTHUMA. Analysis.
+
+memes nombres pris affirmativement. ΙΙ soutient donc que l(-=-oe) :l(—oe)‚ ce qu'il veut prouver
+par l'egalite de leurs differentielles, vu que
+
+dloe :ag et de meme dl(-oe)=‡⁵”=ff.
+
+ω -oe (Β
+
+Contre cet argument M. Leibnitz replique‚ que la regle commune de differentier ler logarithmes,
+
+en divisant la differentielle du nombre par le nombre meme, n'avait lieu que pour les nombres
+
+affirmatifs, et que, par consequent, cette differentiation dloe=d3 n'etait juste, que lorsque ω mar-
+
+oe
+quait une quantite affirmative. Mais j'avoue que cette reponse‚ si elle etait juste, ebranlerait le fon-
+
+dement de toute l’analyse qui consiste principalement dans 13 generalite des regles et des operations
+
+qui sont jugees vraies, de quelque nature qu ’ou suppose etre les quantites auxquelles on les applique.
+
+§ lv. Mais quoique la regle de differentier les logarithmes soit generalement vraie, de sorte
+«ιω
+
+que &³³:3³ soit que ω fut une quantite affirmative ou negative, l'argument de M. Bernoulli⁴ ’
+
+*ne prouve pas ce qu’il veut prouver. Je dis que de ce que les differentielles des quantites 'lm et
+l(— σε) sont egales, il ne 's'ensuit nullement que les quantites memes soient egales entr'elles3r puis·-
+qu'on sait que deux quantites qui different d'une constante ont la meme differentielle. Ainsi les
+differentielles de ειμι-1 et de tit—1 sont l'une et l’autre :ci-fc, sans qu'on en puisse conclure un‘e
+
+egalite entre les quantites oe÷1 et oe'—- 1. Outre cela, M. Bernoulli aurait prouve par lexmeme
+raisonnement que l2oe= lae puisque
+
+‹122ae εἶξε ξε dloe,
+
+et en general, il s’en suivrait que lna: = ιω, n mar-quant un nombre quelconque. C’est pout-quoi de
+l'egalite entre les differentielles 'des loe et l (—- ω) on ne peut rien conclure, sinon que ces deux
+logarithmes different entre eux d'une quantite constante. Et eneffet, l(-—ae) a cause de -oe=ae.-⁴-1,
+n'est autre chose que lae÷(l— 1). 11 est vrai que M. Be rno‘ulli pretend* que 1(--1)=lt=0‚ auquel
+cas ἰ1 serait sans doute l(—ae)=l(÷oe), mais c'est justement ce qne M. Leibnitz avait nie et quer
+M. Bernoulli voulait prouver par cet argument3 de sorte que, de ce cote-ci, rienn’est encore decide.
+
+ἕ 5. Dans le meme passage que je viens d'examiner, M. Bernoulli se sert encore d’un-mtro
+argument, mais qui ne differe du precedent que dans la maniere de le proposer3 quand il salient
+
+que 13 courhe logarithmique 3, des deux cetes de son asymptote, deux parties egales et semblables} ·
+
+de· sorte qu'a chaque abscisse ou legarithme repondent deux ordonnees ou nombres egaux, l'un affin*
+matis, l'autre negatis. Car, considerant l'equation de cette courhe ydae=ady, ou ω maique
+l’abscisse prise sur l'asymptote de 13 logarithmique, γ l'ordonnee et a 13 sous-tangente consta* fl
+en parait suivre, que si 3 13 meme abscisse ω repond la valeur γεω, il y repondra aussir==-'-1'13
+puisque, si -ι- ῑιάωε-ι-αάιι, il y aura aussi —adae=-ada. Mais ce raisonnement est semblable
+au precedent, et il en suivrait de meme qu'a l’abscisse παι, repondrait aussi ron-donna γεῆ, ot
+generalement γ = ηιι, de sorte que cette courhe aurait non seulement deux undantem ,γι-ι, ος
+3· = — ιι qui re‘pondraient a l'abscisse =oe, mais le nombre des ordonnees serait infirm eomequenm
+qu'on est pourtant bien eloigne d’admettre. D'ou l’on voit que cet argument ne prouve pas quala
+legari-thmique ait deux branches pareisses des deux cotes de son asymptote.
+

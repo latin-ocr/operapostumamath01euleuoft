@@ -1,0 +1,69 @@
+72 L. E U L ER I OPERA POSTHUMA. Am'thmetaba.
+
+561. Hoc modo tandem pervenietur ad summam duorum quadratorum quantumvis parvam,
+quae foret divisibilis per numerum non-summam duorum quadratorum, quod cum sit absurdum,
+necessario sequitur, summam duorum quadratorum inter se primorum uon esse divisibilem per ullum
+numerum, qui ipse non sit summa duorum quadratorum.
+
+562. ψ Proposito autem numero primo quocunque formae lm -ι- 1, quia inter residua quadratorum
+est ——1‚ vel lm, semper summa duorum quadratorum per eum divisibilis exhiberi potest, unde
+
+sequitur omnes numeros primos formae lin—bi esse summas duorum quadratorum.
+
+, 563. Deinde cum numeri formae [ιη- lquuuquam esse possint summae duorum quadratorum,
+nulla summa duorum quadratorum iuter se primorum per ullum talem numerum lm -1 divisibilis
+
+esse potest.
+
+564. Desideratur autem demonstratio succinctior, qua probetur, si summa duorum quadratorum
+pp—i-qq divisibilis fuerit per summam duorum quadratorum aa-u-bb, quotum necessario quoque
+
+esse summam duorum quadratorum, quod sequenti ratiocinio perficere tentemus,
+
+565. In divisore aa ÷bb numeros α et b inter se primos assumere licet; si enim non essent
+primi inter se, sublatione communis factoris tales redderentur, erit ergo aa-i-bb tam ad a quam
+
+ad b primus. Unde quicunque numeri fuerint p eth, ii ita repraesentari poterunt
+p==m(aa-=—bb)ss'f‘a et q=n(aa—i—bb)ssqb,
+id quod infinitis modis [ieri potest.
+
+566. Cum igitur pp—i—qq sit divisibile per aa-i-bb, etiam ffaa—i-yybb per aa÷bb erit
+divisibile, atque ob illas infinitas resolutiones, omnes casuS, quibus ffaa—i-yybb per aa—i-bb divi- ·
+
+sibile evadit, prodire debent, ergo etiam casus ,φεῖ prodeat necesse est, quoniam hoc divisio
+succedit. (ἐκ)
+
+567. Hoc concesso habebimus 'p = m (aa -ι- bb) ss fa et' q Ξ n (aa -⁴- bb) ss fb3 unde fit
+
+pp-...qq mm (aa -ι- bb) .ss 2f'ma
+— ἐ nn (aa—i- bb) ss 2l'nb ’⁴— ff'
+
+quae expressio est = (fss ma ss nb)²-—i— (ss na ῖ- mb)², ideoque summa duorum quadratorum.
+
+ 
+
+‹uz-i—bb —
+
+568. Hinc ergo statim sequitur, si quotus non sit summa duorum quadratorum, neque diviso- “
+
+rem talem esse posse, neque ergo productum ex duobus numeris, quorum alter est summa duorum ’
+
+quadratorum, alter secus, summa duorum quadratorum esse potest.
+
+569. Conjuuctis cum hisce, quae ante § 558 et seqq. sunt proposita, evincitur summam
+duorum quadratorum inter se primorum nullos habere divisores, nisi qui ipsi sint summae duorum
+
+quadratorum, tum vero omnes numeros primos formae lm —·-1 esse summas duorum quadratorum.
+
+Γ) Seript. ad marq. Hic dubium esse potest, an casus 9=f necessario ex divisibilitate formulae pp-ff-qq
+sequatur. Hoc dubium est fundatum, nam sit
+
+a=7, b=t‚ 12:17, q=6, ⁴erit aa÷bh=65‚ pp÷qq=325;
+fieri autem nequit 17 :65m ss 7f simul 6= 65n ss bf, unde haec posterior demonstratio rejicienda.
+
+¹212} :Vq-22², etsi nuno modo sit 17:1.7‡2 ιι, vel 17:2.7‡1.1÷.
+
+ 
+
+ 
+

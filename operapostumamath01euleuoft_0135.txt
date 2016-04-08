@@ -1,0 +1,59 @@
+Problema Dt‘opltanteum. 1 17
+
+α = 2AA -ι- 238— (A— B)²= (A -ι- B)²,
+β = eAA— 833,
+y= 12 (AA÷BB)-÷-2(A—13)².
+
+.’ En substituant ces vaieurs de α, β, γ dans l'equation precedente, nous aurons
+
+, rr = (A -i- B)²f⁴-÷- 8 (ΛΑ - BB) 1⁹⁸9 ἐι- [12 (AA -ι- ΒΒ) -ι- 2 (A — B)²] ffqq
+-ι- 8 (AA ’- BB) ἧς’-ι- (Α -ι- Β)”9*.
+37. Pour ramener a present cette sormule ἐι un carre , supposons que sa racine soit
+r=(A÷B)ff÷1÷(A—B)fq—(A÷B)99‚
+d'ou il suit Ι ,
+rr = (A -ι- B)²r⁴-·- 8 (AA— BB) 1⁰³9 —— 2 (A—i- B)²ff99 ÷1ss(A- B)²ffq9
+— 8 (AA - BB) f9⁸÷ (A -ι- B)²9⁴.
+Retronchant de cette expression la precedente nous obtiendrons
+0 = 32ABff9 -ι- 16 (AA — BB) fy‘,
+
+ 
+
+d'ou l'on tire {z ²¹²⁴—ng
+⁸ et, par consequent, ⁵ f = AA — BB,
+’ 9 = — 2ΑΒ. ·
+
+C'est ainsi qu’on trouvera les nombres f et 9 d'apres les valeurs de A et B qui sont determinees
+pur les equations Ατ-αιι-ι- ab, ΒΞαό-Ημ Pais, on prendra m=f÷9, n=f—9, et l’on
+
+, aura les vaieurs de ω, y, z, p, q, qui, d'apres les equations precedentes, sont .
+
+oe=mmA—nnB, y=mmA4nnB‚ -z=mu(A—B),
+p=mn(aa—i—2ab—bb), q=mn(aa——2ab—bb).
+Quant ἐι r, nous avons eu “ ’
+r=(A-·-B)ff÷t÷(A-B)f9-(A÷5099,
+et cette equation, ἐι cause de m=f÷9, τιεῖ-9, devient
+r=mn(A—i-B)—i-(mm—nn) (A—B).
+
+' Dono, il est aise de >developper les valeurs de m, y, z et p, q, r pour chaque valeur des
+
+lettres a et b.
+
+38. Voici la muniere de s'y prendre pour trouver autaut de solutions qu’on voudra. Apres
+
+Ξ avoir pris ὲ volonte a et b, on formera A=aa÷ab‚ B=ab—bb, puis f=AA—BB et
+
+ζ 9=—2AB, de 15 m=f÷9, n ΞΓ- q. Ainsi, ayant determine ces valeurS, les nombres
+
+· cherches seront donnes par les somnies suivantes:
+
+ 
+
+ae=mmA—nnB, p=mn (aa-i-2ab—bb),
+y=mmA÷nnB, q=mn (aa— 2ab—bb),
+z=mn(A—B), r=mn(A—i-B)-i-(mm—nn)(A—B).
+
+Rapportons ici quelques exemplos.
+
+Eaeemple 1. Soit α·--1, b=2; nous aurons A=3, B=—·2; de 15 f=5, 9:¹2,
+ιιι-...τ 17, n=—'1, enfin les nombres cherches seront:
+

@@ -1,0 +1,50 @@
+388 L. E U L E R Ι OPERA POSTHUMA. - Analysis.
+
+cum binis assumtis vel prodeant homogenei, vel prae iis evanescant. ν Hocque modo tandem perve-
+nietur ad aequationem duobos pluribusve terminis constantem, qua¹naturacurvae in loco oe==0
+exprimetur, ex qua deinceps non difficile erit tangentis positionem definire.
+
+17. Quodsi ergo hoc modo plures termini relinquantur, ii progressionem geometricam consti&
+tuent, atque ex hac consideratione facile est istos terminos mechanice determinare, eo scilicet modo,
+
+quem Neutonus per parallelogrammum et regulam tradidit (Figdv2). Si enim termini aequationis omissis ,
+
+co’efsicientibus modo ante exposito in cellulas parallelogrammi aequaliter divisas inscribantur, atque
+in unaquaque cellula punctum medium notetur, facile perspicitur, terminos, qui in ratione geometrica
+progrediuntur in directum fore dispositos. 'Sic linea aa per puncta media cellularum transit, >zia
+quibus reperiuntur termini isti progressionem 'geometricam tenentes: cci, “²⁴52 ³1:³7², oe²y³, (ιγ’, 51⁶,
+Linea autem bb transit per puncta media cellularum oe3, oe²y², oey⁴, y⁶, et linea cc per puncta media
+cellularum ω, ae²y², oe³y⁴,3 ωέγθ, atque linea dd ducta est per puncta-media cellularum, quae hanc
+praebent progressionem geometricam: y, κβ, ae²y³, ae³y⁴, oe⁴y⁵‚vae⁵y⁶.
+
+18. Si igitur puncta media cellularum pro veris locis singulorum terminorum habeantur, et
+linea recta utcunque per hoc parallelogrammum traducatur, termini in. ista linea constituti progreffi
+sionem geometricam formabunt3 ideoque si eorum duo-fuerint homogenei‚ omnes erunt homogenei.
+Deinde ex ante expositis facile liquet, omnes terminos, qui supra hujusmodi lineam rectam cadunt,
+respectu eorum, qui in ipsa hac linea sint positi, fore infinite magnos, terminos autem, qui infra
+hanc lineam cadunt eorumdem respectu futuros· esse infinite parvos, ideoque prae iis evanescere
+posito scilicet ae=0. Si enim series verticales interpolentur, termini interpolati omnes, quorum
+loca in lineam rectam incidunt, progressionem geometricam constituent, quorum respectu superiores
+omnes sunt infiniti, inferiores infinite parvi. Sic recta bb interpolatione instituta transibit per terminos
+
+., oe3, oesy, Ἰ,εινῖγῖ , ωξγῧ, oey‘ , ωέγό , γθ.
+
+19. Si igitur ejusmodi termini desiderentur, quorum respectu reliqui. omnes pro nihilo haberi
+queant, linea recta per' duos ejusmodi terminos duci debebit, ut¹ supra eain nulli prorsus termini
+existant. Unde si aequationis propositae singuli termini incel'lulas ipsis convenientes hujus paral-
+lelogrammi inscribantur, re't cellulae, quarum'termini in'2aequatione desunt, ‘vacuaerelinquanturj p& ,
+ejusmodi duos supremos terminos in'duabus columnis verticalibus· linea recta 'dach-*vel ipsis'regfi'ss
+applicari debet, ut super ea nulli prorsus termini* appareant. 3Hoc‘ enim facto bini illis'terminiss ve!
+plures, si ‘qui in istam eandem lineam rectam cadant, non solum progressionem geometricam ¹50⁴!ss
+mabunt, sed ita erunt comparati, ut prae iis reliqui omnes aequationis termini negligi queant: “fflfi
+ergo terminis in aequatione expunctis ii, qui sunt residui, naturam curvae in loco ae=0 expriment.
+
+20. Si linea recta hoc modo ducta duos tantum terminos exhibeat, habebitur aequatio binomia]
+pro curva in loco ωε 0, ejusque ergo tangens per praecepta ante tradita invenietur, ni'si linea illi
+recta suerit horizontalis, quo casu applicata y· vel finitum vel imaginarium obtinebit valorem; puerique
+casu¹ tangens ex his duobus terminis definiri nequit. Hoc -ergo ‘casu regula motu sibi 'parallelw‘press
+moveatur, donec unum pluresve novos terminos attingat, hique ad illes⁴ adjiciantur, et ex 'aequalium ·
+resultante tangens definiatur. Cum enim reliqui termini prae his de novo adjectis evanescant,
+
+ 
+

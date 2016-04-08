@@ -1,0 +1,58 @@
+ 
+
+Tractatus de nwnerorum doctrina Cap. 13. 59
+
+V. B, Ba, Β,8,’ By, ete.v Vll( θ’, 8⁸«, 8³¹6, 3⁸7, etc.
+vl. 8², B²a,- Bw, 3²7» etc. ’ vm. B‘, ἱνα, Bw, 8⁴7, etc.
+
+Jam sive AB dicatur esse residuum, sive non-residuum, absurdum sequitur, unde omnia non-residua,
+
+si quidem dantur, a quatuor prioribus classibus exhauriri necesse est.
+
+ΠΟ. Certum ergo est, quoties in divisore primo 2q÷i numerus q non suerit multiplum quinarii,
+toties omnes numeros in residuis occurrere, eorumque multitudinem esse = 211. Neque ergo dantur
+duo numeri a et b, minores quam 2q÷ 1, ut 11³— (2³, essct per 2q÷1 divisibile; hincque etiam
+a⁴÷a³b ÷aabb÷ab³÷b⁴ per nullum numerum primum 2q÷1 dividi potest, in quo q non sit
+multiplum⁸ quinarii.
+
+1471. Omnes ergo divisores primi numerorum hujus formae a⁴÷a³b÷ a²b²4ab⁸÷ b⁴, seu
+
+hujus α’- 12³, excluso divisore a—b, in hac formula ἰθρ-μί continentur, iique numeri nullo modo
+
+dividi poterunt per ullum numerum in aliqua harum formularum lOp-i- 3, 10p÷7 et top—i-fl
+
+contentum.
+
+272. At si divisor primus sit 10p-1- 1, non omnes numeri in ordine residuorum occurrent,
+si enim omnes occurrerent, foret :1:²¹² —1 semper divisibile per lOp-s- 1, quicquid fuerit ω, seu
+differentiae omnium harum potestatum 1, 2²¹⁰, 3²²⁰, 4²1⁹. . . .(2p-2-1)²1¹ per lOp-i-l essent divisibiles,
+cujus absurditas jam supra est ostensa.
+
+473. Quare si divisor primus sit 10p÷ 1, numerus residuorum diversorum tantum est 2:21),
+et 81> habebuntur non-residua, unde semper quini dabuntur numeri ipso 10p÷1 minoreS, a, b, e,
+
+d, ὁ, quorum potestates quintae paria producunt residua.
+
+Uli. Scilicet proposito numero quocunque a, quatuor semper assignari possunt alii b, c, d, c,
+
+sing-nli divisore ίθρ-ι-Ι minores, ut per eum divisibiles siut
+
+hi numeri ac propterea isti quoque
+
+ἱθ---α5 b⁴÷ab⁸÷a²b²÷a⁸b÷a⁴
+c⁸—a³ c⁴÷ac³÷a²c²÷a³c÷a⁴
+d⁵—a⁵ d⁴÷ad³÷a²d²÷a⁸d÷a⁴
+⁶⁵—a⁵ e⁴÷ae³÷a²e² ÷a⁸e÷a⁴.
+
+Haec eadem demonstratio ad praecedentes potestates accommodari potest.
+
+475. Differentiae ergo etiam harum primae, a tribus sequentibus, per eundem divisorem dividi
+poterunt3 hae autem differentiae, cum sint divisibiles per b - c, b — d, b — e, abeunt in has
+b³÷ssb²c -ι- bc² -ι- c³÷ab²÷ abc -ι- ac² —i—. a²b÷a²c -ι- α’,
+⁶⁸4 b²d 4- ιιακμ 01³÷ ab²÷ aba -ι- ad²÷ αἰ) ÷ a²d÷ «1⁸,
+b⁸÷ b²e -ι- be² -i- 6⁸ -ι- ab²÷ abe -i- ae² -i- a² b -i- a²e -i- α’,
+. ΠΒ. Porro vero harum differentias, sigillatim per c — d et e — e divisas, etiam per ¹0p÷¹
+
+divisibiles esse oportet, quae sunt:
+⁸
+

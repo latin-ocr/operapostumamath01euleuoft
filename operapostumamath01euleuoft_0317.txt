@@ -1,0 +1,51 @@
+Enodatt'o - thsiqm’s cujusdam paradoxi circa multiplzbactbnem anqulorum. 299
+
+XIV.
+
+Enociutio insignis ciuusdani paradoxi circa multiplicationem
+angulorum observati.
+
+*—
+
+1. Singularis est proprietas formularum, quibus cosinus angulorum multiplorum per cosinum
+
+anguli simpli exprimuntur. Si enim anguli simpli φ cosinus ponatur επ, angulorum multiplorum ”
+
+cosinus ita se habent:
+cos Oq> = 1
+cos Ιφ = ω
+cos 2oe = 2oeae — 1
+‘cos 3φ = 1ιεε3- 3ae
+cos ¹⁵9⁰ = ⁸³⁹⁴? 8:12ae -i- 1
+cos 590: 16ae⁵—- 20ae³'-·-' 5ae
+cos 6φ -- 32ae⁶—- ἔιὸωἲ-ι- 18aeae — 1
+cos ⁷4> = eiff— 1 12oe⁵4 56ae2— 'lm
+cos 'qu = 128oe⁸— 25Gaq⁰÷ 160oe⁸— 321:ae -ι- 1
+’ , etc.
+nude concluditur fore in genere
+
+,μς-ΛΗπ(η-3,)ω,,-ι-Ξη-,πυι-ωοι-ὄ) ,.-.6
+
+ 
+
+ 
+
+ 
+
+· cosncp=2'¹-¹ae'¹—2'⁸‘³nae Μ 1.2.3 ω -i-etc.,
+seu . , ,
+cos ηφ = 2⁰-¹ :1:¹⁸ (i --Ξ ae-² *ww—⁴ -Q;,g),<sq-5)ae—⁶÷ Ἥμω-δ-εω.)
+
+ubi ratio progressionis facile perspicitur.
+
+2. Neque vero binc concludere licet, hanc seriem eadem· lege in infinitum continuatam cosinum
+anguli ιιφ exprimere, ita ut istius seriei infinitae summa sutura sit =cosmp; sed quoties n est
+numerus integer, seriem eousque tantum-continuari oportet,⁸ donec ad exponentes negativos ipsius ω
+perveniatur, quippe qui termini omnes sunt rejiciendi, iis solis ab initio seriei terminis retentis, qui con-
+stant potestatibus positivis ipsius-ae, et numero absoluto, qui si n sit numerus par, est vel -1-1, vel -1.
+Nisi haec cautela observetur, in errorem delabimur, quin etiam casu n=0 expressio generalis ve·
+‘ritati adversatum prodit enim 2-¹ae⁰=}‚ cum tamen sit cos 0212=¹, quod certe insigne est
+
+’ paradoxon.
+2
+

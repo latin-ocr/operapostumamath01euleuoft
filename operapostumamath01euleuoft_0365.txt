@@ -1,0 +1,48 @@
+Institutionum Calculi differemdalis⁴ Secen‘o .· ῘῙῙ, . Cap. l. 34⁸1
+
+een-920.. Quae: haetenus⁴ de differentialihus applicatarum, arearum· et arcuum, curvae: sunt tradita
+proprie-stantum ad ejusmodi· curvas pertinent, quarum..applioatae sunt functiones unisonum: ahteis·-
+sarum, ita ut unicuique abscissae unica tantum applicata respondeat. Si enim eidem abscissae piutes
+applicatae- respondeant, xalii abscissae, priore scilicet ‘quopiam quantitate aucta, totidem applicatae
+respondebunt, atque applicatae incrementum multiplex essen oporetbitt quaelibet namque applicatarum
+priomm52a aqualibet posteriorum subtracta, relinquet residuum, quod :supputatae incrementum repraesen-
+tabit. Simili-modo hoc casu eidem abscissae· plures respondebunt. preae, a'c propterea eidem abscissae
+incremento m'nlto plura arearum ‘incrementa3 sicque apparet-functionum multiformium incrementa
+osse quoqne functiones multiforme& His ergo casihuS‚ si *exfldato abscissae incremento quaeratur
+incrementum applicatae vel areae, quaestio non. eritffdeterminata, sed pluresresponaionoe postulabit.
+
+21. Quae quo clarius perspiciantur, ponamus applicatam y esse- functionem2trisormem ipsius
+abscissae ω, seu eidem abscissae (F ig. 5) APr—-ae respondeant tres applicatae PM, PM' et PM'', quae omnes a*
+e in valore litterae γ οοιιῐίιιειιιιῑιιιξ, quod evenit si¹ γ, per hujusmodi aequationem cubicam exprimatur
+7³—- Py²÷Qy—R=0, existentibus P, ·Q,2;R‚-fuquct,ionibus quibuscunque ipsius ω. Hujus ergo
+aequationis pro abscissa AP=a= tres radices erunt PM, PM' et -PM'', propterea quod ultima
+in regionem negativam cadit. Quare ex natura aequationum erit
+
+’ Ρ-- ΡΜ-ι-ΡΜ’ -ΡΜ”
+ἢ ’ Q= ΡΜ. ΡΜ -.ΡΜ ΡΜ” -“ΡΜ ΡΜ”
+¹ R=--PM. ΡΜ PM. .
+
+22 Ponamns jam abscissam a: incremento, ac primo quidem finito Aa: augeri, ita ut sit
+Ap-‚ae—i-Aae et Pp= Aae. Applicata erg-⁵0 y· abibit in ,γ-ι-Δγ, quae in figura denotabit tres
+applicatas pm, pm'‚ —pm'' . Cum igitur γ designet quamvis ex applicatis PM, PM' et -PM'',
+
+ι differentia Ay· exhibere debet singulas differentias inter has et illas applicatas, unde Δγ sequentes
+
+“ novem denotabit valeres:
+
+1. pm—PM, Ιι. pm'—PM , 7. -pm' ¹—PM
+2. ρηι--ΡΜ’, 5. pm'-' PM', 8 -pm''-PM'
+3. p1n÷PM''‚ 6. [ιη’-ι’- ΡΜ”, · 9.- -ρηι”-ι- PM''.'
+Quamobrem necesse est ut Δγ per aequationem nonigradus determinetur. Scilicet si ipsa quantitas
+J eliminetur, prodibit aequatio, in qua quantitas* Ay· ad nonum gradum ascendet. ¹
+23. Ad hanc aequationem inveniendam ponatur in aequatione pro curva y2-Pfl-1-Qy-R2 ⁰,
+oe-i-Aae loco ω, et y-i-Ay loco' y: et cum sint P, Q et R functiones ipsius ω, eae, si pro ω pona-
+tur ω-ἰ-Δω, abeant in· Ρ-ι-ΔΡ, Q÷AQ et Β-ι-ΔΒ. Sicque prodibit baec aequatio
+’ γ* -ι- ΒΥ* Δγ-ι- 3yAy² -ι- Δγ3 ’
+- 1²7² - 2ΡγΔγ- ΡΛγ
+--;γ·’ΔΡ-2,γΔΡΛγ·--ΔΡΔγ2
+-ι-ργ-ι-ρΔγ == 0.
+-ι-γΔΩ-ι-ΔΩΔγ
+—R
+—AR
+

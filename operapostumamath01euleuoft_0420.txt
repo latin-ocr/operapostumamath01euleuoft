@@ -1,0 +1,51 @@
+402 x L. EULERI OPERA PosfflUMA. ,ww-2
+
+Caput v·
+De inventione ramorum in infinitum extensorum.
+
+, 1. Si pars quaepiam lineae curvae in infinitum extenditur, eJus puncta a principio axis inter-
+vallo infinito distant, quaecunque etiam linea recta pro axe assumatur. Hinc si abscissae ω, quibus
+rami infiniti respondent, vel evanescant, vel sint finitae magnitudinis, applicatae y· necessario erunt
+infinite magnae; ac vicissim, si applicatae sint vel evanescentes vel infinitae, abscissae erunt ‘infinite
+magnae. Saepenumero etiam evenit, ut tam abscissae quam applicatae in finitum abeant. Quare x
+quacunque linea recta pro axe assumta, omnes curvae rami in infinitum excurrentesinvenientur, si
+coordinatarum a: et γ vel altera -vel utraque infinita ponatur. Sic in enumeratione situum regulae circa
+finem capitis praecedentis facta, sextus cum sequentibus omnibus ramos in infinitum extensos indicat.
+
+2. Quanquam autem haec ramorum in infinitum extensorum inventio in capite praecedente jam
+exposita videtur, ubi per regulae 'applicationem ad parallelogrammum Newtonianum indolem eorum
+curvae ramorum, pro quibus vel alterutra coordinatarum vel utraque in infinitum abit, investigavimus,
+tamen saepenumero accuratiori investigatione opus est, cum* ad veram tangentis positionem, ‘tum ad
+naturam ipsam illius curvae portionis definiendam, uti jam supra innuimus. Quin etiam fieri potest,
+qui casus imprimis sunt notandi, ut per situm regulae ramus curvae in infinitum extensus indicetur,
+qui tamen si reliquorum aequationis terminorum ratio simul habeatur, fiant imaginarii. Denique usus
+parallelogrammi ante expositus tantum ad curvas algebraicas‚ quarum aequationes ad rationalitatem
+jam sint perductae, patet3 unde si aequatio vel irrationalitate sit implicata, vel adeo transcendens,
+peculiari methodo opus erit ad hoc negotium expediendum.
+
+3. Quoties curva est algebraica ejusque aequatio ad rationalitatem revocata, parallelogrammum
+Nevvtonianum summa cum utilitate adhiberi potest, non solum ad veram tangentis positionem et
+curvae naturam pro iis quoque casibus eruendam, quibus superior methodus insufficiens est visa, nisi
+axis curvae immutetur, sed etiam ejus ope eos casus dignoscere licebit, quihus rami infiniti, qui
+primo intuitu per situm regulae indicari videntur, fiunt imaginarii. Dari autem hujusmodi casus,
+unico exemplo curvae hac aequatione expressae (yy—aaess—i-aayyftb a⁴=0 probasse sufficiat,
+pro qua ex parallelogrammo eliciuntur rami in infinitum extensi, quorum natura exprimatur aequa-
+tione yy—aae—-Q cum tamen ex tota aequatione appareat nullam plane linearum curvarum ei
+respondere: reperitur enim yy-aoe=aV—(aa—i-yy), ita ut nulli plane applicatae y· abscissa
+realis respondeat. ’
+
+[ι. Intelligitur ergo ad naturam curvae in infinitum expansae accuratius investigandam, eorum
+quoque aequationis terminorum, qui prae iis, quos regula trajicit, erant neglecti, rationem esscha&
+bendam3 si quis enim horum terminorum, etiamsi pro infinite parvis haberi queant, imaginaria invol-
+
+vat, tota aequatio imaginaria erit censenda. Sic etsi posito ω infinito, in hac aequatione γεξ-ι-ἕῶ
+terminus oe—bi prae {- rejici queat, ita ut haec aequatio casu oe= 00 congruere existimari possit
+
+cum hac y={‚ tamen si terminus rejectus seu ejus co'efficiens b sit imaginariuS, tota aequatio fiet
+
+imaginaria, atque applicatae abscissis infinitis respondentes erunt imaginariae, neque ergo hoc casu
+
+aequatio γ εξ 3(1 curvae indolem investigandam adhiberi poterit. —————
+
+ψ
+

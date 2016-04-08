@@ -1,0 +1,65 @@
+308 , ’ L. EULER120PERA1POSTHUMA. · » ’- = - Analysis.
+
+, ΧΧ.
+
+considerations 5ιιι· quelques fot-mules integrales, ‹lont les valeurs
+peuvent etre exprimees‚ 5ιι certains eas, p'a‘r la quadrat-ut!
+(lu cerole. · ·
+
+—--————-
+
+¹ ubssu ,
+
+1. Toute formule differentieHe ‘rationelle -peu'tflctr‘e i'nte‘tgreess par ’15 moyen des logarithmes et
+de la quadrature du cerole. Οι· (355 ἰιιῑόςι5155 sont, pour 15 plupart‚ renfermees daus (155 1⁸0er
+d'autant plus compliquees, que 15 variable contient (15 dimensions3 cependant quand (ιιι (jonae ἦ
+15 ν5τί51ι15, apres l’integration‚ une 55ιῐ51ιι5 ν515ιιι· (ieter-mineo, il peut 5ιιίι5ι· que 155 ιιιιόςιτιΙε-ῗ,
+
+quelque compliquees qu ’elles soient, se rcduisent 5 (155 fornmles assez simplos, qui semblent meriter J J
+
+une attention ρ5ιιίοιιΙίὲι5. 11 y a aussi (155 formules integrales qui, en Ι8655551,5ιιι·ρ5555ι11; tontes ι J
+
+155 quadratures connues, et qui, cependant, en (35ιι5ἰιι5 cas, sont reductibles a 15 quadratum Q y '
+
+cercle. Je me propose ici (15 consideret· quelques-unes de ces formules, et d'examiner les conse- Α
+quences qu' on en peut ιί15ι· pour l’avancement de l'analyse ’
+
+2. Je commencerai par consideret· cette formale· integrale ῙὟΣΞΒΞΦ, en' c'herchant ¹sdn integrfflfi , 1
+
+ 
+
+dans le (355, ou 1“οιι pose apres lfintegraii'on ae='00‚ 5γ5ιιι 'pris l'inte‘grale en sorte, qu e'lle s’evanouisse “ J
+
+en posant ae=0. Dans (35 (355, on trouvera que la partie de l'integrale qui depend des logarithmes
+s'evanouit‚ et que l'autre, qui depend de 15 quadrature‘du cercleJ 55 reduit 5 ιιιι5 expression sort
+simple. vCar posant π ροιιι· 15 demi-circonfegence ,d'ugqgercle dont le rayon est = Ι, (15 sorte que
+π marque en meme temps la mesure de deux *angles droits‚ on trouve, en posant apres l’integratiou
+
+ae=001
+‹1ae -ζ, dx ἐπ’ ωάω 271· ·
+1-ι-ωω- 2’ 1÷oe³— —3—{73’ 1-ι-ω3- —31s3'
+
+ 
+
+dx ⁷- L oedae — n· xxdoe π
+1-1-oe4-21s2’ 14:124-1’ 143³— —2V2’
+
+ 
+
+ 
+
+dx — π . oedx π . aeoedx π ωθάω π ‹1:⁴12oe ’t
+
+ 
+
+1÷ae⁶-3’ Tw=ffi2 ΠΓωῖ-Ῑῗ 1-1-—oe⁶=31s3’1÷ae⁰=3
+
+ 
+
+3. Ces cas particuliers semblent dejb suffisants pour pouvoir eu ιίι5ι, par la voie (1“1ιιι1ιιι3ῐίοιι,
+une conclusion plus generale. Car, dans les (355 ffi'u dknominateur 14:50³, 15 radica! V‘3 fait voit
+
+que le sinus de l’angle ξ y entre; et dans ceux des denominateurs 1-1-ae‘, le radica} V2 y est
+
+ 
+

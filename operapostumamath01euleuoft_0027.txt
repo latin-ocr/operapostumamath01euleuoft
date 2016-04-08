@@ -1,0 +1,66 @@
+q
+Traclalus de numerorum doctrina Cap. 2. 9
+
+6³. Casus autem hic seorsim est perpendenduS, quo ambo factores p et q sunt inter se aequalae,
+quoniam eundem numerum non bis inter divisores numerare licet. Hinc numeri pp, qui sunt quadrata
+
+numerorum primorum, tres tantum habent divisores 1, ρ et pp.
+
+, 65. Hanc ob causam numeros secundae classis in duas species subdividi convenit, quarum prior
+continet numeros formae pp et divisores habet tres 1, p-, pp; altera vero species continet numeros
+formae pq, denotantibus litteris p, q numeros primos diversos. Hujusque speciei numeri habebunt
+
+quaternos divisores 1, p, q, pq.
+
+66. Simili modo classis tertia subdividi debet in tres species, quarum formae sunt p³, p2q, pqr,
+
+siquidem p, q, r denotent numeros primos diversos, vel enim omnes tres factores sunt aequales
+
+ψ vel bini tantum, vel omnes tres inaequales.
+
+67. Pro tertia autem classe numerorum
+
+speciei primae ρ3 divisores erunt quatuor 1, ρ, ρ’, ρ’,
+
+secundae p²q sex 1, Ρ, q, 12², pq, 11²1] ‚
+
+tertiae pqr* octo 1, p, q, r, pq, pr, qr, pqr,
+neque praeterea alii divisores locum habere possunt.
+
+68. Classis quarta, quae numeros quatuor factoribus primis constantes continet, prout horum
+factorum bini, vel tres, vel omnes quatuor fuerint aequales, subdividenda est in quinque species,
+quarum formae sunt 1. p⁴‚ 11. p³q, Ill. Vp²q², lv. p²qr‚ V. pqrs.
+
+’ 69. Jam facile erit omnes divisores cujusque speciei in classe quarta enumerare:
+
+³ speciei: divisores erunt
+
+ 
+
+2 3 4
+
+1- Ρ* quinque= ¹, Ρ, Ρ,Ρ·, Ρ,
+11· 1²³q octo= 1, Ρ, q, 11²» pq, 1²⁸, p²q‚ 1²⁸‹1‚
+Α 111. ΡΨ bove-¹1¹2 Ι, Ρ, q, Ρ’, pq, 11²· 1²²112 ΡΨ, ΡΨ, ,
+Ὗ, lv. p²qr duodecim: 1, p, q, r, p², pq, pr, qr, p.²q, p2r, pqr, p²qr,
+ἶ V. pqrs sedecim: 1, p, q, r, s, pq, pr, ps, qr, qs, rs, pqr, pqs, prs, qrs, pqr-s.
+70. ln classe quinta, quae numeros ex quinque factoribus primis compositos complectitur, ob
+
+aequalitatem aliquot factorum, sequentes species constitui oportebit:
+1. ρ’, Π. p⁴q‚ ΙΙΙ. p⁸q², IV. p³qr‚ V. p²q²r, Vl. p2qrs‚ Vll. pqrst.
+
+71. Tum vero singularum harum specierum divisores ita enumerabuntur:
+
+Speciei: divisores erunt
+Ι, ρ8 sex: 1, p‚,p², 12⁸, μ’, 11⁵,
+Π· 1¹⁴¹] decem: ¹2 Ρ» ‘I’ ΡΞ» P‘Iv P3’ qu’ [μ’ P3‘12 P⁴q’
+- ΠΙ· [²39² du⁰deCim² ¹³ Ρ, q, 1²²2 pq, ‘1²’ Pa, P2q’ Psl²² Pssq’ P²q22 vaf,
+lv. p⁸qr sedecim: ⁶ ι 1, ρ, q, r, 1²², pq, pr, qr, p³‚ p²q, p2r, pqr, p⁸q, p³r, p²qr‚ p³q1·‚
+V· P²⁶1²r octodecim 1, Ρ, (ι, Γ, Ρ“, pq, Ρν, 11², «ιν, ΡῬ, p2r, ΡΨ, ΡΨ, (pr, ΡΨ,
+
+ΡΨ, pq2r, p²q²r‚
+Δ vl. p²qrs viginti quatuor: 1, p, q, r, s, p²‚ pq, pr, ps, qr, qs, rs, p²q‚ p²r, 11²3, pqr,
+pqs, prs, qrs, p²qr‚ p²qs‚ p²rs, pqrs, p²qrs,
+
+Ι.. ΕυΙεῐί,ορ.ροσ11ἰωηιι. 121. 2
+

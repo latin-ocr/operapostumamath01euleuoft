@@ -1,0 +1,61 @@
+ 
+
+Tractatus de numerorum doctrina Cap. 10. 37
+
+praebere εἰ. Quod quidem jam ostendimus, uam si m ex quadrato αα oriatur, erit m=aa—k(2p-i-1);
+
+et mV-t manifesto per numerum primum 2p÷1 est divisibile.
+
+299. Sed ad residua quadratorum revertentes notemus, si, ibi occurrant numeri m et mn, tum
+etiam necessario ibidem numerum n reperiri debere. Si enim residuum m oriatur ex quafdrato aa, et
+mn ex quadrato bb, ex naa quoque residuum mn nascetur, unde bb —- naa per *2p -ι-ί erit divi-
+sibile, existentibus α et b ad 2p-1-'1 primis.
+
+300. At si bb —naa divisibile est per 2p—i— 1, etiam (b-i-koep-i- l))²— naa erit divisibile.
+Semper autem k ita assumere licet, ut fiat b-i-koep -4-1)= ac, seu ut k(‘2p-«- 1> per α divisum
+relinquat b. Dabitur ergo uumerus c, ut sit aacc -ιιαα, hoc est cc - n per ξ2ρ-ι-1 divisibile,
+
+. quare quadratum cc dabit residuum n.
+
+301. Si in ordine residuorum sit numerus α, non-residuorum vero numerus 21, productum
+
+«121 in ordine non-residuorum certe reperietur. Si enim in ordine residuorum esset, ibidem quoque
+
+foret 21, contra hypothesin.
+
+302. Si in ordine residuorum occurrat productum mn, ejusque alter factor m in ordine non-
+residuorum, alter quoque n certo in eodem ordine non-residuorum reperietur3 si enim hic n esset
+
+in residuis, eodem quoque m pertineret.
+
+303. Si duo non-residua 21 et 925. in se ducantur, productum incidet in ordinem residuorum.
+Nam cum in ordine residuorum omnia quadrata occurrant, primo evidens est omnia quadrata 21²,
+25², G2, etc. ibi esse; quod vero etiam producta binorum 2192} ibidem reperiantur, ulteriori indiget
+
+probatione jam instituenda.
+
+304. Cognitis residuis 1, α, β, γ, etc.‚ quorum numerus est =p, divisore primo existente
+2p-n-1, non-residua quidem eo ipso dantur, cum sint reliqui numeri minores quam ‘gp-ei, quorum
+numerus itidem est = p. At dato uno non-residuo 21, reliqua omnia ex ipsis residuis ita determi-
+nantur, ut sint 21, «121, β’ὶί, 721, etc„ reductione scilicet ad minimos terminos facta. Sunt enim hi
+numeri inaequales inter se, et eorum multitudo =p.
+
+305. Duo igitur quaecunque non-residua D et Ε spectari possunt tanquam hujusmodi producta
+
+621 et ⁶21, existentibus δ ete residuis, 21 vero non-residu03 unde productum duorum quorumvis
+
+non-residuorum erit 2OE = δε 2121, ubi δε utpote productum duorum residuorum in ordine residuorum
+reperitur.
+306. Τιιιιι vero ἰιι ordine residuorum occurrit etiam 2121, quia in eo omnia plane quadrata,
+
+seu residua aequivalentia reperiuntur. Quare cum tam δε quam 2121 sit residuum, eorum productum
+quoque 50OE residuum sit necesse est, sicque productum duorum quorumvis non-residuorum certe
+
+in ordine residuorum continetur.
+
+307. Combinatio ergo duorum numerorum pro indole residuorum et non-residuorum ita se habet:
+
+1. Productum ex duobus residuis est residuum.
+2. Productum ex⁷ residuo et non-residuo est non-residuum.
+3. Productum ex duobus-non—residuis est residuum.
+

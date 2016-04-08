@@ -1,0 +1,61 @@
+Tractatus de numerorum doctrina Cap. 7. 23
+
+183. Totum ergo negotium huc redit, ut numeri b id investigetur multiplum pb, quod per
+d divisum unitatem relinquat. Cum itaque pb—-t per d sit divisibile, posito pb—1=qd, numeros
+p et q investigari oportet, ut fiat pb - qd: 1. Semper autem p infra d assignari poterit.
+
+181». Saepe ejusmodi productum nb facilius reperitur, quod per d divisum relinquat d— 1,
+seu — 1 ; tum autem hoc productum (d -- π) b residuum praebebit = -÷- 1, ita ut invento π futurum
+sit p :cI—w. Tum igitur terminus a-i- ((α-ν) π ss μά) b datum residuum ι· relinquat.
+
+185. Consideremus nunc etiam residua, quae oriuntur si differentia progressionis b et divisor
+d non fuerint numeri inter se primi. Atque jam vidimus, si factor communis sit φ, ut sit b==Bq>
+et ‹1:qu, jam terminum a—i- Db idem praebere residuum, quod primus a.
+
+186. Quare si φ fuerit maximus factor communis numerorum b et d, quoniam primum resi·-
+duum a, vel α demum in termino a-n—Db recurrit, plura residua diversa locum habere nequeunt,
+quam numero D: neque ergo omnes numeri divisore d minores inter residua occurrent.
+
+18⁷. Quo haec residua facilius scrutemur, ponamus esse a = 0, sintque termini progressionis
+
+cum suis residuis:
+
+Indices ’ 1 2 3 ιι D
+Termini 0, Βφ, 2Βφ, 3Βφ ..... (D — 1) Rq>
+Residua Ο ‚ βφ , γφ , δφ , λφ
+
+manifestum enim est, si hi termini per εῖτ-ΠΨ dividantur, residua quoque per φ esse divisibilia.
+188. Nam si mB divisum per D praebeat residuum r, erit mB== nD÷r‚ ideoque ηιΒφΞηΒφ-ι-Γφ.
+Unde si chp per Dcp==d dividatur, residuum erit περ, multiplum ipsius φ. Cum igitur pro 1·
+omnes numeri ipso D minores prodire queant, etiam inter illa residua omnia multipla ipsius φ, quae
+
+quidem divisorem ‹1:-D90 nou superant, occurrere debent, quorum multitudo utique est = D.
+’ 189. Si ad singulos terminos adjiciamus numerum a, eodem singula residua augebuntur, quae
+
+⁵ ergo ita se habebunt, existente b = Βφ et d =Dcpz
+
+Indices 1 2 3 2 li· 5 D ⁷
+Termini a, avi-b, (μῦ-21), α-ι-υΒό, α-ι-Ιιό ..... a-r-(D-1)b
+Residua a, a-r-ssaep, a-i-ycp, α-ι-δφ, α-ι-εφ, α-ι-λφ
+
+-2 ubi series β, γ, δ, ε. . ,λ omnes numeros ipso D minores continet.
+
+ 
+
+ί 190. Hoc ergo casu ex serie residuorum excluduntur omnes numeri, qui numero a minuti
+ς non sunt divisibiles per φ, seu maximum communem divisorem differentiae b et divisoris d.
+
+’ 191. Cum numeri B et D sint primi iuter se, eJusmodi multiplum prioris, puta me, exhiberi
+³ potest, quod per D divisum, datum relinquat residuum 1·; tum autem nostrae progressionis terminus
+ιι-ι-ηιβφ, seu a-i-mb per Dq>==d divisus, relinquet residuum a-i-rqo (*).
+
+ 
+
+Caput vn.
+
+De residuis ex divisione terminorum progressionis geometricae ortis.
+
+192. Progressionem geometricam in genere ita repraesentamus: a, ab, ab², ab⁸, ab⁴, ab³, etc.
+
+(‘) script. ad man-q. Methodus definiendi formulam ax-i-b, ut ea per datum numerum d fiat divisibilis.
+

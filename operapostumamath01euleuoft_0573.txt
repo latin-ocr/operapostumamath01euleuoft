@@ -1,0 +1,63 @@
+Litterae ad cel. laqranqe datae. . 555
+
+C. Octodecim litterae ad Cel. Lagrange datae annis 1755 ad 1775.
+1.»
+vir praestantissime atque Excellentissime.
+
+Perlectis tuis postremis litteris, quibus theoriam maximorum ac minimorum ad summum sere perfectionis
+fastigium erexisse videris, eximiam ingenii tui sagacitatem satis admirari non possum. Cum enim non solum
+in tractatu meo de hoc argumento methodum mere analyticam desideravissem‚ qua regulae ibi traditae erui pos·
+sent, sed etiam deinceps non parum studii in hujusmodi methodo detegenda consumpsissem, maximo sane gaudio
+me affecisti, quod tuos profundissimas aeque ac solidissimas meditationes super his rebus mecum benevole com-
+municare voluisti„r1uamohrem tihi me maxime obstrictum agnosco. Statim autem perspixi analysin tuam, quae
+meas hujusmodi problematum solutiones per sola analyseos praecepta elicuisti, multo latius patere mea methodo
+ideis geometricis innixa. [n universa enim serie valorum ipsius y, qui singulis valoribus ipsius x respondent,
+donec a: dato ,valori a aequetur, ego unicum valorem ipsius y data quadam particula dy augeri concepi, indeque
+incrementum in formula integrali szdx ortum investigavi, dum tu, Vir clarissime, singulos valores ipsius y in·
+crementa dy capere assumis, quam ob causam, non dubito quin tua *analysis‚ si penitus excolatur, ad multo
+profundiora mox sit perductura. Cujus quidem praestantiae jam eximia exempla a te feliciter confecta circa
+lineas citissimi appulsus ad datam lineam, quin etiam de methodo maximorum ad superficies applicata commemo-
+ras, quae omnia ut accuratius persequaris etiam atque etiam te rogo. Mea quidem methodo usus, plures hujusmodi
+quaestiones circa superficies pertractavi in scientia navali, quae duobus voluminibus in 14¹⁰ Petropoli pluribus
+
+abhinc annis prodiit. Quod autem ad tuam methodum, qua singulis applicatis y incrementa dy tribuis, attinet,
+
+⁵ antequam hoc ipsum, quod non aperte indicas, animadverti, de consensu tuarum formularum cum meis dubita·
+
+veram. Ut enim szdoe fiat maximum existente:
+ο az = ‘Ndy -ι- Pd²y -ι- Qd³y -ι- .....
+
+(uhi quidem pro δω unitatem ponis, non pro x, uti forte lapsu calami notas), necesse est, ut tuo signandi
+
+more sit
+dszdoe, seu sdzdx = 0.
+
+At vero invenis, ponendo tecum 1 pro dx:
+
+asz=s(N-aP÷a²Q-a³s etc.) 6y†(1{—dQ÷d²R)6y÷(Q—dlae)d3y etc.
+
+unde concludis esse dehere
+N-—dP—i-d2Q—d'R=0.
+
+Cum tamen natura maximorum tantum postulet, ut sit:
+
+s(N— dP-s- ‹1²0- ‹1³1ae etc.) dy: 0.
+
+j Α Verum perspecta amplitudine.· ...... si unicae applicatae y inm-emen ....... f (N - dP÷d²Q —)6y alius
+,, val . . . .’ . . . partes (P — dQ-s- (PR) &y -ι- (Q ....... ω =a referuntur evanescere ........ sensus depre-
+” hendatur.
+
+Vehementer etiam te rogo, Vir clarissime, ut mihi ignoscas, quod ad tuos priores litteras m ...... com·
+
+. mercium nostrae urhis cum ltalia ....... ut nisi per mercatores promoveatur, non ....... possit. Quare
+
+ 
+
+’ cum mihi jam mercatorem tuum indicaveris, has litteras ad eum per mercatorem mittens rogo,
+
+ 
+
+,m
+
+’ tuam responsionem, qua sorte me honorare volueris. per tuum mercatorem mittero vellen.
+

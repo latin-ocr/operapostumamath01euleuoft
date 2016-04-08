@@ -1,0 +1,59 @@
+ 
+
+Tractatus de numerorum doctrina¹ Cap. 10. 43
+
+Deinde etiam numerus positivus -ι-ιι erit residuum, si divisor primus fuerit formae ἵνα]- 1,
+vel generalius lmq --ἱὶ; pro his autem divisoribus numerus negativus —n inter non-residua
+reperietur.
+
+345. Si numerus positivus n sit residuum pro divisore d, erit etiam residuum pro divisore
+primo quocunque formae Imqssd, vel adeo Imqssdii3 at si numerus negativus —n sit residuum
+pro divisore d, erit is quidem residuum pro divisore unq-ed, at non-residuum pro divisore tmq—d.
+
+346. Si numerus positivus n fuerit residuum pro divisore d, deinde etiam pro divisore e, erit
+etiam residuum pro divisore primo quocunque formae Imqssde. At si numerus negativus —n
+fuerit residuum pro divisoribus d et e, erit quoque residuum pro divisore quocunque primo formae
+'inq -i-de; pro divisoribus autem tvnq--de inter non-residua reseretur.
+
+327. Si numerus positivus n suerit non-residuum pro divisoribus d et e, certe erit residuum
+pro divisoribus primis omnibus formae lrnqssdffl at si numerus negativus —n sit non-residuum
+pro divisoribus d et e, is erit residuum pro omnibus divisoribus primis formae tmq-t-dae pro divi-
+soribus autem formae [inq—de erit non-residuum.
+
+3128. Quicunque numerus ssn proponatur, erit is semper residuum, si divisor primus fuerit
+in aliqua talium formarum ῐιηᾳ-ὶ-Α, 'inq—bf), ἵιηᾳ-ι-(Ῑ, etc. contentus, quarum numerus aequatur
+semissi multitudinis numerorum ad lin primorum eoque minorum. Sin autem divisor in reliquis
+¹formis contineatur, erit is non-residuum.
+
+349. Hic autem excipi debent casuS, quibus numerus n est quadratus, quippe qui semper inter
+residua occurrit, quicunque divisores accipiantur. Ac si n sit quadratum negativum, eadem ratio
+vaiet ac pro -1,
+
+350. Primum igitur demonstrari debet, si divisor primus sit lrnq—i-ii, existente inumero
+impari, inter residua quadratorum semper occurrere'tam numeros n et q, quam eorum negativa —n
+et — q. Sit i=2m÷ 1, et quia divisor anq÷1÷mm÷r÷1n÷1 est formae lip—i-t, inter residua
+continetur quadratum negativum — limm-lim—l, ideoque numerus Imq, et ob lv residuum, etiam
+numerus nq, itemque —nq‚ quare vel ambo numeri n et q simul inter residua, vel ambo simul.
+inter non-residua occurrere deberent, unde dum alteruter fuerit inter residua, et alter ibidem repe—
+riatur necesse est.
+
+351. Si n non-esset residuum, nullum daretur quadratum oeoe, ut oeoe— n divisibile esset per
+linq—i-ltmm—i—lim—i- 1. Si ergo demonstrari posset dari hujusmodi quadratum, evicta esset veritas
+
+2nq -ι- 2mm -s- 2m
+
+propositionis. Vel si n esset non-residuum, haee expressio n — 1 non esset divisibilis
+
+per numerum primum, quare si contrarium demonstrari posset, haberemus quod intendimus. (³¹⁶)
+352. Deinde si divisor primus sit ῖιηᾳ--Ιιηιηι-Ιιηι-ί, inter residua quadrat-orum occurrere
+
+numerum n, inter non-residua vero numerum —n, demonstrari oportet. Pari autem jure inter
+
+(‘) Script. ad marq. Si n esset non-residuum, foret quoque non-residuum nzz, ideoque etiam
+ssnzzssy(tnq÷tmm÷tm÷1),
+quae expressim si uno saitem casu esset quadratum, propositum constaret. Quod oh signa ambigua semper
+uno saitem casu evenire debere videtur; idque eo magis. cum etiam n et q sint permutabiles, quin etiam
+verum est, etsi divisor non sit primus. Dubium, si n=3‚ q= 5, 2m÷¹=5‚ :⁸:3zzss85y‚ vel
+ss5zzss 8531 quadratum effici nequit. Ergo demonstratio ita est adunanda, ut divisor statuatur primus.
+ιιι
+

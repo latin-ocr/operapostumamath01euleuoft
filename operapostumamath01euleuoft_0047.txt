@@ -1,0 +1,53 @@
+Tractacus de numerorum doctrina Cap. 7. 29
+
+b = lt· b= 5
+Progr.'geom. 1, ¹⁵, ἔν’, ¹4⁸, Μ, [ι’ 1, 5, 5², 5⁸, 5⁴, 5⁸
+Residua 1, lv, 5, 9, 3, 1 1, 5, 3, lv, 9, 1
+n=5 n=5
+(1εὸ b=7
+Progr. geom. ι, 6, 6², 6⁸, 6⁴, 6⁵, 6⁶, 6⁷, 6⁸, 6⁹, 6ιο 1, 7, 7², 7³, 7⁴, ⁷⁸, 7⁸, 7⁷, 7⁸, 7⁹, 7¹⁰
+Residua 1, 6, 3, 7, 9, 10, 5, 8, lv, 2, 1 1, 7, 5, 2, 3, 10, lv, 6, 9, 8, 1
+n= 10 n= 10
+b=8
+Progr. geom. 1, 8, 8², 8⁸, 8⁴, 8³, 8⁸, 8⁷, 8⁸, 8⁹, 8¹⁰
+Residua 1¹, 8, 9, 6, lt, 10, 3, 2, 5, 7, 1
+n= ¹0
+b=9 b=10
+Progr. geom. 1, 9, 9², 9⁸, 9⁴, 9⁵ 1, 10, 10²
+Residua 1, 9, lv, 3, 5, 1 . 1, 10, 1
+· η--5 n=2
+
+236. Sit d= 12, erit μ --·ἵι totidemque casus
+
+Δ b=1 b=5 b=7 5:¹1
+Progr. geom. 1, 1 1, 5, 5² 1, 7, 7² 1, ¹¹2 ¹¹²
+Residua¹ 1, 1 1, 5, 1 ι, 7, 1 1 11, ¹
+
+n=1 n=2 n=2 κ n=2
+
+hie ergo semper est ιι < μ, tribus casibus scilicet ηεξ-μ, et uno η-τ-Ξ- μ.
+
+237. Si sit divisor d= 13, erit ,ur-12, et pro minima potestate bn, quae per 13 divisa
+
+relinquit unitatem, reperitur
+
+si 'b=1, 2, 3, lv, 5, 6, 7, 8, 9, 10,11,12,
+est n=l‚ 12, 3, 6, lv, 12, 12, lt, 3, 6, 12, 2.
+
+238. Quemadmodum semper si b=1 fit n = 1, quicunque fuerit divisor d, ita etiam sumto
+b= ἀ- 1, fit n= 2, seu (d— 1)² vper d dirisum relinquit unitatem, quod in potestate prima
+nunquam contingit. De reliquis autem valoribus pro b assumtis difficilius est judicium.
+
+239. Quoniam potestas (Ια-ἰ-ι- 1)” per d divisa relinquit 1, si fuerit lca-14:12⁶, et potestas
+
+δ” per d divisa relinquat etiam unitatem, tum quoque potestas 0⁰ unitatem relinquet. Cum enim
+
+b'⁸ relinquat 1, productum θ’θ’ relinquet en, ac per hypothesin bnon relinquit 13 ergo in aestima-
+
+tione residuorum θ’· aequivalet unitati, seu 0⁰ per d divisum unitatem relinquet.
+
+ 
+
+ἶ 240. Quare si 12¹¹ fuerit minima potestas per d divisa unitatem relinquens, sitque be = kd -ι- 1,
+3 minima potestas ipsius e unitatem relinquens vel erit 0¹², vel adhuc minor, exponente existente parte
+

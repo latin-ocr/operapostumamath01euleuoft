@@ -1,0 +1,66 @@
+476 L. EULERI OPERA POSTHUMA. Anatysis.
+
+Sicque casus exhiberi potest, in quo tam semiaxes ellipsis quam ambae abscissae f* et 9 numeris ra- s
+
+tionalibus exprimuntur.
+
+30, ερῂᾇιῑοῃ. Simili etiam modo, si detur (Fig. 57) arcus ellipsis quicunque 7⁰9, a puncto Ξ
+quovis dato p aliu's assignari poterit arcus pz, *qui datum multiplum arcus 19, puta m. 19, superet ,
+quantitate algebraica; si enim abscissae ponantur CF= f, CG= 9, CP=p, CQ=q, CR: r,
+CS=s‚ CT=t‚ et ab abscissa CP numerando suerit ΟΖι-Ζ, ultima indici m respondens3 tum in 7
+
+subsidium vocando arcum Be, cujus abscissa δεῖ-ε, ut sit
+
+9³²ss — ff) (1 - ηΙι’)- ΝΗ - 99) (1 - ⁷²99)
+
+ΒΞ 1-πΙῙ99 ’
+
+ex data abscissa Ρ sequentes ita determinentur
+’ -ΝἬ -ee)(¹ -nee)÷e1s(1—pp)(1-npp)
+
+q'- , 1—neepp
+
+r: 9141-εε)(1-ηωΉ-ΝΜ-σςιηί-πη)
+1—neeqq ‚
+
+3=r1s(1-ee)(1-neee)-·- vs(1-·-rr)(1—nrr),
+
+1 —neerr
+
+etc. ’
+donec perveniatur ad ultimam Ζ, quae a p numerando locum tenet indice m notatum. Quo facto erit
+m.Arc.fq—Arc.pz=ne(pq-}-qr-1-rs-÷- . . . ÷yz—mf'9)ss
+
+Hinc igitur quoque punctum Ρ ita definiri poterit, ut haec quantitas algebraica evanescat, seu fiat]
+
+pq÷qr÷rs÷. . .÷yz=m[q,
+
+quo casu arcus ΡΖ exacte erit aequalis arcui f‘y toties sumto, quot numerus m continet unitates, seut V*
+erit Arc.pz=m.Arc.f9. Dato ergo ellipsis arcu quocunque sy, alius assignari poterit ΡΖ, qui qd
+illum datam teneat rationem, puta m: 1. Quin etiam m poterit esse numerus fractus, seu ista ratio
+ut numerus ad numerum με νς nam quaeratur primo arcus pz, ut sit ΡΖΞμ. 19, tum quaeratur
+alius πω, ut sit πωεν. f‘q, eritque pz:ww=,u:21. Verum quo longius hic progrediamur, hacs
+
+formulae continuo magis finnt complicatae, ut calculum in genere expedire non liceat. ,
+31. Problema 5. ln dato ellipseos quadrante AB arcum abscindere sq, qui sit tertia pars}
+
+totius quadrantis AB.
+
+solutio. Cum in genere fuerit determinatus arcus pqrs, qui sit triplus arcus 19, dum hie*
+arcus tanquam cognitus est spectatus, nunc vicissim calculus ita instruatur, ut punctum Ρ in B, em
+punctum s in A incidat, seu ut sit p=0 et s=1. Formulae ergo modo exhibitae abibunt in hag} ,
+
+Ze 'tsss -- ee) (1 - nee) r *ssss — ee) (1— —nee)-÷- e‘tsss — rr) (1— nrr)
+
+et 1=
+
+ 
+
+‘1:⁶² r: 1--2204 1—neerr
+seu r=V'1¹-:Z‹³’ 01, νεψ, unde fit 2⁶(1—nee)=1j·-ne⁴„3
+
+seu 1-2e—n-2n23—ne⁴=0‚ existente semiaxe CA =1, CB=k et n=1—lclc. Primum erg-o
+ex hac aequatione biquadratica definiri debet valor ipsius e, quae resolutio commode ita succeditf
+
+ 
+

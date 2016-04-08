@@ -1,0 +1,67 @@
+ 
+
+ 
+
+ 
+
+Fraqmenta ex Adversarii-s· depromta. 199
+
+ubi si pro a, b, c et d etiam valores negativi admittantur, bos numeros itidem intra -¹-n deprimere licebit.
+
+ut sit a²÷b²÷c²÷d²<n². 2
+111. His autem valoribus substitutis fiet
+‘ Nn=a²÷⁶⁸÷c²÷d²÷2n(aa-e-bss-o-cy-o-ds)÷n²(a²—÷-ss²-o- 7²4 δ’),
+quae formula per lemma praemissum abit in hanc
+Nn -- ‹1²-t- 1³²4— c²-}- ‹1²4— 2m1 —t- n²(a²-t- βῖ-ι- 7²4- δῖ),
+quae cum sit divisibilis per n et bina posteriora membra jam in se sint per π divisibilia, necesse est, ut etiam
+pars prima a²÷b²÷e²÷aeff factorem habeat n.. Quare ponatur a2—t- b²÷c²÷d²==ml et dividendo per η
+
+habebimus N = ι’-ι- 2Α -ι- n (α’-ι- βῖ-ι- γῖ-ι- 6²)
+lv. Multiplicemus nunc in η’, et in postremo membro loco κη’ substituamus valorem a²—t- 12²4- ⁶²4- 11²,
+ut prodeat Nn'=n'²-t- 2n' A -t- (a2-t- 11²4- c²-t- 11²) (αἳ-1- βῖ-ι- 7²4- 3²).
+At per lemma praemissum boc postremum membrum transformatur in A²÷ B²÷ 024- 0², ita, ut nunc ha-
+beamus Nu'= n'²÷ 2n'A -Ι- A2-t- B²÷ 024- D² ,
+sive Nn'= (η’-ι- A)'—}— B²÷ 62-1- D² = summae quatuor quadratorum.
+
+V. Cum autem sit nd: ‹1²-t- b2-t- 0²4- d²<n²‚ utique erit n'< n. Quemadmodum igitur ex torma Nn,
+quae erat summa quatuor quadratorum, pervenimus ad hanc minorem Nn'‚ etiam aequalem summae quatuor
+quadratorum3 · ita ulterius pervenire licebit ad formulas Nun, Nn''' etc. itidem quatuor quadratis aequales, ita,
+ut numeri η’, nu, nm, etc. continuo diminuantur. Tandem ergo haec diminutio usque ad unitatem deducetur;
+
+ita, ut tum futurum sit N. 1, boc est ipse numerus propositus N aequalis summae quatuor quadratorum. Q. E. 1).
+
+Εοιιοιιᾼιιιυιι 1. Haec adeo demonstratio locum habet, etiamsi N non fuerit numerus primus3 dummodo
+ergo numerus quicunque N fuerit factor vel divisor summae cujuspiam quatuor quadratorum, tum certe is ipse-
+
+numerus quoque erit summa quatuor quadratorum.
+
+'Coaounutm 2. Quodsi ergo demonstrari posset, proposito quocunque numero N, semper exhiberi posse
+summam quatuor quadratorum per eum divisibilem, tum utique ’ completa haberetur demonstratio theorematis
+
+illius Fermatiani, quod omnis numerus sit summa quatuor quadratorum, vel etiam pauciorum.
+
+Tannum. Proposito quocunque numero primo N, semper exhiberi possunt quatuor quadrata, singula
+
+minora quam }N²‚ quorum summa per illum numerum sit divisibilis.
+
+Dnuonsrns'rio. 1. Ratione numeri propositi N omnes plane numeri in aliqua sequentium formularum
+erunt contenti λΝ, λΝ-ι--1, λΝ-ι-κὲ, λΝ-ι- 3, λΝψι ..... λΝ-ι-(Ν- 1),
+quarum numerus est ΞΝ. Singulae autem hae formae non omnes continent numeros quadratos; dantur scilicet
+inter *illas ejusmodi formulae, quae numeros quadratos involvunt, reliquae vero quadrata prorsus excludunt.
+Seposita enim prima forma λΝ, quae ipsa multipla numeri N continet, reliquarum primae λΝ-ι- 1 et ultimae
+tN-n- N—1‚ vel (L-t- 1)Ν -1 quadrata in eadem formula continebuntur, nempe λΝ-ι- 1. Eodem modo ‘qua-
+drata secundae et penultimae formulae continentur in formula λΝ-ι- 4. Simili modo quadrata tertiae et ante-
+penultimae continebuntur· ιιι formula alva-9, quarum formularum multitudo est (Ν -1) quae scilicet in se
+
+complectuntur quadrata. Reliquae formulae omnes ab his diversae quadrata penitus excludunt, quarum nu-
+merus itidem est (N -1)
+
+11. Sint formulae illae quadrata admittentes λΝ-ι-α, λΝ-ι-ὺ, λΝ-ι-σ, λΝ-μᾱ, etc.‚ quarum numerus est
+;(Ν-1) et modo vidimus, inter hos numeros a, b, c, d, etc. reperiri quadratos 1, 4, 9, 16, etc. quamdiu
+
+scilicet sunt minores, quam N. Majorum enim residua ex divisione per N relicta sumuntur. Formulae autem
+
+quadrata penitus excludentes sint. λΝ-ι-α, λΝ-μβ, λΝ-ι-γ, amn-8, etc., quorum numerus itidem est
+
+ς ’(Ν-ι)
+

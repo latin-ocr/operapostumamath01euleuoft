@@ -1,0 +1,66 @@
+υ -νιε-,οινῠῑννι-ῆ ..-a
+
+Instituttbnnm Calculi differentiales Sectio ΙΙΙ. Cap. 4. 389
+
+aequatio pro curva erit completa in loco oe= Ο, nisi forte et isti novi termini evanescant, si ipsi y
+valor ante inventus tribuatur. His ergo incommodis ut remedium afferatur, expediet, si ex terminis
+primo inventis valor finitus pro y· puta y=a fuerit inventus, ut substitutione γ =a÷z utamur,
+'hincque aequationem inter ω et z modo supra descripto examini subjiciamus.
+
+21. Verum si hanc substitutionem y=a÷z evitare velimus, invento valore ‚finito gy=a,
+
+differentietur tota aequatio proposita, quaeraturque ratio ‘g- Tum in expressione inventa fiat ubique
+
+tc: 0 et γ ='a‚ sicque prodibit tangens anguli, quem tangens curvae in isto puncto cum directione
+
+axis constituit. Hoc modo etiam, si forte applicata y· plures habuerit valores finitos, puta y=a,
+
+du
+
+A=b, y= c, etc„ pro singulis ex eadem formula -— mpositio tangentis reperietur3 cum si substi-
+
+tutione uti voluerimus», pro unoquoque valore ἰριιίιιιι.τ γ peculiarem substitutionem fieri oporteret
+Plerumque etiam in differentiatione aequationis plures terminos omittere licet, ac ¹saepenumero sufficit
+ope regulae proximum terminorum ordinem adjicere; 'cum tamen dentur casus, quibus ad ultimum
+usque terminorum ordinem procedendum est, consultius est totam aequationem differentiare, quam
+omissione terminorum errorem in determinatione tangentis committere.
+
+V 22. Facilius autem Judicare licebit, utrum aliquot aequationis terminos omittere liceat, si
+aequatio proposita secundum dimensiones ipsius w disponatur, atque factores harum potestatum in
+divisores resolvantur. lta si hujusmodi aequatio fuerit proposita ’
+
+<a-r)⁴—³(a-r>³ae÷2(a—r>²aeae—‹a-'>·>oe³-·-oe⁴=
+
+ubi posito ωε 0 fit γ,- a, in differentiatione nulli termini praeter ultimum rejici poterunt, sicque
+quinque terminorum ordineS, quos promotio regulae horizontaliter deorsum facta indicat, assumi
+oportebit. Fiet enim
+
+ιν -vhrdJ-(a—yP—i- 9113- (a—y)²ae —— Ειᾶγω-ᾒωω-ι- dy· &2³- 3dae(a-y)³-i-tioedae(a—y)²-
+
+'5oe⁴4oe
+
+3aemdoe(a—y) -ι- 4ae³dae— = a
+
+ 
+
+' ’ . · · ’ἄν 3((Ᾰ“··1Ι)3·-’,ΦΨ-ωἐ-ῠ-3.ἰν>.ἰ>(α-ρ])--Δίαιεῖῧι-ο--ἕῖζιῗι
+⁸⁹5⁰ 013² W
+
+statuatur jam γ--τα et oe=.0, et quia in singulis terminis cyphra tres habet dimensioneS, praeter
+ι ,
+
+δ-Ξέ- hunc solum rejicere licet.
+
+23. Quia igitur hoc casu tam numerator quam denominator evanescit, atque omisso termino
+
+ξ reliquorum terminorum nullus prae ceteris rejici potest, ad tangentem definiendam aliud reme·
+
+dium non superest, quam ut substitutione γ =a —z seu a-y= z utamur, qua facta aequatio
+pto curva transit in hanc formam:
+
+z⁴— 32³ae -ι- 2zzoeoe —- zoe3-'e- oe⁴== ἒξ.
+
+His autem terminis in parallelogrammum dispositis regula indicabit bos terminos, quibus natura
+currae casu‘ a: ὲ 0 exprimitur: Α ”
+’ 2⁴—3z⁸ae421zaeae—zoe³—f-ae⁸= 0.
+

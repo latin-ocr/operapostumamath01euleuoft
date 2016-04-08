@@ -1,0 +1,62 @@
+122 ’ ι. EULERI OPERA PosTHUMA. mmmm.
+
+-,-- 11. Comme cette equation renferme deux quantites connues f et ρ, liees entr’elles per l’equation .
+. ff÷1 9941 ο Δ
+
+=--‘·⁷
+
+ 
+
+μα ρ-1
+il sera utile d’introduire :i leur place une seule lettre, qui puisse exprimet egalement l'une et l’autre
+quantist, ainsi soit affl -ε 2η) ρίἶί z 2
+
+1)ὀύ nous tirons pour les valeurs de f* et ρ cette expression
+
+nssV(nn—2n- 1).
+Or, comme. f est plus 'petit que ρ, nous prendfons ’ ’
+
+fzn—V(nn—2n— 1), 9=n÷V(nn—2n— 1), ”
+et' de Ιὲ nous tirerons -7 , ¹
+f÷0=2m Q—f=2V(nn-—2n—1) et enfin f9=2n÷ 1.
+
+Soit ensuite V(nn — 2η —— 1) := k, de sorte que f:- n — k, ρ = n -ι- Ic, 9—- fr...- 21⁶. A present
+il n’est pas difficile d'eliminer de notre equation les deux lettres ιθ et ρ.
+
+ἓ
+ι
+i
+
+12. Cela pose, commeneons par le premier membre de notre equation‚ et comme
+(ff-1-1)(e<>-¹† ¹) =(f<1- 1)²-⁴- (1⁰⁴- (1)²'
+
+et que f—i-Q-——2n et f'Q—1=2n‚ le premier membre prendra cette forme 8nn(zz-i-1)²„, et
+l'equation ὲ resoudre sera nn (zz—4-1)²= :¹:1²ss Q. Prenons maintenant en consideration les valeurs
+
+de P et Q, savoir
+P=f<12⁴÷ff<>÷ 1)(<1—-f)z⁸—6f<›zz-(fo—·—1)(<›—-f')z—¹-t'e‚
+Q=f<>2⁴—(f<>-*-¹)(<>-f) 2⁸-6f'0zz-1-(fQ-1-1) (Q—r‘)z-·-f9;
+comme fo: Zn-i- 1, Q—f': ek, ces valeurs deviendront
+P-=(2n-=- 1) z⁴-†-Iv(n—i- 1) kz⁸—6(2n-i- 1) Ζτ-ἵι(η-ι-1) kz—i-2n-i-1,
+Q=,(2n-i-1)z⁴-·li·(n-i-1)kz⁸·--6(2n-i-1)zz-i-li·(n—i-1)kz—i-2n-÷- 1.
+
+13. Pour decouvrir maintenant les valeurs de z* dans notre equation, il saudra considerer avec
+soin les signes -ι- et — que doivent avoir les lettres P et Q. Remarquons premierement quo
+lorsque z > ρ, l'une et l'autre expression (li) sont positives; donc onies prendre avec le signe -ι-. ι’ ·
+Mais si z est plus petit que f, alors P devient negatis et Q aussi, et par consequent il fandi-aileu: ,
+donner le signe —. Enfin, si z se trouve entre f et ρ, la lettre P sera positive et. Q negative.
+D'epres ees considerations on voit que, selon que z est plus grand que ρ, ou plus petit qne f,
+ou enfin contenu entre ρ et f, on aura trois cas ἐι developper, nommement les suivants. ἢ
+
+Α Premiel· cas.
+
+Recherche des valeurs de z plns grandes que ρ.
+
+w, ι Comme les deux lettres P et Q out le signe —{-, nous aurons
+P÷Q=2(2n-·- 1)z⁴— 12 (2n—i- 1) zz—i-2(2n-i- 1),
+et notre equation developpee ἐι resoudre sera
+
+nn (ζ’-ι- 2zz -1-1)= 2 (2n -ι- 1) (z⁴-· sszz -1- ¹),
+
+ 
+

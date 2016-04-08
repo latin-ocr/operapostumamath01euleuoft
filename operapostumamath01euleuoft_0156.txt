@@ -1,0 +1,63 @@
+138 κ lL. EULERI OPERAPOSTHUMA. Aritkmetica. ¹
+’ Appennini.
+
+-θ-
+
+28. Adjungam hic problema prorsus singulare, olim mihi propositum, quod vires analyseos
+Diophanteae omnino transcendere videtur, quandoquidem solutio ad formulam sexti gradus quadrato
+aequandam perducit, dum adhuc operationes istius analyseos 'non ultra quartum gradum sunt pro-
+
+motae. Problema autem hoc, cujus tandenti unam solutionem sum adeptus, ita se habet:
+
+Invenire duos ’ numeros, quoram productam ita sit compar-atum, ut sive addatur, slve
+
+subtrahatur· tam su'mma quam differente‘a -eorum, semper prodeant numeri quadr..ti. . Ι Δ 3
+
+Positis ergo numeris quaesitis -Ξ et Ξ 2 requiritur ut sit
+
+tam aey· ’,ἐ- n (ει) -i- y) :quadrato
+quam oey* :h n (ω - y) ε quadrato. Ι
+Cum nunc sit ΛΑ —r- BB ss 2AB quadratum, capiatur oey· ita , ut duplici modo in duo quadrata i}
+resolvi possit. Hunc in· finem posito (ιγ = (pp -ι- qq) (rr -μ ss) , erit duplici modo ¹
+vel A=pr÷qs et B=ps—qr·,
+vel A=ps÷qr et B=pr—qs;
+quare statuatur n (ω -4- y) = 2 (pr -ι- qs) (ps -'— qr) ⁷ et
+’ ¹1(oe -r)·== 2. (με εε- qr) (rr— ⁴1³), ut fiat
+V(aey—r-n(oe-i-y)) :pr—i—qs—i-ps—qr
+V(oey — 12(ae —i-y)) =P''.'¹'‘ ‹Is—ps -ι- qr
+V(oey 54— n (ae —'y))s= ps -ι- qr-n— pr-‘ qs
+V(aey -— n (ω - )) :ps -ι- (Ιν-ρν-ι- qs
+29. Jam factae positiones praebent· ’ ’
+
+,τῆ-3] - (pr—r- qs) (ps — qr) — pprs-ff-pqss —pqrr -- qqrs ’
+&Ty - (pm-qr) (vr - 51³) ”“ vrrs -pqss-n-pqrr - παπ* ’
+
+ 
+
+ 
+
+unde fit {⁰— :13ss :333- Ponamus ergo a: = mrs (pp 7- qq) et γ Ξ, mpq (ss — rr) , eritque
+
+oe÷y=m (p1·÷qs) (ps—qr),
+2
+
+— , ιιι numeri quaesiti fiant. .
+
+ideoque 122: m
+
+(B
+
+-χ = -ζ- 'mm (Pr — 11⁹) et
+Ξ --- ἐ-ηιηιρι] (ss — rr).
+
+Nunc ob my: (pp'ff-qq) (rr-433), habebimus hanc aequationem resolvendam
+
+mmpqrs (1⁰12 -w) (δε-Ν), = (er *qv (rm-⁸³),
+quae utique ita est comparata, ut per nulla artificia adhuc cognita confici possit.
+30. Facile autem perspicitur id effici oportere, ut haec fractio quadratum evadat
+
+vr (ιον - w) (mm-w) Ξ U
+r⁸(⁸=-- rr)(²”¹·-¹-⁸³) '
+
+ 
+

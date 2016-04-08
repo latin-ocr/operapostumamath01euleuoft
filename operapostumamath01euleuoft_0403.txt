@@ -1,0 +1,61 @@
+*ew-sur* ·N*W2Wam—s4ww · α
+
+Institutionum Calculi differentiales Sectt'o III. Cap. 4. 385
+
+quod ex aequatione completa -est dijudicandum. Tertius denique casus existit si m=n, quo casu
+aequatio ym=Coen abit,in banc γε·- Cre, naturam lineae rectae exprimens. Tangens igitur curvae,
+ex qua posito ae=0 haec aequatio y· = Cae est nata, (Fig. ¹⁵0) ad axem AB erit inclinata angulo BA D,
+cujus tangens est =C, sicque recta DAT curvam in puncto A tanget. Figura igitur curvedinis
+prope A erit vel ΑΜ vel AN,- vel Am, vel An, atque vel ex duobuS, vel quatuor, vel sex etc.
+hujusmodi ramis consistet. De. vero autem curvae tractu tam antecedentia quam consequentia versus
+hic nihil certi statuere licet, nisi reliquorum quoque aequationis terminorum hic neglectorum ratio
+habeatur. Interim tamen hinc ad quemcunque horum casuum ‚aequatio curvae facto ae=0 perdu-
+catur, positio tangentis iu, hoc loco facillime definitur. Χ
+
+7. Diximus supra si in a‘equatione ym= Caen exponentes m et η communem habeant divisorem,
+hanc aequationem per extractionem radicisad simpliciorem formam deprimi posse. Hoc autem ita
+intelligendum est, nisi extractio ob signum - quantitatis C impediatur. Si enim communis divisor
+fuerit numerus par, et coiifficiens C sit quantitas negativa, extractio radicis deduceret ad imaginaria;
+ex quo intelligitur, abscissis ω, si iis valor finitus tribuatur, nullam plane respondere applicatam.
+Sic si habeatur y²=—ae² vel y⁴=—-a·daeoe,. vel y⁶=--aaae⁴ seu y⁶=—a⁴oeae etc. singulis
+valoribus finitis ipsius ω nulla-ev applicatae respondent} interim tamen facto ae=0 manifestum est
+
+'fore et γε 0. His igitur casibus aequatio pertinet ad unicum punctum in initio abscissarum positum,
+’ et curvae, ex quibus hujusmodi aequationes pro oe= 0 proveniunt, nullos habebunt ramos per
+
+puuctum A transeuntes, sed ibi habebunt punctum separatum, quod conjugatum vocari solet, cujus
+tangens concipi nequit. Quod idem indicat formula ante pro positione tangentis inventa, quae ob
+
+0⁰¹3, si C est quantitas negativa et m numerus par, imaginarium, assignari omnino nequit.
+
+8. Sin autem in aequatione binomia ym=Coe”, ad quam posito oe=0 pervenitur, exponens
+n fuerit numerus negativus, tum valori cc=0 respondebit valor y=00‚ sicque (Fig. Μ) applicata in
+
+puncto A erit infinite magna. Tangens autem anguli, quem tangens iu hocloco cum curva constituit,
+
+n ln—m
+
+erit= —3 Cffioe m , quae ob n numerum negativum, posito arx: 0, semper fit infinita, isque angulus
+
+ 
+
+rectus. lpsa ergo recta EAF, axi in A normalis, erit tangens curvae, ejusque idcirco asymtotos; ex
+quo curva ad minimum duos ejusmodi ramoS‚ cujusmodi sunt MP, NQ, mp, nq, ex infinito rede-
+untes habebit. Sin autem, ut ante meminimus, uterque exponens m et η fuerit numerus par, et C
+
+quantitas negativa, tum aequatio casu quoque cc: 0 erit imaginaria, nisi forte dicere velimus cur-
+
+. vam 'in distantia infinita rectae AE vel AF habere punctum solitarium conjugatum.
+
+.· · 9. Casus igitur evolvimus eos, quibus posito oe= 0 'applicata y· vel quoque evanescit, vel in
+infinitum excrescit. Sin autem y· posito oe= 0 finitum obtineat valorem, puta y=a‚ tum iste
+
+‘casus ponendo γεα-ι- z ad priorem reducitur, quippe z evanescet posito ae= 0. Cum autemhaec
+
+substitutio, praesertim si aequatio proposita pluribus constet terminis, non parum molestiae pareret,
+mox *modum trademus, cujus ope sine hac substitutione tangens definiri queat. Ceterum· aequationes
+binomiales hactenus tractatae viam nobis aperiunt ad aequationes, quae pluribus constant terminis,
+
+progrediendi, tam quod in hoc genere sint simplicissimae, quam quod aequationes utcunque compositae
+rar-:uim ορ. pontum τ. ι. 49
+

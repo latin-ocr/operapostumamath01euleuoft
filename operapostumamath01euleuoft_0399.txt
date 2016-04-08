@@ -1,0 +1,45 @@
+[mmmmm όαιωιιι· diffamata Secta> ιιι· Cap. 3. 381
+
+¹⁵2, Superfluu'm esset exemplis hanc regulam per se1facilem³3illustrarei quare ad» alios genera·
+tionis modos progrediamur», *in quibus applicatae non 'ex puncto quopiamissxo '.egrediuntur‚ sed alio
+modo definiantur. Ubi cum infinita varietas locum habeat, ex ea ejusmodi casus eligamus, in quibus
+proprietates prae ceterisnotatu dignae. occurrunt. Ac primo quidem proposita sit (Fig. 32») curva quae· ¹*
+cunque AL, ex qua ita1 formetur alia BM, ut rectae LM, quae curvae datae normaliter insistant, ubique
+ejusdem longitudinis capiantur. vHoc modo⁸ manifestum est, si linea A Lffuerit recta, alteram quoque
+rectam illi parallelam esse suturam3 ac si linea AL sit circulus, alteram BM pariter sore circulum
+ipsi concentricum. Generatim ergo cum lineae AL et BM ubique'aequis intervallis a se invicem
+distent, parallelae inter se erunt censendae, quae est idea maxime adaequata parallelismi ad lineas
+curvas accomodati. . v ¹
+
+: 103. Quia lineae ML et ml ad curvam AL ponuntur normales atque inter se aequales sunt,
+eaedem quoque in alteram curvam genitam ΒΜ erunt normales. Producantur enim hae duae lineae,
+donec concurrant in punctoO„ et {quia'lineae OL et Ol sunt ad curvam normales, elementum Ll
+confundetur cum arculo circuli centro⁴ 0 descripti, eritque ergo 0L,= Ol3 unde cum sit mre-lm,
+erit quoque OM: Om, quocirca et hae lineae OM et Om ad ¹curvam genitam ΒΜ erunt normales,
+sicque et inthoc communis parallelismi natura locum habet, ut quae linea in alteram curvarum
+AL et ΒΜ sibi parallelarum sit normalis, eadem ‚alteri perpendiculariter insistat. ¹Hinc ergo porro
+sequitur tangentem curvae genitae MT parallelam fore tingenti curvae datae LV, ita ut si curvae
+datae tangentes ducere valeamus, in promtu sit curvarum hoc modo inde genitarum tangentes
+determinare. λ *V ’
+
+Ιιῐιι. Praeterea autem affinitas Ιι3ιιιιιι curvarum singularis est notanda, quae in hoc constat, ut
+longitudo curvae BM aequalis sit arcui curvae datae AL una cum arcu quodam circulari sic defi-
+niendo. Sit recta AB ad utramque curvam normalis, cui productae normalis ML occurrat in Ν.
+Ducatur Ι.’μ 'ipsi lm parallela, erit ῄιμΞΕῑ, ideoque Mm-'ssLl—i—'Mlta Jam centro N radio
+EN =² LM=A B describatur arcus ‚circuli E S, atque ducatui· Ns ipsi nl parallela, erit utique
+Μμ --- Ss, ⁴‘ideoque Mm z Ll -ι’- Ss. Cum igitur sit Mm differentiale curvae BM, et Ll differentiale
+'curvae AL, atque Ss differentiale arcuscirenlaris E S, erit d . ΒΜ =d .'A L÷d . ES, ideoque et
+integralia aequalia esse oportet, unde fit BM= A L-n-ES Differentia ergo inter arcus ΒΜ et AL
+aequalis est arcui circuli, cujus radius =AB= LM, respondenti angulo BNM, quem rectae in
+terminis curvarum normaliter ductae ΒΝ et MN inter se constituunt. Atque hinc duae lineae curvae
+exhiheri p'ossunt, quarum differentia aequetur arcui circulari.
+
+¹³5. Sit (fig. 35) curva data ALG, ex qua ita formetur altera curva ΒΜ, ut rectae LM, quae tangit 2*
+curvam datam in L certus trIbuatur valor sive constans, sive functioni cuicunque a puncto L pen-
+denti aequalis. Ponatur *ergo arcus curvae datae AL=s, sitque longitudo tangentis Lsz.
+meatur· secundum eandem. legem ex puncto proximo l tangens lm=y÷dy‚ et quia haec recta
+lm-cum elemento curvae Ll-in.directum jacet, ob-.L·l =.ds‚ erit linea Lm=y<÷ dy—i-ds. Ex
+M iit-Lm demittatur perpendiculum Μμ, quod non differet ab arculo circuli centro L descripto,
+eritque propterea Lpt=LM= γ, unde fit> mpe=dy÷ds. Si jam innotesceret lineola Μμ,
+haberetur in triangulo Mmpc angulus Μηι μ, cui aequalis est angulus LM T, quem tangens curvae
+

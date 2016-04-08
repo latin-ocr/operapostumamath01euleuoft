@@ -1,0 +1,51 @@
+128 L. EULERI OPERA POSTHUMA. ,mamea-w.
+
+VII.
+
+considerationes circa analysin mopnanteam. ’
+
+1. Saepe ac multum mecum cogitavi, an non liceret eam analyseos partem, quae Diophantea
+appellari solet, veluti reliquas matheseos disciplinas, ad certa capita revocare, quibus constitutis
+universus hujus analyseos complexus perspici, et cuique problemati caput, ad quod referri oporteat,
+
+assignari queat, ut hinc principia statim innotescant, ex quibus cujusque problematis solutionem peti
+
+conveniat. Verum postquam complures quaestiones huc pertinentes omni studio pertractassem, sin- ν
+
+gulas fere sibi prorsus peculiares methodos et calculi artificia postulare deprehendi, ut propemodum
+totidem hujus analyseos capita constituenda videantur, quot problemata particularia in hoc genere
+proponi possunt. Ex quo nullo, adhuc ›modo intelligere licet, quomodo pro hac analyseos parte
+principia generalia constitui, eamque in certas partes distribui oporteat. Ι . ‚
+
+2. Divisio quidem hujus analyseos in duas partes statim se offert, quarum altera eJusmodi
+problemata in se complectitur, quorum solutiones ita per formulas generales exhiberi queant, ut
+
+⁷ omnes plane solutiones in ,fis contineantur, ex iisque derivari queant. Altera autem pars ejusmodi .
+
+quaestionibus solvendis versatur, quarum solutio generalis neutiquam in certis formulis comprehendi
+potest, sed ita institui solet, ut ex qualibet solutione jam inventa aliae novae deduci queant ‚A quo
+
+in negotio tamen iterum fere infinita varietas pro diversa problematum indole cernitur3 et quoniam*
+
+nunc quidem maxima pars problematum, quae in analysi Diophantea tractari solent, ad hanc alteram
+partem est referenda, multo minus methodi ad ea solvenda accommodatae ad certas classes revocari
+
+posse videntur. , Ι
+3. Neque vero illa divisio problematum inde petita, quod alia solutionem generalem, in certis
+
+formulis analyticis contentam, admittant, alia vero tantum solutiones particulares recipiant, quae¹
+
+tamen continuo ad alias novas perducant, tam certo est stabilita, ut haec duo problematum genera
+ob suam naturam penitus a se invicem dirimantur, ‘cum utique evenire queat, ut problemata,
+quae ad posteriorem partem referenda videntur, certis adhibitis artificiis generaliter resolvi queant.
+Cujusmodi est problema de tribus cubis inveniendis, quorum summa sit cubus, cujus solutiones
+antehac tantum particulares sunt datae, donec equidem ejus solutionem generalem exhibui, ita ut
+hoc problema nunc primae parti accensendum videatur. ἰ ’
+
+[ι. Cum igitur hactenus plura problemata Diophantea sim perscrutatus, unde multitudo ac
+varietas methodorum, quibus ad ea solvenda uti convenit, maxime elucet, nunc aliud ejus generis
+
+problema, quod quidem apud auctores passim occurrit, contemplabor, quod ita se habet:
+
+—Qm—e—nx.. -1*„-- .. . ,
+

@@ -1,0 +1,69 @@
+14 L. E U LERI OPERA POSTHUMA. Arz'thnwtz'ca.
+
+2, 5, 9, 10, 11, 16, 17, 19, 21, 22,“23, 25, 26, 27, 29, 33, 34, 35, 37, 41, 43, 45, 46, 47
+49, 50, 51, 52, 53, 55, 58, 59.
+Numeri autem, qui summas divisorum exprimunt, 511111· ,
+1, 3, ιι, 6, 7, 8, 12, 13, 14, 15, 18, 20, 24, 28, 30, 31, 32, 36, 38, 39, 40, 42, 44, 48, 54,
+56, 57, 60.
+
+· 102. 111119 patet duos pluresve numeros quandoque eandem divisorum summam praebere, veluti
+sss=s¹¹zl2 s14=s15=s23=24
+s10=sl7=18 s20=s2ss=s41=42
+slsszs25=3l s33=s35=slt¹7==48
+s⁵2l=s3l=32 s24=s38=s59=60.
+
+s34=s53=54
+s28=s39=56
+
+103. Problema hic proponi solet, quo quaeritur numeruS‚ qui ad summam divisorum suorum
+
+habeat datam rationem: scilicet ut sit N: s N - n: m, sive —s—Alrv— — {a ubi quidem primo necesse 951
+
+111 511 m > n; si enim esset ιη·- - -,η foret N=1. ·
+
+104. Ratione m: n in minimis terminis expressa, numerus N vel ipsi n, vel cuipiam ejus mul-
+tiplo aequalis erit. Statuatur ergo N -αη eritque sN-——sanz-am. At nisi sit a=1, est
+s an > a s n hinque m >sn Quocirca si fuerit m < s n nulla solutio locum habet, sin 31119111
+
+—sn unica datur solutio, 59111991 N =n
+
+105. Nisi erg-o sit vel m z s n, vel m > s η, problema solutionem 11011 admittit. Priori qui·-
+dem casu numerus quaesitus N ipsi n aequabitur, neque praeterea ulla alia dabitur solutio. Posteriori
+vero casu, quo m > sn, numerus N aequabitur multiplo cuipiam ipsius n, puta N == an, siquidem
+ulla solutio locum habet. Dantur enim utique ejusmodi rationes m tn, quibus nequaquam satisfieri :³
+potest, etiamsi sit m > sn.
+
+106. Numerus perfectus est, cujus summa divisorum ipso duplo est maj0r. Ita si fuerit
+[ΝΞ 2Ν, erit N numerus perfectus. Qui si sit par, erit hujusmodi 2”Α, existente A numero ·
+
+impari, sive primo, sive composito. Cum ergo sit
+
+N: ΨΑ, eritszvzoe *1-1)sA=2÷1A‚ undefit4j=
+
+σμ’-Η
+2⁶¹⁴- -1‘
+
+ 
+
+2η ‘'-1
+2' *¹ —1
+nequit summam divisorum denominatoris; erit ergo vel aequalis, vel minor. Posteriori casu nulla* Α
+
+107. Quia hujus fractionis
+
+ 
+
+numerator unitate tantum superat denominatorem‚ eXCedere
+
+datur solutio, prior vero existere nequit, nisi sit 2'‘”'‘¹-——1 numerus primus Quare quoties
+2'²÷¹—1 fuerit numerus primus, ei A aequalis capi debet, eritque numerus perfectus =2'¹(2'¹'*‘¹—1).
+108. Omnes ergo numeri perfecti pares in hac formula 2η (2””Η-1) continentur, siquidem
+2'¹''‘¹—1 fuerit numerus primus, quod quidem evenire nequit nisi n÷1 sit numerus primus;
+etiamsi non omnes primi pro η-1-1 assumti praebeant 2”“““1-1 primum. Utrum vero praeter hos “
+numeros perfectos pares, dentur quoque impares, nec ne? nemo adhuc demonstr-avit. ’
+
+109. Si daretur numerus perfectus impar, omnes ejus faetores impares sint 11999559 951. Sit
+ergo = ABCD 919. oportetque fieri s Α. s B. s C . s D=2ABCD numero impariter pari. Quare 111191·
+
+ 
+

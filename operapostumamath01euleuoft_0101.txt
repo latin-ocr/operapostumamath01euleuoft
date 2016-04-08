@@ -1,0 +1,66 @@
+Loi relative ὰ Ia somme des dtbtlseurs des nombres. 83
+
+§ 12. substituens cette valeur 33 lieu de t dans 13 seconde expression (13 cette meme lettre t,
+
+J qui, delivree des fractions, 33 reduit ὲ cette forme:
+
+12
+
+t(1—oe—ae²-1-ae⁸-·-ae⁷—ae —oe¹⁸÷ae²²—÷-ae²⁶—....) } 0
+
+— <c — 22:²4- ὄπ’-ι- 7oe⁷— 12:12⁰— 15ae¹⁸÷ 22oe²²÷ 26ae²⁶÷. . . .
+
+Maintenant 13 valeur precedente etant mise (13113 cette equation, nous trouverons:
+
+0 =s¹ .oe—i-s2.oe'÷s3.ae³÷slv.oe⁴—i-s5.ae⁸÷s6.oe⁶—{-s7.oe⁷—1-s8.ae⁸÷s9.ae⁹—{-. . ..
+—ae—sl .ae²—s2.ae⁸—s3.oe⁴—sh·.oe³—s5.oe⁶—s6 .ae⁷—-s7.oe⁸—s8.ae’--. . . .
+,—2ae²—s1.oe⁸—s2.ae⁴—s3.ae⁶—s1÷.ae⁸—s5.oe⁷—s6.ae⁸—s7.ae⁹-.. . .
+-ι- 5oe³÷s1 ae⁶÷s2m⁷÷s3 .ae⁸—}-slv.oe³—⁸-. . . .
+-ι- 7:12⁷-n-s1.oe⁸—=-s2.ae⁹—÷-. . . .
+etc.
+Ici il est aise d'observer que les coefficients de chaque puissance de cc sont les sommes des diviseurs
+
+d'abord de l’exposant de cette puissance meme, et ensuite, des autres nombres plus petits qui
+
+¹· resultent si l’on ote successivement de l’exposant les nombres 1, 2, 5, 7, 12, 15, 22, 26, etc.
+
+ 
+
+Ensuite, si l’exposant de 13 puissance de cc est egal 3 un terme de cette serie numerique, alors ce
+meme terme accompagne encore les coefficients. En troisieme lieu, l'ordre des signes n'a hesoin
+
+d'aucun eclaircissement. Ainsi‚ on conclura en general que 13 puissance αἶ’ aura ces coefflcients:
+
+sn—s<n— ι) —s(n— 2> -·-s<n— ³5 ÷s<n— ⁷)—s<n—12)—-sxn— 1⁵)—·-- - - -
+
+jusqu‘a ce qu'on ne parvienne 3 (133 nombres negatifs. Mais si l'un quelconquessde ces nombres devant
+lesquels se'trouve le signe s, devient = 0, alors il faut mettre ⁵3¹ sa place le nombre n meme, de
+sorte que (13113 33 333, il y 3 sO ==n et le signe de 33 terme suit l’ordre general des autres. Ι
+
+§ 13: ⁴Ainsi donc, puisque l'expression infinie du § precedent doit etre egale 3 zero, quelque
+valeur que l'on donne ἐι 13 quantite ω, il faut de necessite que les coefficients de chaque puissance
+
+3 part, pris ensemble, soient egaux 3 zero, et par-tant nous aurons les equations suivantes:
+
+Ῑ. s¹-¹²=0› s1=l‚
+
+11. s2'—s¹—2=0‚ ⁷ ηερ-32,
+
+111. s3—s2-s1=0, s3=s2÷s¹‚
+
+lV. sb—s3-s2=0‚ ou slv=s3÷s2‚
+
+V. J'5—sll-—s3-b5=0‚ s5=slb÷s3-··52
+
+vl. ss—s5—str-s-s12—0, s6=s5÷s1÷—s¹‚
+
+vn. s7—.f'ss—s5-·-.f2÷7=0‚ s⁷=sss÷s5-s·2-⁷›
+etc. etc.
+
+et generalement nous aurons:
+
+ο =sn —s(n—1)—s(n - 2) ÷s(n ὲ ⁵> ÷s<12 — τ) —s(=2 - ιε) -s(n —1⁵)- - - -
+
+et par consequent
+a*
+

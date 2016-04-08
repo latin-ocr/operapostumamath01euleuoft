@@ -1,0 +1,64 @@
+1 6 L. E U L E R Ι OPERA POSTH UMA. . mmmm-ca,
+7&
+
+120. Simili modo si (1:51), numeri, qui cum α communem habent divisorem, sunt primo
+omnes per 5 divisibiles, quorum multitudo est =p, ac praeterea qui per Ρ sunt divisibiles, nempe
+p, 2Ρ, 31> et ἱιρ; ipse enim numerus 5Ρ jam ante est notatus: unde multitudo numerorum ad a
+compositorum est JJ—{- li, ideoque multitudo numerorum ad a primorum = ῐιΡ-ῐιεῑι (Ρ- 1),
+
+qui scilicet ipso α non sunt majores.
+
+121. Generalius si sit az: pq, existente utroque factore Ρ et q primo, ab unitate ad α dantur
+
+Ρ numeri per q divisibiles, scilicet q, 2q, 3q. . .pq; deinde dantur q numeri per Ρ divisibiles, scilicet i ³
+
+p, 2Ρ,, 3Ρ,. . .(]Ρ, quorum ultimus qp jam est numeratus. Multitudo ergo omnium numerorum a non
+superantium, qui ad α sunt compositi, erit =p÷q—i, unde reliqui, quorum multitudo est
+:qr—P—q÷1=(P-1) (ιι-1),
+ad α erunt primi.
+122. Hic autem‘pro Ρ et q numeros primos diversos,⁴ sumsimus. Nam si esset a=pp, alii
+
+numeri ad α non essent compositi, nisi qui sunt per p diviffiiles, quorum multitudo cum sit = Ρ,
+
+reliquorum, qui ad a sunt primi, multitudo erit :pp—pzp (p — 1).
+
+123. Simili modo si sit a=p⁵, quia alium divisorem primum praeter Ρ non habet, omnes ,
+
+numeri ab 1 ad α, ad a compositi sunt Ρ, 2Ρ, 3Ρ. . . .ΡῬ, quorum multitudo cum sit 12², reliqui
+
+numeri omnes, quorum multitudo est P⁸- p²=p² (p— 1), ad a erunt primi.
+
+1214, Hinc in genere patet, si a fuerit potestas quaecunque pn numeri primi Ρ, multitudinem
+
+numerorum ad α primorum, qui quidem ipso a non sint majores, fore :pn-‘¹ (p— 1).
+
+125. Sit a=p²q, existentibus p et q numeris primis diversis, et cum a alios non habeat.
+divisores primos praeter Ρ et q, numeri ad a compositi vel erunt per Ρ divisibiles, qui sunt
+
+Ρ, 2Ρ, 3Ρ. . .Ρᾳ.Ρ, multitudine ΞΡᾳ, vel per q divisibileS, qui sunt q, 2q, 3q,. . .p².q multitudine f
+
+=11²· Inter hos vero occurant, qui ibi jam sunt numerati pq, 2pq, 3pq. . .p.pq multitudine τ-Ρ, “ .
+
+ita ut multitudo omnium ad a compositorum sit =pq -1—p2 —— Ρ. Quare reliqui, quorum multitudo ]
+
+est :ppq—Pq—pp÷p=P(P- 1) (qr- 1), omnes ad a erunt primi.
+
+126. Sit a zpqr, existentibus Ρ, q, r numeris primis diversis, ac numeri ad a compositi ⁶
+sunt divisibiles
+
+1) per p, scilicet Ρ, 2Ρ, 3Ρ. . ,q1·.p multitudine qr
+2) per q, α q, 2q, 3q. . .pr.q « Ρι·
+3) per r, ιι r, 2r, 3r. . .pq.r· (ι pq.
+llic autem bis numerantur divisibiles per pq multitudine r, tum divisibiles per pr multitudine q, ·
+ac denique divisibiles per qr multitudine Ρ, qui inde auferantur, at hoc modo numerus ipse p'qt·
+
+penitus tolleretur, qui ergo iterum est adjiciendus. Sicque multitudo numerorum ad a compositorum
+
+‘²¹‘st ‘1¹' *¹- PV‘ -ff-Psl -· r — q -Ρ -ι- 1 3 unde reliqui, quorum multitudo est
+pqr—qr—-pr⁹—pq-i—r'—i-q—i-p— 1 = (Ρ- 1) (q— 1) (r- 1),
+ad numerum α = pqr erunt primi.
+
+127. Ex his colligetur pro omnibus numerorum generibus sore
+
+ 
+

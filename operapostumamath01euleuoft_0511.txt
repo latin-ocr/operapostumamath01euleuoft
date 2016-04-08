@@ -1,0 +1,73 @@
+Raqmentorum ex Adversariis continuasti). 493
+1 α β γ α-1 α
+α-ι-1 α·ι-α α-μβ α-ι-γ.... α-1 2α
+2α-ι-1 2α-ι-οι Qua-36 2α-ι-γ.... 3α-1 aa
+3041 3α-ι-οι 3α-ι-β 3α-ι-γ....1ια-1 lna
+(n—1)a-t-1‚ (η-1)α-ι-α, (η-1)α-ι-β, (π-1)α-ι-γ... vta—1 na
+
+Quemadmodum igitur hic prima series horizontalis continet omnes numeros ad a primos ab 0 usque ad a, ita
+secunda series continet omnes ad a primos usque ad 211, tertia vero omnes numeros ad a primos ab 20 usque
+ad aa, Hocque modo hae series continuentur usque ad ultimam (n — 1,) a—t-ie Omnes igitur, conjunctim prae-
+bent omnes numeros ad a primos ab 0 usque ad na, quorum ergo numerus est mm. Singulae autem series
+verticales erunt arithmeticae progressiones differentia a crescentes. His praemissis sequentia problemata facil-
+lime solventur. ⁸
+
+Pronum. Proposito numero quocunque a, investigare valeres formularum 7ra², πα3, πα4, et in genere πα’”.
+
+Somno. In schemate superiore sumamus n=a‚ ut quaeratur rca²‚ atque manifestum est omnes terminos
+illarum serierum‚ quia sunt primi ad a, etiam primos fore ad aa. Quare cum earum serierum numerus sit
+
+⁰⁸:11, et cujusque terminorum numerus =7ta ‚ omnino habebimus α.πα, cui ergo aequalis παα, ita ut sit,
+
+{Q‘C'l-zug‘usstffl' *1¹⁴5 ἱ, ,ξιιμ κν» *ss-2¹: —·[‘'''''' 3·- γ v y} „. · „
+
+ᾗ] ’πααεαπιι Deindesumto azau, ut sit na=a⁸‚ quia iterum omnes termini sunt primi ad (1³, eorum nume-
+rus erit ααπα, ideoque πα3εααπα. Atque in* genere si sumatur ἰιι-ἀ1η -“ ¹, ut fiat na=a''¹‚ multitudo om-
+nium numerorum ad am primorum erit
+
+am - ¹ πα.
+„ Conon.. Si igitur α numerus primus, ideoque rca=a— 1, erit
+
+ξ na²=a(a—1), ua³=aa(a—1) et ...aam=a”²-¹(a-1).
+
+ἒ Ριιοιιιιιιιᾼ. Propositis duobus numeris a et b inter se primis, pro quibus habeantur formulae πα et πῖν,
+
+Ξ invenire multitudinem omnium numerorum ad productum ab primorum ipsoque minorum, sive investigare valo-
+
+9 rem παὺ.
+
+Somno. ln schemate superiore sumatur n=b‚ ut fiat· nassab3 et quia series horizontales continent
+
+    
+
+³2⁷ omnes numeros ad a primos ab 1 usque ad ab, quorum ergo numerus est bna, jam ,consideretur prima series
+
+verticalis, quae est 1, α-ι- 1, 2α-ι-1, . . . . (b — 1) a—1-13 quae quia est arithmetica, ejusque differentia a est
+prima ad b, numerus terminorum ad b primorum =7cb. Hoc idem valet de reliquis seriebus verticalibus, qua·
+rum quaelibet nb continet >terminos ad b primos. Quamobrem numerus omnium terminorum simul ad α et b
+primorum, ob numerum verticalium =7ta, erit =7ta. πὸ, ita ut sit nabz-—Jca . πὸ.
+
+71¹1=1 7t5=4 ’ 7159:ss 7t13=12
+
+ξ Hinc jam tabula pro omnibus numeris condi poterit:
+,ἀει , n6=2 7r1o=4 n1i=s
+
+7153=2 7t7=6 7511=10 72¹15==8
+nt=2 n8=t n12=4 rc16=7 etc. ⁴
+
+e
+,-
+ὴ
+ι
+
+⁷ Hinc porro patet, si fuerint α, b, ο, d numeri inter se primi, tum fore nabcd=7ta . πὸ . πο . πα. Hinc
+
+ἐ
+3
+ἐξ similiter, si proponatur numerus aabsscyae‘: Ν, erit πΝ--αα- ¹ πα . ὁβ- ¹ πὸ . οῚ- ¹ πο . d⁸-¹ πά.
+.3
+
+A. m. Τ. 111. p. 182 -184,
+
+  
+

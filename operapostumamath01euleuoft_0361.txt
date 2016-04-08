@@ -1,0 +1,59 @@
+ruminabam Calculi affirmas sectio 111. > 343
+
+a: incrementum capit Δω, applicata y incrementum accipiet Δγ, quod ex natura functionis y et
+quantitate incrementi Aa: assignari· poterit. Scilicet dum ω abit in ae-i-Aae, applicata γ abibit
+in γ-ο-Δγ. Quare si in figura capiatur abscissa alia Ap Ξω-ι-Δω, erit applicata respondens
+pm.=y--i-Ay·. Cum vero sit AP=oe et ΡΜΞγ, in figura erit Pp =Aae‚ sicque Pp denotabit
+incrementum abscissae Aae. Deinde si ex M axi parallela- ducatur Mn, ob ρηΞγ, erit mn=Ay,
+sicque linea mn repraesentabit incrementum applicatae Ay,1qu0d convenit incremento abscissae
+Pp = Ax.
+
+b. Quo haec* facilius intelligantur, sit curva BM parabola hac aequatione expressa ay· = oeoe.
+Cum igitur posito ae-i-Aae loco ω, abeat y· in y-f-Ay, habebitur haec aequatio
+
+ay· -ι- aAy· Ξ oeoe —i— 2oeAoe -ι- AaeAae,
+quae ob ay = πω relinquet hanc
+
+αΔγ Ξ 2oeAoe -ι- AaeAae.
+Sumto ergo in axe abscissae incremento Pp ΞΔω, erit applicatae incrementum
+
+AY = Qum-2- ΔωΔω seu mn = Pp (2AP-i-Pp) Ξ Pp (ΔΡ-ι-ᾼρ).
+
+α G a
+
+ 
+
+ 
+
+ 
+
+Perpetuo ergo si detur natura functionis γ, ex ea relatio inter incrementa abscissae et applicatae
+inveniri poterit. '
+
+5. Non solum autem ad datum >abscissae incrementum Δω inveniri poterit incrementum
+respondens applicatae γ, sed etiam cujusvis alius quantitatis, quae per ω et γ definitur. Sic cum
+hypotenusa AM exprimatur per V(oeae-i'-y·y), postquam abscissa ω incrementum Ax, et applicata
+y· incrementum Δγ accepit, hypotenusa V(oeoe-i-yy) abibit in V(<ae-=-Aae)²-÷- (y -i- Ay)²)‚ qua
+formula exhibebitur hypotenusa Am, quae cum sit =V(aeoe -ι-γγ) -ι- Δ V(aeoe -ι- ry), erit
+
+Ammona-ry) =V((ae-=—Aae)2-=- (Y-¹- Zy)²)—V(oex÷yy)‚
+
+hujusque ergo valor per methodum differentiarum supra expositam inveniri poterit. Si igitur centro
+A radio AM describatur arcus circuli Mq ab Am abscindens partem Aq= AM, erit pars residua
+mq=AV(oeae—i-y*y). Simul vero hinc patet, quomodo cujusvis alius quantitatis per ω et γ deter-
+minatae incrementum assignari atque in figura repraesentari debeat.
+
+6. Quin etiam figura nobis exhibet incrementa quantitatum, quae saepenumero nequidem per
+a: 'et γ finito modo exprimi possunt. Sic si area curvae, abscissae ΑΡ respondens, ponatur Ξ P,
+area respondens abscissae Ap erit ΞῬ-ι- ΔΡ. Verum si prior area a posteriori subtrahatur, re-
+
+” manebit figura mixtilinea PMmp, quae propterea erit incrementum areae P, seu erit ΔΡ Ξ PMmp.
+
+llaec area commode dividitur in duas partes, quarum altera est parallelogrammum rectangulum
+ΡΜηρΞγΔω, altera triangulum mixtilineum Mnm; eritque ergo ΔΡΞγΔευ-ι- Mnm. Simili modo
+si longitudo curvae BM, seu potius, quae toti abscissae ΑΡ respondet, ponatur =s, erit incrementum
+hujus lineae curvae As aequale arcui Mm, qui cuni sit major ejus subtensa =V(AoeAoe—⁸—Aydy)‚
+erit utique As> V<AaeAae4 AyAy). ’ ⁵ ,
+7. Si curva BM circa axem ΑΡ converti concipiatur, ut inde oriatur solidum rotundum, hujus
+tam soliditas, quam superficies in considerationem veniunt, quarum utraque, dum abscissa ‘ex P in p
+

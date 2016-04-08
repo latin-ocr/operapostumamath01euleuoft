@@ -1,0 +1,60 @@
+Lot' relative ὰ Ia somme des debelreurs des nombres. 77
+
+L'unite n'ayant d'autre diviseur que soi-meme, on aura s12÷= ¹. Le cbifre 0, au contraire, etant
+
+’ divisible par tout nombre, lanvaieur de s0 sera infinie. Cependant, dans 13 suite, je lui assignerai,
+
+pour chaque cas propose‚ une valeur determinee, convenable,& mon dessein.
+
+§ 3. Ayant donc etabli ce signe s pour marquer 13 somme des diviseurs du nombre devant
+
+j lequel il est pose, il est elair que, si p marque· un nombre premier, la valeur de sp sera = 1 ÷pt
+
+J ’“ excepte le cas οὺ p:- Ι, car alors nous avons sl = 1, et non pas s¹ = Ι -ι- 1; d'ou l'on voit
+
+’ ⁴ qu'il faut exclure l’unite de la suite des nombres premiers; etant le commencement des nombres
+
+entiers, elle n'est ni premier ni compose. Or, si le nombre p n'est pas premier, 13 valeur de sp
+
+ζ sera plus grande que 1-1-p. Dans ee cas, on trouvera aisement la valeur de sp par les facteurs
+
+¹ du nombre p. Car soient a, b, c, d, ete. des nombres premiers differente entr'eux, on verra
+
+³ ¹ aisement que:
+
+ 
+
+sab Ξι-ε-α-μιῌ-,αὸεμψα)(ι-ζζι»)--[α.[ο
+
+sabe =(1-·⁴-a)·(1-.-1,) (1-2-0)=sa.sb.sc
+sa⁶0a=(1÷a)(1÷b)(1-.-0)(1-2-d)=sa.sb.sc.sa
+
+ 
+
+etc.
+,” Pour les puissances des nombres premiers‚ on a besoin de reg-les particuliereS, comme: 3
+'sa²·==1-i-a—⁸-a²·=‘2³::9
+’ ’ ‹1⁴- 1'
+sa⁸= 1 ÷a4a²†⁰⁸=T=——t
+= ζ et generalement Δ ’ san: {Hs—¹.
+
+Et par le moyen de celles-ci, on pourra assigner la somme des diviseurs de chaque nombre, tout
+compose qu’il puisse etre3 ce qui sera clair par les formules suivantes:
+
+sa’b‘ =sa².sb,
+sa⁸ 112' = [αό. see,
+'J ·sa⁸b⁴c =sa³.sb⁴.sc
+’ et generalement saa bssc⁷d⁸ οδε saa. s ὁβ . s cy. s «1⁸ . se‘.
+ι’ Ainsi , pour trouver 13 valeur de s 360, puisque 360 se resout dans ees faeteurs 2⁸.3².5‚ j’aurai
+⁴ s36⁰=s2⁸·3²·5=s2³·s3²·s5=¹5·¹3·⁶=¹¹⁷⁰·
+
+§ b. Pour mettre devant les yeux la progression des sommes des diviseurs, j'aJouterai 13 table
+suivante, qui contient les sommes des diviseurs des nombres naturels depuis l'unite jusqu'in 100
+
+’ s¹= ι [ 7= 8· s13=¹¹÷ s19=20 s25=31 s31=32 s37=38
+3 sea: 3 [ 3.--ι5 [ιιιε2ιι [2ο-ειι2 [26232 [32Ξ63 [38--60
+s3= ι [ 9:13 s15=2u s21=32 s2⁷=lv⁰ s33=108 s39=5e
+[ιε 7 s10=18 s1e=31 s22=3e s28=5e s³s=5u sto=90
+ψ s⁵·== e sur-12 s17==18 s2³=2¹v s29=3o s3⁵=¹·8 stu-:42
+² se = ¹2 [ι2 = 23 [18 = 39 sm = eo [3ο = 72 [33 = 91 [32 = 96
+

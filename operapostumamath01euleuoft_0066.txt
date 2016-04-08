@@ -1,0 +1,61 @@
+48 L. E U L E RI OPERA POSTH UMA. Arithnaetnba.
+
+redeuntibus, contineri, unde vicissim concludere licet omnes numeros primos hujus formae 6q÷1
+
+illa proprietate praeditos esse3 verum plena hujus rei demonstratio adhuc desideratur.
+
+386. Hoc autem concesse, consequimur hanc propositionem: Quoties divisor primus fuerit formae
+6q-1-1‚ toties residua cuborum ab 1 ad 216ᾳδ non omnia inter se sunt inaequalia, sed ob terna
+aequalia, multitudo residuorum inaequalium tantum est 2q, eruntque reliqui numeri divisore minores,
+quorum multitudo est qu, non-residua. Quoties vero divisor primus non est formae eq -1-1, toties
+
+omnia residua inter se sunt inaequalia, neque ulla dantur non-residua.
+
+387. Tantum ergo divisores primos formae 6q÷1 perpendi opus est, pro quibus multitudo
+
+non-residuorum duplo major est quam multitudo residuorum. Casus autem simpliciores evolvamus:
+
+pro divisore : 7 1 3 19
+residua: 1, 6 1, 8, 5, 12 1, 8, 7, 11, 12, 18
+’ , 2, ι, 3, 6 , 2, 3, 1, 5, 6, 9
+non-residua: ⁷
+{5 li· 11, 9, 10, 7 17, 16, 15, ιιι, ι3, ιο
+pro divisore: 31 ,
+residua: 1, 8, 27, 2, 16, 15, 29, Ιι, 23, 30
+
+3, 5, 6, 7, 9, 10, 11, 12, ι3, ιιι
+
+non-residua: ξ “ .
+28, 26, 25, 2⁷1, 22, 21, 20, 19, 18, 17
+
+pro divisore: 37
+residuaz 1, 8, 27, ιιι, 3ι, ιο, 6, 23, 29, ιι, 26, 36
+2, 3, ιι, 5, 7, 9, 12, 13, 15, ι6, 17, ιε
+
+non-residua: ἱ .
+35, 321, 33, 32,,30, 28, 25, 24, 22, 21, 20, 19
+
+pro divisore: 113
+residua: 1, 8, 27, 21, 39, 11, Ιι, 32, 22, 16, 35, 2, 21 1, ¹12
+3, 5, 6, 7, 9, 10, 12, 13, 111, 15, 17, 18, 19, 20
+
+non-residua ζ
+110, 38, 37, 36, 311, 33, 31, 30, 29, 28, 26, 25, 2'1, 23.
+
+388. Pro quovis ergo divisore primo formae 13q÷1 in residuis occurrunt omnes cubi eo
+minores, deinde eorum complementa ssq, ssq—7, ssq-26, ssq‘—63, etc. Porro etiam producta
+ex binis. Tum vero etiam, si ibi sit quodpiam productum mn cum altero factore m, ibidem quoque
+
+alter factor η reperietur.
+
+389. Si enim αὖ relinquat mn, et b⁸ relinquat m, posito divisore Gq-1- 1 zd, fleri potest
+azf'b—qd, ideoque s* ³12³ relinquet mn, at nb* etiam relinquit mn, sicque f³b⁸-nb⁸‚ ac propterea
+quoque f³—n divisibile erit per d, seu Ῑ”ὅ relinquet n.
+
+’ 390. Si divisore primo existente d: (3114 1, inter residua cuborum occurrat numerus α. tum
+‹12‘1-1 erit per d divisibile. Unde residua, quae ex divisione progressionis geometricae 1, α, α’,
+11³, α’.. ...α29 per eundem divisorem oriuntur, convenient cum residuis cuborum.
+
+391. Vicissim autem ostendi debet si 11²⁹—1 divisibile sit per divisorem primum erpi-1,
+numerum α certo inter residua cuborum occurrere, quod quidem si 211 non sit divisibile per 3, facil·
+

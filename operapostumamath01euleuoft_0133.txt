@@ -1,0 +1,58 @@
+Problema Diophanleum. ’ 115
+R {egl e
+
+pour trouvernutant de solutions qu'on voudra de notre problema.
+
+29. Ayant pris ὲ volent& deux nombres m et n, dont m doit mre impair, qu'on en tire ces
+trois quantit& ε--τωηι-ς-Ωιυι, 1Ξηυη--2ηη et u=2mn; cela posia, les valent-s dee six lettres
+
+ω, γ, z.,‘1›,¹ q et r serent
+
+ae=s(s÷u) (as-n-tm)-·2u(s-÷-2u), · p=st(3³-÷-hu)÷1·t(s÷u)(s—÷-2u)‚
+y=s(s-·-u)(3s-·-tm)÷2tt(-s÷2u)‚ ⁴ q=st(3s-·-1m)—ln(s-÷-u)(s-=-2a),
+z =52(3s-·— bu) ÷2t (s-*-2u)² r: s (εὴ-2η) (334- lm) - Mt (3-1- 2η).
+
+30. En considerant ces six formales, on voit de suite qu'elles ne donnent point de solutions
+diffi'erentes de notre problema soit qu'on pre-nne t positis ou nkgatih pu1sque le changement de t
+en —t ne fait que changer les signes de z, ρ’ et q. Mais si l'on prend ιι ηρςειίίΐ, ces formales
+subiront un grand changement. D'm‘l l'on voit que chaque pair-e des nombres m et n donnera
+deutsolutionmdiffereutae, 'selon qu’on prendra m et n positivement ou *negativemenn En voici des
+
+applications.
+
+Εειωοψῑιεἶ 1 soit m=1 et nzssh aRors 323, t=1, uzssss. Scit premibrement
+ιι--.-2, nous aurons s÷u=1, s÷2u=—1‚ 35410u=1³en par consfiquent,
+oe=3.1.1-f—2=5, p= 3—lfl·=—-1,
+y=‚3 -,2-——2=⁷1, q= 3-ι-ιι--7, ,
+z= 3 ÷2=5, 1·=—-3-·-!÷=1.
+
+Mais ici deux des nombres chercht'es sont (egam, c'est pourquoi cette solution ne saun-ait &tre admise.
+
+Si l'on prend u=2, alors ,ς-ι-ιι--5, ε-ι-2ιι37, 33-4-ῖιαε 17 et, par consequent,
+
+ae=3.5.1'7—-2.7 =2m‚ p= 3.ss -1-a.5.7= 191,
+y=3.5.17-÷-‘2.7 =269, · q: 3.17 -4.5.7'=— 89,
+z= 3.17 -1-24931119, r=3.7.17— ῑι.7 -- 329.
+
+Exemplo 2. Sost, dans cet exemplo, m= 1, 12:23 alors s=9‚ t=—7, u=sslh Prenons
+
+. ριὀιηίὸτειιιειιι ιιι--ἠ-’ς on aura ³÷u=5, s÷2uZ= 1, 3s÷1÷u= 11 et enfin
+
+ 
+
+ωε 9.5.11—98= 397, [ιε-9 71¹1—lv.7.5.1=—-833‚
+y= 9.5.‚1¹-=- 98 = 593, ᾳ---9.·ι.ιί-ι-6.7.5.ι---553,
+³i=-·'-7.9.11—2.7='—707, r= ’ 9.ι.ιι-ει.7.7.ι;- 97.
+soit, pnulss ¹⁰. second cas, u-ssl*‚ alors ³-fssu= 13, ,ς-ι-2ιι--τ 17, 3s÷teu= ¹⁵3 et, par consequent,
+oe=' 9.13.ῑι3- 98.17-- 3365, ρ,ε--7.9.δ3-ἵι.7.13.17---8897,
+’ y= 9.ι3.ιι3-ι- 98.ι7 = 6697, q.=—7.9.113-÷—1v.·1.13.17= 3279,
+z=—7.9.1÷3—2.7.172=—6755, '²9 1743— 1ι.7’.17 -- 32167.
+nemon-tration
+
+de la n'eglo. precedente.
+
+Η. m. Poeans αα-ι-η2ὂὸ--αα-ι-2ββ--ῃ αα-2ὁβεῡ et a6÷ba=u3 on atra ηεε-α-ι-2ιω.
+
+Prenons les valeurs trouvees ci-dessus (27) dne c et d, savoir cz-—oe-mv, d=ss÷m Pom·
+ὓ
+

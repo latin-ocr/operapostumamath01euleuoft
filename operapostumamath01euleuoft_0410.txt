@@ -1,0 +1,52 @@
+116
+
+392 L. E U L E RI OPERA POSTHUMA. Analysis.
+
+ut Co, fieri quoque possunt horizontaleS, quem autem casum, cum positionem tangentis 11011 31111111
+indicet, ob rationem ante allegatam removimus.
+
+28. Quo clarius intelligatur, quomodo ex regulae inclinatione judicium sit ferendum, sit (figas)
+EF linea horizontalis et lineae Ea, Ec, Ee referant situs regulae a sinistra dextrorsum ascendente&
+AB situm regulae horizontalem, et bF, cF, fF situs regulae descendentes. Jam igitur manifestum
+est situs regulae ascendentes applicatas semper evanescentes praebere, ita ut quot hinc reperiantur
+aequationis radices, tot curva habitura sit applicatas evanescentes, quae abscissae ae=0 respondeant»
+Situs autem regulae horizontalis A B indicabit applicatas finitae magnitudinis, quae abscissae oe=0
+respondent; at situs descendentes omnes bF, cF, fF praebebunt applicatas infinite 1113311333 tuit
+initio insistentes, quae ideo totidem. ramos curvae in infinitum extensos declarabunt. Hinc ergo
+omnia curvae puncta, quae ad abscisSam evanescentem oe=0 pertinent, una quasi operatione inve·-
+
+niuntur, sive ea in axem incidant, sive ab eo intervallo finito sint remota, sive infinito.
+
+29. Quoniam autem hic non tantum ipsa curvae puncta, quae abscissae ae=0 respondent,
+spectamus, sed etiam positionem tangentis, quae curvam in quolibet horum punctorum tangit,
+requirimus, hoc quoque ex situ regulae colligere licet, nisi is fuerit horizontalis. Nam ante ja'm
+animadvertimuS, si situs regulae fuerit horizontalis velut AB, ex aequatione, quam termini a regula
+trajecti constituunt, cum sit hujus formae
+
+O=oe÷s>²y÷yy² -1-δγ3 —1-ey‘ -1- etc„
+nihil aliud concludi posse, nisi tot curvae extare puncta ab axe intervallo finito distantia, quot haec
+aequatio habuerit radices reales finitas3 radices enim, si quas forte habet, evanescentes ob a=0, 1
+31111111 per reliquos regulae situs indicantur. Cum igitur radices hae finitae per hujusmodi formulas
+y=a, γεὸ, y=e etc„ indicentur, praeter distantias horum ptmctorum curvae ab axe nihil
+cognoscitur, neque inde positio tangentium definiri potest. Ex quo J'am supra praecepimus 1113
+casibus positionem axis statuendo γ-- - α -1- z, vel γ- - b -1-z, 010., immutandam esse, ut haec puncta
+in novum axem incidant; tum enim nova hac aequatione in parallelogrammum disposita, ista puncta
+
+per situs regulae obliquos indicabuntur, ¹unde tangentis positio colligi poterit.
+
+30. Si enim situs regulae fuerit obliquus et quidem ascendens velut Ea, vel- Ec, vel Ee, 113
+11011 30111111 puncta curvae in axis initium incidentia indicantur, sed etiam tangentium directio 111110
+colligitur, unde tractus ramorum curvae, qui per axis initium transeunt, innotescit. Ex constitutione
+enim parallelogrammi, si ejus cellulae [iant quadratae, facile perspicitur, si regulae positio Ec cnm
+linea horizontali EF angulum semirectum F Ec comprehendat, tangentes indicari obliquam namque
+
+termini, qui a regula trajiciuntur, aequationem homogeneam hujusmodi
+
+Aoem÷ Boem‘* 'gy-{- Coem-2y2—r- Daem‘3y3—i- etc. = 0
+dabunt, cujus factores simplices reales aoe—s-ffly: Ο totidem praebebunt lineas rectasad axem
+obliquas, quae erunt curvae tangentes in axis initio. Factores autem imaginarii, qui continentur 111
+factoribus realibus secundi ordinis, veluti aoeae-r-fflaey -1-γγ3- = Ο, quia iis positis oe= —0 et γ’·-τ-τῡ
+
+tamen satisfit, indicabunt puncta cur-vae conjugata, a tractu ramorum separata, 111 quibus proinde·
+tangentium conceptus non habet 10011111. ’ ’
+

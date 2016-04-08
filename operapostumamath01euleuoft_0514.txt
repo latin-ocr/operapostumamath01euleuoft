@@ -1,0 +1,90 @@
+a*
+
+496 L. EULERI OPERA POSTHUMA.
+
+Geometria.
+
+nus non sunt integrae seu undique clausae. Interim patet hemisphaerii figuram,certe esse mutabilem cujusmodi
+
+autem mutationes recipere possit, problema videtur difficillimum. A. Τ I w 13
+ιιι. . . p. — .
+
+ 
+
+98·
+(Lexell.)
+
+Pnonums. Ex datis aliquot applicatis aeque distantibus, aream interceptam curvae proxime definire.
+
+(Fig. 62). 1. Area Ath— - AB (ΜῬΜ)
+
+ 
+
+ 
+
+Π. » Aacc = AC Aa -ι- 4Βό -t- Co)
+
+c
+111. n AaDd = AD (Q
+IV- ·· AaEe =AE Qffifflij
+
+et ita porro. Sit
+area AaXoe = AX (αΑα -ι- βΒῠ -ι- yCc -ι- δΒά -ι- . . . -ι- Hx)
+
+ 
+
+erit Ι. α-ι-β-ι-γ-ῑ-δ-ι- etc. =1
+ῙῙ. β-Ι-2γ-Ι-Βδ-1-Ῑιε-Ι- etc. :53:22-²
+111. ss÷2²y÷3²6÷4²e÷ etc. εξ
+IV β-ι-23γ-ι-33δ-ι-4-3ε-ι- etc. εξ
+V. ss—i-24y—i-343—1-446—1- etc. εξ
+¹ et sic porro.
+- A.·m.KT.l. 2128-
+99.
+
+(J. A. nater.)
+
+In logarithmica (Fig. 63), cujus subtangens AD .--1, ab applicata AB = 1 longitudo curvae in infinitum exten-
+
+V2J'R Nam fit abscissa 211⁹ssae
+
+et PM=y, erit· μευ-ω, hinc dy: — c-xdoe‚ et elementum arcus =doeV(1-4-0··²x)‘‚ hinc
+Ι ΒΜ- AP=sdae(V(1 -1-0-200) - 1)
+quod integrale ab oe=0 usque ad oe=00 extendi debet. .
+Ponatur V(1-·-0-²x) — 1=z, fiet e-²·”=2z÷zz et — 2oe=1(2z-'=-zz); uhi pro ,τεο habemus
+z=V2 — 1, et pro x=00 fit z= 0; hinc differentiando
+
+ἀκμή-ι) dtu-bn)-
+2z÷zz 2÷z
+
+quae integrari debet ab z=V2 — 1 usque ad z= 0, vel nostra formula erit
+
+— dz <1
+
+Nunc fiat Ζεῦ, et quantitas quaesita erit v
+
+V2-1÷t2-z(1-÷-V2)
+
+sae BU superat axem AV etiam in infinitum productum quantitate V2 - 1 — l
+
+ 
+
+—dxz
+
+ 
+
+ 
+
+ν et formula nostra fit — s
+
+ 
+
+-2-t-z)’ ergo integrando —z.2-l(2.4.5)÷'·y2- 1 ,Νι-μη).
+
+2
+=V2-141Vffi· Am'rlp258
+
+ 
+
+ 
+

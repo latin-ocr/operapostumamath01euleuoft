@@ -1,0 +1,39 @@
+Analyse d’un problbme du calcal des probabilite's. 351
+
+En tit-ant trois fois de suite, risquation identique, pour determinet les coefficIents‚ sera de meme
+A÷Bm÷Cm(nc— 1)-÷-Dm (m— 1) (m—2) -ι-Εηι (m— 1) (ιη-2) (m—3)÷
+’ Fm(m—1)(m—2)(m—3)(m—b)-ff-m(m—l)(m—2)(m—3) (m—b) (m—5) = ζ (ηι-ι- 1) (ηΗ-Ξ) (m÷·3)} ²
+et ainsi de suite.
+
+niegle gdmsrale.
+
+Toutes ces recherches nous conduisem. ὲ la rbgle suivante.
+Si on a n billets, dont on tire p ἐι chaque reprise, et cela q fois de suite, on demande les
+probabilitks des differeuts nombres des billets non-sormam. ⁷
+
+A cet effet, on commence par chercher les coefficients'A, B, C‘, etc. de l'ae'equation identique.
+
+A÷Bm÷Cm(m—¹)-1-Dm(m—1)(m-2)-·-... {m(m-1)(m-2) (m-3)···(m,-P(<1-¹)-*-¹)} Ξ
+{Qu-⁵-¹)(m-1-2)(t(1-1-3)....(m-÷.P)}v—¹
+
+, alors les numerateurs des probabilitlaes respectives seront
+
+ 
+
+A, Bm, Cm (m— 1), Dm (m— Ι) (ιη-2) ..... m(m— Ι) (nt—2) . . . (m—12(q— 1)-ι- 1)
+m &tant = n-p, et le denominamur &tant pour toutes le mseme
+ιθ*1 (n—1)⁹·-¹ (n-2)⁹-¹ ..... (η-ρ-ι-1)9’“’.
+Voici le tableau:
+Nombre des billets non-sortants ‘ probabilitsss
+'² -Ρ νῖ-Ἳῖἶῑῖῑ--Ἷῑῖξᾷῑῑῖᾟῖῖ-ῬἯΞῩ
+'‘ —p - ¹ WTLJffl-(zssffl
+n -Ρ -- 2 ἡ ‘ -ῖ-ι--τ-ᾞ-ΡΜΣ-ιρ--υ--τῑ
+„⁹ (n-1)‘7 (η-ἳγ] .....(η-ρ-ι-1)9
+n-P-3 - Β(”;Ρ)(π-Ρ-;])(π-Ρ-2) -
+n‘l ητα-ιγ] ¹(n-2fl ¹.....(n-p-·—1)q ῑ
+
+οοοοοοοοοοοοοοοοοοοοοοοο
+
+(n-p)<¹·-1›- 1)<n-p-2).....(n-pq-÷-¹)
+'‘-P⁹ ssTss—V—-w—-W
+
