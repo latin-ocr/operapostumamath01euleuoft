@@ -1,0 +1,82 @@
+-540 , ‘ L. EULERI OPERA PosTnUMA. >⁴ - Varia.
+
+donec ultimus denominator sit =1. Patet autem hunc numerum sore impariter parem, totidemque α habehit
+radices, quot unitates in isto numero continentur. Quia autem inter has radices quaelibet habet sui negativam,
+'omnes potestates impares ipsius α 111 aequatione deerunt; ultimus vero terminus absolutus, propterea quod est
+factum ex omnibus valoribus ipsius α, 111101 quos bini inter se sunt aequales et alter alterius negativus, erit
+quadratum negativum, cujus radix assignabilis erit per coe‘fficientes q, r, 5, 010. Definietur ergo α per huju'ffi
+modi aequationem ν,
+’ ,α2”’-1-Ῑα2”’““2-1-....-1ια--0
+
+quae semper unam saltem radicem babebit realem; quod sic ostendo: Ponatur 02:00, fietque illa expressio
+α2’” -1- faram—24· ζ .—uu=00. Tumlponatur azo, fietque eadem expressio =—·uu. 'l'ribuendisd ergo
+ipsi α valoribus mediis inter 0 et 00, expressio ipsa induet omnes valores possibiles medios inter 00 et -1111ς
+dabitur. ergo-valor loco ά substituendus, qui reddet expressionis valorem =0‚ isque erit radix ipsius α. Casus*
+tantum excipi debet, quo νηῒ-1, sed non dubito, quin ista demonstratio ita adornari possit, ut nihi-l 0011113
+excipi queat. i Q ’ “
+
+Non perspicio, quam ob causam dubites, an hujus differentialis PRdx-i-QRdy integrale exhiberi (111031
+
+etiamsi sit diff. PRdae—-diffi QRdy‚ illa scilicet differentiatione ponendo ω, in 1130 vero y constantem. Quodsi· ’
+
+0111111 1100 criterium locum habuerit, integrale non solum mihi videtur assignari posse, sed etiam revera id sal-⁴
+
+tem ope quadraturarum exhibere valeo. Integretur enim differentiale PRdoe spectando y tanquam constantem,-
+
+ita ut integrale evanescat ponendo x=0, quod integrale sit =Z. Tum in differentiali QRdy ponatur oe=0‚
+atque id integretur, ponaturque integrale- -- Y; (1110 facto formulae differentialis PRdoe-i-Qledy integrale erit
+=Z-1- Y. Demonstratio per ea, quae Tu, Vir Excellentissime‚ docuisti, est facilis, namque differentiando Z -1- Y
+
+Tua methodo, iterum prodit differentiale propositum. Jam dudum autem perspexi hanc speculationem penitus
+
+incidere in solutionem problematis: Data aequatione differentiali doe-——pdy incompleta, invenire ejus comple'tatti¹= J
+
+dx: pdy—t-qda, quod 3 Το primum fuisse solutum admonui D¹² num Clairaut aliosque Geometras Gallos, qui
+
+hanc inventionem sibi vindicare voluerunt. Inten'm tamen non dubito, quin hic adhuc insignes proprietates la· ’
+
+. teant, quae si essent cognitae, ingens lumen in analysi accenderent, cujus rei, ut nullus dubitandi locus relin-
+
+quatur, communicabo Tecum solutionem problematis cujusdam mechanici, cujus evolutio universa ad hoc genus
+
+pertinet; neque, antequam natura hujusmodi formularum differentialium completarum uberius examinetur, ad*
+
+finem optatum perduci potest. ι
+Problema hoc'est: Catenae uniformis ac perfecte flexilis, si super plano horizontali politissimo jacens utcunque
+
+projiciatur, assignare situm, figuram et motum ad quodvis temporis momentum. Salutio. Fig. 70. Sumto in plano
+horizontali recta quacunque ΟΖ pro axe, pervenerit elapso tempore ‘t 0310113 111 51111111 ΑΜΒ. Sit longitudo 03-
+101130 AMB=a, positaque ejus portione quacunque AM =s, ducatur ad axem applicata MP, voceturque‘
+OP=oe‚ PM = y. Perspicuum jam est a} et y esse oportere functiones binarum variabilium s et t, pariter 30
+angulum AMP qui vocetur = φ. Sit igitur differentiando doe=ds sin ’φ-ι-Μᾱι 01 dy= ds cos (1)-1-Νά1, quia po-
+sito t constante esse debet (1902-1-11] Ξᾱ52.’ Η15 positis erit primo, ponendo 1 constans,
+
+(a—s)adscosq>¹' 0b=at÷ss÷ssdssinaep
+. , α
+
+α s) tls sin φ
+
+α . , Aa=yt÷6—s
+
+ 
+
+ 
+
+ 
+
+Oa=ac÷ss—s'
+
+sds 005 φ
+
+ 
+
+et Βῠτ-γτ-ι-δ-ι-[α
+
+posito post singulas has integrationes s=a. Porro, si fuerit posito 5 constante dM= Pdt et dN=Qd1, eritas
+
+sin φ -Q , ’ ³-
+
+503} ““ soas'
+
+ 
+

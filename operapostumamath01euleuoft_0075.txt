@@ -1,0 +1,60 @@
+ 
+
+stac-tatus de numerorum doctrina Cap. 12. 57
+
+’ 1155. Contra autem, nulla dabitur duorum biquadratorum summa, quae esset divisibilis per
+ulium numerum primum hujus seriei 5, 13, 29, 37, 53, 61, 101, etc.; multo vero minus per
+
+111111111 numerum primum formae 110- 1, quia ne summa duorum quidem quadratorum per talem
+numerum est divisibilis.
+
+1156. Summa ergo duorum biquadratorum inter se primorum, praeter binarium, alios divisores
+habere nequit, nisi qui contineantur 111 forma 80-1-1, ita est: Ι
+
+1-1- 2⁴:17 2·-1- 3⁴= 97 1·-1- 5⁴:881 7⁴-1- 8⁴= 73.89
+1-1- 3·;2.11 2⁴-0- 5⁴=6lti 11⁴-1-7⁴=2ss57 7·-ι- 9’;2.1131
+1-1- 4⁴: 257 2·-.- 7⁴== 2117 11⁴÷9⁴= 17.1101 7⁴÷10⁴= 12101
+1-1- 5⁴=2.313 2⁴÷ 9⁴=8577 5⁴÷6⁴=17. 113 3·-1- 9⁴=10857
+1-1- 8⁴= 1297 3⁴-1— 1⁴:337 ’ .5·-ι- 7⁴=2.17.89 9⁴÷10⁸= 18511.
+1-1- 7⁴=2.1201 3⁴-1- 5⁴=2.353 5⁴—1-8⁴: 3721
+
+1-1- 3*;17.211 34-1- 7⁴=2.17.73 5·-1- 9⁴=2.3593
+
+1-·- 9⁴=2.17.193 3·-1- 8⁴= 1177 8⁴÷ 7⁴= 3897
+
+1 -1-1οἐ 73.137 3⁴÷10⁴=2.17.593
+
+1157. Si jam quaeratur, quibus divisoribus binarius in residuis reperiatur, id quidem in casibus
+evolutis § 11211 nusquam evenit. At ubi 2 occurrit, ibi etiam 2α occurrit; ideoque divisor 110-1-1
+factor esse debet talis numeri a4—-2b⁴, seu 25⁴—a⁴; unde concluduntur 111 divisores:
+
+73, 89, 113, 233, 281, 353, 593, 817, 937, 1219, 1889, 2273, 2393, 1177,
+1721, 1301, 3529, 010„
+
+qui numeri in forma 611ρρ-1-00 contenti videntur. (¹⁶)
+
+1158. Numeri autem in formula 6l1p1) —1- 00 contenti sunt:
+
+73, 89, 113, 233, 257, 231, 337, 353, 577, 593, 801, 817, 881, 937, 1033, 1019,
+1097, 1153, 1193, 1201, 1219, ete„
+
+uhi cum omnes praecedentes occurrant, et reliqui quaesito satisfaciant, nihil est, quod de veritate
+
+conjecturae dubitemus, et cum omnes 111 numeri sint formae 8η-1- 1, 111 residuis tam -2 quam
+
+-1- 2 reperietur.
+
+1159. Omnes divisores primos formae uqa-1 usque ad 101 examinando, inter residua semper
+occurrit numerus 0, ita 111 33331 09-1 divisibile per 110-1-1, quod si generatim esset verum, simui
+inter residua forent numeri 0, 11², 11³, 18q, 810, 2560, 1600, 8100, hincque -11, 0-20,
+- 611, — 110.
+
+1160. Haec observatio per supra § 389 allatam confirmatur, ubi animadvertimus numerum 2
+
+inter residua quadratorum esse, si divisor primus sit formae 8p-1-1, esse autem non-residuum,
+
+Γ) script. ad mar-q.- U1 3 sit residuum, divisor esse debet pp—-ff—qq. 111 311 vel p=i2m‚ vel 11:3(2711—1-1,
+et 0--411-1-2. Ut 5 311 residuum, divisor fit =100pp÷qq.
+
+Ι.. [oleri eppo-thum. Ἰ·.Ι. . 8
+

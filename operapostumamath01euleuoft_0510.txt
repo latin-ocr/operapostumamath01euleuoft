@@ -1,0 +1,63 @@
+492 L. EULER1 OPERA POSTHUMA.
+
+95.
+
+(N. ruas.)
+
+Methodus facilis huJ'usmodi quaestiones solvendi: Quaerantur numeri x et y tales, ut formula ’,Μ’-μην*
+divisibilis fiat per datum numerum N.
+
+Primum observandum, hoc fieri non posse, nisi fuerit vel N = maa—bna, vel N :aaa-mahta. Pro casu
+priore quaeratur quadratum kk :AN-J„- ab, quod si fieri nequeat, quaestio est impossibilis. Sin autem k inven-
+tum suerit, erit
+
+oe=aNssap‚ vel etiam oe= aNss kq
+y=ssNssk1² y=fiNssbq
+
+ubi α, β, p. q pro lubitu sumuntur.
+Pro altero 'casu quaeratur quadratum ΙεΙεΞλΜΝ-ιτηταό, tum ver‘o erit ut ante oe=aNssap et y=ssNsslip‚
+
+vel etiam x = aN ss kq, y = βΝ ss bq. Sit m = 2 et n = 1, ut formula 2³2⁴ -i- ψ divisibilis fiat per N=2aa÷bb= μ ,
+
+Sumatur a = 4 et b = 1, erit N = 33. Quaeratur ergo kk = 33)v ss b, quod fit si λ = 0, eritque k = 2, erit ergo
+x=33asstp et y=33ssss2p.
+A. m. τ. 11. p. 148. 1⁴9.
+
+.---.-
+
+96.
+
+’ (N. Fuss.)
+
+Damnum. Proposito numero quocunque-integro a, denotet πα multitudinem numerorum ipso a minorum
+ad eumque primorum3 ita erit π1 =1‚ n2= 1, π3 --2, 7c4=2‚ 55:14, n6=2 eto. Unde patet, si a fuerit
+numerus primus, fore naza — 1. Quo magis autem numerus a suerit compositus, eo minor erit πα. Quem·
+admodum autem pro quovis numero a inveniri queat valor πα, regulam quidem ’ olim dedi, ejus vero demon-
+
+strationem multo simpliciorem hic sum traditurus. q
+
+anu. Proposito quocunque numero a, si formetur progressio arithmetica totidem terminorum ‚ cuius ¹
+
+differentia ad eum sit prima, ejusque singuli termini per a dividantur, omnia residua inter se erunt diversa,
+in iisque ergo occurrent omnes numeri ipso a minores, soil. 0, 1, 2, 3, h . .. a — 1.
+
+Dauomsrnnm. Sit p primus terminus et q differentia ad a prima, erit progressio arithmetica
+
+p, p—i-q, p—i-2q,... 11-1—(a—1)q.
+
+Quod 'si jam singuli termini per a dividantur, facile patet omnia residua finde orta inaequalia esse debere. Si
+enim hi termini Ρ-ι- ,aq et p -fl-vq‚ uhi μ et ν minores sunt⁴ quam a, idem praeberent residuum, eorum diffe- ,
+
+remia, quae est (μ - ν) q, toret per a divisibilis. At quia q est numerus primus ad α, deberet μ -ν, hoe est ν
+
+numerus ipso a ⁴minor, per eum esse divisibilis. Cum igitur omnia residua sint diversa, eorumque numerus
+za, in iis necessario reperientur omnes numeri 0, 1, 2, 3 eto. . . . a -13 semper igitur unus horum nume·
+
+rorum per a erit divisibilis. ⁴ · ’ ⁴ ’
+
+Ριιηιηιιᾼτιο An omousi-antonum. Sint 1, α, β, y omnes numeri ipso α minores ad eumque primi, ’
+quorum ergo numerus per hypothesin =7ta‚ inter quos ergo primus erit 1, θῑ Ultimus a- ¹· Hinc ‘munim'
+antur sequentes series:
+
+ 
+

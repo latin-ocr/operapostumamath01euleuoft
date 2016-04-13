@@ -1,0 +1,58 @@
+ 
+
+[demae ad cel. mqranqel datae. 575
+
+Quoique cette solution paraisse tres particuliere. ‚vu qu'au lieu de quatre lettres p, q, r, s, cette formule
+n'en contient que deux; j'ai pourtant lieu de croire qu'elle renferme tontes les solutione possimos.
+
+Je seruis sort curieux‚ Monsieur‚ d'apprendre votre sentiment sur lea deux theoremee suivants que je crois
+vrais cana pouvoir les demontrer.
+
+1. Outre le cerole il n'y a point de courbe algebrique dont chaque arc soit egal ὲ un arc de cerole.
+
+11. ll n'y a pas non plue de courbe algebrique dont chaque arc coit egel a un logarithme.
+
+Voue voyez bien qu'il ne s'agit pas ici des courbee algebriques dont la rectification depende ou des arcs
+
+de cercle ou des logarithmes. Ἰ
+Je reviens au probleme, dont je vous ai parte dans ma lettre precedente, ou il s'agit de determinet· les
+
+trois quantites x. y. et z par les deux variables t et' ι’( ensorte qu 'en posant
+
+·d.v===1d1-n—·Mu, ·d5==n1‹u÷pdu5.dzznm-⁴-vdu;
+
+les trois conditions suivantec noiant templiee3 nvoir
+'1²⁰ss {l ÷mm÷nn—1
+ἱ ὲο. λλ -ι- μμ -ι- W = 1
+’ 30. ’τλ -i- ηιμ -·'l³- mr— 4³⁴- 0
+
+J qn avaia bien 1ιῒοιινέ une polution complete, ιιιειίἧ par unq Jnethode extremement indirecte et je croyois
+presque qu 'il n' y avait pac de methodo directe qui put conduire ὲ sa solution. Maia. ofin que vous ne pensiez
+11³⁸ quq 9, 9⁶², Ῑᾷ ιΙΙΨ βρὲθᾌῖἃξίοῃ.. βηιίᾴτθωβηῑ stemma, j’ai {honneur :15³³ vous dire que le probleme suivant m' y
+a canduit. Trouver tous lea solides doqt la surface puisse etro developpee sur un plan, comme cela εὶ lieu
+·’ pour tous les corps cylindriques et coniques. Depuic quelques jours je suis tumbe sur la solution summe, qni
+me paruit assez directe, , “
+
+J 'introduis une nouvelle variable ω et j'en cherehe trois fonctions p, q et r, telles que
+
+1⁰. pp -ιι-ἰη -i-rr 2-1,et
+2⁰. alp² ÷ciq²÷1dr²= «10²,
+
+ce qui n’a aucune difficulte; ensuite Je fais
+
+,1 4³⁴5-st w *³ ‘p‘ ,ww-2
+1 :penum-kz cosm, ³
+
+· ³ '‘ ³ ’· · -ικέ-μὶαὼ-ἰ-Ξ-ἔεὸὶὼτ
+
+-. »ιι arsinoa-‘35 cosan&
+
+⁸2 -p cosm-Fa} sino?
+
+’ sunjoma—bg εἰιιωῖ»
+
+‘² ν’ =¹·r cosm-ug σίιιωῖ
+n eat clair que let trois condition presentes cont templium-3 ss ne reete donc que de rendre integrablec
+
+3 lea trois fot-mules differentiellea. Pour cet estet, je remarque que
+

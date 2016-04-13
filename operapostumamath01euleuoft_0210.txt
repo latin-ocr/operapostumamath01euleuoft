@@ -1,0 +1,58 @@
+192 L. EULEm OPERA Posmum. mamea-w„
+
+lnde prop sequentes oriuntur valores dss—2, - 1, 0, Ι1, 2, 3, 4, 5
+
+n=1= p=> 0, , 1, » 2, 3, 4, 5, 6
+
+n = 2: p = 2, b, 6, 8, 10, 12, 14-
+
+n = 3: p = 3, 6, 9, 12, 15, 18, 21, 24
+
+n = 4: p = 8, 12, 16, 20, 24, 28, 32, 36
+etc. etc.
+
+Unde pro diversis valor-ibus ipsius p resolutio numeri N in tres trigonales succedet, si fuerit pro numeris minoribus
+tum erit et
+N—1=b=a ,νεα-1 ῃΞὸ-ι-1Ι
+. , N '2{1›=a-·-1 περι-1 y=1>÷1
+b=a—l ae=a—2 y=b÷2
+N—3{b=a-}-2 τοτα-1 y=b†1
+ὀπτα-2 oe=a—3 y=b÷3
+b=a÷3 ὤεα-1 y=b÷1
+N-4{b=a ,νεα-2 y=b÷2
+b=a—3 αντα-11 y=b÷h
+His positis ambarum x et y inventio succedet, si inter ternas radices a,- b, c, primo pro numero N—1 fuerit
+b=a, sive si duae fuerint aequales. Secundo si pro numero N-2 fuerit vel b=a÷1, vel b=a—1, hoc
+est si differentia fuerit inter binas =1 , ‚tum vero duplex solutio locum habebit. Tertio si pro N —3 fuerit ⁷
+vel b=a÷2‚ vel b Ξ α-2, hoc est si binae radices binario discrepent. Quarto si pro numero 'JV—4 fuerit vel
+b=a÷3‚ vel h=a, vel b=a- 3, hoc est si differentia inter binas radices fuerint vel ΞΟ, vel =3. Quinto si pro '
+numero N-5 fuerit b=ass4 h. e. si differentia inter binas radices suberit =ss4. Sexto si pro numero N-c
+fuerit vel b=‚ass5‚ vel b=a‡1‚ hoc est si inter radices binas occurrat differentia vel 1, vel 5. Quamobrem
+si demonstrari’ posset, semper⁴ unum saltem horum casuum locum hahere dehere, tum demonstratum foret,
+s omnes numeros esse summas trium trigonalium. ξ Quod cum de minoribus numeris certum per se sit, pro mn-
+joribus autem continuo* plures casus examinandi occurrant, eo minus dubitari-potest, quin resolutio semper ait
+locum habitura, idque plerumque pluribus modis, quo accedit, quod pro majoribus numeris fere omnes numeri
+N -p pluribus modis in tres trigonales resolvi possint. Quod quo clarius pateat has resolutiones ab ipso initio
+q numerorum secundum ternas radices contemplemur: -
+
+radices
+numeri a, b, c vel radices vel radices
+
+1 0, 0, 1 Hinc ergo examinemus numerum N=13 et habebimus ⁴
+2 o, 1, 1 a, b, ’ c
+3 1, 1, 1 0 0, 2 pro N—1=12= 0, 3, 3
+lv 0 ,l 1, 2 ’ 1, 1 ι
+5 1, 1, 2 2, 2 3
+6 0, 2, 2 0 0 3 pro Its-2:11 0, 1 k«
+κ7 1 2, 2 0 1 3 pro N-3= 10 0, 0 b
+8 1 1, 3 ι 1, 2 3
+9 2, 2, 2 0 2 3 pro N-t= 9: 2, 2 2
+10 0, 0, Ιι 1 2 3 0, 2 3
+11 0, 1. lv ¹ pro N—5= v8: 1, 1 3
+0 3, 3 l 1, lv 2, 2, 3 etc. etc.
+
+„ u·—
+10
+
+ 
+

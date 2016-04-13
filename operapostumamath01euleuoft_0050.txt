@@ -1,0 +1,90 @@
+32 L. E U L E RI OPERA POSTHUMA. Aritlmweica.
+
+257. Qui enim hoc negaverit, affirmare debet omnes has formulas 1'¹- 1„2”- 1, 31·- 1,
+14¹²— 1, 5”-1,.. . ,nn—1 per 2p÷1 esse divisibiles, ideoque etiam earum differentias tam primas
+2η- 1, 3” — 2⁰, lin— 3¹², 5¹² — Ψ, ete. quam secundas 3¹² — 22¹² -ι-1”, lin—2 3⁰ -ι- 2”,
+5” - 2.1ι” -ι- 3”, eto. et sequentes omnes.
+
+258. Differentiae autem ordine n sunt constantes, quae si littera N indicentur, ita exprimuntur
+
+n(n—1)(n—¹)n—⁹²(n·- 1) (Ἀ-Ξ)
+1.2 1·2·3
+
+valores pro variis valoribus ipsius n facile colliguntur:
+
+Si n=1 est N=2—1=1
+
+ 
+
+ 
+
+ut sit N = (n -ι- 1)”-η.η”-ι- (n — 2)'² -ι- etc. cujus expressionis
+
+n=2 N=3²—2.2²-{-1=2=1.2 ς
+
+n=3 N=4=³—3.3⁸÷3.2⁸—1=6=1,2.3
+
+n=l1t ΝΞ5*--Ῐι.ῑι·’-Ι-6.3’-ἷι·.2’-Ι-13243-1.2.3.ἶ1·
+etc.
+
+259. Ad quod clarius ostendendum sit, pro n scribendo η-ι- 1,
+
+P= (η-ι- ⁶2)'²-'‘¹ — (n -1—*1) (η-ι-1)””““1 -ι-(ηψὶΜ nra-m —(n-=-1)n(n-1)
+
+1.2 123 (n-¹)'n-÷-14 etc.
+
+ 
+
+ 
+
+et a termino anteriori incipiendo
+
+(η-ι-1)η
+1.2
+
+ 
+
+P=(n-=-1)'³÷¹—(n-·-1)n'²÷¹-÷- (n—1)'²''·¹— eto.
+
+At valor ipsius N ita repraesentari potest
+ΝΞ (n -ι- 1) '²— η”““”ι ''f-Tu}- (n s— 1) ”““· ¹ —”1('·⁸2'·‘3¹)
+
+quae per η-ι-1 multiplicata praebet valorem ipsius P, ita ut sit 'P=(n-÷- 1) Ν.
+
+ 
+
+(ιι-2) ”·'·¹ -ι- etc.
+
+260. Cum igitur casu n=1 sit N=1, casu η--’-2 θτίί N=1.2, casu n=3,erit N=1.2.3‚
+et in genere pro numero quocunque n erit Ν = 1 ,2.3. . . .η. At haec differentia ordinis n non
+
+est divisibilis per numerum primum 2ρ-ι- 1, ob n < 2ρ, unde sequitur non omnes terminos seriei -
+
+§ 257 expositae per euin esse divisibiles.
+
+261. Sit 6p÷1 numerus primus, et cum ssforma ‹1⁶1⁰—1 per eum sit divisibilis, nisi a·
+
+ejus sit multiplum, dabuntur casus, quibus etiam α”Ρ -1 per eum dividi poterit, scilicet sumto·
+
+α = &⁵ssst (ssp -ι- 1). Tum vero etiam dantur casus, quibus formula «1²¹² — 1 non erit divisibilis per '
+
+istum numerum primum ΘΡ-ι- 1, uti ex demonstratione modo allata patet.
+262. Cum ante ostenderimus formulam ‹1³1³—1 fore per 6Ρ-ι-1 divisibilem, si fuerit
+a=cc‡Z(Gp-i- 1),
+
+nunc colligere licet, si numerus a simul in hac forma σεῖ’- λ (6ρ-ι- 1) et in hac c⁸ssi (ΒΡ-ι- 1) >
+
+contineatur, tum etiam formulamffl- 1 per Gp-i- 1 fore divisibilem, id quod quoque continget si-
+fuerit a = σε ss λ (op ÷1).
+
+263. Si sit ἵιρ-μί numerus primus, ut a⁴P — 1 per eum sit divisibile, tum adeo ap —1 per--
+
+eum dividi poterit, si suerit απ 0⁴ ss λ (ῑιρ-ι- 1). Dantur vero etiam casuS, quibus formula a? -1
+divisionem non admittet: iis ergo vel αΡ-ι- 1, vel a²P÷1 certe per lep-pl erit divisibile.
+
+o-
+
+ 
+
+iim-...emaum ι. mm„ η..- ,, .,“ - . . ’
+

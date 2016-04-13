@@ -1,0 +1,60 @@
+ 
+
+Irae-tatus de numerorum doctrina Cap. 5. 19
+
+1111. Hinc patet residuum r semper minus esse numero b seu divisore; si enim esset aequale,
+seu r= b, aucto indice multipli m unitate, foret a verum multiplum ipsius b, scilicet a=(m—i-1)b;
+et si esset r > b, augendo indicem m reduceretur infra b.
+
+1112. Proposito ergo divisore quocunque b, si dividendus a fuerit multiplum ipsius b, residuum
+erit = 03 sin antem a non fuerit multiplum ipsius b, residuum erit vel 1, vel 2, vel 3, vel quicunque
+alius numerus minor quam b, ita ut multitudo residuorum, quae oriri possunt, sit b - 1, vel adeo
+b, si cyphra simul numeretur.
+
+1143. Pro quovis ergo divisore b omnes numeri in tot classes distribui possunt, quot b continet
+unitates. Prima nempe classis continebit omnes numeros multiplos ipsius b, seu formae mb; secunda
+eoS, qui per b divisi pro residuo relinquunt 1, tertia eos, qui 2, quarta eos, qui 3, et denique
+
+ultima, qui relinquunt b — 1.
+
+vib. lta sumto 2 pro divisore, duae habentur classes, quarum prima continet numeros formae
+2m, altera vero numeros formae 2ηι-1-1. Numeri prioris classis vocantur pares, posterioris vero
+
+impares.
+1115. Si ternarius pro divisore assumatur, omnes numeri in tres classes distinguentur: prima
+
+complectitur numeros formae* 3m, secunda numeros formae 3m—1— 1 , ac tertia numeros formae 3m4-2.
+
+1116. Si divisor statuatur = lv, quaternae classes omnium numerorum his quatuor formis
+comprehenduntur: 1. lim, 11. lvmffi— 1, 111. tinea-2, IV. Ιιηι-ι-Β, ubi prima classis nomen sortita
+est numerorum pariter pariam3 tertia vero numerorum impariter parium. At secunda et quarta
+numeros impares in duas classes subdivisos exhibent.
+
+1117. Simili modo divisor 5 has quinque numerorum classes suppeditat: 1. 5m, ΙΙ. 5m-1-1‚
+111. 5m—4—2, lV. 5m-u-3, V. 5m-i-1n ac divisor 6 praebet has sex classes:
+
+1. Bm, 11. Gm-i-l, 111. 6ηι-1-2, lv. 6ηι-1-3, ‘V. ema-tv, vl. enm-5,
+
+et ita porro pro quovis alio divisore.
+
+1118. Sic igitur quilibet numerus pro quovis divisore ad certam quandam classem refertur, seu
+certa quadam forma exprimitur, quod, cum divisorum numerus in infinitum augeri queat, infinitis
+
+modis fieri potest.
+
+1119. Si enim numerus fuerit minor divisore proposito, ipse ut residuum spectari potest, indice
+multipli evanescente: ita si sit a<b, erit a=mb÷a existente m=0, numerus ergo 3 respectu
+divisoris 5 pertinet ad classem 5m-1-3.
+
+150. Quaelibet classis infinitos continet numeros in arithmetica progressione crescentes, secun-
+dum differentiam divisori aequalem. lta in genere si divisor sit b et residuum r, omnes numeri ad
+classem mb-i—r· relati sunt: r, b—i-r, 2b-i-r, 3b÷r, lib-i-r, 51)-1- r, etc. cujus progressionis
+
+arithmeticae terminus generalis est ipsa formula mb÷r‚ unde est nata.
+
+15¹. Formula mb—r-r· etiam hoo modo (m-1- 1) b-b-i-r· potest repraesentari, sicque residuo
+¹positivo r aequivalens censendum est residuum negativum — (b — r), unde patet ideam residuorum
+
+latius extensam etiam numeros negativos complecti.
+ἢ
+

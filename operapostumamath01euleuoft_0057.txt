@@ -1,0 +1,57 @@
+ 
+
+Troo-tatus de numerorum doctrina Cap. 10. 39
+
+tq — 1 — α erit non-residuum, seu nullum datur quadratum, quod per laq—1 divisum, relinquat
+lvq — 1 — α.
+
+315. Cum igitur α quodcunque quadratum denotare possit, puta nn, nullum datur quadratum,
+quod numero ltq— 1 —nn minutum, per tul—1 dividi queat. Hine mm — (hq— 1 -ηη), seu
+mm-r-nn nunquam per numerum primum formae loq—1 divisibile existet, nisi forte uterque numerus
+m et n seorsim per eum sit divisibilis.
+
+316. Demonstratum ergo est summam duorum quadratorum inter se primorum dividi non posse
+per ullum numerum primum hujus formae qu -— l. Quodsi ergo talis- binorum quadratorum summa
+habeat divisores primos, ii certo erunt hujus formae. Ιιᾳ-ι- 1, remoto scilicet binario, qui etiam
+
+quandoque divisor esse potest, ambobus quadratis sumtis imparibus.
+
+317. Quando residuorum complementa inter residua deprehenduntur, complementa non-resi-
+duorum etiam erunt non-residua3 ac si unius residui complementum fuerit non-residuum, omnium
+residuorum complementa erunt non-residua, atque complementa omnium non-residuorum vicissim
+
+erunt residua.
+
+318. Si divisore existente 212-1-1, sit p numerus par, his solis casibus evenire potest, ut
+residuorum complementa quoque sint residua3 quod autem semper sint residua, hinc nondum est
+evictum. Ad hoc autem comparari debent haec residua cum residuis ex serie potestatum ortis, ab
+eodem divisore 2p—r- 1, si series potestatum ita fuerit comparata, ut multitudo residuorum aequalis
+
+sit multitudini non-residuorum.
+
+319. Sit 1, a, α), αὖ, etc. hujusmodi series potestatum, quae p residua diversa praebeat, divisore
+existente primo ε--ΞΡ-ι- 1, ita ut omnia residua futura sint 1, α, αἳ, a⁸,. . ..αἶ’-ι, ipsas scilicet
+potestates tanquam residuis aequivalentes adhibendo. Non-residua autem sint totidem numero, ita
+expressa: A, Aa, Aa², Aa3, ..... dap—¹.
+
+320. Hic jam residua, pariter ac residua quadratorum, ita sunt comparata, ut 1) ab unitate
+incipiant, 2) producta hinorum residuorum quoque sint residua, 3) producta ex residuo et non·
+residuo inter non-residua occurrant, unde concludere licet producta ex binis non-residuis iterum
+
+in ordinem residuorum transire. ι
+321. Si αΡ-1 divisibile sit per 2ρ-ι-1, tum α certe est residuum quadratorum. Si enim
+
+esset non-residuum, omnia reliqua residua, quae sunt αα, affl, ay, etc. eandem haberent proprietatem,
+ideoque omnes numeri ω ita essent comparati, ut :cp—1 per 2p÷1 dividi posset, quod est
+absurdum (⁴⁶). Ι
+
+322. Cum enim in residuis quadratorum res ita se habeat, ubi numerus non-residuorum
+aequalis est numero residuorum, si in residuis potestatum secus eveniret, et producta ex binis non-
+residuis iterum darent non-residuum, multitudo non-residuorum superaret multitudinem residuorum,
+contra hypothesin.
+
+323. Hoc autem firmius ita ostendi potest: Cum A quodvis non-residuum denotare possit, ae
+tum aliud quodvis non-residuum ita repraesentari possit, ut sit Aan, productum binorum non-
+
+(*) Hic paragraphus in autographo margini adscriptus est.
+

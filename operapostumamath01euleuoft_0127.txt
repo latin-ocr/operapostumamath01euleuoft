@@ -1,0 +1,60 @@
+Problema Diophantewm. 109
+
+i 43... Dans tontes ces decompositions on ne sam-ait decouvrir le moindre ordre, et pourtaeit il
+ἶ n'y 3 pas de doute que cela n'ait lieu pour tous les nombres de la forme δικ-μί ou 8n÷3‚ et
+ἰ c’est ce qu’on peut meme demontrer rigoureusement. Pour cet estet, il ne s'agit que de pronver
+qn’etant propose un nombre queioonque, premier, de 13, forme⁴ 8n÷1 ou 8n÷3‚ on peut
+
+ἒ. toujours assigner un produit de 13 forme aa÷2bb qui admette l’un ou l’autre pour sacteur. Cette
+ῐ demonstration se tire d'un tres beau theoreme de Fermat, savoir: que 13 forme 0²⁰¹—1 est ton·
+ξ ’ j0urs divisible par le nombre ‚ 2m÷ ί, lorsque celui-ci est premier et ne divise pas c. Par
+consequent, si le nombre ι81ι-ι-ί est premier, il sera toujours un factem· de 13 formuie 0⁸¹²— ¹,
+quel que soii: c, pourvu qu’il ne soit pas un multiple de 8η-ι- ¹. Mais comme la quantite
+ον’-1 3 deux sacteurs qui sont (c⁴'¹-i-1), (cm—1), il saut donc que l⁴un ou l'autre soit divisibie
+par 8n-0-1. Par consequent, si nous prenons pour c un nombre qui ne rende pas c⁴'¹—1 multiple
+
+κ de 8n—i- 1, le nombre οΜ-ι- 1 sera'necessairement divisible par 8η-ι- 1. Mais 13 formule 0⁴⁰÷1
+peut etre ecrite ainsi (c²'²—i)²-i-2c²'¹; donc ie nombre 8n÷1 est diviseur de 13 forme aa÷2bb.
+14. Quant 3 l'autre formale 812-1-3, chaque nombre premier de 13 forme 8n÷3 rest un
+diviseur de c⁸'²·'‘²—1 et par consequent de c⁴'²'*'¹—i—¹, ou de 0¹¹³*¹--1. Suit 022, 13 formule
+
+,Ἄρῃ-,ἡὴ ηψπ-,υ ‚ „ Δ
+
+ο’”“”·’- 1 τενίειιῐῑὲ h suivante 2—;2⁴'¹--·-1 , qui ne peni} jamnis etr-e divisible par 8124-35 parce que
+tous les diviseurs de 13 forme *ἔθ’-1 sont ou 812-1-1, ou 8n—1‚ et jamnis 8n-1-3.v Donss
+2⁴“÷¹-·-1 ou 2.2⁴'¹-1-1 qui esi, de 13 forme aa-i-be, sera necessairement divisible par 8n÷3.
+
+Apres cette digression qui- ·pamit· n'etre pas inutile, revenons 3 notre probleme. Nous avons
+vu que la somme s doit avoir ml moins trois factem, ainsi posons 13 egale 3
+
+(aa -·- 2111») (οὓ-*- 2:101) (ff -1- 299)
+
+et, pour abreget le caieul, soit (aa—i—2bb) (cc —÷-·2dd)=mm-i-2nn, asslors nous aurons
+
+r-TxV'W-rw ”vv-vuum “ ’πᾞι-
+
+m=acss2bd‚ n=bcssad.
+
+ᾗ 'De 13 notre ¹somme s sera exprimee ainsi: s= (mm—i-2nn) (θ’-ι·- 299), que nous supposerons &gale
+i .
+i
+
+ὲ zz -ι- 2vv, et nous aurons pareillement z = νηΐ-,ὲ 2ης] et ν = nfss mq.
+
+15. Substituons maintenant‚ au lieu de m et n , ies vaieurs trouvees, et nous aurons quatre
+valeurs differentes pour z et νζ, savoir pour z: ”
+1) Γ(αο-ι-26ἀ)-ι-29 (bc—ad),
+¹2) f'(ac -ι- 2bc1) — 29 (bc — ad) ,
+3) Γ(αο - 2bd) -ι- 29 (bc -i- ad), ·
+Ιι) f(ae — 2bd) — 29 (bc -ι- ad), “
+
+Ι) f(bc - ad) ——9 (ασ-ι-ἓὸἆ),
+2) Hbc—ad) ÷9 (αο-ι-ἓὸἀ),
+3) f(bc-i-ad) —9 (ac—de),
+lv) Ιᾜιο-ι-αᾶ) 4-9 (ac—2bd).
+
+¹6. vona dono quatre valeurs differentes de z et (ζ. Mais comme il. n'en sant quen-offis, 3
+cause des trois conditions ⁸=1²1² ÷2oeoe, s=qq÷2yy et sssrr÷2zz‚ que nous avons ἐι
+
+ 
+

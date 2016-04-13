@@ -1,0 +1,62 @@
+4 ’ L. E U L E Rl OPERA POSTHUMA. Arz'tlzmetica.
+
+13. Cum multipla ipsius α sint 2a, 3a, Ιια, 5α, etc„ inter ea primo non reperiuntur omnes
+numeri ipso a minores, qui sunt 1, 2, 3, . . .(a— 1); totidemque non-multipla occurrent a quovis
+multiplo usque ad sequens.
+
+lli. Si ergo fuerit α numerus minor quam α, tum neque α neque hi numeri α-ι-α, 2α-ι-α,
+3α-ι-α, Ιια-ι-α, etc. inter multipla ipsius α reperiuntur.
+
+15. Quia ob α < α, est 2α-α minus quam 2a, simulque majus quam α, numerus 2a — α
+non erit multiplum ipsius a, neque ullus horum numerorum a — α, 2α - οι, aa — α, [ια -ἀ, etc.
+inter multipla ipsius a continetur.
+
+16. Proposito ergo quocunque numero b, qui non sit multiplum ipsius a, is vel ipso· a erit
+minor, vel ita superabit aliquod ejus multiplum, ut tamen minor sit multiplo sequente.
+
+17. Cum multipla binarii sint 2, ῐι, 6, 8, 10, etc. (ejus simplo non excluso), numeri> reliqui
+ab his unitate differunt. Simili modo ob ternarii multipla: 3, 6, 9, 12, 15, etc. reliqui numeri
+ab his vel unitate, vel binario distant. ,
+
+18. Duplum cujusque numeri a, scilicet 2α, est etiam multiplum binarii. Cum enim α sit
+multitudo unitatum 1 —4— 1 -ι- 1 -ι- l etc. duplicatio ita repraesentetur
+
+azl—u-l-i—l—i-l—i-etc.
+a=1÷1÷1÷1÷etc.
+unde additione prodit 2a z 2 -ι- 2 -ι- 2 -ι- 2 -ι- etc.
+
+19. Vel cum numerus a sit multitudo unitatum, numerus α duplicabitur singulis unitatibus
+bis sumendiS, unde oritur multitudo binariorum. Ex quo patet duplum 2a toties continere bina*-
+rium, quoties a continet unitatem.
+
+20. Simili modo triplum 3a toties continebit ternarium, quoties ipse numerus a continet uni4-
+tatem, eritque itaque 3a multiplum ternarii, quod etiam de omnibus multiplis est intelligendum.
+
+21. Indeae multipli vocatur numerus indicans ‚ quoties multiplum in se contineat simplum, ita
+
+index dupli est binarius, tripli ternarius, quadrupli quaternarius, etc.
+
+22. Si numerus α toties sumat-ur, quot numerus n continet unitates, multipli inde orti index ’
+
+est n, ipsum autem multiplum hoc ita exprimitur na, ita ut na denotet multiplum ipsius a, cujus
+
+index sit η. ¹
+23. Tale ergo multiplum na ipsius a est etiam> multiplum indicis n, quandoquidem toties in
+se continet indicem, quoties ipse numerus a continet unitatem.
+2ῐι. Hinc ergo patet multiplum numeri α, cujus index sit η, congruere cum eo multiplo
+
+numeri n, cujus index sit α; quare cum illud multiplum per na, hoc vero per an exprimatur, erit
+
+na = an.
+
+25. Cum in quovis multiplo na tam numerus a, cujus multiplum sumitur, quam index multipli ‚-
+
+n inter se permutari queant, hi duo numeri α et n sine discrimine factores appellantur, multiplo
+autem ipsi na nomen producti seu facti indi solet.
+
+26. Quemadmodum quisque numerus est multiplum unitatis, cnjus ipse est index, ita. etiam est
+sui ipsius simplum, indice existente unitate. ln posterum ergo tam multipla unitatis quam simpla
+cujusque numeri a denominatione multiplorum segregabimus.
+
+.—d——--—. -.-.. -.., . .. . .-.. . . ὡ...-
+

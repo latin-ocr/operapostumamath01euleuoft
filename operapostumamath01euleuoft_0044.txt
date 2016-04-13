@@ -1,0 +1,62 @@
+“ 26 L. E ULERI OPERA POSTHUMA. Arithnoetica.
+
+212. Quodsi ergo b et d sint numeri inter se primi, et ,ιι denotet multitudinem omnium
+numerorum ad d primorum ipsoque minorum, tum vero bn fuerit minima potestas post casum n=0‚
+
+quae per d divisa unitatem relinquat, tum erit vel n= μ, vel n aequabitur parti cuipiam aliquotae
+ipsius μ, ita ut sit n= ἐξ, existente m divisore quopiam ipsius μ.
+
+213. Cum autem post potestatem bn etiam omnes istae (2²⁶, b⁸'⁸, ἔθη, 010. unitatem pro residuo
+agnoscant, semper potestas b''¹'·=b¹‘ per d divisa unitatem relinquet. Hinc dum b et d fuerint
+numeri inter se primi, haec formula bffi—1 semper per numerum d erit divisibilis.
+
+2111. Si praeterea etiam c et d fuerint numeri inter se primi, quoniam ομ-ί divisionem per
+d admittit, harum formularum differentia ὂμ-ομ semper per numerum d erit divisibilis, dummodo
+uterque numerus b et c ad d fuerit primus.
+
+215. Si pro d sumamus numerum primum p, erit ,ιι-ερ- Ι, atque haec formula bp‘ff—t· y
+semper erit per p divisibilis, nisi ipse numerus b fuerit multiplum ipsius p. Fieri autem potest, ut
+forma simplicior bn — 1 etiam divisionem per p admittat, ubi autem necessario requiritur, ut exponens
+n sit pars aliquota ipsius p — 1.
+
+216. Si divisor sit dzpq, existentibus p et q numeris primis inaequalihuS, neque b alter-
+utrum horum numerorum complectatur, tum ob μ = (p—l) (11- 1), haec forma ὄψ’-ι) (9*1) -1
+per d erit divisibilis.
+
+217. Ac si existentibus p, q, r, s numeris primis inaequalibus, fuerit άτ-ρλᾳμννεξ, 30 b
+numerus quicunque ad d primuS, tum posito .
+
+ἠερλ-1 (Ρ - 1)<1’1”“1 (q - 1) '‘v-¹ (r- 1) ⁸5⁸¹ (S- 1),
+
+haec forma bru—1 semper per d erit divisibilis, atque interdum fieri potest, ut formula simplicior
+bn — 1, existente η parte quapiam aliquota ipsius m, divisibilis evadat.
+218. Sed retineamus divisorem generalem d, sitque ,ιι multitudo numerorum ipso minorum
+
+ad eumque primorum, pro b autem sumatur numerus quicunque ad d primus, cujus minima potestas
+
+per d divisa unitatem relinquens sit bn, atque vidimus necessario fore vel ηεμ, vel ηεξ-μ, vel
+
+1 1 1 . . . . .
+ηεῖμ, vel n =-4-,a, vel n= —5—pc, siquidem ,ιι tales partes aliquotas admittat3 quos casus
+
+diligentius evolvi conveniet.
+
+219. Statim quidem suspicari licet, hoc discrimen ab indole numeri b pendere, ita ut pro dato
+1
+
+divisore d, certi numeri pro b sumti praebeant n -τ-μ, alii ηεῖμ, alii n=-}u, alii n=÷flc‚
+seu adhuc minori parti aliquotae ipsius ,ιι.
+
+220. Quaecunque autem n sit pars aliquota ipsius μ, si binae potestates bn et 0⁰ unitatem
+relinquant, etiam composita (be)'² unitatem relinquet. Deinde etiam manifestum est potestatem
+
+(bssady‘ per d divisam, esse relicturam unitatem.
+
+221. Cum potestas ὀμ semper unitatem relinquat, quaeramus numeros pro b sumendos. ut'
+
+1
+etiam ὸῖμ unitatem relinquat, quo casu ante omnia necesse est ut ,ιι sit numerus par, quod quidem
+semper evenit nisi sit d= 2.
+
+ 
+

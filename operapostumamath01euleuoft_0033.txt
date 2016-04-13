@@ -1,0 +1,61 @@
+Tractatus de numerorum doctrina Cap. A. 15
+
+summas divisorum s A, s B, s C, sD unica debet esse impariter par, reliquae omnes impares: omnes
+ergo factores A, B, C, D, praeter unum, erunt potestates pares numerorum primorum, unus autem
+ille vel numerus primus formae lin—r-i, vel ejusdem potestas, cujus exponens sit [ιλ-ι- 1. Sicque
+talis numerus perfectus hujusmodi habebit sormam <lm-i- 1)’)·”’“ι ΡΡ, existente P numero impari,
+et ltu-bl primo.
+
+110. Plurima alia problemata huc referenda, quibus alia proponitur relatio inter numeros inve-
+stigandos eorumque summas divisorum hic praetermitto, quoniam ex traditis principiis methodus ea
+
+solvendi non difficulter elicitur.
+
+——aeu—-ffl
+
+caput lv.
+
+De numeris inter se primis et compositis.
+
+111. Duo numeri, qui praeter unitatem nullum alium habent factorem seu divisorem communem,
+vocantur numeri primt' inter se3 qui autem praeter unitatem alium habent divisorem communem,
+vocantur compositi inter se. Ita 8 et 15 sunt numeri inter se primi, at 9 et 15 numeri inter se
+compositi.
+
+112. Unitas ergo est ad omnes numeros primus. Scilicet denotante η numerum quemcunque,
+numeri 1 et- n sunt numeri primi inter se, quia praeter unitatem nullum alium admittunt divisorem
+communem. ’
+
+113. Pari modo duo numeri unitate differentes n et η-ι-1 sunt primi inter se3 quoscunque
+enim divisores habuerit numerus η, nullus eorum dividere potest numerum η-ι- 1. Namque si Ρ sit
+divisor numeri n, numerus proxime major per p divisibilis erit η-ι- Ρ, neque vero η-ι-1 divisionem
+per Ρ admittet.
+
+¹11». Numerus primus Ρ ad omnes numeros, nisi qui ejus sunt multipla, est primus3 hinc
+numeri a et Ρ sunt primi inter se, nisi sit vel azp, vel assnp. Ergo numerus primus Ρ ad omnes
+numeros se minores est primus.
+
+115. Multitudo numerorum, dato numero a minorum, est a — 1, inter quos quot sint ad a vel
+
+primi, vel compositi, operae pretium est definire3 quoniam inde judicium ad omnes numeros ipso a
+
+ 
+
+majores facile extenditur.
+
+116. Sit enim b<a, ac si b et a fuerint primi inter se, etiam omnes hi numeri b÷a,
+b-i-2a, b-i- 3a, etc. ad a erunt primi; ac si b et α habuerint communem divisorem, idem erit
+divisor numerorum b—i-a, (ſsi-211, etc.
+
+117. Si ergo a sit numerus primus ΞΡ, quia omnes numeri ipso minores ad eum sunt primi,
+horum multitudo est'z Ρ - 1.
+
+118. Si sit assssp, ab 1 ad a dantur p numeri pares, qui ergo ad α non sunt primi, deinde
+ipse numerus Ρ ad a etiam non est primus. Auferantur hi a numeris omnibus ab 1 usque ad a,
+quorum multitudo est ΞΡ, ac relinquentur Ρ- 1, totidemque ad a erunt primi.
+
+119. Si sit a = 3Ρ, inter numeros ipso non majores primum ii, qui sunt per 3 divisibiles, ad
+eum non sunt primi, quorum multitudo est ’.--. Ρ, deinde insuper Ρ et ΞΡ ad α non sunt prImi3
+
+reliqui, quorum multitudo est 3p-p-—2=2 (Ρ -1), omnes ad ‹1:31› erunt primi.
+

@@ -1,0 +1,59 @@
+ 
+
+Tractatus de numerorum doctrina Cap. 1. ¹ 5
+
+27. Multipla ergo nohis erunt ejusmodi numeri, qui cujuspiam numeri, praeter unitatem, sunt
+multipla (excluso simplo), constabunt ergo duobus factoribuS, quorum alter alterius respectu tanquam
+index spectari· potest.
+
+³28. Factum ergo ab, cujus factores sunt a et b, est multiplum tam ipsius α quam ipsius b.
+Quatenus est multiplum ipsius a, index est b, quatenus autem est multiplum ipsius b, index est α.
+
+29. Multipla hujus sacti ab simul erunt multipla tam ipsius a, quam ipsius b. Sit nab tale
+multiplum, cujus index sit n, et quia ctiam est multiplum ipsius n, erit multiplum uniuscujusque
+horum numerorum n, a et b.
+
+30. Hinc patet etiam in facto ex tribus factoribus constante, tres factores inter se esse permu-
+tabileS‚ atque tale sactum abc non solum esse multiplum singulorum a, b, c, sed etiam factorum ex
+binis ab, ac, bc.
+
+. 31. Si in serie numerorum 1, 2, 3, 4, 5, 6, 7, etc. omnia multipla deleantur, reliqui numeri
+non erunt multipla ullius numeri (quandoquidem simpla excludimus), hique numeri vocantur simplices,
+vel primi.
+
+32. Deletis scilicet multiplis binarii 4, 6, 8, 10, 12, etc. restat haec series 1, 2, 3, 5, 7, 9,
+11, 13, 15, 17, 19, 21, etc.; hinc porro extinguantur multipla ternarii 6, 9, 12, 15, 18, 21, etc.
+quae quidem adhuc adsunt, et restat 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, etc.; ita relinquentur
+tandem numeri primi 1, 2, 3, 5, 7, 11,·13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, etc.
+
+33. Si ergo p sit numerus primus, is neque inter multipla binarii neque inter multipla cujus-
+quam alius numeri occurrit, neque ergo hujusmodi facto ab ullo modo exhiheri potest, nisi sit vel
+
+11:71, vel b: 1, quos autem casus exclusimus (26).
+
+34. Omnes numeri, qui non sunt primi, vocantur compositi5 unde patet omnes numeros com-
+positos esse multipla aliorum numerorum minorum, qui cum iteruin sint primi, vel multipla aliorum
+denuo minorum, multipla autem cujusvis producti sint simul multipla singulorum ejus factorum,
+sequitur omnes numeros compositos tandem reduci ad multipla numerorum primorum.
+
+35. Omnis ergo numerus est vel primus, vel multiplum cujuspiam numeri primi3 quo posteriori
+casu cum numerus sit compositus, omnis numerus compositus exhiheri potest producto, cujus singuli
+
+factores sint numeri primi.
+
+36. Inter numeros compositos primum occurrunt ii, qui constant duobus tantum factoribus
+primis. Veluti si p et q denotent duos numeros primos quoscunque, productum pq in genere exhi-
+
+bebit ejusmodi numeros compositos primae speciei, qui duobus tantum constant factoribus primis.
+
+37. Talis ergo numerus compositus pq erit tam multiplum numeri q, indice existente p, quam
+multiplum ipsius p, indice existente q, neque vero ullius alius numeri erit multiplum. Si enim esset
+multiplum alius cujuspiam numeri a, indice existente b, hi numeri α et b ejus essent factores,
+
+contra hypothesin.
+
+38. Hujusmodi autem productum pa. cujus quidem factor p est primns, alter vero α com-
+positus, factores habens α, β, γ, etc„ non solum erit multiplum numerorum p et a, sed etiam inter
+
+multipla numerorum α, β, γ, etc. occurret.
+

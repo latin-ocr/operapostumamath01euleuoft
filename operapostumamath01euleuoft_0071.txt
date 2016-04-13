@@ -1,0 +1,58 @@
+Tractaeus de numerorum doctrinm Cap. 12. 53
+
+1120. Hoc ergo casu, quo divisor est =-bq— 1, residua biquadratorum eadem praedita sunt
+proprietate, atque residua quadratorum, quin etiam cum iis plane convenirent pro eodem divisore.
+Omnia enim residua biquadratorum in residuis quadratorum continentur, et cum multitudine sint
+paria, prorsus eadem sint necesse est, unde hic de residuis et non residuis eadem valent, quae
+supra exposuimus.
+
+1121. Sit jam divisor primus 1111-1-1, et residua 1, α, β, γ, δ, etc. omnia hanc habent pro-
+prietatem, ut ‹tq—1 divisibile sit per 1111-1-1. Haec quidem residua etiam continebuntur in resi-
+duis quadratorum pro eodem divisore liq—1-13 at vicissim, non omnia residua quadratorum simul sunt
+residua biquadraiorum, quod ita ostenditur.
+
+1122. Quodvis residuum quadratorum per :12² potest repraesentari, quod si esset residuum biqua-
+dratorum, foret ae²⁹—1 divisibile per leq-14, denotante ω numerum quemcunque minorem divisore;
+nempe 1²⁹— 1, 229- 1, 329,- 1, 14²⁹- 1,. . . .(2q)²‘7—1 dividi possent per 111] -1- 1, quod cum
+fieri nequeat, non omnia quadrata in residuis biquadratorum occurrunt. ’
+
+1123. Si ω’ in residuis biquadratorum non occurrat, ibidem non occurrent quoque aff, βαΰ,
+7:12², 3:2², etc., quae cum sint residua quadratorum, patet in residuis quadratorum, quorum multitudo
+est 211, tot ad minimum esse non-residua biquadratorum, quot fuerint residua biquadratorum3 unde
+patet multitudinem residuorum biquadratorum vel esse =q, vel adhuc minorem, quod posterius
+autem fleri nequit„ ,
+
+11211. Quo haec facilius evolvere liceat, divisores simpliciores formae ’sqq-1 examinemus, et
+
+tam residua quam non-residua biquadratorum consideremus:
+
+⁵ pro divisore 5 13 17 29
+residua 1 1, 3, 9 1, 11, 13, 16 1, 16, 23, 211, 20, 7, 25
+2 2, 6, 5 3,12, 5, 1ιι 2, 3, 17, 19, 11,1ιι, 21
+non-residua ἓ ιι ιι, 12, 1ο 9, 2, 15, 8 ιι, 6, 5, 9, 22, 28, 13
+3 8,11, 7 1ο, 6, 11, 7 8, 12, 10, 18, 15, 27, 26
+pro divisore 37
+residua Ι, 16, 9, 12, 33, 10, 26, 311, 7
+
+ᾖ ,ma-vw—*t--v „-, .. w„ , - ,ἡ
+
+2, 32, ιιι, 31, 29, 15, 2ιι, 20, 18
+
+non-residua {ln 27, 28, 25, 21, 30, 11‚‘ 3, 36
+
+’ 8, 17, 19, 13, 5, 23, 22, 6, 35.
+1125. Ex his exemplis videmus numerum residuorum esse =q, quem jam demonstravimus
+
+majorem esse non posse. Non-residuorum numerus triplo est major, quae in ternas classes distinximus,
+
+j cum cujusvis classis numeri peculiaribus proprietatibus gaudeant.
+
+1126. Has tres classes commodissime ita constituere licet: cum dentur quadrata in residuis non
+occurrentia, sit oex tale quadratum; et certum est neque ω, neque ωδ in residuis reperire posse. Si
+ergo residua sint 1, α, β, γ, δ, ε, etc. ternae non—residuorum classes erunt:
+
+Ι. x, αα), βω, yx, δω, etc.
+11. 112², oeoe²,- ssae2, 7:12², 6:2², etc.
+
+ΙΙΙ. ωδ, 02:15⁸, 6:12³, 71:12³, (5³0³, etc.
+

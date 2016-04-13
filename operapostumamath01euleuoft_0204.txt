@@ -1,0 +1,75 @@
+¹86 L. EULERI OPERA POSTHUMA. · An‘aeknoeuba.
+95.
+(N. Fau 1.)
+
+Tannum. Haec formula oe²n÷ ern-bl semper est divisibilis per oeoe÷ae÷1·, dummodo n non sit mul-
+
+tiplum ternarii.
+Dnuonsrmno. Si enim illa formula multiplicetur per :nn-1, productum ,rm—l semper est divisibile
+
+per·oe³—1, ideoque etiam per oeoe÷oe÷1; quia ‚ergo multiplicator oon—1 non est divisibilis, necesse est ipsam
+
+formulam esse divisibilem. Q. e. d. ,
+Τιιιῑοιιιειιᾼ. Haec formula oe⁴n÷oe³⁰÷x²n÷oen÷1 semper est divisibilis‘per oe⁴÷ae³÷oe²÷oe÷1‚ dum-
+modo exponens n non fuerit multiplum ipsius 5.
+
+,1) nuo us 'r ιι A 'r 1 o similis praecedenti.
+
+ 
+
+Tamum. Si capiatur angulus =(m 360⁰, haec formula ae20-2ae'1oes6-44 semper est divisibilis
+
+,4-
+per hanc evm—2:1⁶ costi—171. n— ¹ ’ Α. m.'1'.1. 2285.
+
+ 
+
+26.
+
+Tmzonmu, cujus demonstratio etiamnunc desideratur. Si haec formula tmnk-i-maa-t-nbh fuerit numerus,
+
+primus, puta P, tum semper assignari possunt numeri ω et y, ut fiat moeoe—t-nyy: P.
+Sit m=3‚ n=2‚ a=1 et¹ b=1‚ erit maa÷nbb=5 et 4mnk÷5=2tk÷5. Sumatur k=2‚ orit
+P= 53 et esse debebit 3aeae÷2yy=53‚ sit ae=1 et y=5. Plerumque quidem tales numeri pro oe‘et 9
+
+dantur integri, interdum tamen non nisi fractos assignare licet, veluti ‘si fuerit m= 7 et n: 2, praeterea> vero ,
+
+,αΞ1 et θεν-1, ita ut sit P=56k÷9, unde sumto k=4 fit P= 233, qui numerus in integris esse nequit
+
+=7oeoe÷2yy. At si capiatur ατε-ἓ, erit 233:ss -t-2yy‚ ergo 2yy=ss2 ergo y ²:33AE et 31:33¹--
+
+A. m. T. 1. p. 300.
+
+ 
+
+ 
+
+2¹7.
+ΤιιΕοιιΕΜΛ. Νοιι dantur tria biquadrata‚ quorum summa esset divisibilis vel per 5, vel per 29, quae >
+sola excipiuntur. A. m. T. 11. p. 161.
+28.
+
+OnsnnvA'rlo. Proposito quocunque numero primo p=2n÷1, omnes numeri eo minores, qui sunt ”’
+
+1, 2, 3, 4 . . . 2η, semper tali ordine disponi possunt, 'ut certis multiplis ipsius p aucti, progressionem geome-
+tricam constituant, sive tales assignari possunt numeri x, ut progressionis geometricae 1, ω, 315², 5⁶³, 513⁴... ..ω”ῗ
+si singuli termini per p divisi deprimantur, omnes numeri ipso p minores prodeant, uti ex sequentibus exemplis
+patebit. Notetur autem potestatem (ΒΜ hoc modo semper dare unitatem, propterea quod ,τω -1 semper per
+p dividi potest, unde sequentes potestates ,τω ‘'‘1, x²'¹·*·‘²‚ ,τη-Η, etc. eosdem reproducunt numeros, uti
+ab initio. ’
+
+1. Sit p=3 et n=1 et progressio geometrica erit 1, ω, oeoe. Sumto ergo oe=2‚ progressio geometrica
+erit 1, 2, 1, 2, 1, 2, 1, 2, etc.
+
+11. Sit p=5 et n=2 et progressio geometrica 1, oe, 513², ωδ, etc Hinc sumto (υτ-..2 habetur
+
+1, 2, 4, 3,1, 2, 4, 3, 1, etc.
+
+sumto autem ,αι-ΞΒ, erit ea 1, 3, 4, 2, 1, 3, 4, 2, 1, etc.
+
+111. Sit p=7 et n=3‚ erit progressio 1, ω, oe2, ³2³, 515⁴, etc. Hinc sumto ³2:22, erit ea 1, 2, 4, 1,
+
+unde patet hinc tantum terminos pares oriri, unde x ita sumi debet, ut fiat oeoe—2z7m, ideoqueoezamt
+
+progressio geometrica erit 1, 3, 2, 6, 4, 5, v1, 3, 2, etc. Loco x autem etiam sumi posset alia potestas φλ,
+

@@ -1,0 +1,56 @@
+ 
+
+ 
+
+Tractalus de numerorum doctrina Cap. 7.. 27
+
+222. Si jam capiatur b=ee, ita ut e sit numerus ad d primus, certum est b*2¹““=e¹⁴ unitatem
+relinquere, quod etiam evenit si b=eessm Minores ergo numeri pro b sumendi sunt residua,
+quae ex divisione numerorum quadratorum per d resultant, si modo quadrata ad d fuerint prima.
+
+223. Simili modo potestas ὀέιῖμ per d divisa unitatem relinquet, si fuerit b=e⁸, et generalius
+si b =e⁸ssstd. Minores ergo valores ipsius b idonei sunt residua, ex divisione cuborum ad d pri-
+morum per ipsum numerum d orta. Evidens autem est hoc evenire non posse, nisi numerus μ sit
+per 3 divisibilis.
+
+221». Si v,u per lv sit divisibile, tum potestas lsi-“⁴ per d divisa unitatem relinquet, si suerit
+Ἰ b=e⁴,. et generalius b=e⁴‡2d. Minores ergo·numeri sunt residua, quae ex divisione biquadra·
+
+torum per d oriuntur, iis scilicet tantum biquadratis sumendis, quae ad d sunt prima.
+
+225. In genere ergo, si numerus μ divisibilis sit per ν, potestas 1)·τᾷ per d divisa unitatem
+relinquet, si capiatur b=e⁹, vel adeo b = ε”ῑ-Ιῑλά, ita ut idonei numeri pro b substituendi sint
+“ residua, quae ex divisione potestatum ordinis ν per numerum d oriuntur, potestatibus illis ad d
+
+existentibus primis. ’
+
+226. Sufficit ergo pro b numeros sumsisse ipso d minores, qui quidem ad eum sint primi; atque
+unitas quidem pro b sumta omnia residua unitati aequalia reddit, ita ut boc casu semper sit n= 1,
+
+seu ηεξ· Casus autem iste solus relinquitur, si capiatur divisor d= 2, quippe quo fit μ -- 1.
+
+227. Sit divisor d= 3, erit ,n=2, et praeter casum b = 1, quo n= 1, habebimus casum
+bss2‚ unde oritur progressio geometrica cum suis residuis:
+Progr. geom. 1, 2, 2², 2³, 2⁴, etc, ubi est n=2,
+Residua 1, 2, 1, 2, 1, etc., seu ηεμ.
+228. Sit divisor d = lv, erit pc: 2, et praeter casum· b= 1, quo ηε 1 εξ μ, babemus
+
+casum b=3.
+Progr. geom. 1, 3, 3², 3⁸, 3⁴, etc.‚ hinc ergo fit n=2=pc
+
+Residua 1 ‚ 3, 1 , 3, 1, etc.
+229. Sit divisor d= 5, erit μ = lt, et habebimus hos casus
+b = 1 ΗΞ 2 b = 3 b Ξ 1,,
+Progr. geom. 1, 1 1, 2, 2², 2³, 2⁴ 1 , 3, 3², 3³, 3⁴ 1, li, [ι’
+Residua 1, 1 1, 2, lv, 3, 1 1, 3, lv, 2, 1 1, b, 1
+η = 1 n = ll· n = l.. K n = 2
+
+duobus ergo casibus hic ‚est n= lv, uno n= 2 et uno n= 1.
+
+230. Si divisor d=6, erit με 2, et duo erunt casus ⁵
+
+b=1 b==5
+Progr. geom. 1, 1 1, 5, 5²
+Residua 1, 1 1, 5, 1
+n=1 n=2
+

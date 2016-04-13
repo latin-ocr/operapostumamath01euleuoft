@@ -1,0 +1,60 @@
+52 L. EULERI OPERA POSTHUMA. - mima-ca.
+
+1111. Si inter residua occurrere debeat 6, divisores reperiuntur
+7, 37, 139, 163, 181, 211, 307, 337, 319, 379, 631, 727, 751, 997, etc.
+
+qui in forma 3pp—1-qq contineri deprehenduntur, si suerit vel p=9n, vel 2pssq=9m Harum
+autem observationum veritas tantum conjecturae innititur, neque inductione ulterius commode pro·
+gredi licet. (*)
+
+-ο-
+
+caput ΧΠ.
+
+De residuis, ex divisione biquadratorum per numeros primos ortis. '
+
+1112. Si divisor primus sit d, quod residuum a biquadrato α’ relinquitur, idem non solum a
+biquadratis (d—i-a)⁴, (2d—1-a)⁴, etc., sed etiam a (εἰ-αι)4 relinquitur, unde si d=2p÷1‚ plura
+
+quam p residua diversa resultare nequeunt.
+
+1113. Si residua sint 1, α, β, y, δ, etc„ quorum multitudo major esse nequit quam p, in iis
+occurrent omnia biquadrata, ad minimam scilicet formam reducta, quae. insuper hac gaudebunt pro-
+prietate, ut producta ex binis in iisdem reperiantur.
+
+11111. Haec ergo ⁴residua nascuntur ex biquadratis 1, 16, 81, 256,. . .p⁴, quae utrum pro dato
+divisore primo 2p÷1 omnia inter se futura sint diversa, nec ne‘? diligentius inquiri convenit.
+
+1115. Ac primo quidem patet, si unum bis occurrat, scilicet ex biquadratis a* et 6⁴, tum ob
+δ’--ιι4 per d==2p÷1 divisibile, fieri poterit b=mdssna, unde et n⁴a⁴-a⁴ erit divisibile,
+sicque etiam n⁴÷ 1. Tum ergo quoque θ’ et η41>4 paria producent residua, singulaque residua his
+, occurrent. .
+
+1116. Si ergo d sit divisor formulae b⁴—-a⁴, sumtis a et b minorihus quam ὲάξ, ideoque
+formulae b²÷a², quia neque b—-a, neque b—1-a per- eum divisibile esse potest, tum singula residua
+bis occurrent. Contra vero, si non sit factor talis formae b²÷a², omnia residua erunt diversa.
+
+1117. At per § 279 omnes divisores primi formae bb—i—aa in forma uqa-1 continentur, quare
+si divisor propositus fuerit formae 111] - 1, ex divisione biquadratorum certe 2q—1 diversa residua
+
+emergunt, totidemque habebuntur non—residua, neque plura. Quos casus primum evolvamus.
+
+1118. Sit ergo divisor primus [iq—1, et residua diversa ex biquadratis oriunda 1, α, β, γ, δ, etos, .
+
+quorum numerus erit 211-1, non-residua autem sint A, B,'C, D, etc. totidem numero. Ac primo
+patet, si A fuerit non-residuum, etiam Λα, AB, Ay fore non-residua. Si enim Aa* esset residuum,
+ex biquadrato b* ortum, foret ὁ* *Λα4 per d divisibile. At est b=massnd, unde et τιθῶ-Δία’,
+ideoque ιη’-Α esset divisibile per d, et m⁴ relinqueret A, contra hypothesin. «
+
+¹419. Haec proprietas adeo ad omnes‘ divisores extenditur, ita ut semper productum ex residuo!
+in non-residuum sit non-residuum. At productum ex duobus non-residuis, AB, si quidem divisor
+primus sit liq — 1, certe est residuum; si enim esset non-residuum, conveniret cum termino Aa⁴,
+ita ut Aa⁴— AB, ac propterea a⁴—‘B per d esset divisibile, contra hypothesin.
+
+(*) Script. ad marq. Ut 7 sit residuum divisorque 3pp-i-qq, debet esse vel p=3m et q=7n, vel pssq=2ln,
+
+vel lipssqzh, vel p=⁰lm‚ vel pss2q=7n. —- Ut 10 sit residuum, pro divisore 3pp—1—qq debet esse
+vel p=5n, vel q=5n.
+
+ 
+

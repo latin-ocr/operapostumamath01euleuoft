@@ -1,0 +1,59 @@
+De curvis, quarum recttficattb per quadraturas mensuratur. 449
+
+vero ex punctis M et 0 ad rectam CA pro axe assumtam demittantur perpendicula MP et OS,
+itemque ex M in rectam MT axi Α C parallelam, sintque coordinatae orthogonaies curvae descriptae
+GP = ω et PM = y.
+26. Cum jam sit angulus A CQ=q> et C0=a‡r, ubi signum superius pro curvis epicy-
+cloidalibus, inferius vero pro hypocycloidalibus valet, erit CS= (ιι-ὲν) cosa> et OS: (assr) sin φ.
+. Deinde oh ang. COS= 90⁰— φ et COR = αφ, erit ang. MOT= (α -ι- 1) φ - 900 pro epicycloi-
+, dalibus (Figg.50, 51), at pro hypocycloidalibus (F igg. 5253), ob COS=900—q> et COR=1800—aq>‚ 0
+ἶ ⁴ erit ang MOT= 900—(a—1)q>‚ unde ex triangulo OM T ad Τ rectangulo‚ ob latus 0M= μν,
+ξ obtinebimus pro utroque casu
+
+curvarum epicycloidalium Fig. 50 et 51: curvarum hypocycloidalium Fig. 52 et 53:
+MT=—fflrcos(a-i-¹) φ, , ΜΤΞμΓ608(α·-Ῑ)φ,
+OT=÷flcrsin(u—i-1)q>‚- ’ 0T=ursin(a—'1)q>‚
+
+{¹ ergo (ΖΡ = (a-i—r)cosqv—,urcos(oc—i-1)cp=c12,v ergo ΟΡ = (a—1·)cos5p—i-pcrcos(a—1)q>=ae‚
+PM= (a-i-r) sin φ-μν sin (a-÷- l)q>=y-. ΡΜ = (a—r) εἰηφ-ι-μν sin (a—1)q2=y·.
+consequenter? pro utroque casu conjunctim ’
+
+CP=ae=(a‡r)eosgp‡percos (1 ἑξ) φ,
+PM=y= (assr) sin φῐῑ-..μν sin(1‡})‹p‚
+
+27. Hinc ergo videmus totum discrimen inter has curvas, epicycloidales et hypocycloidales
+¹ tantum in signo quantitatis r esse situm, ita ut omnes his expressionibus pro coordinatis CP=ae
+et PM=J possimus complecti '
+- ” oe=(a-i-r)cosq>—pcrcos(l÷-‘})q>,
+
+y=(a—i-r)sinq>—pcrsin(1-i—⁰7)cp‚
+
+,Ι quae proprie ad epicycloidales pertinent, sed sumta quantitate r negativa· simul ad hypocycloidales
+⁵ extenduntur. Differentiando ergo habebimus
+
+7 doe=—(a÷r)dm(sincp-—ptsin(i÷{)‹p)‚
+
+dy==4(a-i—r) ἀφ(οοεφ-μεοε(1 -i-{)cp)›
+
+‘j unde elementum arcus hujus curvae V(doe²—i-dy·²)=ds reperitur
+ds=(a-i-r) ἄφνω -ι-μμ-2μ cos ’ἶ φ),
+[J et radius osculi in M ita erit expressus:
+
+(ίι 4f) (ι -θ-μμ - 2μ cos s:- 40}
+
+1-4-μμ-μ(2-ι-ἶ)εοε-ἶ-φ
+28. Quaecunque igitur hujusmodi curva descripta dabitur eliipsis‚ in qua arcui curvae ΠΜ
+j ¹arcus aequalis assignari poterit. Sit (Fig. 5⁷i) adbe haec ellipsis, ejusque axes orthogonaies ab et ‹!e; ,
+
+'vocetur semiaxis minor ca = cb = c et semiaxis major cd = ce == mc, sumtaque super ἰΙΙο a centro
+
+·‚‘ c abscissa cp = z, erit appiicata 'pm = mV(cc — zz) et arcus eliipticus dm: ι[ιΙιῑίῌ -i- ἓξὲξ)
+
+  
+
+j statuatur z =csin θ, eritque hic arcus
+
+uk
+
+1-- Euieri Op. posthum T. Ι. 57
+

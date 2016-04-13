@@ -1,0 +1,52 @@
+Problema Dt‘opltanteum. 119
+
+vl.
+
+Becherches sur le probleme «le quatre nomm-es posmrs et en
+’ ‘proportion antmnetique teIS‚ que la sonnne «le deux quel-
+” , “ conques 'soit tomours un nombre carre.
+
+(Exhib. 1781 April. 23.)
+
+¹. Soient A, B, C, D les quatre nombres cherches, disposes selon l'ordre de* grandem,
+en sorte que A soit le plus petit et- D le plus¹ grand. Les? sig conditions ἐι ῃοιιιρΙίι· seront:
+
+Aga—Btssppg, ἶΑ-ι-.6,’;..-ὴιμ], A-i-VD--rrr-czssv—irlC, B—i—D-=ss„ C÷D=m
+
+de 151 2rr=pp ÷u=qu÷23Q et enfin, les ·. quatre nombres cherches seront exprimes par les
+quantites pp, qq, rr de la maniere suivante: ’
+
+’ 2A-sspp÷‘qq÷-rr, 23: pp÷rr—qq,
+2C=qq÷rr-—pp‚ ⁴2D=3rr--pp---qq.
+
+Le nombre A etant positis, il faut que pp÷qq > rr3 quant aux nombres B, C, D, ils seront de
+
+, {neme positifs d’apres la condition 2rr= pp-i-tt: qq—t-ss, si lon prend p <t, q <s, ce qui
+
+(1019 avoir lieu d'apres les expressions precedentes de pp, qq, tt, 33, οὺ, par hypothese,
+’ Α < Β < C < D. ”
+2. De plus, on voit que r doit etre egale a la somme de deux cartem ainsi soit r=aeae÷yy,
+nous aurons rr= (oeae—Jy)²÷ (2oey)², etffpar consequent
+
+2rr = (ss (ωας -— γγ) - 2aey)²—}— (ss (καὶ -γγ) -ι- ΞειγΫ.
+De 151 il est facile de prevoir que'l'egalite 2rr= pp÷u, ainsi que la condition p<t sera remplie‚
+si l'on prend Ἴ
+p=ss(aeae—y·y)—2aey·, t=‡(aeae—yy)—{-2oey·‚
+οὺ nous admettrons celui des deux εἰμες-,Ξ qui rend oeae--y-y· positis.
+De meme, pour les nombres q, s, ve'rifiant.1es ¹conditions
+
+. , , 2νν--ᾳᾳ-ι-33, q<s,
+⁵ nous trouvons ces expressions ²' ’ ’ ’
+
+q = ss (ae'ae'-—- γ’γ’) - Ξειί γ’, 3 ·-- ss (ω’ oe'— γ’γ’) -ι- &dy-⁹,
+
+- en admettant pour r cette autre decomposition en deux cartes ω’ ω’-ι- γ’γ’.
+
+ 
+
+- fAyant [ιε-Σ (w—yy)—2aey‚ r=oeae÷yy, nous en tirons
+m> = (³³³⁶ -ffl’ ῖ- ¹³27 (mx-w) -ι- *xm = <aeoe÷ YY)²‡ uaer (xx—n) = m· τ amr (xx-rr).
+De meme, les equations q = -Σ (ω’ αι’-κγ’ γ’) -- ‘lx' γ’, r = αἴτι’-ι- γ’γ’ nous donnent
+
+«ιιι = ἦ· ss 'vae'r' (ω’ ae'- γ’γ’)-
+

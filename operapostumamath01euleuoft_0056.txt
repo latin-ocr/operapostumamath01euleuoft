@@ -1,0 +1,66 @@
+38 L. E U L E R I OPERA POSTHUMA. Ammmetec'a.
+
+308. Non mediocriter haec illustrabuntur, si residua et non-residua ex divisione quadratorum
+
+divisor 3 5 7 . ιι
+
+residua ¹ ¹, l* ¹2 lp, 2 1, lt, 9, 5, 3
+non-residua 2 2, 3 3, 5 6 2, 6, 7, 8, 10
+divisor ¹3 17
+
+residua 1, ῑι, 9, 3, 12, 10 1, lv, 9, 16, 8, 2, 15, 13
+non-residua 2, 5, 6, 7, 8, ¹¹ 3, 5, 6, 7, 10, 11, 12, ss·
+divisor 19 ²³4
+
+residua 1, ll», 9, 16, 6, 17, 11, 7, 5 1, lv, 9, 16, 2, 13, 3, 18, 11, 8, C
+non-residua 2, 3, 8, 10, 12, 13, lli, 15, 18 5, 7, 10, 12, 111, 15, 17, 19, 20, 21, 22
+divisor 29
+
+residua 1, lv, 9, 16, 25, 7, 20, 6, 23, 13, 5, 28, 2¹0, 22 -⁵
+non-residua 2, 3, 8, 10, 1 1, 12, lli, 15, 17, 18, 19, 21, 26, 27 (⁸³).
+
+309. Complcmentam residui vocemus numerum, qui cum residuo faciat divisorem3 ita si divisore
+
+existente =d‚ sit quodpiam residuum z r, ejus complementum erit ‹1— r.
+
+310. Si cujuspiam residui complementum occurrat in ordine residuorum, etiam omniumr resi·
+
+duorum complementa ibidem occurrent. Nam si in ordine residuorum 1, α, β, γ, δ, etc. occurrat
+
+d-a, divisore existente d, hoc residuum d-a etiam per —a=— 1.α repraesentari potest, ”
+
+quare cum tam α quam productum — 1.a sit residuum, etiam —1 erit residuum, ideoque etiam ¹
+
+... β, -γ, -— δ, etc. quibus aequivalent complementa reliquorum residuorum„
+
+311. In serie ergo residuorum vel nullius, vel omnium complementa occurrent. Ex super-loribus
+
+exemplis patet, si divisor sit vel 3, vel 7, vel 11, vel 19, vel 23, nullius residui complementum: in ,
+
+residuis reperiri, sed ea esse non-residua. Sin autem divisor sit 5, vel 13, vel 17, vel 29, inordin·
+residuorum quoque singulorum complementa inveniri.
+
+312. Si divisor sit 2p -ι- 1 primus, atque in residuis quoque singulorum complementa occurrant,
+quoniam bina ita inter se cohaerent, ut alterum alterius sit complementum, neque idem sui ipsius
+complementum esse potest, ob 21> -ι-.-1 semissem non admittentem, numerus residuorum necessario
+
+erit par. ., ‚
+
+313. Cum igitur numerus residuorum sit =p, nisi p sit numerus par, fierinequit, ut residuorum “
+
+complementa sint etiam residua. Quare si p sit numerus impar, certum est nullius residui¹ (ῑοιιιΡΙΙΙιξ-Δ
+mentum in ordine residuorum contineri, ideoque omnium residuorum complementa ordinem noui-7
+residuorum constituent.
+
+311». Sit igitur p numerus impar =2q—1, ut divisor primus sit 'liq— 1, atque omnium Ἴ
+
+residuorum complementa erunt non-residua. Ita si quodpiam residuum sit α, ejus complementum
+
+(η script. admarq. Divum-2 59. Residua: 1, -2, 3, ι, 5, -6, 7, -8, 9,-10, -ιι, 12, —13‚ ὲ-ιι,
+15, 16, 17, -18, 10, 20, 21, 22, -23, -24, 25, 26, 27, 28, 29. Ergo si tae-1 est primus, vel
+oeoe÷myy‚ vel talis forma oeoe—myy per eum est divisibilis.
+
+ 
+
+Α ...u—1.. ....... .-
+

@@ -1,0 +1,75 @@
+ 
+
+De comparatione arcuum curvarum trreclvficabz'lae'ttm. Ἰ 483
+
+Verum cum data sit abscissa e, altera abscissa f ita accipi debet, ut sit cels< 1, seu s< ‘'e‘’ ne
+absolssa AG=9 prodeat negativa. Sin autem detur punctum 9, inde‚reperitur
+’ f=9V(1-i-e⁴)— -ns(1-⁴-9⁴)
+1 - ee99
+
+unde si 9 tam fuerit magna, ut sit ee99 >1, seu 9 > 7, erit
+
+f: eV(¹·*-9⁴)-91s(1-*-⁶⁴)
+aw-1
+
+ 
+
+ 
+
+simulque necesse est, ut sit 9> e, ne f fiat negativum. A dato ergo puncto f* siquidem sit f <23
+
+arcus quaesitus f9 in consequentia vergit3 a puncto autem 9, si *sit 9 > ἕ et simul 9> e, arcus
+
+quaesitus 19 retro accipietur. Q. Ε. l.
+
+1
+
+58. (301011.1. Cum sit applicata Ee: 3⁴2³, seu AE³=3E0, erit parameter hujus parabolae
+
+=3, ideoque unitas nostra est triens parametri.. ⁸
+
+59. (301011. 2. Si ergo sit e=1, abscissa data f seu 9 vel debet esse minor quam 1, vel
+major quam 13 dummodo ergo punctum datum non in e cadat, ab eo semper vel prorsum vel retror-
+
+V· sum arcus quaesito satisfaciens abscindi poterit: prorsum scilicet, si abscissa‘data minor sit quam e,
+
+retrorsum vero, si major. At si abscissa data esset == 1, altera vel infinita vel -τ 0 prodiret.
+
+60. (301011. 3. Si sit e> 1, ideoque e> ἑ, altera abscissarum f' *vel 9, quae datur, vel
+
+minor esse debet quam {—‚ vel major quam ες alioquin arcus problemati satisfaciens abscindi nequit,
+
+quod ergo usu venit, si abscissa data inter limites e et ἐ contineatur.
+
+61. (301011. 4. Sin autem sit e < 1, ideoque ÷> e, alteram abscissam datam vel minorem
+
+esse oportet quam ἑ, vel majorem quam ἐς dum ergo non sit aequalis ipsi {v quo casu arcus
+
+quaesitus vel fieret infinitus, vel ipsi arcui Ae similis et aequalis, reperietur semper arcus proble- ,
+
+mati satisfaciens.
+
+62. (301011. 5. Hoc autem casu, quo e <⁷ 1, fieri potest, ut a dato puncto f in utramque
+
+- partem arcus problemati satisfaciens abscindi queat; hoc scilicet evenit, si abscissa data intra limites
+
+c et -ξ- contineatur: tuln enim ea tam loco f quam loco 9 scribi poterit.
+
+63. (301011. 6. Si arcus f9 debeat esse contiguus arcui> Ae, seu si sit f=e‚ reperietur
+
+2ev‘(1-÷-0⁴)
+9: ,1,,4 3
+
+ 
+
+hoc ergo fieri nequit nisi sit e< 1. Hoc ergo casu erit arcuum differentia
+
+⁸ ἈῙὊ· ῙὲΙ-Ἀτε. Αεεὲοξω-Ξῗιῖἱῖξῃι-’ᾞ
+
+ 
+
+ 
+
+61⁸·- Problema lo. Dato in parabola cubicali arcu quocunque f9, alium invenine arcum pq,
+qni illum superet quantitate geometrice assignabili.
+

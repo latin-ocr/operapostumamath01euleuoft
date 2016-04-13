@@ -1,0 +1,62 @@
+Institutionum :Calculi dzfflrentialis Sec-tio III. Cap. 2. 353
+
+directionem jugiter propius accedet, quam attingere censenda erit tum, cum triangulum in infinitum
+erit diminutum.
+
+6. Omnes autem difficultates penitus evanescent, si genesin linearum¹ curvarum ita imaginemur,
+
+. ut motu puncti super plano incedentis describantur. Sic enim ‘linea curva BM erit quasi via,
+
+secundum quam punctum ex B in M est progressum. Hoc modo linea recta describitur, si punctum
+in >motu suo perpetuo eandem servat directionem; linea curva autem, si ejus directio continuo
+immutatur. ln quovis antem lineae curvae ΒΜ loco punctum istud 'describens certam habebit
+directionem, sine qua motus consistere non posset; atque in triangulo infinite parvo Mnm hypotenusa
+Mm repraesentabit directionem, secundum quam punctum illud, cum in M pervenerit, motum suum
+prosequitur. Hancobrem angulus mMn monstrabit inclinationem ill-ius directionis ad axem ΑΡ; ex
+angulo autem an constabit, quantum directio puncti lineam curvam describentis ad applicatam
+PM inclinetur.
+
+7. Ducatur, per punctum curvae M linea recta indefinita TMV, quae ad axem ΑΡ (F ig. 6) vel rectam ι.
+ei parallelam Mn eandem teneat inclinationem, quam in triangulo infinite parvo an habet hypo-
+tenusa Mm ad basin Mn, atque-haec recta TM V ita exprimet directionem⁴ puncti motu suo lineam ‘
+
+¹. curvam AM describentis, ut si hoc punctum eandem directionem, quam in M habet, invariatam
+
+retineret, ipsam lineam rectam MV descripturum esset. Hujus ergo lineae rectae TM V elementum
+infinite parvum Mm, quia ad Mn eandem habet inclinationem, quam tenet elementum lineae curvae
+Mm, cum hoc elemento congruet, atque adeo elementum Mm commune erit lineae rectae TMV et
+curvae ΑΜ. Quamobrem ista linea reeta TMV tanget lineam curvam in puncto M; linea recta
+enim tangens lineam curvam ita definitur, ut cum linea curva in eo puncto, ubi est contactus, eandem
+
+directionem habere dicatur.
+
+8. Si igitur pro coordinatis orthogonalibus ΑΡ et PM vocetur abscissa AP=ae, applicata
+PM = γ, in triangulo infinite parvo Mnm erit Mn= szdoe, mn=dy et Mm=V(doe²÷dy²),
+et angulus mMn metietur inclinationem tangentis TMV ad axem ΑΡ, eritque si tangens axem in
+puncto T secare ponatur, angulus PTMzmMn, unde obangulos ad P et n rectos, triangula
+TMP et an inter se erunt similia, ac propterea latera proportionalia. Fiet ergo
+
+mn(dy):Mn(dae)= Μιᾞ). PT(³‘— , ideoque prr-5⁹3.
+
+Hinc in axe definiri potest punctum Τ, ex quo, si per punctum M agatur linea recta TMV, ea futura
+sit tangens lineae curvae in puncto M. Vocari autem haec linea PT solet substangens.
+
+9. Inventa ergo pro quavis curva, cujus natura aequatione inter coordinatas orthogonales
+
+exprimitur, subtangente PT=⁹—d—²7 tangens curvae in puncto M expeditissime ducitur, ducendo
+
+dy
+
+’ scilicet per puncta T, M linea recta TMV. Longitudo autem ipsius lineae tangentis MT erit
+
+ 
+
+=WQZJ⁶⁹²)· Aliis quoque modis punctum Τ, quo tangens determinatur, assignari potest: sic
+ejus distantia a puncto A, seu intervallum AT erit = yg—aessyaaeq-I-yaedy· Sin autem punctum T
+
+ 
+
+nimis longe excurrat, commodius in linea recta AB ad axem, normali definitur punctum S, per
+quod tangens transit. Namque ob triangula similia TA S, Mnm, erit doe2dy=AT2 AS, ideoque ob
+1.. tunm ορ. posthum· r. 1. 45
+

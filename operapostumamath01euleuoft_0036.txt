@@ -1,0 +1,58 @@
+18 L. EULERI OPERA POSTHUMA. Amthmetica.
+
+133. Si igitur M et N fuerint numeri inter se primi, atque multitudo numerorum ab 1 ad M,
+primorum ad M, sit zm, multitudo vero numerorum ab 1 ad N, primorum ad N, sit =n, tum
+multitudo numerorum ad productum MN primorum ipsoque non majorum, erit =mn.
+
+134. Hinc patet multitudinem omnium numerorum primorum, quemadmodum jam Euclides
+demonstravit, finitam esse non posse. Si enim ultimus et maximus numerus primus esset = p,
+statuatur numerus M aequalis producto omnium numerorum primorum M = 2.3.5.7. . .p, qui ergo
+ad omnes plane numeros esset compositus: cum igitur idem numerus M ad M — 1, vel M÷1 certe
+sit primus, patet assertionem esse absurdam.
+
+135. Ex superioribus autem patet, inter numeros ipso M minores non solum numerum M— 1,
+sed etiam plures alios ad M certe esse primos, cum multitudo horum numerorum ad M primorum
+sit =1.2.lt.6. . .(p - 1), quae eo est major, quo plures numeri primi in se invicem multiplicentur.
+
+136. Ponamus m= 1.2.1÷.6. . .(p— 1), existente M=2.3.5.7. . ·P³ et cum 31)’ 1 ad M
+tot sint numeri ad M primi, quot m continet unitates, hi vel ipsierunt primi, vel compositi ex
+primis, qui sint ipso p majores.
+
+137. Si ab 1 ad M fuerint m numeri ad M primi, ab 1 ad ΞΜ erunt 2m numeri ad Mpfimi,
+et in genere ab 1 ad NM erunt Nm numeri ad M primi. ln quovis enim intervallo
+
+1...M, M÷1...2M‚ 2M÷1...3M, 3M÷1...1»M‚ etQ}
+multitudo numerorum ad M primorum est eadem.
+
+138. Si N designet alium numerum quemcunque, atque ab 1 ad N fuerint n numeri ad N
+primi, ab 1 ad MN eruut Mn numeri ad N primi. At in eodem intervallo sunt Nm numeri adM
+primi. Qui autem sunt primi ad MN, ii quoque sunt primi tam ad M quam ad N.
+
+139. Ante autem ostendimus, si hi numeri M et N fuerint primi inter se, tum in intervallo
+1... .MN tot dari numeros ad MN primos, quot mn contineat unitates; hique numeri in utraque
+praecedente multitudine Mn et Nm occurrunt. (³¹³)
+
+ 
+
+Caput V·
+
+De residuis ex divisione natis.
+
+1140. Si numerus α non sit multiplum numeri b, Jdivisio illius per hunc non succedit, et
+excessus numeri a supra multiplum ipsius b proxime minus vocatur residuam ex divisione ortum. .
+Ita si sit azmb-ff-r, erit r residuum ex divisione numeri α per b natum.
+
+(*) Notae Ill. Auctoris mar-pini adscriptae. De maximo communi divisore ejusque inventione. - Si A et B sint
+numeri primi, inveniri potest multiplum ipsius A, quod per B divisum relinquat datum numerum C. —
+Qui numeri inter se fuerint primi, eorum potestates quaecunque inter se erunt primi. — Si A sit primus
+ad B, atque etiam ad C, erit quoque ad BC primus. - Si productum AB sit divisibile xper primum p,
+alteruter factor per eum erit divisibilis. — Si A et B sint primi inter se, inveniri possunt numeri m ot -
+n, ut fiat mA-nB=1‚ vel alii cuivis numero dato. -— Si sit φ maximus communis factor numerorum
+A et B, tum ἦ et ξ erunt primi inter se. - Si a per b divisum det residuum r, tum na per nb divisum Α
+dabit residuum nr. — Si a per b divisum det residuum r, communis factor numerorum a et h, si quen
+habent praeter unitatem, simul erit factor residui r. Vicissim, sib et r habeant communem factorem,
+idem quoque factor erit ipsius a. — Si a et b sint numeri inter se primi et a>b‚ erit a=mb÷p3 et
+b>p‚ tum vero b=np÷q et p>q, sicque tandem ad unitatem pervenietur.
+
+ 
+

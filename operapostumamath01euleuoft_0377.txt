@@ -1,0 +1,59 @@
+Institutionum Calculi differentialis Sectt‘o III.v Cap. 2. 359
+
+17. Alias quoque idea tangentis ex idea linearum secantium den‘vari solet, ita ut (Fig. 13) linea ιι
+secans TMm in tangentem abire censeatur, cum binae= intersectiones M et m in unum punctum conve·
+niunt. Haec idea non solum cum ea, quam supra dedimus, perfecte congruit, sed etiam eandem regulam
+pro inveniendis tangentibus suppeditat. Posita abscissa ΑΡ =oe, 'sit applicata respondens PM= γ
+functio quaecunque ipsius ως tum consideretur recta TMm per punctum quodpiam axis T ducta
+quaecunque, eritque posita AT—-t aequatio pro recta ista hujusmodi γ--η (t—i-ae), quae ob y·
+functionem ipsius ω, tot habebit radices, quot suerint intersectiones hujus rectae cum linea curva.
+Si jam ponamus duas intersectiones in unum punctum coalescere, aequatio y: n (t—i-ae) duas
+habebit radices aequales3 ac propterea per ea, quae in praecedente libro de aequalitate duarum radicum
+
+sunt demonstrata, erit aequationem y=n(t—i-oe) differentiando, posita sola quantitate ω ejusque
+. 49
+
+functione J· variabili, dy=ndae‚ unde fit '²:52‘ Qui valor si loco η in illa aequatione substi-
+tuatur, erit y·= μῖξαν et (t—i-oe)= PT=¹÷¹⁹³55 quae est eadem expressio, quam supra pro sub·
+
+ 
+
+tangente PT invenimus.
+
+18. Patet ergo ex hoc consensu, si elementum lineae curvae, quod etiamsi sit infinite parvum,
+tamen determinata directione non caret, utrinque producatur in directum, lineam rectam hoc modo
+oriundam fore tangentem lineae curvae in eo elemento. Quamobrem perpetuo positio lineae tangentis
+ex directione elementi curvae, quae per minimum triangulum Mnm (Fig. 6) determinatur, recte
+definietur. Cum igitur hoc praestiterimuS, quando natura curvae per aequationem inter coordinatas
+orthogonales definitur, superest, ut quoque alios modos naturam curvarum exprimendi perpendamus,
+
+et quemadmodum lineae tangentes inveniri queant, ostendamus. Cognita autem tangente, simul
+Ι omnes aliae lineae, quarum positio ab ea pendet, cujusmodi sunt normales in curvam, aliaeque lineae
+ad curvam utcunque inclinatae, facillime innotescent.
+
+19. Quoniam hactenus applicatas ad axem normales assumsimus, faciant nunc applicatae MP
+cum axe Α Ρ angulum quemcunque constantem ΛΡΜ, qui sit = §3 voceturque abscissa Α P=ae,
+, applicata PM -τ-γ, Sumatur jam alia abscissa aliquanto major Ap=oe÷Aae, sitque respondens
+applicata pm=y÷Ay. Ducta ergo linea Mn axi parallela, erit Mn=Pp=Aae, et mn=Ay,
+atque triangulum mixtilineum Mnm abibit in rectilineum,¹ si incrementum Aa: statuatur infinite par-
+
+vum. Fiat igitur Aae=doe et Ay=dy·, atque in triangulo rectilineo Mnm, ob data Mn=Pp=dae,
+
+’ ἠιιίε-άγ et angulum Μηηιτ-ζ, dabitur positio lateris Mm, quae producta praebebit tangentem
+
+curvae Μ Tm puncto M, quae si axi in T occurrat, triangula Mnm' et TPM erunt similia, unde
+
+oritur mn(‹1y): Mn(dae)= ·:PM(y·) PT, erit ergo intervallum PT=Q‚ sicque innotescit punctum
+
+α
+Τ, per quod si ex M ducatur 'recta MT, ea futura sit curvae tangensy quaesita, unde patet subtan—
+gentem PT ab angulo g „non pendere.
+
+20. Definiri hinc quoque possunt differentialia tam areae quam arcus curvae. Si enim ponatur
+area APM=u, erit area ΑΡηι--ιι-ι-ἀιι, ideoque du÷trapezio PpmM, quod cum constet duabus
+
+partibus, parallelogrammo scilicet PpnM et triangulo Mnm, erit area parallelogrammi ΡρηΜ--εγάωείηζ
+et area trianguli Mnm= —doedy- sin ζ; hincque fit elementum areae du: ydoesm ζ ÷— {dcccix sing,
+
+quod est differentiale areae completum.' ln quo cum terminus posterior prae priori evanescat, erit
+

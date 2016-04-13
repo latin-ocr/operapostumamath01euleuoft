@@ -1,0 +1,64 @@
+Traclalus de numerorum doctrina Cap. 8. 31
+
+α”βΉῆλ-ανβλεανβλ (αλ- 1), quae cum sit divisibilis per 212-1-1, necesse est sit asz —1 per
+ειμι-ι divisibile. ’
+
+248. Si ergo n sit numerus ad 2p primuS, forma ‹ln—1 divisibilis esse nequit per numerum
+primum 212-1-1, nisi sit a—1 per eundem divisibile. Unde si a —1 non sit multiplum numeri
+primi 2p-i- 1, formula an— 1 per eum divisibilis esse nequit, nisi n et 2p sint numeri inter se
+
+compositi, quorum si maximus communis divisor sit λ, adeo haec formula αλ
+
+-1 per 2p÷1 erit
+divisibilis.
+
+2149. Si igitur an fuerit minima potestas ipsius a, quae per numerum primum 2p—i-1 divisa
+unitatem relinqiiit„tum certe est n pars aliquota numeri 2p. Tum autem si fuerit ab=lc (2p-i-1)-i-1‚
+
+erit etiam bn minima potestas ipsius b, quae per 2p—i- 1 divisa unitatem relinquit.
+
+250. Si n sit numerus primus et formula a'‘—1 divisibilis per numerum primum 2p-i- i,
+vel erit n pars aliquota ipsius 2p (quia alius communis divisor locum non habet), vel si fuerit ad
+211 primus, numerus a—1 ρει· 2p -i-1 erit divisibilis. Quare praeter divisores ipsius a -- 1 formula
+a'²-1 alios divisores primos non admittit, nisi hujusmodi formae 2 ρ -ι- 1, ut 2p sit multiplum
+
+ipsius n. Unde omnes ejus divisores primi *in hac forma 2mn —i—1 continebuntur.
+
+251. Quare haec forma (ιδ-1 praeter divisorem a—1 alios divisores primos non admittit
+nisi formae Gm—i-l, quisunt 7, 13, 19, 31, 37, ῐι3, 61, 67, 73, 79, 97 etc. Cum ergo aa÷a÷1
+sit factor ipsius ιιὅ - i, etiam is per nullos alios numeros primos est divisibilis.
+
+252. Simili modo forma α5 -1 praeter divisorem a—1 alios non habet, nisi qui in forma
+10m÷1 contineantur‚,quales sunt 11, 31, Μ, 61, 71 ete. Quare etiam tales numeri
+
+aff—i-a5—i-a2-i-a-i-1,
+nisi sint primi, alios divisores non admittunt.
+
+253. Quoniam numeri perfecti inveniuntur, quoties formula 2'1 -— 1 est numerus primus, primum
+patet hoc evenire non posse, nisi n sit numerus primus. At si n fuerit talis, formula 2n—*1 certe
+
+alios non habet 'divisores nisi formae 2mn -ι- 1, unde exploratio utrum sit primus, nec ne‘? faciliori
+
+negotio absolvitur.
+
+factoribus ap —*1 et αΡ-ι- 1, necesse est ut alteruter per 2p—i-1 sit divisibilis. Vidimus autem,
+
+Ἦ si sit a = eess λ (2124 1), fore αΡ -“· 1 divisibilem; his ergo casibus formula ap -ι- 1 ρει· 2 ρ -ι- 1
+
+;* certe non est divisibilis.
+
+255. Hic quaestio oritur, num forte semper formula αΡ - 1 per 2p÷1 sit divisibilis? ideoque
+nunquam altera al’ ÷ 1, quod casu, quo p est numerus impar, statim negandum esse patet. Qui-'2¹
+enim tum αΡ-ι-1 factorem habet a -ι- 1, ista formula sumto a: 2p manifesto per 2p—i-1 fit
+
+divisibilis.
+
+256. ln genere autem sequenti modo ostendi potest formulam α”-- 1, existente η < 2ρ, non
+
+semper divisibilem esse per *numerum Α primum 2p -i- 1 , sed dari utique ejusmodi numeros pro a
+Ι, adhibendoS, quibus divisio formulae α”-1 non succedat, quod per deductionem ad absurdum
+
+’ sic commodissime demonstrabitur.
+
+ 
+

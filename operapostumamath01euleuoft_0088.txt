@@ -1,0 +1,70 @@
+70 ¹ L. E U L E R I OPERA POSTHUMA. Arahmetzba.
+
+5t2. Sint ergo ω et γ primi inter se, ‘atque evenire potest, ut ωω-ι-γγ fiat numerus primus,
+cui probando vel unicus casus sufficeret, quorum simplicissimus est 2. Ut autem oeae—i-yy fiat
+numerus primus, statim excluduntur'casus, quibus ambo numeri ar: et y· sunt impares.
+
+5143. Ponatur ergo alter par, alter impar, et evidens est omnes numeros primos ωω-ι-γγ in
+
+hac forma lma-1 contineri debere, sicque nullus numerus formae lin—1 duorum quadratorum,
+
+summa esse pote st.
+
+5144. Sin autem ω et γ sint numeri impares, seu oe=2p÷1 et y=2q÷ l, fieri poterit
+κατ-ΗΛ]
+2
+
+ 
+
+ut semissis = 2pp -ι- 2ρ -ι- Qqq -ι- 2q—i- 1 fiat numerus primus. At est
+
+21>P÷2P÷2qq÷211÷¹=(1›-¹-‹1÷1)²-·-(12-‹1)²2
+iterum summa duorum quadratorum, quorum alterum par, alterum impar, ob summam radicum
+*ἐρ -4- 1 imparem. ”
+51ι5. Si summa duorum quadratorum aa -ι- bb per aliam summam duorum quadratorum cc—i-dd
+multiplicetur, productum (aa—i—bb) (cc—i-dd) iterum erit summa duorum quadratorum, cum sit
+Ξ (610ss bd)²÷ (adssbc)², quod ob ambiguitatem signi duplici modo evenire potest.
+546. Hic inversa propositio s'e offert: si summa duorum quadratorum pp—1-qq divisionem ad-
+
+mittat per summam duorum quadratorum aa-i-bb, fore etiam quotum duorum quadratorum summam, ¹
+
+cujus veritas autem inde non sequitur, sed peculiarem demonstrationem requirit.
+547. Ad hoc demonstrandum primum animadverto formam pp—i-qq per aa÷bb esse divisibilem}
+
+quanticunque sint numeri p et q, semper eos reduci posse ad numeros minores quam aa—i-bb, atque
+adeo quam — ιἑῗᾴιίι-ι-ὸὸ), cum si pp—i-qq sit divisibile per aa-i-bb, etiam
+
+(ss α (αα -ι- bb) ssp)²—i- (ss β (αα -4- bb) ss q)²
+divisibile evadat.
+
+548. At si 2]ξῖἶὲ sit summa duorum quadratorum cc÷dd, seu p=ac÷bd et q=ad-—bc,
+
+ 
+
+sumendo p— .- ac -⁴- bd -÷- α (aa -ι- bb) et (1- -.- ad —- bc *4- β (αα -ι- bb), tum pp -ι- qq utique per
+αα —i— bb divisionem admittet, eritque quotus
+- -cc -ι- dd -ι- 2α (ac —÷- bd) -ι- 28 (ad - bc) -ι- (αα -ι- ββ) (αα -i- bb),
+
+qui etiam est summa duorum quadratorum (c -ι- αα - ssb)²÷ (d -ι- ab -ι- βαῩ.
+
+57ι9. Verum haec altius sunt petenda; dico ergo primo, si divisor aa—i-bb sit numerus primm,
+per quem forma pp—i-qq sit divisibilis, quotum esse summam duorum quadratorum; quod etsi in
+genere verum est, existente αα Γ-ι- bb etiam numero composito, tamen demonstratio ab hoc casu
+derivanda videtur.
+
+550. Cum a et b sint numeri primi inter se, ad eos p ita referri potest, ut sit p-:ma-nb‚
+
+121²-qu
+
+(ΜΗ-ωε mm -ι-ηη; at si non sit
+
+idque infinitis modis, jam si esset q=2na÷mb‚ foret utique
+
+ 
+
+q -τ na —i— mh. ponatur q = na -ι- mb -ι- s, eritque
+pp --t— qq— - (αα -ι- bb) (mm -ι- nn) -i- 23 (na -ι- mb) -ι- ss.
+
+551. Cum ergo 23 (na-i-mb)÷ss sit divisibile per aa—i—bb, vel s, vel s-i-2(na-0-mb)
+divisibile sit necesse est.P1iori casu ponatur s= t(aa -i-bb), erit
+

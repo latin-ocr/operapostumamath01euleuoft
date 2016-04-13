@@ -1,0 +1,107 @@
+218 L. EULER'I OPERA POSTHUMA. Ἴ Auamma.
+
+T-nnonmn 111. Si p sit vel numerus primus, vel productum ex aliquot numeris primis diversis, 'tum
+
+vero numeri a, b, c, d, etc. sint numeri ad p primi, tum etiam haec aequatio semper est impossibilis·
+
+(134ss bpy⁴ss cppx⁴ss dP³V⁴=0
+Quia ob rationes superiores singuli numeri z, y, ω, ν, etc. non solum per p, sed per omnes potestates ipsius
+p deberent esse divisibiles. Taliaque theoremata ad potestates altiores extendi possunt.
+
+NB. Hae autem demonstrationes vim perderent suam, s'i esset p=1, quia omnes plane numeri divisibiles ο
+
+sunt per omnes potestates ipsius 1
+Δ. ιιι. Τ. 11. pam. 11. ζ
+
+ 
+
+’ ⁵53.
+
+ 
+
+ 
+
+PnonLEmA, Reddere hanc formulam quadratum: (A -ι- Bz) (a -ι- bz -ι- 0zz -ι- dz3). ,
+
+δοιιιτιο. statuatur hoc quadratum = (A -ι- Rz)² (p -ι- qz)² fietque ⁶
+App -Ι- 2qu -†- Aqq -Ι- qu Ξ z³=
+-a -1-Bpp z —t-2qu zz —d, ’
+
+. -b ἐ }  
+ubi duae solutiones sunt considerandae, primo si pp τ--αᾹ , sumatur q -ς ⁶ {3⁹¹² ‚ tum erit ³⁴:⁶— ΔΒΞΞΣΞΒΜ.
+Altera solutio locum habet si qq :13⁵ tum sumatur ⁴ Α
+
+’.Ρ = ο {BAqqq eritque Ζ =‚2APZ÷;3— ι’
+
+ 
+
+ 
+
+Ριιοιιιιιιιι. Si proposita fuerit haec formula (Α -ι- Bz -ι- sz) (a -ιῤ-Ᾰιὸκ -ι- czz)‚ eam reddere quadratum.
+
+SoLu‘rxo. Ponatur hoc quadratum = pp (a -ι- bz -ι- czz)² 'fietque q
+
+A -ι- Bz -ι- sz = ppa —fl—Psz —i-ppczz.
+
+A . ppb-B . . C . app—A
+
+Hic ergo si fuerit pp: ἶ , statlm fit z= c-cpp‘ Secundo si fuerit pp=—⁰—‚ erit z= B—bpp‘
+
+A÷Bf÷ Cff
+a÷ bf—n- off '
+
+ 
+
+ 
+
+ 
+
+ln genere autem si satisfaciat valor ὲι-Ῑ, quo casu fit pp: tum semper alius valor potest
+
+inveniri; quoniam enim habetur haec aequatio quadratica
+
+B- bpp Ζ-μΑ-αρρεο
+c—cpp c—cpp ’
+
+ 
+
+ 
+
+zz—
+
+eaque per hypothesin radicem habeat z=f; erit quoquessz=q existente
+
+bpv- cg quam ῙέἶιΞΔ* ἐξ,
+
+ 
+
+tam f÷q=C
+
+ 
+
+unde duplici modo alter valor 9 reperitur. Hoc adhuc clarius ita ostendi potest. Cum esse debeat
+
+⁴A÷Bz÷sz=pp(a—÷‘-bz÷czz)‚
+tum vero A—l-Bf-t-Cffz kk (a—{- ῠῙ-ι-οῙῙ),
+
+semper alius valor pro z assignari potest, existente pariter p = k. Dividetur prior aequatio per posteriorem
+A÷Bz÷sz — a÷bz÷czz ⁶ ’ ¹5
+Δ-ι- ΒΓ-ι- ΟῙΤ α-ι-ὁῙ-ι- eff '
+
+subtrahendo utrinque unitatem et dividendo -per z—f prodit ’
+
+Β-ι-ΟᾳᾸ-ι-Ῑ) *ὁ-ι-οᾳ-ι-ΔῘ) ,
+Α-ι-ΒῙ-ι-οιγ ἠψπ-μοιβ
+
+ 
+
+ 
+
+fietque
+
+ 
+
+ 
+
+unde f facile definitur.
+

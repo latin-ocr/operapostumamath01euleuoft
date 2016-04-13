@@ -1,0 +1,57 @@
+22 ’ ’ L. EULERI OPERA PosTHUMA. mmmm.
+
+172. Si divisor d et differentia progressionis b fuerint numeri primi inter se, primum residuum
+a ante non recurrit, quam in termino a—u—db; si enim ex. termino quodam antecedente resultaret, puta
+a -ι- (d — n) b, esset (d—n) b, ac proinde etiam nb per d divisibile, ideoque etiam n, quod foret
+absurdum.
+
+173. Ad definienda ergo residua considerari oportet terminos progressionis, a primo a usque
+ad α-ι- (cl— 1) b, quorum multitudo est d, quos terminos ordine dispositos cum suis residuis ita
+
+repraesentemus :
+
+Indices: 1, 2, ” 3, lv, 5, d
+Progressio: a, a-i-b, (με-21), a—4—3b, (1ψίιὸ ........... a-i-(d—1)b
+Residua: α, β, γ, δ, ε, λ
+
+17ῐι. Primum ergo observo cuncta haec residua, quorum multitudo est == d, intervse esse diversa. ’ Ἰ
+
+Quemadmodum enim primum α non amplius occurrere ostensum est, ita etiam secundum β semel
+tantum adesse docetur. Si enim ex termino a÷nb‚ existente η < d, idem oriretur residuum, foret
+differentia terminorum (n - 1) b per d divisibilis, ideoque et n — 1, quod repugnat. Χ
+
+175. Cum igitur omnia residua α, β, γ, δ,. . . .λ sint inter se diversa, eorumque multitudo
+sit = d, inter ea omnes numeri ipso d minores una cum cyphra occurrent, numeri scilicet
+Ο, 1, 2, 3,. . . ,(’ἀ - 1) occurrent, quorum multitudo pariter est =d.
+
+176.χ Quare si r· fuerit numerus quicunque minor quam divisor d, dabitur certe progressionis
+terminus α-ι-ηό, existente n < d, qui per d divisus relinquat residuum r. Ac sumto rao,
+dabitur ejusmodi terminus a—l-nb per d divisibilis.
+
+177. Si terminus a—i-nb residuum praebeat r, erit a÷nb—r per cl divisibile. Unde si b .
+et d sint numeri inter se primi, et α- r denotet numerum quemcunque, semper dabitur numerus ,
+η minor quam d, ita ut numerus a —r-iarzb fiat per d divisibilis.
+
+178. Sit a—i-mb terminus per d divisibilis, existente m <d, ac terminus sequens a—i-(m—i- 1)b
+residuum dabit b, praecedens vero a—i-(m—l) b residuum—b, seu d—b. Sit porro α-ι-ιιό ³
+terminuS, qui per d divisus unitatem relinquat, atque illo numero hinc ablato differentia (n—m) b
+etiam unitatem relinquet.
+
+179. Ponamus n--m ΞΡ, ut numerus pb per d divisus unitatem relinquat, sumtoque termino
+a—i—-mb per d divisibili, termino a -ι- (m—i—p) b conveniet⁴ residuum = 1, termino a÷ (ma-211) b
+residuum =2‚ termino a÷(m÷3p)b residuum =3, et in genere termino a—i-(m—i-np)b
+residuum z: n.
+
+180. Si m-i-np fuerit majus divisore d, hic toties inde auferatur, donec remaneat numerus
+lc < d, et terminus a-i-lcb per d divisus relinquet residuum = n.
+
+181, Facilius autem termini data residua relinquentes definiri possunt, dum innotuerit pro-
+ductum pb, quod per d divisum relinquat unitatem. Cum enim terminus primus a relinquat α, ter-
+minus a—i—npb relinquet oe-i-n.
+
+182. Si ergo datum residuum fuerit = r, ponatur a—i-ttzr, et ob n=r— οι, invento p,
+terminus residuum r praebens erit a —i—(r— α) pb3 vel etiam generaliter a÷((r—a) 11ss μά) b,
+ubi μ ita assumere licet, ut fiat (ι’-α) pss μά <d.
+
+ 
+

@@ -1,0 +1,69 @@
+ 
+
+Iissactatus de numerorum doctrina Cap. 3. 11
+
+multitudo divisorum: erit forma numerorum:
+
+3 ρ’
+
+¹* ⁸, pq
+
+5 ρ’
+
+,6 . μ’, p²q
+
+7 p‘
+
+8 μ’, P³112 ΡΨ·
+
+9 ’ 1³⁸, ΡΨ
+¹0 1⁰⁹, p⁴q
+
+¹¹ Plo
+¹2 1³¹¹, P⁵112 ΡΨ, Ράν·
+
+81. Cognita ergo forma= cujusque numeri, classe scilicet ejusque specie, quo est referendus,
+
+non solum multitudo divisorum, sed etiam ipsi divisores ope regularum traditarum assignari possunt.
+
+-ο-
+
+Caput 111.
+
+De summa divisorum cujusque numeri.
+
+82. Proposito quocunque numero n, summam omnium ejus divisorum hoc modo sn designemus,
+ita ut haec scriptura s n denotet summam divisorum numeri n.
+
+83. Cum ergo unitas alium divisorem praeter se ipsam non habeat, erit s1=13 cujusque
+veroalius numeri summa divisorum se ipso erit major. erit scilicet sn> n, nisi sit n: 1.
+
+8³4. Pro numeris primis p, quia alios non agnoscunt divisores praeter se ipsos et unitatem,
+
+erit sp -= p -4-1. Tum vero pro potestatibus numerorum primorum erit
+
+ 
+
+ 
+
+ 
+
+sp1=p÷ ιςςςῑε,
+sP²=PP÷P÷ ¹ :2³:1¹⁷
+sp³=1>⁸÷1³²÷1>÷¹ τ--ἴ-ἶν
+
+et in genere ⁴
+spn=pn÷p'¹—¹-1-p''—²—i-. . .—÷— Ι :Pax—¹1¹.
+
+ 
+
+85. Cum numerorum in forma pq contentorum divisores sint 1, ρ,ι q, pq, erit eorum summa
+¹÷P÷11÷1111=ss÷11> (1-1-(1), ideoque sP11=(11-⁴-¹)<‹1-·-¹)·
+Simili modo erit ex classe tertia
+sP²11=(PP-*-P-¹- 1) (ιι-Η) et spqr=(p÷1)(q-1-1)(r÷1).
+86. Eodem modo in reliquis classibus divisores in unagn summam colligere liceret3 verum
+quo indoles harum summarum clarius perspiciatur, consideremus in genere numerum N, cujus divi-
+
+sores sint 1, α, ,8, γ, δ,. . .Ν, quorum summa sit sN. Multiplicetur ille per numerum primum 11,
+’ ’ΥΞ
+

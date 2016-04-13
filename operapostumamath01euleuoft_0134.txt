@@ -1,0 +1,57 @@
+1 1 6 L. E U L E RI OPERA POSTHUMA. Aritlquzka.
+
+ce qui concerne les deux autres, elles derivent de celles-ci en prenant a et b negatives. On aura
+cc÷2dd= 33-1- lm, ac† 2bd == -ι, ac — 2611 =-- — (s÷2a), bc—ad=·- (s-i-u), et
+βο -1- ad -τ t, et enfin, d’apres (27), f: s (33 -ι- lm) et 9 = 22 (s -ι- 2η).
+32. Substituons maintenant ces valeurs dans les formales rapportees ci-dessus (26); nous trun-³
+
+verons les expressions suivantes: “
+
+ae=s(s—1-u) (33-1- tuo—211 (sd-211),
+
+y· = s (s -÷- u) (33-1- liu) 4- 211 (s -1—'2u),
+
+z τ- st (3s -ι- lm)-1- 21 (s -ι- 2α)”,
+
+p= st (3s-i-l1u)—÷-lit(s—1-u) (3-1-23),
+
+q = st (33 -ι- lm) - lit (s-f- ιι) (3-1- 211),
+
+r =s(3s-·-1m) (ε-ι- 2η)-3ιι(3-ι-2ιι),
+qui ont ete rapportees dans 13 regie.
+
+33. Enfin, puisque les trois lettres s, t, ιι ne sont assujetties qu'ii verifier l'equation εεεα-ι-Ξα,
+on n'a qu'ii trouver les nombres s, t, ιι qui remplissent cette condition; alors les formules precedentes
+donneront immediatement les valeurs des nombres chercheS. Quant ὲ celles de s, t, ιι, qui remplissent
+
+la condition ss=tt÷2uu,.voici les plus simples:
+
+s 3 3 17 19 27 33 33 31 33
+ι 1 7 1 17 23 17 31 23 7
+a 2 3 12 s 10 2ο 3 23 30.
+
+Quaerie‘me me'thode.
+33. Nous avons vu, au commencement du Nlo-moire, que les equations
+yy÷zz—oeoe=pp‚zz—1-aeoe—yy=qq
+seront satisfaiteS, si l'on prend
+
+z: aa—i-bb, yy—oeae=1÷ab(aa—bb), p=aa÷2ab— bb, q= aa--Qab- bb3
+
+d'ou ἰΙ est facile de remarquer que ces equations seront verifiees‚ si nous supposons
+z= mn (aa -1- bb), Jy— oeoe— .- lemm nn (aa -— bb)
+et p= mn (aa —1- 2αό - bb), q- = mn (aa— 2αό —· bb).
+
+11 ne restera donc qu’z'1 remplir 13 troisieme condition de notre probleme‚ savoir2aeoe-1-yy-zz2-rr.
+35. ’ Maintenant, pour que les trois nombres ω, γ, z n'aient point de factem· commun, prenons
+y-f- ω = 2mma (a -ι- b) et γ -· ω = 2nnb (a — b) ; pour abreger l'expression , soit aa -ι- ab = Α et
+ab-bb=B, de sorte que· y÷ae=2mmA et y—oez2nn83 par consequent, puisque A-B=aa÷1›b,
+nous trouverons z= mn (A —- B). La somme des carres· de γ-ι-ευ et γ-ω nous donne
+2yy -ι- 2³:ae ‘= 4m⁴AA -ι- tm⁴1383 donc yy -1- aeae= 2m⁴AA÷ 2n⁴BB;
+
+retranchant de 13 13 valeur de zz, on trouve cette expression pour rr
+
+rr: 2m⁴ ΑΑ -ι- 211⁴ BB -— mm nn (A— B)².
+
+36. Pour rendre cette formule plus traitable, supposons m= f÷9, ηε..- f--93 de: 13 on
+obtiendra rr= af⁴÷ ssf⁸9÷ yff99 —1— ssf9³ -3- 019⁴, ou ’
+

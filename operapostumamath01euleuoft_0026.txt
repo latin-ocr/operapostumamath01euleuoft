@@ -1,0 +1,70 @@
+8 L. E U L ER Ι OPERA POSTHUMA. Arichmete‘ca. ,
+
+52. Si indolem numerorum attentius contemplemur, facile percipiemus, ab initio numeros primos
+frequentissime occurrere, compositos autem rarissime interspersos esse debere. Quo longius aut-em
+progrediamur, eo plures reperientur numeri compositi, contra autem pauciores primi.
+
+53. Deinde etiam notari oportet in progressione numerorum primorum 1, 2, 3, 5, 7, 11, 13,
+17, 19, etc, nullum plane ordinem apparere, unde lex hujus progressionis definiri possit, etiamsi in
+genere certum sit, quo longius progrediamur, minus frequentes eos esse dehere.
+
+54. Tabulae habentur, in quibus numeri primi secundum centurias sunt dispositi; atque in
+prima centuria ab 1 ad 100 sunt 26 numeri primi, in secunda 21, in sequentibus vero panciores;
+neque tamen eorum multitudo continuo minuitur, sed potius admodum irregulariter modo crescit,
+modo decrescit. Sic a 200 ἃᾶ 300 occurrunt 16 numeri primi, at alerO ad 500 sunt 17, totidemque
+adhuc a 11400 ad 15¹)0'. Porro a 79700 ἃᾶ 79800 tres tantum reperiuntur numeri primi; hoc tamen
+non obstante in centuria a 90000 ad 90100 adhuc 13 numeri⁹ primi deprehenduntur.
+
+ 
+
+Caput ΙΙ.
+
+l Ο
+
+De divisoribus numerorum.
+
+55. Quatenus quidam numerus est multiplum alius numeri, eatenus bic illius dicitur divisor,
+et index multiplicitatis vocari solet quotus ex divisione ortus.
+
+56. lta si numerus N fuerit multiplum ipsius‘ α, indice existente n, ut sit N =na‚ numerus
+
+α erit divisor numeri N, et index n· praebebit quotum. Scilicet si ,numerus N=na per α dividatur, '
+
+quotus erit η.
+
+57. Cum numerin et α inter se sint permutabiles, hocque respectu factores appellentur, .
+
+numerus N :na etiam divisorem habebit n, quotusque tum erit' α. In genere ergo divisor per
+
+quotum multiplicatus ipsum numerum divisum reproducit.
+
+58. Cum quilibet numerus sit sui ipsius simplum, unitas cujusque numeri est divisor, ipseque
+
+numerus quotus. Tum vero quilibet numerus est sui ipsius divisor, quoto existente unitate.
+
+59. Quilibet ergo numerus N primo unitatem pro vdivisore habet, eritque tum ipse numerus Ν
+quotus. Deinde etiam quilibet numerus N se ipsum habet pro divisore, quoto existente unitate.
+
+60. Nullus numerus alios habet divisores, nisi quorum est multiplum. (simplo ex idea multipli
+hic non excluso); si enim alium haberet divisorem, eo ipso hujus futurus esset multiplum, quoto
+praebente indicem multipli.
+
+61. Cum igitur numerus primus nullius alius numeri, praeter unitatem, sit multiplum, numerus
+primus alios non habet divisores, praeter unitatem ,et se ipsum. Scilicet sil p denotet numerum
+primum, ejus divisores erunt 1 et p, neque praeter hos ullos habet alios.
+
+62. Numeri ergo primi, seu primae classis, duos tantum habent divisores, excepta unitate,
+quippe quae unicum habet3 quam ob causam-etiam unitas numeris primis non accenseri solet.
+
+63. Numeri secundae classis, qui constant duobus factoribus primis pq, quia sunt multipla
+
+utriusque, praeter divisores 1 et pq etiam divisores habent p et q, ita ut omnes eorum divisores*
+sint 1, p, q et pq.
+
+x
+..Q-...fl ..- ⁴- .. .-.n-n -. A». .-. .-.,.... ...⁴-
+
+ 
+
+l
+

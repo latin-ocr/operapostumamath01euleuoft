@@ -1,0 +1,54 @@
+3 -1 L. E U L E RI OPERA POSTHUMA: Arithmaetz'ca. .
+
+273. Si n non sit numerus primus, sed productum duorum primorum, puta n=as3, divisores
+primi formae a‘113— bad praeter a—l› continentur in forma 2ρ-1-1, existente 2p ad αβ non primo,
+unde, prout vel α, vel β, vel adeo αβ fuerit maximus communis divisor, forma divisorum primo· Δ
+rum erit vel λα-1-1, vel &ehi-1, vel λαβ-1- 1, in quarum prima λ non dehet continere β, in
+secunda autem non α, in tertia vero non limitatur.
+
+2711. At divisores formae λα-1-1 simul divident αα- ba, et divisores formae λβψί simul
+hanc (ιβ-α· ὸβ, siquidem in priore λ sit numerus primus ad β, in posteriori autem ad α.
+
+275. Quare si formulae ααβ-ὂαβ ii tantum divisores desiderentur, qui non simul dividant vel
+αα-ὸα, vel assv— ὀβ, ii quaeri debent inter numeros primos formae λαβ-ι- 1; sin antem tantum
+divisores formae aa—ba excludere velimus, ⁷reliquos inter numeros primos λβψί quaerere debemus.
+
+276. Sit a=2 et β--τε 2, atque omnes divisores primi hujus numeri εἶ’-θ, qui non simul
+dividant a2—b2, continebuntur in forma list—bh hique ergo divisores erunt numeri a²-i- (³²3 unde
+
+patet numeros formae a²÷b² alios divisores primos non admittere, nisi qui sint formae 1024-1.
+
+277. Sit a= 3 et ss=2, atque omnes divisores primi numerorum (ι’-θ, qui non simul
+dividant a³— (2³, continentur in forma 2λ-1-1; qui autem insuper quoque non (ι’-δ’ dividant, in
+hac 6λ-1- 1; hi ergo erunt divisores formae a2-ab-1-62, neque tales numeri alios divisores
+agnoscunt. ⁷
+
+278. Ex his in genere colligimus, si definiendi sint divisores numeri am— b²''², qui non simul
+sint divisores numeri am- bm3 hoc est, si desiderentur divisores numeri am-i-bm, eos inter numeros
+primos hujus formae 2λη1-1- 1 quaeri oportere.⁴ Hinc autem excluditur divisor iz-n-b, sim sit
+
+numerus impa r.
+
+279. lta pro variis valoribus ipsius m faciamus hanc'tahulam:
+
+Numerorum divisores quaeri debent inter numeros primos
+formae formae
+«ιτ-..ιβ [ιλ-21 qui sunt 5, 13, 17, 29, 37, in, 53, 61, 73, 89, 97
+αὸ-ι-ὂὸ 6λ-ι-1 ......... 7, 13, 19, 31, 37, ἵι3, 61, 67, 73, 79, 97
+a⁴÷b⁴ 8λ-ι-1 ......... 17, 111, 73, 89, 97, 113, 137, 193
+a⁶÷b⁵ 1Ολ-ι-1 ........ 11, 31, M, 61, 71, 101, 131, 151, 181
+a⁶÷b⁶ 12241 ......... 13, 37, 61, 73, 97, 109, 157, 181, 193
+(ιώ-67 ssim-1 ......... 29, 73, 71, 113, 127, 197, 211, 239
+a⁸÷b⁸ 16λ-1-1 ......... 17, 97, 113, 193, 2111, 257, 337
+
+etc.
+
+hic casus, ubi exponens est potestas binarii, prae reliquis sunt notandi, quia in reliquis generatim
+divisores assignari possunt. Tales ergo numeri ‹1²¹²—i- (1²⁰ alios divisores primos non habent, nisi
+
+qui in forma 2”“Ηλ-ι-1 contineantur.
+
+280. At a'¹—b'¹ dividi poterit per numerum primum mn-i-l, si numeri a et ὁ ita fuerint
+comparati, ut aoe'''—-by''¹ siat divisibile per mn-i-13 dum scilicet pro ω et γ numeri assignari
+queant, quihus ista conditio adimpleatur, tum certe ‹1¹²- bn per mre-bi erit divisibile.
+

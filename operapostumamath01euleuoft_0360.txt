@@ -1,0 +1,48 @@
+342 L. EULERI OPERA POSTHUMA. Analysis.
+
+, XVIII.
+
+Institutionum Calculi differentialis sectio m.
+
+(Conf. Inst. C. D. Part. 11. Cap. XI, ἓξ 282. 283. 286.)
+
+ 
+
+” Caput· 1.
+
+De ‘calculo differentiali ad lineas curvas applicato in genere.
+
+1. Quanquam in libro praecedente jam 'insignis Calculi differentialis usus in ipsa analysi'est
+ostensus, tamen ejus vis* maxime perspicietur in doctrina de lineis curvis, quae post hujus calculi
+inventionem tanta accepit incrementa, ut quae antehac fuerunt detecta prae ,bis fere penituseva7⁸
+nescant. Equidem in Introductionc ad Analysin infinitorum plurimas'linearum curvarum proprietates,
+quae vulgo calculi differentialis ope erui solent, per sola analysis ‘finitorum praecepta invenire docui;
+verum et ibi quaedam non obscura calculi infinitorum vestigia latent, atque illa investigatio ita est
+comparata, ut nisi prius eadem alia methodo fuissent cognita, vix unquam reperiri potuisse videantur.
+Quin etiam in illo libro id mihi praecipue erat propositum, ut, cum quae vulgo pe‘r analysin
+infinitorum praestari solent, eadem sine hoc subsidio explicavissem, summus consensus universae
+analysis eo luculentius ob oculos ponatur. ⁷
+
+2. Cum igitur principia calculi differentialis ex differentiis finitis functionum derivaverim, ex
+eodem fonte applicatio hujus calculi ad doctrinam de lineis curvis petenda videtur. Quae enim de
+functionibus sunt tradita, ea in lineis curvis amplissimum locum inveniunt. Nam etsi, sumta qua-
+piam linea, puta abscissa, pro quantitate variabili, natura lineae curvae per indolem unius functionis„
+
+puta applicatae, determinatum tamen in eadem linea curva innumerabiles aliae functiones concipi
+
+possunt. Quaelibet scilicet linea per curvam determinata, quae variata abscissa simul vel cre'scit vel . ς
+
+decrescit, tanquam functio abscissae spectari poterit, cujusmodi sunt cordae seu subtensae‚ tangente8‚
+normaleS‚ et lineae quaecunque aliae, quarum vel positio, vel magnitudo ex quantitate abscissae
+determinatur. Tum etiam ipsius curvae longitudo etv area tanquam functiones spectari possunt, ac
+praeterea innumerabiles aliae quantitates, sive sint lineae, sive superficies, sive solida.
+
+3. Ordiamur a simplicissimo et maxime consueto naturam curvarum exprimendi modo, qui
+relatione inter coordinatas orthogonales continetur. Sit (fig. 2.) recta ΑΡ axiS‚ ad quem natura curvae
+refertur, in quo sumatur abscissa AP=oe et applicata ei normalis PM ε γ; natura autem curvae
+exprimatur aequatione quacunque inter ω et y, ita ut sit J· functio quaecunque ipsius ω, quam
+
+primum assumam uniformem, ut singulis abscissis unica respondeat applicata. Dum igitur abscissa
+
+ 
+

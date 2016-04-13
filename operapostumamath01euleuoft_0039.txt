@@ -1,0 +1,59 @@
+Tractatus de numerorum doctrina Cap. 6. 21
+
+163. Erit enim A :md-rja et B= nd-i- β, unde fit productum
+AB = mnd² ’1- (ηιβ -ι- ηα) d -ι--αβ,
+cujus partes priores cum sint per d divisibiles, postrema αβ pro residuo haberi potest.
+1611. Hinc colligimus, si numerus A per d divisus relinquat residuum α, ejus quadrato A²
+respondere residuum αα, ejusque cubo A⁸ residuum αὖ, et potestati cuicunque A'· residuum α”,
+quod, divisione per d facta, porro ad minimam sormam reducetur.
+
+165. Quare si numero A per d diviso relinquatur residuum =1, omnes ejus potestates
+A2, 21⁸, A⁴, etc. per eundem divisorem d divisi idem residuum relinquent = 1. At si residuum
+numeri Α sit - 1, aequipollens ipsi d— 1, potestatum parium 11², A⁴, A0, A‘, etc. residua erunt
+-1-1, imparium vero — 1.
+
+166. Denique notandum est, si numerus Α per d divisus praebeat residuum α, tum fore
+A — α per· numerum d divisibile. Unde cum An pro divisore d det residuum α”, erit quoque
+A'⁸—oe'' per d divisibile.
+
+e-
+
+caput Vl.
+
+De residuis ex divisione terminorum progressionis arithmeticae ortis.
+
+167. Incipiamus a serie numerorum naturalium, cujus termini 1, 2, 3, ἵει, etc. per divisorem
+quemcunque d divisi, dabunt residua 1, 2, 3, lt, etc. donec perveniatur ad terminum d, cui resi-
+duum convenit =0, sequentes vero termini (1-1- 1, ἀ-ι-2, ἆ-ι-3, etc. eodem ordine residua
+1. 2, 3, etc, reddent, usque ad 201, cujus residuum iterum evanescit, et ita porro.
+
+468. Sit jam proposita progressio arithmetica quaecunque
+
+a, a÷b‚ a-1—2b, α-1-3ὁ, α-ι-ῐώ, α-1-5ῠ, etc.
+
+cujus singuli termini per divisorem d dividantur, et ex primo oritur residuum a, quod idem ante
+non recurret, quam perveniatur ad terminum a -ι- nb, cujus pars nb per d divisibilis existat, et post
+hunc terminum residua eodem ordine prodibunt atque ab initio (*).
+
+169. Ρτίωο,(]ιιὶἀοω statim liquet, hine plura diversa residua resultare non posse, quam divisor
+d contineat unitates· Unde, si ab initio jam tot diversa residua prodierint, necesse est, ut deinceps
+priores iterum redeant. Semper autem terminus a -1- db, cujus index est d—n- 1, idem praebet
+
+residuum ac primus α.
+170. Si differentia progressionis b suerit factor divisoris d, vel si saltem b et d communem
+
+habeant factorem φ, ut sit b = Βφ et d = qu, tum antequam ad terminum α -ι- db perveniatur,
+
+primum residuum a revertetur, scilicet hoc continget in termino aei—Db, cujus index est D-i— 1,
+
+ 
+
+quoniam Db = ΒΒφ = Bd per d est divisibile. q
+
+171. ‘Hic ergo duos‘ casus evolvi conveniet, alterum, quo divisor d et differentia progressionis
+a sunt numeri inter se primi, alterum vero, quo sunt numeri inter se compositi, seu quo habent
+‘quempiam factorem communem, praeter unitatem.
+
+Γ) Scripi. ad marq. Haec residua excedent numero a residua orta ex progressione Ο, bf, 212, 312, ab, etc-
+quare hanc evolvisse sufficiet.
+

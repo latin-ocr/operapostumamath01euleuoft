@@ -1,0 +1,75 @@
+230 ‘ L. EULERI OPERA POSTHUMA. Anthmetaeba.
+
+Sumi potest numeros x, y, z communem divisorem non habere; si enim haberent, per divisionem ex hac
+aequatione tolleretur; interim tamen bini communem divisorem habere debent. Hinc ponatur a maximus com·'
+munis divisor numerorum x et y, b ipsorum a: et z, et c ipsorum y et z, atque tum bini borum a, b‚-0 erunt
+
+inter se primi. Ponatur igitur ,τι-παρ, y=aq, eruntque p et q primi inter se. Deinde sit ,τε-..ὸν et ,τι-κᾶε.
+
+denique y = ct et z = cu, ita ut sit ω = ap = br, y = aq = ct, z = bs = cu, quibus valoribus substitutis for· .
+mula nostra est: abcprt -ι- ahopsu —t- abcqls = 0, sive prt -4- psa -ι- qst = 0. .
+Cum autem sit ap = br, ⁴ sive ἕν’-Ξ ⁶3, erit p = lb, r= la; deinde gt ==-}‚ unde q=mc et t= ma, et ob
+
+-⁸-=-⁰-, sssnc, u=nb‚ ita ut sit ae=lab‚ yzmac, z=nb05 ubi notandum numeros mc, lb esse inter se
+
+u b
+primos, nec non lb et nc, et ma et nc. Aequatio autem¹ nostra hanc habebit formam:
+Ilmaab -ι- nnlbbc -ι- mne-ca = 0.
+
+Hinc ergo lb divisor esse deberet membri mmncca, quod ob conditiones memoratas esse nequit. ”
+
+2. (J. A. Emer.)
+
+NB. Haec demonstratio non succedit. Caeterum hoc theorema huc redit, ut demonstretur esse nou· posse
+a: y z ¹ · ’
+
+3- -t- -ἷ —t- 3- = 0. Hoc autem sequenti modo demonstrari posse videtur:
+Posito κεῖ-ῃ, et nostra aequatio fiet E-÷-· ⁰3 -ι- {- =0‚ quae forma similis est propositae: Cum numeri
+ω, y, z siut inaequales, sit z maximus, vy medius et x minimus, sive negative, sive positive. Jam cum sit
+z= αξ, manifestum est fore v<oe. μ Unde patet, si terni numeri z, y et ω satisfecerint, tum etiam 1:004,ae
+et ν satisfacturos, quorum y jam erit maximus, a: medius et ν minimus. Ponatur jam y= ἰν, eritque u<v‚
+
+quare etiam hi tres numeri οε, ν et u satisfacerent. Si porro ponatur ,κε’-23, erit t <u, εῑῗῑυθ etiam hi tres
+
+ν, u et t satisfacerent. Hocque modo continuo ad numeros minores perveniretur; quare cum in minimis hujus·
+
+modi numeri non dentur, etiam in maximis tales non dantur. Manifestum vero est hos numeros semper fore
+
+integros.
+
+ConotnAnlmu. Hoc modo demonstrari posset fieri non posse {÷}=0. Si enim 31>oe et ponatur
+yzss, erit v<oe‚ et tum prodit {÷}=0‚ quae posito denuo :70:³3² daret u<v et ÷÷÷=0s 'quo
+pacto iterum ad numeros continuo minores perveniretur. Χ
+
+. ’ . ν x y z . . vy .
+
+Eodem modo etiam demonstran potest esse non posse ἵή-ῖ-μῑψῖ =0. Posito emm κεῖ.- (ubi
+
+si z fuerit numerus maximus et ν minimus, u<erit ν) similis aequatio prodit scilicet {÷}÷{-÷{-=*ztss
+
+ex numeris minoribus formata; hocque modocontinuo minores invenire lice-ret.
+
+COROLLAMUM 2. Cum igitur aequatio moey÷oezz÷yyz=0 sit impossibilis, inde vero prodeat
+
+- -wssflzst— ⁴³⁶³&
+z ———--2-ae————- ²
+
+sequitur formulam ψ- AEoe⁸y quadratum nunquam esse posse.
+
+COROLLAmUM 3. Ex aequatione supra allata pro quatuor numeris seqnitur
+
+vvyz -ι- oeoezv -ι- yyoev -ι- zzoey = 0
+- (aeoez÷yyae)v — πων
+³1² .
+— ae(aez-t-yy)ss‡s(oeae(aez-t-yy)²- ⁴2³ πω),
+v 2 z
+unde haec formula πω (α’Ζ-ι- γρηὶ- hzssyyoe nunquam quadi-atum fieri potest(
+
+hinc vv =
+
+et --
+
+ν..-
+
+ 
+

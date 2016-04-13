@@ -1,0 +1,70 @@
+Trete-latus de numerorum doctrina Cap. 11. 49
+
+patet. Si enim sit 2q= ak sst, eum a²⁹=a⁸kss¹ inter residua cuborum occurrat, utpote unitati
+
+aequivalens, ibidem vero sit ast, ibidem reperiatur a necesse est.
+
+392. Superest ergo, ut ostendatur, si sit 2q=3k et ‹fik—1 dividi queat per 6q÷1=9k÷1,
+tum a fore inter residua cuborum (*); ιι1νῇ ibi quidem certe reperitur utpote cubus, sed inde demon-
+
+stratio peti debet, quod residuum α3υέ unitati aequivaleat.
+
+393. Verum cum residua potestatum 1, α, (1², (ι’, etc. diversa, sint numero eq, pariter atque
+in residuis cuborum, et ambo ordines incipiant ab unitate et communes habeant terminos a⁸‚ αθ,
+a’, etc., tum vero reliquae proprietates ipsis sint communes, ordo potestatum nullos terminos ab
+
+altero diversos continere potest.
+
+3914. Si autem ad non-residua cuborum, per numerum primum δέχ-μί divisorum, attendamus,
+
+id quidem certum est, si mn sit residuum, at m non-residuum, fore quoque n non-residuum. Non ·
+
+ἴ · vero vicissim omnia producta ex binis non-residuis praebent residuum: at omnia producta ex residuo
+
+ 
+
+quoeunque in non-residuum sunt non-residua.
+
+395. Primo enim quadrata singulorum non-residuorum quoque iuter non-residua continentur:
+scilieet si A sit non-residuum, quoque A² erit non-residuum, hoc vero non-residuum Α2 per non-
+
+residuum A multiplicatum certo dat residuum, quia est cubus.
+
+396. Si enim Α2 esset residuum, foret A⁴⁹—1 divisibile per 6q÷ 13 at eum A⁶⁹—1 certe
+sit divisibile, foret etiam A⁶⁹—A⁴‘r’, hoc est Α’ἷῘ-ἱ divisibile, ideoque A esset residuum cuborum,
+contra hypothesin. Quare si ΛΑ sit residuum, etiam A erit residuum, et eontra si A sit non-
+
+residuum, erit quoque AA non-residuum.
+
+397. Si ergo divisore primo existente :Gq—t- Ι, residua cuborum sint 1, α, β, y, δ, etc.
+atque unicum habeatur· nou-residuum A, primo omnes hi numeri A, Αα, Αβ, Ay, etc. deinde
+etiam isti A², A²a‚ A2ss, A27, etc. erunt non-residua, qui numeri eum· omnes a se invicem sint
+diversi, manifestum est, quod jam demonstravimus, multitudinem non-residuorum duplo esse majorem
+
+quam residuorum
+
+398. Hine etiam patet, si divisor *primus sit 6ᾳ-ι-1, tantum 2q residua diversa locum habere
+posse3 si enim omnes numeri inter residua occurrent, in genere ‹1²⁹—1 esset per (ἲς-μί divisibile,
+‘quiequid esset a<eq÷ 1, quod cum sit absurdum, ideoque unum saltem datur non-residuum, eo
+
+ipso laq non-residua sequuntur.
+
+399. Cum igitur ex unico ,non-residuo A obtineantur duo ordines non-residuorum, prior
+
+A, Aa, Αβ, Ay, ete. et posterior A², A²a, A2ss, ³4²7, ete. uterque tot continens terminoS, quot
+ordo residuorum, producta ex binis ordinis alterutrius in altero ordine reperiuntur, et producta ex
+
+binis utriusque ordinis fiunt residua.
+
+1400. Si adbuc dubitemus, au hoc modo omnia non-residua ex uno obtineantur? sit B non-
+
+residuum in neutro ordine contentum, et non-residua erunt tam B, Ba, Ββ, By, etc. quam
+
+(Ἴ script. ad marq. Si enim α esset non-residuum, reliqua non-residua omnia, quaesunt a, aa, αβ, ay, αδ.
+et α’, αἶα, αἳβ, 11²7, etc. eadem proprietate gauderent, ut eorum potestates exponentis 2q, unitate minutae,
+essent divisibiles per (iq—bl ; ergo omnes numeri hanc haberent proprietatem, quod esset absurdum.
+
+Π
+
+1.. Boleti Op. posthum. Τ. 1. , 1
+

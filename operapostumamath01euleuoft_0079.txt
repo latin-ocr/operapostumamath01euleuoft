@@ -1,0 +1,61 @@
+ 
+
+Tim-tatus de numerorum doctr-im Cap. 13. 61
+
+Residua ex potestatibus Classes non-residuorum
+
+1. Π. 111. IV.
+
+1 1⁸, ¹0⁸, 163, 133, 373 2 3 8 16
+
+30 33, 233, 253, 313, 303 33 37 33 25
+
+3 113, 123, 233, 333, 333 6 12 23 7
+
+5 33 33, 73, 133, 233, 303 35 23 17 33
+3 53, 8⁵, 33,“213, 333 18 36 31 21
+
+32 23, 203, 323, 333, 363 23 5 10 2ο
+13 153, 223, 233, 273, 353 28 15 30 13
+27 63, 133, 173, 133, 263 13 26 11 22
+
+484. Sit divisorprimus 1ορ -1- 1 = 61 61 p =.-.. 6, erunt
+
+Residua ex potestatibus Classes non-residuorum
+Ῑ. ’ 11. 111. lv.
+
+1 15, 95, 205, 345, 585 2 4 8 16
+60 35, 275, 415, 525, 605 Ι 59 57 ’ 53 45
+13 125, 255, 425, 475, 575 26 52 43 25
+48 ’ 45, 145, 195, 365, 495 35 9 18 36
+14 55, 395, 455, 465, 485 28 56 51 41
+47 . 135, 155, 165, 225, 565 33 5 10 20
+11 8³1⁶, 115, 285, 375, 385 22 44 27 54
+50 235, 245, 335, 505, 535 39 - 17 34 7
+21 · . 105, 175, ’ 295, 315, 355 ’ 42 23 46 31
+40 265, 305, 325, 445, 515 19 38 15 30
+29 · 65, 215, 435, 545, 595 58 55 49 37
+32 25, 75, 185, 405, 555 3 6 12 24
+
+485. Proposito ergo quocunque divisore primo formae 1012-1-1, dabitur numerus α, 111 (ι’-1
+per eum sit divisibilis, quam proprietatem quoque habebunt numeri α’, αδ, α’, quorum potestates
+quintae etiam unitatem relinquunt. Sequentes termini α’, 11⁶, etc. ab his non sunt diversi. cum sit
+a³=n(10p4- 1) -1- 1, sicque α5 ipsi 1, a⁶ ipsi a, a⁷ ipsi a² etc. aequivaleat·
+
+486. Cum quinque-numeri, quorum potestates quintae per 10p÷1 divisae unitatem relinquunt,
+ita repraesentari queant 1, a, α’, 115, α’, si 0⁵ det residuum α, quinque habebuntur numeri b, ab,
+a'b, (1³12, 1156, quorum potestates quintae, per 10p÷t divisae, idem relinquunt residuum α.
+
+487. Quia idem ad altiores potestates extendi potest, proposito quocunque numero primo
+
+’Υ ,ηεη-ι- 1, semper dabitur numerus a, ut α’”-1 per eum sit divisibile; ejusque potestates omnes
+
+eadem praeditae erunt proprietate. Erit autem a minor quam divisor ηιη-ι- 1, talesque numeri
+
+⁴ diversi tot, quot m continet unitates, exhiberi possunt.
+
+488. Proposito porro divisore primo mn-i- 1 , si per eum potestates 1”’, 2’”, 3¹¹¹, 4”’, 616.
+dividantur, usque ad (mn)'¹', plura ·residua diversa non relinquentur, quam n, ideoque dabuntur
+
+·: (m— t)n numeri divisore minores, qui non sunt residua.
+

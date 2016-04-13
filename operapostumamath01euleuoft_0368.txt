@@ -1,0 +1,57 @@
+350 .· f strumam ‚OPERA= PosmumA. 2 maa.
+
+30. Simili modo, si uti in fi ura sapplicaztajy· 2tres, habeat valores‚ tum ex novem valoribus
+ipsius Δγ tres erunt infinite parvi, §iquidem pro incremento abscissae sumatur ejus differentiale dx.
+lsti scilicet tres ipsius Δγ valores iiifinite parvi erunt: pm--PM--=mn, pmM—PM =—m''n et
+.-. ρηι’ ’-ι- PM'' =—m' 'n'' ,quia videlicet applicatae pm'' , et PM'' sunt negativae. Hae igitur tres
+lineolae nin, —m' n', —m' 'n'' praebent valores differentialis ipsius γ, ideoque per ἀγ designari
+possunt. Reliqui autem sex valores ipsius Δγ hic in considerationem non viniunt. Atque in hoc
+ipso denuo insignis calculi differentialis usus includitur, quod valores ipsius Δγ ad propositum
+facientes facile a reliquis inutilibus segregare liceat; nam n'isi differentia Aa: infinite parva statuatur,
+tam facile ex novem illis ipsius Δγ vaioribus, qui omnes essent finiti, ii, qui differentias duarum
+· applicatarum in eodem “curvae ‘r'amo‘ sunitarum denotant, Separari non possent. ·
+
+31. Cum igitur hic ii tantum ipsius Δγ valores requirantur, qui sintzinssniite parvi, et locun
+ipsius ἀγ tenere queant, ponamusdslocoi Ατγ, et ἀΡ, ‹mei-..AR pro Ae, Δρ et AR, neglectisque
+
+tutaequatiqxie (22)„hieme-‘terminia sin„ quibus· diffezeutialia aures obtineurstimensiouesi habebitur
+
+istffvaequiafiow Δ. ἶ '1 ’ · v ³ ss · „ui -.Ξ ’ἶ ². '- ÷.1 ,· . 2 ··‘{:13lui '
+
+-Y2dp'4 γάρ -- dR -ι- 3γ2ἀγ - 2Ργάγ -ι- Ωάγ =0 . ·
+
+αγ- “p2dlff— ῃάΟ-ι-ἀΒ ,ἃ ζ Ι *²¹ ³¹¹
+
+’ ·· ; ex qua fitZ
+
+Quanquam autem hic unicus duntaxat pro ἀγ valor invenitur, ,tamen quia. ipsa applicata y- triplicem
+vhabet valorem, hinc etiam tres valores pro ἀγ oriuntur. Scilicet si pro γ ponatur PM, tum prodit
+dy: mn3 siu ponatur PM' pro γ’, flet dy=—m' n' 3 at si pro γ substituatur —PM'' , invenietur
+dy=-—m'' n'' .
+
+32. Hinc perspicitur has applicatarum differentias infinite parvas ἀγ, quae prodeunt dum
+abscissa ω suo differentiali doe augetur, per regulas consuetas calculi differentialis inveniri. Si enim
+aequatio proposita ’
+
+. ,. ,Ὑῧτ-ΡΥἳ-ΡΩΧ-Β--ΟΑ ,
+differentietur, , prodibit 1.,
+affers - aryay - stae -ι- Qus -ι- γάρ -aa = 0,
+unde oritur, uti modo invenimus:'''
+
+dy Ξ μάν-μάρψαις
+· 3w—2Py-4-Q .
+
+Quocirca calculus differentialis etiam functionum multiformium ea ipsa praebet'differentialia, quibus
+opus habemus, Neque enim quasvis requirimus differentias inter singulos applicatarum valores'praea
+cedentes et sequentes, sed eas tantum, quae ad unum eundemque ramum pertinent. Ex his enim
+differentiis determinari debet positio tangentium et normalium aliarumque quantitatum a curvatura
+pendentium.
+
+33. Quotcunque ergo applicatae in eadem linea curva eidem abscissae respondeant, uniuscujmf
+que incrementum vel decrementum assignari, sicque plures rami, ex quibus linea curva componitur.
+tanquam totidem lineae simplices considerari possunt. Quaecunque enim fuerit aequatio inter. abaciam
+
+sam a> et applicatam γ, ejus differentialis erit hujusmodi dy:- -—‚zdae denotante Z functionem ipsunt! ¹
+
+ 
+

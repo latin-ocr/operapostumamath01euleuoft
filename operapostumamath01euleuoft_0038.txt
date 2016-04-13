@@ -1,0 +1,57 @@
+⁶20 L. EULERI OPERA POSTHUMA. Arzihnaetz'ca.
+
+152. Hinc divisore b existente =2, formula numerorum imparium 2m÷1 etiam ita 2m-1
+repraesentari potest3 atque si divisor b sit = 3, classis numerorum, qui per 3 divisi relinquunt
+binarium, etiam fOI'mUla 3¹²2 ·- ¹ COsstinetur3 sicque omnes numeros in una harum trium formularum
+3m, 3m—1-1 et 3ηι-1 contineri necesse est.
+
+153. Quare si residua negativa admittere velimus, omnes formulas mb ss r *ita repraesentare·
+poterimus, ut residuum ι· semissem divisoris b non superet. Si enim esset r >{b‚ pro r· sumamus
+— (b-r) eritque b—r<{—b. Β
+
+15ῐι. Simili modo cum sit mb -ι- r = (m — 1) b -ι- b —÷- r, residuo r etiam aequivalet residuum
+
+b—i—r, vocabulo in latiori sensu accepto. Generatim ergo residua minus proprie ita dicta b—i-r,
+
+2b-1-r‚ Βὸ-ι-ν, etc. aequivalent residuo r proprie sic dicto.
+
+155. Scilicet divisore existente b, omnis numerus, etiamsi sit major quam b, tanquam residuum
+spectari potest, qui ad residuum proprie ita dictum reducetur, divisorem b inde'toties auferendo,
+
+quoties fieri licet, quod adeo negativa admittendo infra semissem ipsius b deprimi poterit.
+
+156. Ita si divisor sit 6 et residuum 16, hoc residuum improprium reducetur ad proprium ’
+lv, atque adeo ad negativum—2, sive istae formulae 6m—i- 16, Gne-eti, ssm— 2 pro aequivalen-
+
+tibus sunt habendae, quia omnes numeri in una contenti simul in reliquis continentur.
+
+157. Circa residua plures insignes proprietates perpendi oportet. Si numerus A per divisorem
+d divisus, praebeat residuum α, numeri quoque A -ι-ά, A—i—2d, A-i-3d, etc. idem relinquent
+residuum α, at numerus Α-ι-1 per eundem divisus dabit residuum α-ι- 1, et generaliter numerus
+A÷n residuum dabit α-ι-η, quod si excedat divisorem cl, eo subtrahendo quoties fieri potest,
+
+ad minimam formam reducetur.
+
+158. Simili modo, si sumto divisore d, numero A residuum conveniat α, numeri quoque “
+A — d, A-2d, A— 3α, etc. idem relinquent residuum, at numero A —1 residuum conveniet
+α- 1, et numero Α- n residuum α - η, quod si forte sit,negativum‚ additione divisoris d ad
+positivum reducetur.
+
+159. Sumto divisore d, si numero A conveniat residuum α, numero vero Β residuum β,
+aggregato horum numerorum A÷B conveniet residuum a-i-ss, quod congruit cum α-ι-β-ἀ,
+si forte sit α-ι-ῥ) > d. Hinc patet si sit a-i-sszd, fore A -ι-Β multiplum ipsius d.
+
+160. Iisdem positis, differentiae numerorum A —B conveniet residuum α-β, vel etiam
+
+α- β-ι-ἀ, si forte sit β > α. Unde si sit αεβ, seu si numeri A et B paria relinquant residua,⁴
+eorum differentia erit per divisorem d divisibilis.
+
+161. Sumto divisore d, si numerus A praebeat residuum α, ejus duplum ΞΑ dabit residuum
+200, vel etiam 2α - d, triplum vero 3A dabit residuum 3α, cujus, si sit majus quam d, minima ·
+forma erit vel 3a—d, vel 3a-2d, Atque in genere multipli cujusvis nA residuum erit ha,
+sive ηα - md. *
+162. Si divisore posito =d‚ numero A respondeat residuum οι, numero vcro Β residuum β,
+
+producto AB residuum conveniet αβ, quodsi forte majus fuerit quam divisor d, reducitur ad.
+αβ -- d, vel aſsi—md.
+

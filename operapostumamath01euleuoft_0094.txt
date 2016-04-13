@@ -1,0 +1,47 @@
+75 L. EULERI OPERA rosTflUMA. Ariminen-ca.
+
+ΙΙ.
+
+necouverte ‹l'une loi tout, extraordinaire «les nombreS, par rapport
+a ¹la sonune de leurs diviseras· ⁵
+
+———·
+
+(Exhib. Berol. 1747 Junii 22. Conf. comment. arithm. Prooem. pag. XVIII. N. 57 et Suppl. Prooem. N. Ι.) ·
+
+§ 1. Les mathematiciens ont tache jusqu’ici en vain a decouvrir un ordre quelconque dans la pro-
+gression des nombres premiers, et on a lieu de croire, que c'est un mystere auquel l’esprit humain
+
+ne saurait jamais penetrer. Pour s'en convaincre‚ on n’a qu’a jeter les yeux sur les tables des nombres
+
+premierS, que quelques personnes se sont donne la peine de continuer au-dela de cent-mille: et on s'a- ,
+
+porcevra d'abord qu'il n'y regne aucun ordre ni regie. Cette circonstance est d'autant plus surprenante,
+que l'aritbmetique nous fournit des regles sures, par le moyen desquelles on est en etat de continuer
+la progression de ces nombres aussi loin que l’on souhaite, sans pourtant nous y laisser apercevoir
+la moindre marque d'un ordre quelconque. Je me vois aussi bien eloigne de ce but, mais je viens
+de decouvrir une loi fort bizarre parmi les sommes des diviseurs des nombres naturels, sommes qui,
+
+au premier coup d'oeil, paraissent aussi irregulieres que la progression des nombres premiers, et qui
+
+semblent meme envelopper celle-ci. Cette regie, que je vais expliquer, est a mon avis d'autant ‚
+
+plus importante qu’elle appartient ἐι ce genre de verites dont nous pouvons nous persuader‚ ¹sans
+en donner une demonstration parsaite. Neanmoins, j’en alleguerai des preuves telleS, qu'on· pourra
+presque les envisager comme equivalentes ἐι une demonstration rigoureuse.
+
+ἕ 2. Les nombres premiers se distinguent des autres nombres, en c'e qu'ils n’admettent d’autres
+diviseurs que l’unite et eux-memes. Ainsi 7 est un nombre premier, parce qu'il n’est divisible que
+par l'unite et soi-meme. Les autres nombres qui ont, outre l'unite et eux-memeS‚ encore d'autres
+diviseurs, sont nommes composes: comme par exemple le nombre 15, qui, outre l'unite et soi—meme,
+est divisible per 3 et par 5. Donc en general, si le nombre p est premier, il ne sera divisible que
+par 1 et par p: mais si p est un nombre compose‚ il aura, outre 1 et p, encore d'autres diviseurs3
+et partant, dans le premier caS, la somme des diviseurs sera = 1 —r- 1²3 dans l'autre cas, elle
+sera plus grande que 1-1- p. Comme les reflexions suivantes rouleront sur la somme des diviseurs
+de chaque nombre, je me servirai d'un certain caractere pour la marquer. La lettre s qu’on emploie
+dans l'analyse des infinis pour indiquer les integrales, etant mise devant un nombre, signifiera la
+somme de tous ses diviseurs: ainsi s 12 signifie la somme de tous les diviseurs du nombre l2qui
+
+sont i÷2÷3÷ lv—i—G—i- 12:28, de sorte que s12=28. Cela pose, on verra que
+s60 ε 168 et stom—2217.
+

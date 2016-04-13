@@ -1,0 +1,57 @@
+Trdclacus de numerorum doctrina Cap. 3. ᾖ 13
+
+93. Deinde si N sit cubus numeri primi, seu
+N=p³‚ erit s1>³=1÷1>÷1¹12÷12³=ss÷1» (¹-·-1>P)‚
+ideoque numerus compositus, ac nisi sit p=2, ad minimum erit summa divisorum divisibilis per lv,
+quia uterque factor 1,-1-Ρ et 1-1- pp est par. Erit ergo sp⁸= (1 -1-ΡΡ) sp.
+
+99. Si numerus N sit potestas quarta numeri primi, seu N =p⁴, erit summa divisorum
+[ 1³⁴ -- 1 -1-Ρ -1-ΡΡ -1-Ρ5-1-Ρ*, ideoque semper-impar, fierique adeo poterit, ut ea sit numerus primm,
+veluti s2⁴ = 31.
+
+95. Si sit N=p⁵, quia est sp⁵ = 1 -1-Ρ -1-ΡΡ ÷p⁸÷p⁴ ÷P⁸› erit summa divisorum
+
+sP⁵=(¹-¹-P-·-PP) (¹÷P³)=(¹-·-P) (¹-·-P-*-PP) (¹-P-1-PP)‚
+ideoque numerus compositus, qui ex summis inferiorum potestatum ita componitur, ut sit
+sP⁵=(¹ -P-1-1211>s1²-s1>²·
+
+96. Proposito autem producto MN, cujus factores M et N nullum habeant factorem primum
+
+communem, erit s MN = s M. s N, quae ergo summa divisorum eo magis erit composita, quo plures
+
+numeri primi dispares ingrediantur.
+
+97. Proposito numero quocunque N, cujus summa divisorum sit [Ν , si is per numerum primum
+Ρ multiplicetur, summa} divisorum producti ΝΡ semper major est quam Ρ [Ν. Nam [ΝΡ primum
+complectitur omnes divisores numeri N per Ρ multiplicatos, quorum summa est Ρ [ N, ac praeterea
+
+etiam eos divisores numeri N, qui per Ρ non sunt affecti.
+
+98. Hoc etiam ita bipartito ostenditur. Primo si numerus primus Ρ non contineatur in N,
+crit utique sNp=sp.sN= (1 -1-Ρ)[Ν;Ρ[Ν-1-[Ν, quo casu sine dubio est sNp >psN.
+
+99. At si pjam contineatur in N, ut sit N=Mp'², eritsN=sM.sp'²; sedsszsM sp'¹÷¹.
+¹ Ex superioribus vero constat esse [ Ρ”“’“ ¹ = 1 -1-Ρ [ pn, unde colligitur [ΝΡ = s Μ-1-Ρ [Ρ”[ Μ , ita ut
+sit sNp=psN÷sM‚ ideoque [ΝΡ > Ρ[Ν.
+
+100. ' Numen-orum naturali ordine progredientium summae divisorum ita se habebunt:
+
+[13 1 [13311 · [25331 [373 38 [193 57
+s2= 3 ‚sui-:224 [96319 [383 66 ’ [563 93
+s 3= ῘΙ· [Ἱὸ---ἷέἵι1 [ΞῚΞῙιΟ s39= 56 s51= 72
+[ 13 7 [16331 [28356 sto: 90 s52= 98
+s 5= 6 st7=¹8 s29=30 flu-l: [12 s53= 54-
+[ 6319 [18339 [39379 [193 96 [513120
+s7= 8 s19=20 s3l=32 slt3= ἷιῖι- s55= 72
+[ 8315 [29319 [323 63 [113 81 [563120
+[9313 [21333 [33318 [153 78 [573 80
+[193018 [92336 [31351 [163 72 s58= 90
+s11=12 s23=25 s35=l28 [ἼΠΞ 48 s59= 60
+[12398 [21366 [36391 [183121 [693168.
+
+101. lnter has divisorum summas nou omnes occurrunt numeri, sed usque ad (30 excluduntur
+
+·. sequentes:
+
+ 
+

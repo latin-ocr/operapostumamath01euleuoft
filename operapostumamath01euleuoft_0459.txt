@@ -1,0 +1,103 @@
+De curvis,- quarum rectificat& per quadraturas mensuratur. 441
+
+qua curvae debent esse algebraicae, postulat. Hunc in finem illae integrationes per solos sinus et
+cosinus angulorum sunt absolvendae, neque ipsi anguli, qui formulas redderent transcendentes, sunt
+
+admittendi.
+De curva lemni-cata.
+
+7. Propositum ergo sit curvas algebraicas investigare, quarum arcus indefinite per hanc for-
+
+mulam integralem sag—534) exprimantur, et positis coordinatis orthogonalibus ce et y· statuamus
+
+dx
+
+⁰⁰⁶² eosq> et dY=37ffi43⁸3¹¹9³2
+
+‘1³³ = stau-2⁴)
+
+ 
+
+quas formulas absolute integrabiles reddi oportet. Ut partem νεῖ.) quoque ad ⁴calculum angulo·-
+
+ 
+
+rum perducam, pono zz = aa sin θ, ut fiat V(a⁴—z⁴)-= aa cos θ, et ob z = αν sin O erit
+
+adocoso et aadz ado
+
+ 
+
+ 
+
+dz=
+
+211 sino istm-10²5! {in—0⁸ 7
+γ ⁴ Hinc itaque nostrae formulae integrabiles reddendae sunt
+axi—*55:535 et ανεςῡεῑῑε·
+
+,Ξ
+Ξ
+
+’ erit
+
+erit differentiando -.
+
+. et differentiando habebitur 4
+
+ 
+
+Ponamus ergo 90:120, ut sit
+
+2112: αθ cos πθ Ξάν αθ sin ηθ
+7² raino ‘ft T: ιίιῑιιθῖι
+
+et *ideamus quinam valores pro n sumti has ambas formulas integrabiles reddant.
+
+ 
+
+ 
+
+⁴ 8. Consideremus in genere bas formulas
+
+docosmfl et dosinbmo
+Vsino Ι
+
+et perpendamus quomodo 'ad simpliciores revocari possunt. Talis enim· reductio unica via esse
+
+ 
+
+ 
+
+raino
+
+r· vldetur ad casus integrabilitatis eruendoS. Statuamus ergo primo
+
+P=cos(m—1)O.Vsin0,
+
+dP = -(m—1)ao·1n(m-¹)o . sino -1-{ao cos (ns-120 . coso-
+raino
+
+Cum autem sit sin αθ εἰηθὲ-ἓ-οοε (oe—1)O—}cos (α-ι-1)θ ⁵
+et cos αθ cos θ -- {cos (α —1)e9=-i-—;- cos(oe—*- ί)ἱθ,
+ἀρὲ’-(9ω-3)αοεω(ηι-9)ο-ι-(9ηι-υαοοοιωο,
+
+aruino
+
+unde obtinetur ’
+
+ὀοωηιο- :tenum-missino ern-as ao coum-sm·
+
+raino -†÷2m—1 ruine «
+
+ 
+
+ 
+
+ 
+
+9. δί deinde simili modo statuamus
+Q = sin (m — 1)OV sin θ,
+
+ι.. rnen onnam-n. *r ι. 56
+

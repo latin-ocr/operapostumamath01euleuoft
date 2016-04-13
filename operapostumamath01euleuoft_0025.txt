@@ -1,0 +1,82 @@
+ 
+
+Tractatus de numerorum doctm'na Cap. 1. 7
+
+Ε5. Quartae antem classis numeri infra 100 sunt
+
+222. 2:16, 2.2.3.3=63‚ 2.3.3.3=5r·,
+222. 33217, 2.2.3.5--60, 2.3.3.5=90,
+222. 5:40, 2.2.3.7=8t÷,
+222. 7:56, , 3.3.3.3=81.
+2.2.2.11=88, 2.2.5.5==100,
+¹46. Quintae classis numeri centenario non majores sunt
+2.2.2.2.2=32, 22 2.2.5=80,
+2.2.2.2.3=t÷8, 2.2.2.3.3=72,
+117. ln sexta classe hujusmodi numeri duo occurrunt
+222222εὸῖι, 2.2.2.2.2.3---96.
+
+Sequentes autem classes nullos continent numeros centenario minores.
+
+118. Cujusque classis numeri charactere peculiari distinguuntur a numeris aliarum classium , et
+quilibet numerus ita ad certam quandam classem pertinet, ut non simul ad ullam aliam referri possit.
+
+49. Quodsi ergo p, q, r, s, etc. denotent numeros primm, formae harum classium ita exhiberi
+
+possunt: Forma classis l.. . .p
+’ ‘5 11 . . pq,
+α ΠΙ. . .pqr,
+α IV. . ‚pqr-35,
+« V . . .pqrst,
+« Vl . . ,pqrsta,
+etc.
+
+50. Quoniam in his classibus omnes numeri continentur, si seriem numerorum naturalem
+Ι, 2, 3, lv, etc. usque ad η continuemus, ita ut multitudo numerorum sit πη, ac multitudo
+⁴ numerorum primorum in hac serie contentorum sit -- α, multitudo numerorum secundae elassis
+εβ, tertiae classis = γ, quartae ²3⁹,et ita porro, necesse est sit α-ι-β-ι- γ-μδ -i-etc. = n.
+lta vidimus, si sumatur n= 100, fore α = 26 (unitate inter numeros primos comprehensa), ⁴3:31»,
+21:22, δ---12, ετ-Ιι, ζ---2, ητ-Ο, estque utique 26÷31v÷22÷12÷4÷2=10o
+
+κ51. Si n denotet potestatem binarii, multitudo numerorum cujusque classis ad numerum n
+usque ita se habebit:
+
+    
+
+multitudo numerorum
+
+,δ-,Λει
+
+numer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+1
+
+2
+
+6 1
+
+10 2 1
+
+22 7 2 1
+
+42 14 7 2
+
+82 34 15 7
+
+157 71 Ι 36 15 1
+
+30⁴ 152 1 77 37 2 1
+

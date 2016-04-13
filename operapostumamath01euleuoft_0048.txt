@@ -1,0 +1,71 @@
+30· L. EULERI OPERA POSTHUMA. mmm-ca.
+
+” aliquota ipsius n. At si minor potestas ipsius c, puta οῗ, relinqueret unitatem, etiam talis potestas
+ipsius b relinqueret unitatem, quod cum sit contra hypothesin, sequitur, si b'¹ fuerit minima potestas
+
+unitatem relinquens, etiam c'¹ fore minimam potestatem 1 relinquentem.
+
+241. lta posito d = 13, quia 5⁴ est minima potestas unitatem relinquens, si sit 50:13k÷1‚
+erit quoque ο* minima potestas unitatem relinquenS. Verum ut fiat 13k÷1 per 5 divisibile, sumi
+debet lc= 52- 2, eritque 0:132. —- 5, cujus minimus valor est c= 8, ita ut etiam 8⁴ sit
+
+minima potestas per 13 divisa unitatem relinquens.
+
+242. Quicunque autem fuerit numerus b minor quam d ad eumque primus, semper quoque
+
+dabitur numerus c, etiam minor quam d ad eumque primm, ut sit bc: kd-1-1, neque plureS. Si
+
+enim duo deutur, ut esset tam bc =-- kd -ι- 1, quam be = ld -ι- 1, foret bc:- be = b (c— e) per d ⁴ ἐ
+
+divisibile, unde ob b et d primos, esset 0- e per d divisibile, quod cum c et c sint minores quam
+
+d, fieri nequit, nisi sit c= c. Hoc autem evenire potest, 'ut fiat c= b, quod semper contingit, si
+sit vel'b=1, ve1b=d-1.
+
+—o—
+
+Caput vm.
+
+. .
+De potestatibus numerorum, quae per numeros primos divisae, unitatem relinquunt.
+
+243. Quodcunque residuum potestas an per numerum d divisa relinquit, idem etiam relinquent
+omnes potestates ejusdem exponentis (a-i- λά)”, atque si n fuerit numerus par, idem residuum
+relinquet etiam potestas (ld—aff, unde judicium residuorum ad numeros a divisore d minores
+revocatur. . , ⁴ ,
+
+244. Sit jam divisor d numerus primus quicunque, et quia binarius nullam habet difficultatem,
+
+ponatur d = 21)ss 1, eritque 2p multitudo numerorum ipso d minorum ad eumque primorum. Jam
+
+ἕ
+
+si a sit numerus quicunque ad d primus, quod fit dummodo a non sit d ejusve multiplum, vidimus '
+
+ejus potestatem a²l² per d = 2ρ-ι-1 divisam semper unitatem relinquere.
+
+245. Ι Saepe autem evenire potest, ut etiam potestas inferior an, existente n < 2Ρ, per eundem
+
+numerum d=2p÷1 divisa unitatem relinquat3 tum autem exponens n certo est pars aliquota ’
+
+ipsius 2 p. Quod ergo si evenit, non solum formula a²p — 1, sed etiam formula a'¹—- 1 per numerum
+primum 2 p÷1 erit divisibilis.
+
+246. Quod si ergo'formula α”-1 fuerit divisibilis per numerum primum 21² -ι- 1, erit etiam
+formula amn—1 divisibilis, unde cum formula (ιη’ - 1 certo sit etiam per 2ρ-ι-1 divisibilis, erit
+etiam differentia amn—au», seu a²V (amn-'²²⁰ — 1) divisibili83 quare cum factor 11²? divisionen non
+
+admittat, alter amn-²¹² -1 divisibilis sit necesse est, quicunque numerus pro m sumatur.
+
+247. Sit λ maximus communis divisor numerorum n et 211³ ac si formula a⁸——1 fuerit divid
+
+sibilis pcr numerum primum 2ρ-ι- 1, etiam haec formula (ιλ-1 per 2Ρ-ι- 1 erit divisibilis.. Sit ’
+
+enim n-—z αλ et 2ρεβλ, ut α et β sint numeri primi inter se, et quoniam tam ‹1⁰¹— 1 quam
+
+αβλ-Ι sunt multipla ipsius 21²⁴- 1, etiam bae formulae αμαλ--ί et α”βλ-1 emt multipla. At ,
+
+ob α et β numeros primos, μ et ν ita accipi possunt, ut fiat pa=vss÷ 1, unde differentia erit
+
+ 
+

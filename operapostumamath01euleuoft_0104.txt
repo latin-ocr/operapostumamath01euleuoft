@@ -1,0 +1,48 @@
+86 ’ L. EULEm OPERA PosTHUMA. mamea-ca.
+
+temporibus Lutheri vixit. Hic, ut specimen singularis analyseos afferret, cui enodando communia alge-
+brae praecepta non sufficerent, mentionem fecit problematis, quo duo numeri ita affecti quaeruntur, ut
+omnes partes aliquotae minoris numeri, simul sumtae, majorem numerum, ac vicissim omnes partes
+aliquotae majoris numeri, simul sumtae, minorem numerum producant; talesque numeros invenit 220
+et 281». Cartesius etiam hoc problema dignum judicavit, in quo solvendo vires suas exploraret,
+aliosque insuper hujusmodi numeros elicuit, qui ista proprietate gauderent: atque regulam investigavit,
+cujus ope plures istiusmodi numeri reperiri possunt, quam Schotenius in Exercitionibus mathe-
+maticis exposuit. Neque vero haec regula est generalis, neque plures quam tres solutiones sup-
+peditare valet.
+
+§ 3. Pertinet igitur haec quaestio ad id genus, quod in contemplatione partium aliquotamm
+versatum quae doctrina cum a natura quantitatum continuarum, ad quas analysis proprie est accom-
+
+modata, plurimum abhorreat, prorsus singulari modo tractari debet, nisi tentando solutionem expe-
+
+dire velimus. Quanquam autem Schotenius ad hujusmodi problemata solvenda certam methodum “
+
+sibi proposuisse videtur, dum usum calculi analytici introducere est conatus, tamen si ejus rationi-5
+nium attentius inspiciamus, praecipua solutionis pars in mera tentatione consistit, atque omni funda—.-
+mento destituitur. Temere enim pro hujusmodi numeris certas assumit formulas, in quibus numeros
+idoneos contineri suspicatur, cum tamen eodem jure quasvis alias assumere potuisset: atque in harum
+ipsarum formularum evolutione plurimum casui et fortunae tribuitur: unde Stifelium immerito
+reprehendit, quod putaverit, solutionem hujusmodi problematum in certa methodo comprehendi non
+posse. Quin potius igitur erit fatendum, eam analyseos partem, ¹quae in scrutatione quantitatum
+discretarum versatur, maxime adhuc esse imperfectam,' certaque principia, -2quibus ea superstruatur,
+etiam nunc desiderari. Atque ob hunc ipsum principiorum defectum ad hujusmodi problemata
+numerica resolvenda plurimum solertiae et perspicaciae requiritur: et plerumque singulari ratiocinii
+genere opus est, in quo maxima ingenii vis cernitur. Hancque ob causam, etiamsi ipsa horum·
+problematum solutio in analysi parum utilitatis habere videatur, tamen methodus, qua tot tantaeque
+difficultates superantur, fines analyseos non mediocriter promovere est censenda. Quo plures enim
+diversae viae ad veritatem indagandam aperiuntur, eo majora incrementa ipsa ars inveniendi cepisse
+est existimanda. μ
+
+§ li. Quemadmodum in universa ‘analysi usus idoneorum signorum plurimum valet, ita etiam
+in hoc genere, quod circa divisores et partes aliquotas numerorum instituitur, non parum utilitatis
+a commoda designandi ratione erit exspectandum. Numeros igitur, quos hic vel contemplamur, vel
+quaerimus, litteris alphabeti minusculis indicabo, litteris vero majusculis utar ad summas divisorum
+eorum numerorum, qui respondentibus minusculis exhibentur, repraesentandas. lta si a denotet
+numerum quemcunque integrum et affirmativum, cujusmodi numeros in hoc negotio semper intelli-
+gere oportet, littera majuscula respondens Α- indicabit summam omnium divisorum numeri a. Simili
+modo litterae B, C, D, etc. expriment in posterum summas divisorum numerorum b, c, d, etc.
+scilicet si sit α = 10, erit A: 18, et si b= 50, erit B: 93. Cum igitur cujusque numeri partes
+aliquotae sint ejusdem divisores, ipso illo numero excepto, qui, etsi sui ipsius est divisor,.tamen
+
+partibus aliquotis non annumeratur, summa partium aliquotarum numeri a erit =A—a, nisi sit a= 1⁴
+

@@ -1,0 +1,67 @@
+Traclalus de numerorum doctrina Cap. 10. 45
+
+363. Ex § 31⁸6 sequitur, si d et e suerint divisores cujuspiam numeri hujus formae aa—nbb,
+tum semper dari quadratum ωε, ut aeoe— nco sit divsssibile pcr numerum primum hnqssdeiae', quod
+quidem ex praecedente deduci posset, demonstrando si aa—nbb habeat divisorem d, aliaque similis
+forma ff— 1199 divisorem e, dari etiam hh— nklc divisibilem per productum de. Hoc patebit, si
+residua quadratorum, per numeros compositos divisorum, perpendemus.
+
+361». Denique notatu dignum est, quod numerus n, ac propterea etiam naa inter residua qua-
+dratorum occurrere nequeat, nisi divisor primus sit hujus formae lonq-i-a, ubi α non omnes numeros
+ad lm primos eoque minores sig-nificat, sed eorum tantum semissem, altera semisse penitus exclusa.
+Sicque omnes divisores primi formae :1:ae — naa talem habent formam ῖιηᾳ-ι-α, denotante α aliquot
+numeros, totidemque exclusis·
+
+365. Similis est ratio numerorum formae oeoe—i-naa‚ cujus divisores primi adstringuntur ita
+ad formam Imq-i—a, ut totidem numeri excludantur ab α, quot admittuntur. Utroque autem casu
+
+omnia quadrata imparia ii pro α valent, et si α valeat, etiam αἰί valebit.
+
+366. Ut demonstrationes has desideratas tentemus, consideremus divisorem primum ripa-1, et
+cum duorum quadratorum summa ‹za—i-bb exhiberi queat per eum divisibilis, ita ut alterum pro
+lubitu assumi possit, auferatur (lup-i— 1)bb, eritque aa — lipbb per lep-bl divisibile, seu dabitur
+quadratum aa, quod per ripa-1 divisum relinquit apbb, dabitur ergo quoque relinquens p, seu
+ὁ dabitur forma aa—pbb per ἔφή-ί divisibilis.
+
+367. Cum etiam detur forma aa —- bb per lip÷l divisibilis, addendo (hp-i— 1) bb, dabitur
+etiam talis forma aa -ι- pbb per lip÷l divisibilis, quae quidem jam inde patent, quod si quadrata
+
+, per numerum primum [ip—bl dividantur, in residuis tam —1—1) quam —p reperiantur.
+
+368. Sit autem divisor primus ῐιΙῙΡ-ι-ἰὶ, denotante ι’ numerum imparem, et quia tam forma.
+
+,ᾖ αα-ι-ὀό quam aa—-bb per eum divisibilis exhiberi potest, hincque iiaa—n-iibb et ι’ἰαα-ἰίὁός inde
+
+auferendo, hinc vero addendo (nffp-i-ii)bb‚ habebuntur formulae iiaa— liffpbb et ι’ἱαα-ι- ῐιῆρόὂ
+per liffp—i-ii divisibiles, seu inter residua quadratorum erunt ssliffpbb, ideoque etiam ssp. Dabuntur
+
+ergo numeri tam hujus xx -a-pjy, quam hujus ,τω —pyy formae per liffp-i— ii divisibiles. (³¹⁵)
+
+369. Si ergo concessis superioribus observationibus, divisor primus in quapiam harum formu-
+
+larum contineatur: impr-1, lirq—i-a, lvrq-s-B, lirq-i— y, Ιινᾳ-ι-δ, etc., ubi numeri 1, α, β, γ, δ, etc.
+
+² sunt primi ad ln· eoque minores, quorum tamen tantum semissis hic occurrit, tum inter residua qua-
+
+dratorum certe occurrit numerus r; similique modo pro residuo —r tales formulae divisorum habentur,
+
+quae cum illis conveniunt, si divisor sit formae lep—i· l, ab iis autem discrepant, si divisoris forma
+
+. suerit lip— ί.
+
+ 
+
+(·) Script. ad mar-9. Prius manifestum nam Ξῖἷ-’ἵέ
+
+ 
+
+-- int. si πεί, y=2f3
+
+ut :tx—2313! divis. sit per tl, x=7, 10, 13, ¹4, 17
+y=2, 3, 8, 4, 1
+nt xer-2313! divis. sit per 17,
+22:12, 5 ss, 6 10, 7 16,1 17, 4
+*W w& *ον-Ι *σν-ν §.v-a
+
+γε 2 1 ἦ· 3 5.
+

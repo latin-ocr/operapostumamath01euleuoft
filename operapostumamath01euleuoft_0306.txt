@@ -1,0 +1,55 @@
+288 L. EULERI omn PoerUMA. wlff„
+
+XIII.
+
+Series maxime idoneae pro circuli quadratura proxime invenienda.
+
+1. Antequam Analyseos infinitorum prIncipia essent perspecta, nulla alia via rationem peripheriae
+ad diametrum explorandi patebat, praeter considerationem polygonorum circulo cum inscriptorum
+
+tum circumscriptorum. Ex quo fonte primum Archimedes notissimam proportionem 22 ad 7, tum .
+
+vero Metius veritati propiorem 355 ad 113 elicuit3 donec tandem Ludolfus a Ceulen hanc pro-
+portionem ad 35 figuras in partibus decimalibus produxit, quem stupendum et molestissimum labo-
+rem certe vix ulterius prosequi licuisset. Deinde vero, cum, Analysis infinitorum ope, series idoneae
+rationem diametri ad peripheriam exprimentes essent exhibitae, multo minore labore ratio Ludolfiana
+multo longius, primo scilicet a Scharpio ad 72, tum vero a Machino ad 100, ac denique a
+Lagnio ad 128 figuras decimales est continuata; ex qua ratione si circumferentia circuli, cnjus
+diameter distantiam stellarum fixarum maxime remotarum superaret, computaretur, ne millesima qui-
+
+dem pollicis parte a veritate aberraretur.
+
+, 2. Assidui autem» hi calculatores, quorum industria summam meretur laudem et admirationem,
+omnes usi sunt serie, qua arcus circuli ex tangente definitur, ita ut posita tangente =t, radio
+
+existente == 1, arcus respondens sit
+1* 1 1 1
+
+=t-3t³-÷-3t5—-7-t⁷÷3t⁹—etc.,
+
+quae series utique maxime convergens reddi posset, si tangentem t pro lubitu diminuere liceret.
+Verum cum hinc ratio diametri ad peripheriam concludi nequeat, nisi arcus ille ad totam periphe-
+
+riam assignabilem et cognitam teneat rationem, vix minorem arcum in hunc finem accipere licet,
+
+quam 30⁰, cujus tangens est 33-—33 unde denotante π peripheriam circuli, cujus diameter est =1, fit
+
+ 
+
+ 
+
+ 
+
+π 1 1 1 1
+5²3& (1— ΞΞ“’“ΞἹ3“““7.33“““9.3*-11.35 *asty
+seu π =(1 --13-1-51-9,2 -ῑὶἶ 49134— 1:3⁵ -1- etc.)V12.
+
+ 
+
+ 
+
+Etsi enim angulus 18⁰, cujus tangens est V(1 -2Υῑ), seriem multo magis reddat convergentem‚ ·
+duplex tamen irrationalitas calculum tantopere molestum reddit, ut nullum inde compendium 'sperari
+
+possit, quae molestia pro minoribus angulis multo magis increscit.
+

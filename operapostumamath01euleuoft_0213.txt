@@ -1,0 +1,68 @@
+μηνὶ-(κνῆ. -;ς,·ν·,·’νἰψνι m ε ,
+
+ 
+
+Fraqnaema ex Adversariis depromta. 195
+
+Cum autem sit y=-oe-ss‚ erit aa÷bss—ca—css=0, unde fit
+
+αα-ο-ὸβ
+
+c: a-t-ss'
+
+ 
+
+; tum igitur erit p=(7c--2) (aaq-ass4ssss) .
+
+quam ob rem, si pro numero N-p inter ejus radices, quarum numerus est rc, tres reperiantur a, b, c, ita
+
+ῗῖἒβ, tum resolutio certe succedet. Sumatur ex. gr. a=n et sszn, eritque οεξὸ,
+
+sive a÷b =2c‚ vel a=2c—b‚ ex qua conditione sequitur, numeros b, c, a esse in progressione arithmetica,
+
+comparatae, ut sit c.—.-.
+
+ 
+
+quia hinc 'fiet' c—b=a—c. Quare si pro= numero N-p=N— 3nn (π’-2) inter ejus radices ternae sint in
+progressione arithmetica, numerus N semper erit resolubilis. Similique modo multitudo criteriorum pro lubitu
+augeri poterit, quorum si unicum successerit, resolutio numeri N locum habebit. Totum ergo negotium huc est
+reductum, ut demonstretur, nunquam fieri posse, ut omnia ista criteria simul fallant. In quo negotio imprimis
+ὓ ”””””
+quarum quidem numeri polygonales simul sumti numerum N non superant, occurrere; unde demonstrandum
+erit: fieri non posse, ut in omnibus his combinationibus omnia nostra criteria simul fallant. Tum vero etiam
+hoc erit perpendendum, in numeris minoribus pro N assumtis resolutionem semper locum habere, ita, ut de-
+monstratio tantum pro majoribus numeris sit suscipienda3 ubi non solum numerus criteriorum major evadet,
+sed etiam numerus omnium combinationum. Quodsi enim nostra criteria unquam fallerent, id maxime metuen-
+
+dum foret in numeris minoribus.
+
+Ἴ Aliud tmtamen in meorum Fermatianum inquirendi.
+
+Sit series numerorum polygonalium 0, 1, A, Β, C, D,¹ etc, ac posito numero laterum :aq—2, erit
+A=n÷2, B=3n÷3'‚ c--ssn-n-t, D=10n÷5‚ E=15n46‚ F=21n÷7‚ Gz28n-c—8, etc.
+et in genere pro radice ω numerus polygonalis
+ἐ -ἑ-ηωῶ--ὲ- (ιι-2) ω.
+
+Quibus positis videamus, quot numeris hujus seriei opus sit ad singulos numeros producendos. Ac primo quidem
+ab 1 usque ad A quilibet numerus Ν, ιιιίιιοι· quam A, componitur ex N unitatibus, unde pro numeris ab 1
+ad A ad summum opus est A. Nunc ad intervallum ab A ad B progrediamur, et quia A÷1 constat ex duo-
+bus, A÷2 ex tribus, A÷3 =ex quatuor, usque ad A-t-n-t—-l qui est primus qui postulat. ’νυ-2 partes, prae-
+cedentes vero omnes ex paucioribus constant; est vero A—t-n—t—1 =2n÷3, unde videtur sequentem numerum
+2n÷4 requirere η-ι-3, quia autem est 2n÷4=2A‚ hic numerus tantum duos postulat; sequens igitur 2n÷5
+postulat 3, 2¹04-ss postulat t, 2n÷7 postulat 5 etc. et 2A÷n postulat ’μυ-2 Est vero 2A÷n=3n÷4; at
+vero hic numerus est B÷1, ideoque tantum postulat duos; unde patet usque ad B unicum esse numerum sci-
+licet ana-³, qui „42 partes postulat, omnes reliqui pauciores. Nunc a B ad C progrediamur, ac manifestum est,
+hinc omnes numeros minores quam B÷2n÷3 ad summum requirere n—t-Q, numerus autem B÷2n÷3=5n÷6
+videtur Ἠν-3 partes requirere; est vero 5n÷6=3A÷2n=4A÷n—2, ubi ΕΑ constat quatuor partibus et
+n=2 ex n—2 partibus, unde ipse numerus aA-i-n-2 constat ex n-t-2. Verum ‘liic excipiendus est casus.
+ubi n<2, quia n<2 foret negativum: hoc autem casu numerus noster B-t-2n43 fiet =C—n÷2, unde casu
+n=1 erit 641, ideoque duabus tantum constat partibus. Casu autem n=2 fit 5n÷6=c3 ideoque ipse. est
+numerus polygonalis; reliquis vero casibus, ubi η>2, iste numerus 5n÷6 secundus est, qui ’μῦ-2 partes
+postulat, dum minores omnes praeter 2n÷3 paucioribus constant. Sequens autem numerus 5n÷7=221÷ss
+ideoque tribus tantum constat partibus. Hunc sequens, 5n-t-8, constabit quatuor, ac tandem 5n-t-7—1-n—1
+constabit ex n÷23 est vero Sn-t-'I-t-n--l =C÷2, ideoque constat tantum tribus. Nunc a C ad D progress
+diamur usque, ubi primum occurrit (ki-2243, qui dubius videri potest. Est vero
+
+C÷2n43 = 80:47 ==23÷2a÷1 = 28÷A÷n- 1 ,
+

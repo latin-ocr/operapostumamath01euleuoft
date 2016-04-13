@@ -1,0 +1,68 @@
+Litterae ad cel. Laqranqe datae. 587
+
+τιή-1
+
+’,Η-1 3 le deuouement de ce paradoxe se trouve sans doute, en ce que l'une et l’autre integrale
+
+ 
+
+soit egale a log
+
+devient infiniment grande, οὺ leur egelite n'empecbe pas que leur difference soit indeterminee; comme cela
+
+arrive dans ces formules plus simples sdJ et (ξ prises depuis 0 jusqu'a l'inflni‚ οὺ la difference peut devenir
+
+egale a une quantit& quelconque; aussi en prenant y = az on aura sans doute s? — αἶ’ —-.- loga.
+
+Je suis tombe ces jours ci sur un probleme de meminique, qui m'a beaucoup tourmente, quoiqu'il paraisse
+sort simple au premier coup d'oeil. ll s'agit de trouver le mouvement avec lequel une barre descend en glissant
+sur un axe cylindrique‚ comme (Fig. 85) le represente. L'analyse m’a d’abord conduit a deux equations diffe-
+rentio-differentielles‚ assez semblables a celles qui expriment le mouvement d'un corps attire vers deux points
+fixes3 mais jusqu'ici je n'en ai pu tirer qu’une seule equation integrale, en negligeant meme le frottement: et
+si l'on en voulait tenir compte, J'e ne vois d'autre ressource que de suivre le mouvement de la barre quasi
+
+pas a pas; et c'est sur ce pied que j'ai developpe un cas determine.
+
+En parcourant le dernier volume des memoires de Berlin, je ne fus pas peu surpris‚ qu'il puisse encore
+etre question d'un satellite de Venus, et meme d’un tel, qui renverserait tous les principes de l'astronomie;
+
+je n'aurais pas cru non plus que le principe de la raison suffisante osai encore paraitre sur le theatre:
+
+Je suis entierement convaincu, qu'a moins que vous reussissiez a retrouver les demonstrations perdues de
+F ermat, elles resteront perdues ὲ jamais. Tous mes soins ὲ cet egard ont ete inutiles jusqu’ici‚ sans en
+exclure ceux que j’ai pris pour prouver, que cette egalite {15¹¹ ss ψ = 2¹¹ est toujours impossible, a moins que
+l'exposant n ne soit au-dessous de 2. Nous avions cru autrefois que cette impossibilite s’etendait plus loin a
+
+ces sormules t
+
+a³ssb³zz³
+
+a4ssb4—c⁴=z4
+
+α ssb⁵ssc⁵ssd⁵=z⁵
+etc.
+
+Mais il n'y a pas long-temps que j'ai ete' convaincu que la seconde n'est pas impossible; car j'ai trouve
+
+quatre nombres α, b, c, d, tels, que α* -ι- b⁴ z ο* -ι- «1⁴.
+
+Vous recevrez en peu de temps le xvffleme volume de nos commentaires; la premiere partie du tome
+XIXeme est deja imprimee. δ’] ai donne une idee pour etendre la table des nombres premiers jusqu'au dela
+d'un million‚ et J’ai meme donne tous les nombres premiers entre 1000000 et 1002000; un tel ouvrage deman-
+
+derait un volume in 4⁰, de la meme epaisseur que nos commentaires.
+Je finis, Monsieur, ayant l'honneur d'etre avec les sentiments du plus parfait devouement‚
+Monsieur et tres-bonore consuete,
+
+Votre tres bumble et tres obeissant serviteur
+
+L. Euler.
+
+P. S.
+
+ramenta-moi, Monsieur. d'ajouter encore deux theoremes qui me paruissent vrais‚ quoique je n'en ai pu
+
+trouver encore la demonstration.
+
+ 
+

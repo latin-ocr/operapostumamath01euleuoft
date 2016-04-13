@@ -1,0 +1,57 @@
+439
+
+XXI,
+
+1)3 1111313 curvis, quarum rectificatio per (latam quadraturam
+mensuratur,
+
+i-«÷''
+
+· ' 1. Satis-notum est problema inter Geometras olim multum agitatum, quo lineae curvae quae-
+rebantur, quarum rectificatio a datae curvae· quadratura pendeat, cujus solutionem etiam Hermannus
+
+’ἶ- beatae memoriae contra exspectationem summorum Geometrarum ita feliciter expedivit, ut non solum
+
+* infinitas curvas algebraicas, quarum rectificatio 3 data quadratura penderet, exhibuerit, sed etiam
+
+'ss 113113 conditionem adjunxerit, ut istae curvae unum duosve atque 31130 tot, quot lubuerit, haberent
+
+, arcus absolute rectificabiles. 611111 autem methoduS, qua Hermannus erat usus, nimis videretur
+
+recondita, neque ad uberiorem usum ἰ11 Analysi satis accommodata, aliam methodum planam 33
+
+·’ facilem investigavi, cujus ope non solum hoc problema, sed etiam omnia, quae hujus generis occur-
+
+rere queant, expedite resolvi possunt. Complectitur ista methodus quasi novam Analyseos speciem,
+
+⁷ cujus elementa, quae multo latius patere videntur, dilucide exposui in Novis Commentariis Academiae
+
+³ imperialis Petropolitanae. Δ ’
+2. Hujus methodi .1131’13113ῑο, si proponatur *quadratura seu formula integralis quaecunque
+
+quarum rectificatio· ab »ista formula itav pendeat, ut ejus integ-ratione concessa omnes harum curvarum
+
+arcus indefinite definiri queant. Per variabilem scilicet z ejusmodi expressiones algobraicae pro
+
+1· coordinatis ω ety· assignantur, ut inde formulae fleix-² ÷dy²) integratio perducatur ad hujusmodi
+
+* formam as Zdz÷ V, ubi V sit functio algebraica ipsius z. Verum haec quantitas V non arbitrio
+
+ἢν. nostro relinquitur, etiamsi infinitis modis variari queat: atque hinc ope methodi a me traditae pro·
+
+² ι blema non ita resolvi potest, ut curvarum inveniendarum arcus absolute per formulam propositam
+
+ 
+
+sZdz ejusve multiplum asZdz exprimantur.
+
+3. Maxime igitur diversum cst problema, quo quaeruntur curvae algehraicae‚ quarum arcus
+
+‘J per propositam quampiam formulam integralem sZdz simpliciter, sine adjunctione cujusdam func·-
+
+tionis algebraicae exprimantur„ Atque adeo hoc problema saepenumero ne solutionem quidem
+
+‘1' admittere videtur. lta si sit Z== Ξ, et curva algebraica sit investiganda, cujus arcus per ast}
+
+’ἶ aen· alz exprimatur, vehementer dubito, num quisquam unquam hujusmodi curvam sit reperturus?
+

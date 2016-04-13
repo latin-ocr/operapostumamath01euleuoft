@@ -1,0 +1,43 @@
+De quadratis maqim's. 1 43
+
+ubi quaelibet fascia nec nou ambae diagonales summam dant ¹5. Si valores litterarum α et b, item
+α et β permutare velimus, facile intelligitur, inde tantum situm quadrati mutatum iri.
+
+§ 10. llaec quidem dispositio tam latinarum, quam graecarum litterarum per se satis est pcr-
+spicua‚ sed praecipuum momentum in hoc est positum, ut facta combinatione, singulae litterae
+latinae cum singulis graecis conjungantur, id quod in nostra combinatione casu evenisse videtur.
+Ut igitur in hoc negotio nihil casui tribuamus, ante omnia observemus ordinem litterarum graecarum
+α, β, γ nullo modo ab ordine latinarum a, b, c pendere, unde pro qualibet fascia definita cum
+litteris ·latinis cognomines· graecas combinare licebit, ita ut α cum a, β cum b et y cum c
+combinetur3 ita si prima fascia horizontalis statuatur αα, w„ cy, quoniam in nulla fascia sive
+horizontali, sive verticali eadem littera graeca bis occurrere debet, facile patet secundam fasciam
+
+J horizontalem sore by, ca, αβ; tertiam vero'csS', ay, (1013 unde hoc quadratum resultet:
+
+ 
+
+ubi quia in diagonali sinistra eadem littera graeca α ter occurrit, necesse est, ut fiat 3oe=a—i-,6'—i-y,
+ideoque Ξαεβ-ι-γ, quamobrem hinc valor 'ipsius α determinatur, scilicet «ιε 2, quemadmodum
+vidimus sumi debere c ς 33 hinc autem nulla nova quadrata magica nascuntur.
+
+ᾗ ss. Quanquam in hac prima specie dispositio litterarum graecarum nulla laborat difficultate,
+tamen pro quadratis plinium cellularum plurimum intererit, certam regulam tradere, secundum
+
+, quam litterae graecae rite inscribi queant, postquam latinae jam debite fuerint dispositae3 hunc iu
+
+finem eligatur fascia quaepiam media sive horizontalis, sive verticalis, sive etiam diagonalis, ita ut
+ad utramque partem istius fasciae in cellulis inde aeque remotiS, ubique duae litterae latinae diversae
+reperiantur, veluti hic evenit iu⁴ columna media verticali, circa quam in prima horizontali reperiuntur ’
+litterae a et c, in secunda b et a, in tertia vero c et b, ubi binae li'tterae diversae sibi ubique respondent.
+
+§ 12. Postquam autem talis columna media fuerit inventa, in ea singulae litterae latinae cum
+graecis cognominibus combinentur, tum vero in locis utrinque respondentibus litterae graecae cog-
+nomines permutentur3 hocque modo ista figura· resultabit: ’ ’
+
+ 
+
+ubi certi mus eum singulis latinis litteris omnes graecas combinari. Ceterum, ut conditioni diago-
+ulium 'antistiam'neeesse est, quemaffinodum jam notavimus, ut sumatur 2c=a÷b et 2y=a÷s5n
+Huc* nutem figura nen discrepat ab ea. qmm supra § 8 invenimus. Denique hic observasse juvabit,
+quomodocunque fasciae sive horizontales, sive verticales inter se permutentur, iude in summis tam
+

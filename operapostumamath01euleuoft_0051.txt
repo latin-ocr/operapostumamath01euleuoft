@@ -1,0 +1,61 @@
+Troe-tatus de numerorum doctrina Cap. 9. 33
+
+Caput lx.
+
+De divisoribus numerorum formae anssbn.
+
+261. Posito ⁶2p÷1 numero primo, dum a et b ejus non sint multipla‚ tam haec formula
+‹zv—1 quam ista ὂψ -1 ρει· ειιιιι erit divisibilis; ideoque etiam earum differentia (ιη’-Ι)ψ semper
+per numerum primum 2ρ-ι-1 divisionem admittet.
+
+265. Ponamus jam numerum an— δ” divisibilem esse per numerum primum 2ρ-ι- 1, et ut
+exploremus, quomodo hoc fieri possit, ponamus φ esse maximum communem divisorem numerorum n
+et 21), ita ut posito n=ocq> et 2ρεβφ, numeri α et β futuri sint primi inter se.
+
+266. Cum autem α et β sint numeri primi inter se, fieri potest μα--νβ-ι- 1. Quare cum
+ααφ-ὀαφ ρει· 2ρ-ι-1 sit divisibilis, etiam αμαφ-ὀμαφ, hoc est awss‘ffl‘ffl— ὀ“’β““·”φ erit divi-
+
+sibilis, tum vero ob αβφ-ὀβφ, quoque hie numerus avssv‘4-bvssq2, nec non idem per αφ multiplicatus,
+
+“ scilicet a(²‘¹⁸‘'‘¹‘⁹³— αφόνβφ.
+
+ 
+
+267. Auferatur haec posterior forma a praecedente, et differentia αφόνβφ-ὂΨβ-ΗΨΞ bvssPQ‘P—bq')
+divisibilis erit per numerum primum 2ρ-ι-1. At ὸνβφ per eum non est divisibilis, ergo alter factor
+αΨ-ὀφ divisibilis sit necesse est. ⁵
+
+2 268. Quare si numerus an— δ” divisibilis sit per numerum primum 2p—1— 1, fueritque φ
+maximus communis divisor numerorum n et 21), etiam hic numerus aP— ὂφ ρει· 2ρ-ι-1 divisibilis
+erit, et nisi posterior divisionem admittat, ne prior quidem admittet.
+
+269. Quodsi ergo n et 2ρ fuerint numeri inter se primi, seu unitas maximus eorum eommunis
+divisor, nisi α- b sit divisibile per 2ρ-ι-1, etiam an — bn per hunc numerum primum divisionem
+non admittet.
+
+270. Divisores ergo primos numeri an— bn investigaturi, praeter divisores ipsius a—b‚ qui
+sponte se offerunt, reliquos quaerere dehemus inter eos numeros primos 2ρ-ι- 1, ἰιι quibus 2p ad
+n ιιοιι est primus, sed composituS.
+
+271. Unde si n sit numerus primus, omnes divisores numeri an-bn praeter eos, quos α- b
+continet, tantum inter numeros primos hujus formae λη-ι-1 quaerere debemus, siquidem α et b
+siut numeri primi inter se, quam conditionem adjici debere manifestum est.
+
+272. Pro variis ergo valoribus ipsius n divisores primi formae 11⁰— δ” praeter a—b quaeri
+
+debent, ut sequitur: (³¹²)
+
+formae divisores quaeri dehent inter hos numeros primos:
+a² —b² 2λ-ι- 1.. ,3, 5, 7, 11, 13, 17, 19, nullis exclusis
+ιιὅ —b³ 3λ-ι-1...7, 13, 19, 31, 37, 113, 61, 67, 73, 79, 97, etc.
+ιι5 —b³ 5λ-ι-1...11, 31, leuel, 71, 101, etc.
+α’ -ὸ”” quq-rues), 13, 71, 113, 127, etc.
+a¹¹—b¹¹ ιιλ-ι-ι. . 23, 67, 89, 199, 33ι, etc.
+etc.
+
+’ Ι(“”) Script. ad marq. 1. Ad divisores formae 12¹¹ — 12¹¹ etiam accedere potest ipse numerus n. 2. Ex
+⁴ -b2 sequitur numerum αα-ι-αὺ-ι-ὺὸ alios divisores habere non posse nisi 32-1-13 ergo 3). — 1
+
+certe ιιοιι 'sunt divisores.
+ι.. aulen w. posthum. r. 1. 5
+

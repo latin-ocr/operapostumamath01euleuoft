@@ -1,0 +1,67 @@
+,ιρι L. EULERI OPERA POSTHUMA. mim-ca,
+
+s 19.. ¹Pour abregersmettons au lieu des nombres rapportes 7,595751ι1 et 13932251» simplement
+
+ceux-ci: 7‚5*et 1,3. D'apres cela, on arrivera 3 cette conclusion importante: toutes les fois que Q ’
+
+se trouve entre les limites 7,5 et 00, ou bien f entre 1‚3‘et 1, on pourra toujours prendre le nombre
+z, ou entre -les limites Q et 00, ou entre celles de Γ et 1. ⁸
+
+20. Examinons 3 present le cas ou Q <7‚5‚ ou f>1,3, et commenqons par le cas de
+Q=f=1÷V2. Puisque sz, on aura lc= 0 et nn—2n--1=0‚ ou nn=2n÷1, par consequent
+
+ 
+
+A: nn÷6(2n-·-1)= ⁷'⁸ —”'⁸=47 et enfin
+2<2n÷1)- nn nn v
+v= 333)÷1s(-⁷† 1);-- 2÷V3=U37320508 z=}3{=1s3=1‚7320508.
+
+Ροιιι· simplifier, nous remplacerons les nombres 3, 7320508 et 1,732Ο508 par 3, 73 et 1 ,7,3 et nous tire-
+rons cette conclusion· dens le caS,01'1 Γ--ρ-τ1-ι-1Ἇ2, on pourra toujours prendre z, ou entre les Ἴ
+limites Q et 3, 73, ou entre celles de f* et 1 ‚.73 ll ne s'agit plus fue de rechercher les cas οὺ Q se
+
+trouve dans les limites 7, 5 et 1-n-V2, ou f' entre celles de 1,3 et 1-0-V2.
+3
+
+21. Le cas traite precedemment par la supposition de f: ἶ et Q= 5, nous donne νε.- 5,
+(1ὀι“ι il suit que z=—1'}=}‚ c’-est -3- -dire que, dans ce cas, z ne pourra differer de f' que d'une
+
+staction extremement petite. 11 suit de 13 que lorsque lon diminue Q 3ιι dessous de 7, 5 vers le .
+terme 5,13 valeur de z diminuere de plus en plus jusqu'a devenir sensiblement egale 3 Ῑῖ sp
+
+Trnisieme eas.
+
+Recherche des valeurs de z qui se trouvent entre Q et f.
+
+22. Dans ce cas, la valeur de P sera positive et celle de Q negative,' et l’equation 3 resoudre
+
+sera nn (zz—e-i)²=P—Q, ou nn (zz-i-1)?=8(n-i— l)k(z⁸—z). Supposons ici
+’ θιὼ-μυξω, ou ek(n÷1)=3;
+
+'nn ”n
+
+ 
+
+ 
+
+nous aurons cette equation bicarree 2⁴— 432⁸ -ι- 2zz -ι- Ιιθῑ -ι-1 = 0, laquelle pourra etre resolue
+sans qu'on ait recours au cube.
+
+23. Supposons ζ’ - ἱιθι* -ι- 2η -ι- aaz -ι- 1-- — (zz — az — 1) (zz —- &z - 1); -le produit des
+faeteurs du second membre est ζ’ - (α-ι-β) z⁸ -ι- (αβ-2)Ζζ-ι-(οι-ι-β)ζ-ι-1, lequel etant compare
+avec le premier membre, nous donne ces deux conditions α -ι- β- - ῐιθ, affl·- 2= 2, ou bien
+a,6’= lv, de 13 α- ,6’= V(( (α -1-s5’)²— ῖιαβ)- - Ιηῖωθ - 1), ce qui prouve l’impossibilite' de
+„l'equation nn (ι’-ι- 2zz -ι- 1) = 8 (n -ι-’ 1) k (z⁸— z) dans le cas οὺ θ < 1. Donc, pour 19< 1 ‚ on
+aura toujours nn (z⁴÷ 2zz -ι- 1) > 8 (η -ι- 1) lc (z‘f— z) , et par consequent tontes les valeurs de ᾗ,
+depuis f jusqu'ii Q verifieront la condition mentionnee (8).
+
+214. Pour trouver les valeurs de n qui rendent θ<1, nous prendrons l'expression de θ qui est
+
+wa:- 1), ⁰¹1 k= V(nn— 2η- 1). Αἰιιεί, pour 13 determination de ces valeurs de nr nous
+
+aurons cette condition
+
+ 
+
+ 
+

@@ -1,0 +1,51 @@
+314AE L. EULERI OPERA POSTHUMA. Analysis.
+
+extenditur, certum incrementum capiet. Facile enim patet, si figura PMmp circa axem Pp rotetur,
+oriturum esse solidum, quo incrementum superioris solidi rotundi repraesentetur. Simili modosssuper-
+ficies conoidica, quae conversione arcus Mm circa axem Pp generatur, aequalis erit incremento
+superficiei solidi illius rotundi, quod conversione portionis curvae propositae, quae abscissae a:
+respondet producitur, dum scilicet abscissa cc incrementum capit Pp=Aoe. ι
+
+8. Ponamus nunc incrementum Pp=Aoe, quod hactenus tanquam smitum consideravimus,
+fieri infinite parvum, seu in nihilum abire, atque exhibebit Pp differentiale ipsius abscissae w, seu
+erit Pp ssclae. Hic quidem imprimis monendum est, cum in figura quantitates evanescentes reprae-
+sentari nequeant, iisdem nos quantitatibus, quae ante incrementa finita designabant, ad differentialia
+repraesentanda uti. Requiritur ergo ad hoc animi fictio, qua non tam ipsa linea Pp, quam ejus
+quasi pars infinitesima differentiale doe exprimere concipienda est. Punctum scilicet p continuo
+propius ad P admoveri fingendum est, et tum, cum in P revera incidit, atque adeo intervallum Pp
+evanescit, praebebit Pp differentiale doe. Quanquam ergo intervallum Pp infigura finitam habet
+magnitudinem, tamen id mente tanquam infinite parvum et evanescens concipi oportet, hocque modor
+quaevis differentialia, etiamsi revera sint nulla, per figuram repraesentare licebit.
+
+9. Si igitur intervallum Pp tanquam infinite parvum concipiamus, ut sit Pp= dcc, incremen-
+tum applicatae mn, quod ante erat finitum =Ay, nunc differentiale dy· repraesentabit, ita ut sit
+mn=dy. Quamvis autem utraque linea Pp et mn sit infinite parva, tamen ratio, quae inter eas
+locum obtinet, erit finita, quoties differentiale functionis y· ad differenti-ale dm finitam tenet ratio-
+nem. Ratio enim dytdoe plerumque est finita, atque eandem rationem habebit mn ad Pp seu Mn,
+etiamsi utraque concipiatur infinite parva seu nulla. Ex quo perspicuum est, etsi in calculo diffe-
+rentiali praecipue quantitates infinite parvae seu evanescentes tractentur, tamen ex iis quantitates finitas, ⁴
+quae scilicet rationes differentialium metiantur obtineri, sicque conclusioneS, quae inde formantur,
+ad genus quantitatum finitarum vicissim revocari posse.
+
+10. Quoniam igitur intervallum Pp evanescens concipitur, puncta curvae M et m infinite
+parum a se invicem distabunt, sicque elementum curvae Mm erit infinite parvum, ac propterea
+quavis assi‘gnabili quantitate minus. Unde hoc commodi nanciscimur, ut hoc curvae elementum Mm
+tanquam lineola recta considerari possit. Fingatur enim per puncta M et m duci corda Mm, hujus
+longitudo eo minus a longitudine arcus Mm discrepabit, quo magis arcus Mm diminuatur, hincque
+
+isto arcu in infinitum diminuto, omne discrimen inter ipsum et cordam subtendentem evanescet,
+
+abibitque ratio arcus ad cordam in rationem aequalitatis. Continuo enim diminuendo distantiam ’
+
+punctorum M et m, quamdiu curvatura in arcu Mm deprehenditur, ulterius distantia Mm diminuatur,
+ex quo manifestum est, si distantia haec in infinitum fuerit diminuta, rationem aequalitatis inter
+arculum Mm et ejus cordam intercedere debere. ι Ι
+
+Η. Hac ergo consideratione ad infinite parva translata, triangulum Mnm, quod quamdiu in
+{initis versabamur, erat mixtilineum, nunc evadet rectilineum, ideoque ejus hypotenusa Mm per
+theorema pythagoricum assignari poterit. Cum enim in triangulo* Mnm ad n rectangulo sit
+
+Mn= Pp=dae, et mn=dy‚
+
+esst hypotenusa MW=V(doe²—‡- (13³²). Exhibet autem haec lineola Mm differentiale ipsius lineae
+

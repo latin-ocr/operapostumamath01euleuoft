@@ -1,0 +1,98 @@
+Litterae ad N. Ber-noulhum datae. 533
+
+1-1-3-1—6-1-10-1-15-0-214284- etc.
+oriuntur 1. 1-1—2-1-s—1- 64- 9-0-12-1-16-1- etc.
+11. 1-1-1-1-2-4--3-1- 4-1- 5÷ 7-1- etc.
+
+ubi bini termini seriei 1 additi dant terminum superioris, et terni termini seriei 11 additi dant terminum seriei 1.
+
+¹³¹ ⁸⁰⁰⁰ 1444-104-20-1-35-1-56-1-84-4- etc-
+
+oriuntur 1. 1434- 7-1-13-4-22-1-84-4-50-1- etc.
+11. ι-ι-2-ι- ι-ι- Ὶ-ι-ιι-ι-ιεέι-23-ι- etc.
+ΙΙΙ. 1-1-1-1- 2-1- 3-1- 5-1- 6-1- 9-1- etc.
+
+ubi bini termini seriei l additi dant terminum superioris, et terni termini seriei 11 additi dant terminum seriei 1,
+
+·et quaterni termini seriei ΙΙΙ dant terminum seriei 11.
+
+Quod expressio (1 -n) (1 —n²) (1 — η’) (Ι —n⁴) etc. evoluta det seriem 1 — n—n2—i- n⁵ ÷n’ — etc.,
+
+in qua alii exponentes non occurrunt nisi ‘qui contineantur in δαΐ ‘⁶2 per legitimam inductionem mihi equi·
+
+ 
+
+dem conclusisse videor3 interim tamen demonstrationem nullo pacto invenire potui, etiamsi non parum <temporis
+
+in id impenderem. Inveni autem expressionem (1 — η) (l — ¹2²) (1 —n³) (1 - ⁷2⁴) etc. quoque in hanc seriem
+
+transmutari posse
+
+n η’ . n⁸
+
+,μ ,
+
+1-σι (1 -η)(1 —n23—(1—n)(1-n²)(1—n³)÷ etc*
+
+ι’-
+
+ 
+
+ 
+
+ 
+
+ 
+
+cujus adeo valor aequatur summae seriei 1 -'- nl — η’ὲ-ι- π5 -ι- η’ - ηι2 - 21¹⁵ 4« etc. Quare cum lex progres-
+sionis hujus seriei sit cognita, hinc alterius seriei 1-1- 1n÷2n²÷3n³·÷5n⁴÷7n⁵÷ etc. indoles ita de-
+
+scribi poterit, ut sit recurrens, babens scalam relationis hanc
+
+1÷1÷o÷o- ι-ι-ο-ι-ι-ο-ι-ο-ι-ο-ι-ο-ι-ί-ι-ο-ι-ο-ι-ι-ι-ο-ι-ο-ι- etc.
+
+,Δ cuius ope facile continuatur. Quae mihi scripsisti, Vir Amplissime‚ de investigatione potestatum seriei
+
+a. α’ , 0³
+-ι- -ι-
+
+n÷1 2n÷1 3n÷1÷ θιὼ
+
+ 
+
+ 
+
+ 
+
+1-1-
+
+satis declarant, quantopere methodus Tua a priori procedens praestet alteri ini' a posteriori, qua usus sum. Ex
+serie enim, quam pro cubo hujus seriei exhibuisti, ‘difficillimum foret a posteriori ejus ‘summam invenire; eo
+
+majores igitur 'ribi' habeo gratias, quo majorem fructum me ex ea- methodo capturum spero. Caeterum occa-
+sione illius seriei 1— n—n2—t-n5—t-n’ — πη - n¹⁵÷ etc. mihi in mentem venit, quot veritates in mathesi
+
+ἐ· soli inductioni ‘acceptas referamus, praecipue circa proprietates numerorum. Cujusmodi sunt: omnem numerum
+
+⁴ esse summam quatuor pauciorumve quadratorum ς item, omnem numerum primum formae 4n÷1 esse sum·
+
+mam duorum quadratorum3 item, summam duorum cuborum non posse esse cubum. Simile theorema quoque
+
+ἰ nuper occasionem¹ praebente Cel. Goldbachio detexi: hanc expressionem hnab - a—b quadratum esseopsse
+
+3· nunquam, siquidem litterae a, b, et η numeros integros affirmativos designent:
+
+ 
+
+‚- Quae in superioribus litteris de investigatione factorum scripsi, non solum insignem habent usum in inte-
+g gratione formularum differentialium rationalium, sed etiam integrari possunt infinitae aequationes differentiales
+cujuscunque gradus, quae quidem continentur in hac forma
+
+0-„4 {a Q 1²:¹32 Q
+—y4dx4dx24dx³÷dx⁴÷ etc.
+
+posito dx constante. Ad valorem enim ipsius y in quantitatibus finitis expressum inveniendum resolvatur haec
+aequatio algebraica 0=A÷Bz÷Cz²÷Dz³÷Ez⁴÷ etc. in factores, et quilibet factor dabit partem valoris
+
+' ipsius y quaesiti, hoc modo
+
